@@ -13,25 +13,53 @@ namespace Codeforces.TaskD
 
         }
 
-        const long MaxN = 1000;
-        const long MaxD = 100000;
-
         void Solve()
         {
             long n, d;
-            long count = 0;
-
+            var distances = new long[1000,1000];
             Input.Next(out n, out d);
+
+            var stations = new List<Station>();
             var a = Input.Numbers();
-            foreach (var ai in a)
+            for (var i = 0; i < a.Count;i++)
             {
                 long x, y;
                 Input.Next(out x, out y);
-
-
+                stations.Add(new Station { Index = i, A = a[i], X = x, Y = y });
             }
 
-            Console.WriteLine(count);
+            for (var i=0;i<n;i++)
+                for (var j = 0; j < n; j++)
+                    if (i == j)
+                    {
+                        distances[i, j] = 0;
+                    }
+                    else
+                    {
+                        var from = stations[i];
+                        var to = stations[j];
+                        distances[i, j] = to.A - Math.Abs(to.X - from.X) - Math.Abs(to.Y - from.Y);
+                    }
+
+            long l = 0;
+            long r = 1000000000;
+            var costs = new int[n];
+            while (l < r){
+
+                var cost = (l + r)/2;
+                var items = stations.ToList();
+                
+            }
+
+            Console.WriteLine(l);
+        }
+        
+        struct Station
+        {
+            public long Index;
+            public long A;
+            public long X;
+            public long Y;
         }
     }
 
