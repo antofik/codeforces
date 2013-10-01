@@ -10,28 +10,11 @@ namespace Codeforces.TaskD
         {
             var task = new Task();
             task.Solve();
-
         }
-
-        const long MaxN = 1000;
-        const long MaxD = 100000;
-
+       
         void Solve()
         {
-            long n, d;
-            long count = 0;
 
-            Input.Next(out n, out d);
-            var a = Input.Numbers();
-            foreach (var ai in a)
-            {
-                long x, y;
-                Input.Next(out x, out y);
-
-
-            }
-
-            Console.WriteLine(count);
         }
     }
 
