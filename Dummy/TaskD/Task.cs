@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
-namespace Dummy.TaskD
+namespace Codeforces.TaskD
 {
     public class Task
     {
@@ -11,11 +10,28 @@ namespace Dummy.TaskD
         {
             var task = new Task();
             task.Solve();
+
         }
+
+        const long MaxN = 1000;
+        const long MaxD = 100000;
 
         void Solve()
         {
+            long n, d;
+            long count = 0;
 
+            Input.Next(out n, out d);
+            var a = Input.Numbers();
+            foreach (var ai in a)
+            {
+                long x, y;
+                Input.Next(out x, out y);
+
+
+            }
+
+            Console.WriteLine(count);
         }
     }
 
@@ -107,6 +123,13 @@ namespace Dummy.TaskD
                 a = b = c = d = e = 0;
             }
             return ok;
+        }
+
+        public static List<long> Numbers()
+        {
+            Next();
+            if (string.IsNullOrEmpty(_line)) return new List<long>();
+            return _line.Split(' ').Select(long.Parse).ToList();
         }
     }
 

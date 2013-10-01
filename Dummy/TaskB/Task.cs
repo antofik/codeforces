@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
-namespace Dummy.TaskB
+namespace Codeforces.TaskB
 {
     public class Task
     {
@@ -108,7 +107,14 @@ namespace Dummy.TaskB
             }
             return ok;
         }
+
+        public static List<long> Numbers()
+        {
+            Next();
+            return _line.Split(' ').Select(long.Parse).ToList();
+        }
     }
 
     #endregion
+
 }

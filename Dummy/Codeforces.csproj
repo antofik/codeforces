@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{2CD72F07-5950-4BE2-B91E-A26428ABF294}</ProjectGuid>
+    <ProjectGuid>{2C05A18A-8120-4E76-8CE8-A14FA77F5558}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CodeforcesRound181div2</RootNamespace>
-    <AssemblyName>CodeforcesRound181div2</AssemblyName>
+    <RootNamespace>Codeforces</RootNamespace>
+    <AssemblyName>Codeforces</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -20,7 +20,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;TEST2;TASKD</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;TEST1;TASKD</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
@@ -29,12 +29,12 @@
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DefineConstants>TRACE;TEST2;TASKD</DefineConstants>
+    <DefineConstants>TRACE;TEST2;TASKB</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CodeforcesRound181div2.Program</StartupObject>
+    <StartupObject>Dummy.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

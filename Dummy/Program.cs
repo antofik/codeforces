@@ -36,7 +36,7 @@ namespace Dummy
 #endif
             var tournament = MethodBase.GetCurrentMethod().DeclaringType.Namespace ?? "";
 
-            var type = Type.GetType(string.Format("Dummy.Task{0}.Task", problem));
+            var type = Type.GetType(string.Format("Codeforces.Task{0}.Task", problem));
             if (type == null)
             {
                 Console.WriteLine("Task not found: {0}", problem);
@@ -47,7 +47,7 @@ namespace Dummy
                 Console.BackgroundColor = ConsoleColor.DarkGray;
                 Console.WriteLine("*******************************************************************************");
                 Console.WriteLine("*                                                                             *");
-                Console.WriteLine("*                            TOURNAMENT {0}{1}*", tournament, string.Join("", Enumerable.Repeat(" ", 38 - tournament.Length)));
+                //Console.WriteLine("*                            TOURNAMENT {0}{1}*", tournament, string.Join("", Enumerable.Repeat(" ", 38 - tournament.Length)));
                 Console.WriteLine("*                            TASK {0}  TEST {1}                                   *", problem, test);
                 Console.WriteLine("*                                                                             *");
                 Console.WriteLine("*******************************************************************************");
