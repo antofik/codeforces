@@ -3,15 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Snippets
+namespace CodeforcesRound181div2.TaskE
 {
-    public class Program
+    public class Task
     {
         public static void Main()
         {
-            Console.WriteLine("This is a snippet program");
-
-            Console.ReadKey();
+            Console.WriteLine("This is task E");
         }
     }
 }
