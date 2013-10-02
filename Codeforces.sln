@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codeforces.VSHelper", "Code
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codeforces", "Codeforces\Codeforces.csproj", "{2C05A18A-8120-4E76-8CE8-A14FA77F5558}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeforcesAddin", "CodeforcesAddin\CodeforcesAddin.csproj", "{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{2C05A18A-8120-4E76-8CE8-A14FA77F5558}.Release|Mixed Platforms.Build.0 = Release|x86
 		{2C05A18A-8120-4E76-8CE8-A14FA77F5558}.Release|x86.ActiveCfg = Release|x86
 		{2C05A18A-8120-4E76-8CE8-A14FA77F5558}.Release|x86.Build.0 = Release|x86
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E1FB2C96-0820-473B-B9BA-5A48CE1072C4}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

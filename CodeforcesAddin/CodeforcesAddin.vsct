@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+  <Extern href="msobtnid.h"/>
+  <Extern href="virtkeys.h"/>
+  
+  <Commands package="guidCodeforcesAddinPkg">
+    <Menus>
+      <Menu guid="guidCodeforcesAddinCmdSet" id="Toolbar" priority="0x0000" type="Toolbar">
+        <Parent guid="guidCodeforcesAddinCmdSet" id="0"/>
+        <CommandFlag>DefaultDocked</CommandFlag>
+        <CommandFlag>DynamicVisibility</CommandFlag>
+        <Strings>
+          <ButtonText>Codeforces C# Helper</ButtonText>
+          <CommandName>Codeforces C# Helper</CommandName>
+        </Strings>
+      </Menu>
+    </Menus>
+    
+    <Groups>
+      <Group guid="guidCodeforcesAddinCmdSet" id="Combos" priority="0x0040">
+        <Parent guid="guidCodeforcesAddinCmdSet" id="Toolbar"/>
+      </Group>
+    </Groups>
+
+    <Combos>
+      <Combo guid="guidCodeforcesAddinCmdSet" id="Combo1" priority="0x0000" type="DropDownCombo" defaultWidth="100" idCommandList="Combo1Ids">
+        <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
+        <CommandFlag>IconAndText</CommandFlag>
+        <CommandFlag>DynamicVisibility</CommandFlag>
+        <Strings>
+          <ButtonText>Task</ButtonText>
+        </Strings>
+      </Combo>
+      <Combo guid="guidCodeforcesAddinCmdSet" id="Combo2" priority="0x0010" type="DropDownCombo" defaultWidth="100" idCommandList="Combo2Ids">
+        <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
+        <CommandFlag>IconAndText</CommandFlag>
+        <CommandFlag>DynamicVisibility</CommandFlag>
+        <Strings>
+          <ButtonText>Test</ButtonText>
+        </Strings>
+      </Combo>
+    </Combos>
+
+    <Buttons>
+      <Button guid="guidCodeforcesAddinCmdSet" id="ButtonCommit" priority="0x0100" type="Button">
+        <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
+        <CommandFlag>DynamicVisibility</CommandFlag>
+        <Strings>
+          <ButtonText>Commit</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
+
+  </Commands>
+
+  <Symbols>
+    <GuidSymbol name="guidCodeforcesAddinPkg" value="{4ccbba3b-b309-4c55-a326-ae9b43aa9dcf}" />
+    <GuidSymbol name="guidCommand" value="{4ccbba3b-b309-4c55-a326-ae9b43aa9dce}" />
+    <GuidSymbol name="guidCodeforcesAddinCmdSet" value="{8fb96257-7c23-4239-acb3-cec161d2b413}">
+      <IDSymbol name="Toolbar" value="0x0001" />      
+      
+      <IDSymbol name="Combos" value="0x1008" />
+      <IDSymbol name="Combo1" value="0x2001" />
+      <IDSymbol name="Combo1Ids" value="0x2002" />
+      <IDSymbol name="Combo2" value="0x2003" />
+      <IDSymbol name="Combo2Ids" value="0x2004" />
+      
+      <IDSymbol name="ButtonCommit" value="0x1009" />
+    </GuidSymbol>    
+    <GuidSymbol name="guidCodeforcesAddinEditorFactory" value="{55b9271f-477c-489d-813c-3e57eb83e6cb}" />    
+  </Symbols>
+
+</CommandTable>
