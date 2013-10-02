@@ -1,4 +1,4 @@
-codeforces
+Codeforces
 ==========
 
-Solution of codeforces.ru
+Solutions of codeforces.ru
