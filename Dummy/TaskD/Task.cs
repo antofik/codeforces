@@ -10,56 +10,72 @@ namespace Codeforces.TaskD
         {
             var task = new Task();
             task.Solve();
+        }
 
+        private List<long> a;
+        private long[] x;
+        private long[] y;
+        private long[,] distances;
+        private long d, n;
+        private bool[] used;
+        private long[] costs;
+
+        bool Dijkstra(long start)
+        {
+            Array.Clear(used, 0, used.Length);
+            for (var i = 0; i < n; i++) costs[i] = -1;
+            costs[0] = start;
+            for (var i = 0; i < n; i++)
+            {
+                var cost = -1L;
+                var target = -1L;
+                for (var j = 0; j < n; j++)
+                    if (!used[j] && costs[j] > cost)
+                    {
+                        cost = costs[j];
+                        target = j;
+                    }
+                if (target == -1) break;
+                used[target] = true;
+                for (var j = 0; j < n; j++)
+                    if (distances[target, j] + costs[target] > costs[j])
+                        costs[j] = distances[target, j] + costs[target];
+                if (costs[n - 1] >= 0) break;
+
+            }
+            return costs[n - 1] >= 0;
         }
 
         void Solve()
         {
-            long n, d;
-            var distances = new long[1000,1000];
             Input.Next(out n, out d);
 
-            var stations = new List<Station>();
-            var a = Input.Numbers();
-            for (var i = 0; i < a.Count;i++)
-            {
-                long x, y;
-                Input.Next(out x, out y);
-                stations.Add(new Station { Index = i, A = a[i], X = x, Y = y });
-            }
+            a = Input.Numbers();
+            a.Insert(0, 0);
+            a.Add(0);
+            x = new long[n];
+            y = new long[n];
+            for (var i = 0; i < a.Count; i++)
+                Input.Next(out x[i], out y[i]);
 
-            for (var i=0;i<n;i++)
+            distances = new long[n, n];
+            for (var i = 0; i < n; i++)
                 for (var j = 0; j < n; j++)
-                    if (i == j)
-                    {
-                        distances[i, j] = 0;
-                    }
-                    else
-                    {
-                        var from = stations[i];
-                        var to = stations[j];
-                        distances[i, j] = to.A - Math.Abs(to.X - from.X) - Math.Abs(to.Y - from.Y);
-                    }
+                    distances[i, j] = i == j ? 0 : a[j] - (Math.Abs(x[j] - x[i]) + Math.Abs(y[j] - y[i])) * d;
 
             long l = 0;
             long r = 1000000000;
-            var costs = new int[n];
-            while (l < r){
+            costs = new long[n];
+            used = new bool[n];
+            while (l < r)
+            {
+                var cost = (l + r) / 2;
 
-                var cost = (l + r)/2;
-                var items = stations.ToList();
-                
+                if (Dijkstra(cost)) r = cost; else l = cost + 1;
+
             }
 
             Console.WriteLine(l);
-        }
-        
-        struct Station
-        {
-            public long Index;
-            public long A;
-            public long X;
-            public long Y;
         }
     }
 
