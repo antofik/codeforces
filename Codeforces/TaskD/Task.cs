@@ -19,14 +19,6 @@ namespace Codeforces.TaskD
             task.Solve();
         }
 
-        void Add(long x)
-        {
-            for (; x < n; x |= (x + 1))
-            {
-                t[x]++;
-            }
-        }
-
         long Get(long x)
         {
             var r = 0L;
@@ -48,44 +40,47 @@ namespace Codeforces.TaskD
             I = Enumerable.Repeat(-1L, (int) n + 1).ToArray();
             for (var i = 0; i < n; i++)
                 I[p[i]] = i;
-            //p = p.OrderByDescending(c => c).ToList();
 
             for (var i = 0; i < n; i++)
                 for (var j = p[i]; j <= n; j += p[i])
                 {
                     if(divs[i] ==null) divs[i] = new List<long>();
                     if (I[j] != -1)
-                        divs[i].Add(I[j]);
+                        if (i < I[j])
+                            divs[i].Add(I[j]);
+                        else
+                            divs[I[j]].Add(i);
                 }
 
-            var q = new query[m];
-            for (var i = 0; i < m; i++)
-            {
-                long l, r;
-                Input.Next(out l, out r);
-                q[i].l = l - 1;
-                q[i].r = r - 1;
-                q[i].i = i;
-            }
+            var q = new Query[m];
+            for (var i = 0; i < m; q[i].i = i++)
+                Input.Next(out q[i].l, out q[i].r);
+            
             q = q.OrderByDescending(c => c.l).ToArray();
-
+            
             var answer = new long[m];
-            var pi = n - 1;
+            var pi = n;
             foreach (var qq in q)
             {
-                for (; pi >= qq.l;pi-- )
+                for (;pi >= qq.l;pi--)
+                    foreach (var pj in divs[pi-1])
+                        for (var x=pj; x < n; x |= (x + 1))
+                            t[x]++;
+
+                var r = 0L;
+                for (var x = qq.r-1; x >= 0; x = (x & (x + 1)) - 1)
                 {
-                    foreach (var pj in divs[pi])
-                        Add(pj);
+                    r += t[x];
+                    if (x == 0) break;
                 }
-                answer[qq.i] = Get(qq.r);
+                answer[qq.i] = r;
             }
 
             Console.WriteLine(string.Join("\n", answer));
         }
     }
 
-    struct query
+    struct Query
     {
         public long l;
         public long r;
