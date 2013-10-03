@@ -11,7 +11,6 @@ namespace Codeforces.TaskD
         private List<long> p;
         private long[] I;
         private long[] t;
-        private List<line> pairs = new List<line>();
         private List<long>[] divs;
 
         public static void Main()
@@ -49,17 +48,15 @@ namespace Codeforces.TaskD
             I = Enumerable.Repeat(-1L, (int) n + 1).ToArray();
             for (var i = 0; i < n; i++)
                 I[p[i]] = i;
-            
+            //p = p.OrderByDescending(c => c).ToList();
+
             for (var i = 0; i < n; i++)
                 for (var j = p[i]; j <= n; j += p[i])
+                {
+                    if(divs[i] ==null) divs[i] = new List<long>();
                     if (I[j] != -1)
-                        pairs.Add(I[j] > i 
-                            ? new line {l = i, r = I[j]} 
-                            : new line {l = I[j], r = i});
-
-            if (n==150611) Console.WriteLine("pairs calculated");
-
-            pairs = pairs.OrderByDescending(c => c.l).ToList(); 
+                        divs[i].Add(I[j]);
+                }
 
             var q = new query[m];
             for (var i = 0; i < m; i++)
@@ -70,34 +67,21 @@ namespace Codeforces.TaskD
                 q[i].r = r - 1;
                 q[i].i = i;
             }
-
             q = q.OrderByDescending(c => c.l).ToArray();
 
-            if (n == 150611) Console.WriteLine("query received");
-
             var answer = new long[m];
-            var pi = 0;
+            var pi = n - 1;
             foreach (var qq in q)
             {
-                while(pi<pairs.Count && pairs[pi].l >= qq.l)
+                for (; pi >= qq.l;pi-- )
                 {
-                    Add(pairs[pi++].r);
+                    foreach (var pj in divs[pi])
+                        Add(pj);
                 }
                 answer[qq.i] = Get(qq.r);
             }
 
             Console.WriteLine(string.Join("\n", answer));
-        }
-    }
-
-    struct line
-    {
-        public long l;
-        public long r;
-
-        public override string ToString()
-        {
-            return string.Format("{0}-{1}", l, r);
         }
     }
 
