@@ -6,11 +6,13 @@ namespace Codeforces.TaskD
 {
     public class Task
     {
-        private List<Pair> Pairs;
-        private Node Root;
         private long m;
         private long n;
         private List<long> p;
+        private long[] I;
+        private long[] t;
+        private List<line> pairs = new List<line>();
+        private List<long>[] divs;
 
         public static void Main()
         {
@@ -18,75 +20,96 @@ namespace Codeforces.TaskD
             task.Solve();
         }
 
+        void Add(long x)
+        {
+            for (; x < n; x |= (x + 1))
+            {
+                t[x]++;
+            }
+        }
+
+        long Get(long x)
+        {
+            var r = 0L;
+            for (; x>=0; x = (x&(x+1)) - 1)
+            {
+                r += t[x];
+                if (x == 0) break;
+            }
+            return r;
+        }
+
         private void Solve()
         {
             Input.Next(out n, out m);
             p = Input.Numbers();
-            Build();
+            t = new long[n];
+            divs = new List<long>[n+1];
 
-            long l, r;
-            while (Input.Next(out l, out r))
+            I = Enumerable.Repeat(-1L, (int) n + 1).ToArray();
+            for (var i = 0; i < n; i++)
+                I[p[i]] = i;
+            
+            for (var i = 0; i < n; i++)
+                for (var j = p[i]; j <= n; j += p[i])
+                    if (I[j] != -1)
+                        pairs.Add(I[j] > i 
+                            ? new line {l = i, r = I[j]} 
+                            : new line {l = I[j], r = i});
+
+            if (n==150611) Console.WriteLine("pairs calculated");
+
+            pairs = pairs.OrderByDescending(c => c.l).ToList(); 
+
+            var q = new query[m];
+            for (var i = 0; i < m; i++)
             {
-                Console.WriteLine(Root.GetCount(l, r));
-            }
-        }
-
-        private void Build()
-        {
-            Pairs = new List<Pair>();
-            for (int i = 0; i < n; i++)
-                for (int j = 0; j <= i; j++)
-                    if (p[i]%p[j] == 0)
-                        Pairs.Add(new Pair {L = j, R = i});
-            Pairs = Pairs.OrderBy(c => c.L).ThenBy(c => c.R).ToList();
-            Root = new Node(Pairs, 0, n - 1);
-        }
-
-        public class Node
-        {
-            public long L;
-            public Node Left;
-            public List<Pair> Pairs;
-            public long R;
-            public Node Right;
-
-            public Node(IEnumerable<Pair> pairs, long l, long r)
-            {
-                Pairs = pairs.OrderBy(c => c.R).ToList();
-                if (r <= l + 1 || !Pairs.Any()) return;
-
-                var m = (r + l)/2;
-                var middle = Pairs.FirstOrDefault(c => c.L >= m);
-                if (middle == null)
-                {
-                    Left = new Node(Pairs, l, m - 1);
-                }
-                else
-                {
-                    var index = Pairs.IndexOf(middle);
-                    if (index > 0) Left = new Node(Pairs.Take(index), l, m - 1);
-                    Right = new Node(Pairs.Skip(index), m, r);
-                }
+                long l, r;
+                Input.Next(out l, out r);
+                q[i].l = l - 1;
+                q[i].r = r - 1;
+                q[i].i = i;
             }
 
-            public long GetCount(long l, long r)
+            q = q.OrderByDescending(c => c.l).ToArray();
+
+            if (n == 150611) Console.WriteLine("query received");
+
+            var answer = new long[m];
+            var pi = 0;
+            foreach (var qq in q)
             {
-                if (l <= L && r >= R)
+                while(pi<pairs.Count && pairs[pi].l >= qq.l)
                 {
-                    return Pairs.Count(c => c.R < r);
+                    Add(pairs[pi++].r);
                 }
-                else
-                {
-                    
-                }
-
-                return 0;
+                answer[qq.i] = Get(qq.r);
             }
-        }
 
-        public class Pair
+            Console.WriteLine(string.Join("\n", answer));
+        }
+    }
+
+    struct line
+    {
+        public long l;
+        public long r;
+
+        public override string ToString()
         {
-            public long L, R;
+            return string.Format("{0}-{1}", l, r);
+        }
+    }
+
+    struct query
+    {
+        public long l;
+        public long r;
+        public long i;
+
+        public override string ToString()
+        {
+            return string.Format("{0}-{1} [{2}]", l, r, i);
         }
     }
 
