@@ -19,17 +19,6 @@ namespace Codeforces.TaskD
             task.Solve();
         }
 
-        long Get(long x)
-        {
-            var r = 0L;
-            for (; x>=0; x = (x&(x+1)) - 1)
-            {
-                r += t[x];
-                if (x == 0) break;
-            }
-            return r;
-        }
-
         private void Solve()
         {
             Input.Next(out n, out m);
