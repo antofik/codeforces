@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.Design.Serialization;
 using System.Linq;
 
 namespace Codeforces.TaskE
@@ -13,9 +12,59 @@ namespace Codeforces.TaskE
             task.Solve();
         }
 
+        private const long Mod = 1000000007L;
+        private const long Max = 102L;
+        private long n, m, k;
+        private long[,,,] f;
+        private long[][] C;
+
         void Solve()
         {
-            
+            Input.Next(out n, out m, out k);
+
+            C = new long[Max][];
+            C[0] = new long[1];
+            C[0][0] = 1;
+            for (var i = 1; i < Max; i++)
+            {
+                C[i] = new long[i + 1];
+                C[i][0] = 1; C[i][i] = 1;
+                for (var j = 1; j < i; j++) 
+                    C[i][j] = C[i - 1][j - 1] + C[i - 1][j] % Mod;
+            }
+
+            var l = new long[Max,Max];
+            for (var level = 1; level <= Math.Round(m/2.0); level++)
+            {
+                for (var count = 0; count <= n; count++)
+                {
+                    l[level, count]
+                }
+            }
+
+            // f[total, last, count, holes] == permutations;
+            f = new long[102, 102, 102, 102];
+
+            var result = 0L;
+            for (var total = 0; total < n; total++)
+                for (var last = 1; last < m; last++)
+                    for (var count = 0; count <= total; count++)
+                        for (var holes = 0; holes <= total - 1; holes++)
+                        {
+                            var prev = f[total, last, holes, count];
+                            var permutations = (1L * C[holes][count - holes]) % Mod;
+                            if (holes == 0) //finished
+                            {
+                                result += prev;
+                                result %= Mod;
+                            }
+                            else
+                            {
+
+                            }
+
+                            f[total + count, last + 1, count - holes, count] = permutations;
+                        }
         }
     }
 
