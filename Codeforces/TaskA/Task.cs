@@ -14,7 +14,29 @@ namespace Codeforces.TaskA
 
         void Solve()
         {
-            
+            long n, a, b, c;
+            Input.Next(out n, out a, out b, out c);
+            var vs = new [] {a, b, c}.Where(x=>x <= n).Distinct().ToArray();
+
+            var dp = new long[n + 1];
+
+            foreach (var v in vs)
+            {
+                dp[v] = 1;
+            }
+
+            for (var i = 0; i < n; i++)
+            {
+                var m = -1L;
+                foreach (var v in vs)
+                {
+                    var d = i + 1 - v >= 0 ? dp[i + 1 - v] : -1;
+                    if (d > m) m = d;
+                }
+                dp[i + 1] = m >= 0 ? m + 1 : -1;
+            }
+
+            Console.WriteLine(dp[n]);
         }
     }
 
