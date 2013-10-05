@@ -15,7 +15,7 @@ namespace Codeforces.TaskE
         private const long Mod = 1000000007L;
         private const long Max = 102L;
         private long n, m, k;
-        private long[,,,] f;
+        private long[,,,] Ways;
         private long[][] C;
 
         void Solve()
@@ -33,38 +33,35 @@ namespace Codeforces.TaskE
                     C[i][j] = C[i - 1][j - 1] + C[i - 1][j] % Mod;
             }
 
-            var l = new long[Max,Max];
-            for (var level = 1; level <= Math.Round(m/2.0); level++)
-            {
-                for (var count = 0; count <= n; count++)
-                {
-                    l[level, count]
-                }
-            }
-
-            // f[total, last, count, holes] == permutations;
-            f = new long[102, 102, 102, 102];
+            n /= 2;
+            Ways = new long[n + 2, n + 2, n + 2, Max];
+            Ways[0, 1, 0, 1] = 1;
 
             var result = 0L;
-            for (var total = 0; total < n; total++)
-                for (var last = 1; last < m; last++)
-                    for (var count = 0; count <= total; count++)
-                        for (var holes = 0; holes <= total - 1; holes++)
+            for (var maxValue = 0; maxValue <= n && maxValue < m; maxValue++)
+                for (var holes = 0; holes <= n; holes++)
+                    for (var total = 0; total <= n; total++)
+                        for (var ways = 0; ways <= k; ways++)
                         {
-                            var prev = f[total, last, holes, count];
-                            var permutations = (1L * C[holes][count - holes]) % Mod;
-                            if (holes == 0) //finished
+                            var prevWays = Ways[maxValue, holes, total, ways];
+                            if (prevWays == 0) continue;
+                            if (maxValue > 0)
                             {
-                                result += prev;
+                                result += (prevWays * (m - maxValue)) % Mod;
                                 result %= Mod;
-                            }
-                            else
+                            } 
+
+                            for (var newCountOfMaxValues = 1; newCountOfMaxValues <= n - total; newCountOfMaxValues++)
                             {
-
+                                var newWays = ways*C[holes + newCountOfMaxValues - 1][newCountOfMaxValues];
+                                if (newWays <= k)
+                                {
+                                    Ways[maxValue + 1, newCountOfMaxValues, total + newCountOfMaxValues, newWays] += prevWays;
+                                    Ways[maxValue + 1, newCountOfMaxValues, total + newCountOfMaxValues, newWays] %= Mod;
+                                }
                             }
-
-                            f[total + count, last + 1, count - holes, count] = permutations;
                         }
+            Console.WriteLine(result);
         }
     }
 
