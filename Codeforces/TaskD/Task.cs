@@ -14,6 +14,71 @@ namespace Codeforces.TaskD
 
         private void Solve()
         {
+            string text;
+            long k;
+            Input.Next(out text);
+            Input.Next(out k);
+            long n = text.Length;
+
+            var corrections = new long[n, n + 1];
+
+            for (var i = 0; i < n; i++)
+                for (var j = i + 1; j < n; j++)
+                    for (var t = 0; t < (j - i + 1) / 2; t++)
+                        corrections[i, j - i + 1] += text[i + t] == text[j - t] ? 0 : 1;
+
+            var dp = new long[n + 1, k + 1];
+            for (var i = 0; i <= n; i++)
+            {
+                for (var j = 0; j <= k; j++)
+                    dp[i, j] = long.MaxValue / 2;
+                dp[i, 0] = 0;
+                dp[i, 1] = corrections[0, i];
+            }
+            for (var i = 0; i <= k; i++) dp[0, i] = 0;
+
+            for (var count = 1; count < k; count++)
+            {
+                for (var l = 0; l <= n; l++)
+                {
+                    for (var len = 1; l + len <= n; len++)
+                    {
+                        dp[l + len, count + 1] = Math.Min(dp[l + len, count + 1], dp[l, count] + corrections[l, len]);
+                    }
+                }
+            }
+
+            var min = long.MaxValue;
+            var minIndex = -1;
+            for (var i = 1; i <= k; i++)
+                if (dp[n, i] < min)
+                {
+                    min = dp[n, i];
+                    minIndex = i;
+                }
+            Console.WriteLine(min);
+
+            var prev = n;
+            var answers = new List<string>();
+            for (var j = 1; j < minIndex; j++)
+            {
+                var m = 100000L;
+                for (var i = prev - 1; i > 0; i--)
+                {
+                    if (dp[i, minIndex - j] + corrections[i, prev - i] > min) continue;
+                    m = i;
+                }
+                answers.Add(text.Substring((int)m, (int)(prev - m)));
+                prev = m;
+                min = dp[m, minIndex - j];
+            }
+            answers.Add(text.Substring(0, (int)(prev)));
+
+            answers.Reverse();
+            for (var i = 0; i < answers.Count; i++)
+                answers[i] = answers[i].Substring(0, (answers[i].Length + 1)/2) + new string(answers[i].Substring(0, (answers[i].Length)/2).Reverse().ToArray());
+            
+            Console.WriteLine(string.Join("+", answers));
         }
     }
 
