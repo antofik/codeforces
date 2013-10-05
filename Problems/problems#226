@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="39fc46hg12dg7362e2961339fb6998d1"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="y8mcwy1p40a1"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='39fc46hg12dg7362e2961339fb6998d1'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #140 (Div. 1)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Отсеки летающей тарелки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>С планеты ACM-1 на Землю в целях исследования двуногого биологического вида (у представителей которого даже антенн нет на голове!) вылетела экспедиционная группа.</p><p>Летающая тарелка, на которой отправились в путь отважные первопроходцы, состоит из трех отсеков. Эти отсеки связаны между собой по цепочке: 1-й отсек соседствует только со 2-м, 2-й — с 1-м и с 3-м, 3-й — только со 2-м. Переходы возможны только между соседними отсеками.</p><p>Команда космического аппарата состоит из <span class="tex-span"><i>n</i></span> инопланетян. Каждому из них присвоен ранг — целое число от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Ранги всех астронавтов различны. Правила, установленные на борту космической тарелки, таковы, что инопланетянин может перейти из отсека <span class="tex-span"><i>a</i></span> в отсек <span class="tex-span"><i>b</i></span> только в том случае, если он старший по рангу среди всех инопланетян, находящихся в отсеках <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> (кроме того, разумеется, требуется, чтобы отсеки <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> были соседними). На один переход любому инопланетянину требуется ровно <span class="tex-span">1</span> минута. Кроме того, правила техники безопасности требуют, чтобы в одну и ту же минуту по корпусу судна передвигалось не более одного инопланетянина.</p><p>Инопланетянин <span class="tex-span"><i>A</i></span> старше инопланетянина <span class="tex-span"><i>B</i></span> по рангу, если число, обозначающее ранг <span class="tex-span"><i>A</i></span>, больше соответствующего числа для <span class="tex-span"><i>B</i></span>.</p><p>В данный момент команда тарелки в полном составе находится в 3-м отсеке. Им всем требуется переместиться в 1-й отсек. Один из членов экипажа, инопланетянин с идентификационным номером CFR-140, решил подсчитать, за какое минимальное время (в минутах) они смогут выполнить свою задачу. </p><p>Помогите CFR-140, посчитайте, за какое минимальное время (в минутах) все астронавты смогут переместиться из 3-го отсека в 1-ый. Так как это число может быть достаточно большим посчитайте его остаток от деления на число <span class="tex-span"><i>m</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа через пробел: <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">9</sup>)</span> — количество инопланетян на тарелке и число, по модулю которого следует вывести ответ, соответственно.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — остаток от деления ответа на задачу на число <span class="tex-span"><i>m</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере единственный член экипажа без проблем переходит вначале из 3-го отсека во 2-й, а затем из 2-го в 1-й. Таким образом, на все перемещения будет затрачено две минуты.</p><p>Для того, чтобы кратко описать перемещения во втором примере введем обозначение <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/4c7c8e716067e9c6251e8ca82a4ca7fde74fbacb.png" />, которое будет соответствовать переходу инопланетянина с рангом <span class="tex-span"><i>i</i></span> из того отсека, в котором он находится в настоящий момент, в отсек с номером <span class="tex-span"><i>j</i></span>. Пользуясь введенными обозначениями, опишем перемещения между отсеками во втором примере: <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1adb8798904e42944c35bd49feff02db6c3ea10b.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/954e2f634474269f53df1edbf2e7b214d8a2611c.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/be5f59dacfc6f7ded42f8f260c7b7aedf17ec1f0.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/d4fd9e68a9c6a277942eb188291d6d2744ea21d3.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1adb8798904e42944c35bd49feff02db6c3ea10b.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/b73a9870e1b41a5e048c3ab3e3fd4b92c336c9ec.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/be5f59dacfc6f7ded42f8f260c7b7aedf17ec1f0.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/954e2f634474269f53df1edbf2e7b214d8a2611c.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1adb8798904e42944c35bd49feff02db6c3ea10b.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/49b1ffd4dcd2e0da0acec04559e0c3efc7854b07.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/be5f59dacfc6f7ded42f8f260c7b7aedf17ec1f0.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ef8b3f32ee76c86f57fa63f7251fa290642f17f8.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1adb8798904e42944c35bd49feff02db6c3ea10b.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/954e2f634474269f53df1edbf2e7b214d8a2611c.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/be5f59dacfc6f7ded42f8f260c7b7aedf17ec1f0.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/d4fd9e68a9c6a277942eb188291d6d2744ea21d3.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7668900e59f9bc3ccc78b0a77dca322fcb02fa04.png" />, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1adb8798904e42944c35bd49feff02db6c3ea10b.png" />; Итого: требуется 26 перемещений. Остаток от деления <span class="tex-span">26</span> на <span class="tex-span">8</span> равен <span class="tex-span">2</span>, поэтому ответ на этот тест <span class="tex-span">2</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Непослушные кучки камней</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>На столе перед Вами лежат <span class="tex-span"><i>n</i></span> кучек камней размера <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>.</p><p>За одно действие можно взять одну кучку и присоединить ее к другой. Причем при присоединении кучки <span class="tex-span"><i>i</i></span> к кучке <span class="tex-span"><i>j</i></span> размер кучки <span class="tex-span"><i>j</i></span> увеличивается на текущий размер кучки <span class="tex-span"><i>i</i></span>, а кучка <span class="tex-span"><i>i</i></span> перестает существовать. Стоимость операции присоединения равна размеру присоединяемой кучки.</p><p>Ваша задача — определить минимальную стоимость, за которую можно собрать все камни в одну кучу. </p><p>Чтобы жизнь не казалась Вам слишком сладкой, кучки камней сговорились и решили, что каждая позволит совершить операцию присоединения к себе не более <span class="tex-span"><i>k</i></span> раз (после чего только ее саму можно будет присоединить к другой кучке). </p><p>Более того, чтобы совсем сбить Вас с толку, кучки камней сообщили Вам <span class="tex-span"><i>q</i></span> вариантов (необязательно различных) того, чему может быть равно <span class="tex-span"><i>k</i></span>. </p><p>Ваша задача — найти минимальную стоимость для каждого из <span class="tex-span"><i>q</i></span> вариантов.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество кучек камней. Во второй строке записаны <span class="tex-span"><i>n</i></span> целых чисел через пробел: <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup>)</span> — первоначальные размеры кучек камней. </p><p>В третьей строке записано целое число <span class="tex-span"><i>q</i></span> <span class="tex-span">(1 ≤ <i>q</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество запросов. В последней строке — <span class="tex-span"><i>q</i></span> целых чисел через пробел <span class="tex-span"><i>k</i><sub class="lower-index">1</sub>, <i>k</i><sub class="lower-index">2</sub>, ..., <i>k</i><sub class="lower-index"><i>q</i></sub></span> <span class="tex-span">(1 ≤ <i>k</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup>)</span> — значения числа <span class="tex-span"><i>k</i></span> для разных запросов. Обратите внимание, числа <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> могут повторяться.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>q</i></span> чисел — ответы на запросы в том порядке, в котором запросы заданы во входных данных. Выведенные числа разделяйте пробельными символами.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />2 3 4 1 1<br />2<br />2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9 8 <br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом случае одним из способов достижения оптимального ответа является следующий: поочередно добавить <span class="tex-span">4</span>-ю и <span class="tex-span">5</span>-ю кучки ко <span class="tex-span">2</span>-й; затем добавить <span class="tex-span">1</span>-ю кучку к <span class="tex-span">3</span>-й; добавить <span class="tex-span">2</span>-ю кучку к <span class="tex-span">3</span>-й. Первые две операции стоят по <span class="tex-span">1</span>; третья — <span class="tex-span">2</span>, четвертая — <span class="tex-span">5</span> (размер <span class="tex-span">2</span>-й кучки после первых двух операций уже не <span class="tex-span">3</span>, а <span class="tex-span">5</span>). </p><p>Во втором случае можно добавить <span class="tex-span">2</span>-ю кучку к <span class="tex-span">3</span>-й (стоимость операции — <span class="tex-span">3</span>); затем <span class="tex-span">1</span>-ю к <span class="tex-span">3</span>-й (стоимость — <span class="tex-span">2</span>); далее <span class="tex-span">5</span>-ю к <span class="tex-span">4</span>-й (стоимость — <span class="tex-span">1</span>); и, наконец, <span class="tex-span">4</span>-ю к <span class="tex-span">3</span>-й (стоимость — <span class="tex-span">2</span>).</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Юбилей</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Меньше 60 лет осталось до того, как исполнится 900 лет со дня рождения известного итальянского математика Леонардо Фибоначчи. Безусловно, к такому важному юбилею надо заранее основательно подготовиться. </p><p>Дима убежден, что неплохо было бы к знаменательной дате научиться решать следующую задачу: дано множество <span class="tex-span"><i>A</i></span>, состоящее из чисел <span class="tex-span"><i>l</i></span>, <span class="tex-span"><i>l</i> + 1</span>, <span class="tex-span"><i>l</i> + 2</span>, <span class="tex-span">...</span>, <span class="tex-span"><i>r</i></span>; рассмотрим все его <span class="tex-span"><i>k</i></span>-элементные подмножества; для каждого такого подмножества найдем наибольший общий делитель чисел Фибоначчи с порядковыми номерами, заданными элементами подмножества. Среди всех найденных наибольших общих делителей Диму интересует самый большой.</p><p>Дима просил напомнить, что числа Фибоначчи — элементы числовой последовательности, в которой <span class="tex-span"><i>F</i><sub class="lower-index">1</sub> = 1</span>, <span class="tex-span"><i>F</i><sub class="lower-index">2</sub> = 1</span>, <span class="tex-span"><i>F</i><sub class="lower-index"><i>n</i></sub> = <i>F</i><sub class="lower-index"><i>n</i> - 1</sub> + <i>F</i><sub class="lower-index"><i>n</i> - 2</sub></span> для <span class="tex-span"><i>n</i> ≥ 3</span>.</p><p>У Димы впереди еще больше полувека, чтобы решить поставленную задачу, а у Вас всего два часа. Посчитайте остаток от деления искомого наибольшего общего делителя на <span class="tex-span"><i>m</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны четыре целых числа через пробел <span class="tex-span"><i>m</i></span>, <span class="tex-span"><i>l</i></span>, <span class="tex-span"><i>r</i></span> и <span class="tex-span"><i>k</i></span> <span class="tex-span">(1 ≤ <i>m</i> ≤ 10<sup class="upper-index">9</sup>; 1 ≤ <i>l</i> &lt; <i>r</i> ≤ 10<sup class="upper-index">12</sup>; 2 ≤ <i>k</i> ≤ <i>r</i> - <i>l</i> + 1)</span>.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — остаток от деления искомого наибольшего общего делителя на <span class="tex-span"><i>m</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>10 1 8 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>10 1 8 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Всего лишь таблица</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Гарри Поттеру задали сложное домашнее задание. Дана прямоугольная таблица, размера <span class="tex-span"><i>n</i> × <i>m</i></span> клеток. В каждой клетке таблицы записано целое число. Гарри умеет применять два заклинания: первое меняет знак у каждого из чисел в выбранной мальчиком строке, второе — в выбранном столбце. Задача Гарри, используя эти заклинания, сделать так, чтобы сумма чисел в каждой строке и в каждом столбце стала неотрицательна.</p><p>В одиночку мальчику не справиться. Помогите юному волшебнику!</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> <span class="tex-span">(1 ≤ <i>n</i>,  <i>m</i> ≤ 100)</span> — количество строк и столбцов таблицы. </p><p>Далее следуют <span class="tex-span"><i>n</i></span> строк, в каждой по <span class="tex-span"><i>m</i></span> целых чисел: <span class="tex-span"><i>j</i></span>-е число в <span class="tex-span"><i>i</i></span>-й строке равно числу <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i>, <i>j</i></sub></span> <span class="tex-span">(|<i>a</i><sub class="lower-index"><i>i</i>, <i>j</i></sub>| ≤ 100)</span>, стоящему на пересечении <span class="tex-span"><i>j</i></span>-го столбца и <span class="tex-span"><i>i</i></span>-й строки таблицы.</p><p>Строки таблицы нумеруются от 1 до <span class="tex-span"><i>n</i></span>. Столбцы таблицы нумеруются от 1 до <span class="tex-span"><i>m</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первую строку выведите число <span class="tex-span"><i>a</i></span> — количество требуемых применений первого заклинания. Далее через пробел выведите <span class="tex-span"><i>a</i></span> чисел: номера строк, к которым требуется применить заклинание. Номера строк не должны повторяться!</p><p>Во вторую строку выведите число <span class="tex-span"><i>b</i></span> — количество требуемых применений второго заклинания. Далее через пробел выведите <span class="tex-span"><i>b</i></span> чисел: номера столбцов, к которым требуется применить заклинание. Номера столбцов также не должны повторяться!</p><p>Если существует несколько решений, разрешается вывести любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 1<br />-1<br />-1<br />-1<br />-1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4 1 2 3 4 <br />0 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 4<br />-1 -1 -1 2<br />1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 1 <br />1 4 <br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Путь благородного рыцаря</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Берляндии каждый феодал владеет ровно одним замком, а каждый замок принадлежит ровно одному феодалу.</p><p>Каждый феодал, кроме одного (короля), находится в подчинении у другого феодала. Вассалов (подчиненных) у феодала может быть любое количество.</p><p>Некоторые замки соединены дорогами, по которым разрешено движение в обе стороны. Между двумя замками есть дорога в том и только в том случае, если владелец одного из этих замков находится в непосредственном подчинении у владельца другого.</p><p>Каждый год в Берляндии может случиться ровно одно из двух событий.</p><p><ol> <li> На замок номер <span class="tex-span"><i>с</i></span> напали варвары. Известно, что за всю историю Берляндии варвары никогда не нападали на один и тот же замок дважды. </li><li> Благородный рыцарь отправился в путешествие из замка <span class="tex-span"><i>a</i></span> в замок <span class="tex-span"><i>b</i></span> (причем по такому пути, что каждый замок встречается на нем не более одного раза). </li></ol></p><p>Остановимся подробнее на втором событии. Поскольку путь из <span class="tex-span"><i>a</i></span> в <span class="tex-span"><i>b</i></span> предстоит неблизкий, то, возможно, рыцарь захочет остановиться в замке, лежащем на его пути, чтобы отдохнуть. Но он может сделать остановку не в каждом замке: благородство не позволяет ему находиться в замке, оскверненном невыветрившимся духом врага. Замок считается оскверненным тогда и только тогда, когда на него совершалось нападение после года <span class="tex-span"><i>y</i></span>. Поэтому выбор рыцаря остановится на <span class="tex-span"><i>k</i></span>-м замке, лежащем на его пути, считая от <span class="tex-span"><i>a</i></span> (сами замки <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> в счет не идут), на который не совершалось нападений в годы с <span class="tex-span"><i>y</i> + 1</span> по текущий.</p><p>Рыцари плохо помнят, в какие годы и на какие замки совершались нападения, поэтому они обратились к придворному ученому, то есть к Вам, за помощью. Вам задана последовательность событий в истории Берляндии, сообщите каждому рыцарю, в каком городе ему следует остановиться, или огорчите его известием о том, что на пути из <span class="tex-span"><i>a</i></span> в <span class="tex-span"><i>b</i></span> меньше <span class="tex-span"><i>k</i></span> городов, удовлетворяющих его требованиям, а потому отдыхать рыцарю не придется.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество феодалов. </p><p>В следующей строке записаны <span class="tex-span"><i>n</i></span> целых чисел через пробел: <span class="tex-span"><i>i</i></span>-е число равно номеру феодала, которому подчинен <span class="tex-span"><i>i</i></span>-й, или <span class="tex-span">0</span>, если номер <span class="tex-span"><i>i</i></span> имеет король. </p><p>В третьей строке записано целое число <span class="tex-span"><i>m</i></span> <span class="tex-span">(1 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество событий в истории Берляндии.</p><p>Далее идет <span class="tex-span"><i>m</i></span> строк, описывающих события. В <span class="tex-span"><i>i</i></span>-й из этих строк (нумерация ведется с <span class="tex-span">1</span>) находится описание события, произошедшего в год <span class="tex-span"><i>i</i></span>. Каждое событие характеризуется типом <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 2)</span>. Описание события первого типа (нападение на замок): два целых числа, записанных через пробел, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(<i>t</i><sub class="lower-index"><i>i</i></sub> = 1; 1 ≤ <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span>, где <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> — номер замка, на который напали варвары в <span class="tex-span"><i>i</i></span>-ый год. Описание события второго типа (путешествие рыцаря): пять целых чисел, записанных через пробел, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(<i>t</i><sub class="lower-index"><i>i</i></sub> = 2; 1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub>, <i>k</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>; <i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub>; 0 ≤ <i>y</i><sub class="lower-index"><i>i</i></sub> &lt; <i>i</i></span>), где <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — номер замка, из которого отправляется в путь рыцарь, <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> — номер замка, в который едет рыцарь, <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> — <span class="tex-span"><i>k</i></span> и <span class="tex-span"><i>y</i></span> из описания второго события.</p><p>Считайте, что феодалы пронумерованы от 1 до <span class="tex-span"><i>n</i></span>. Гарантируется, что среди феодалов ровно один король. Гарантируется, что для событий первого типа все <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> различны. </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого события второго типа выведите целое число — номер замка, в котором должен остановиться на отдых рыцарь, или -1, если ему придется проделать путь из <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> в <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> без остановок. Разделяйте ответы пробельными символами.</p><p>Ответы выводите в том порядке, в котором события второго типа заданы во входных данных.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />0 1 2<br />5<br />2 1 3 1 0<br />1 2<br />2 1 3 1 0<br />2 1 3 1 1<br />2 1 3 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />-1<br />-1<br />2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6<br />2 5 2 2 0 5<br />3<br />2 1 6 2 0<br />1 2<br />2 4 5 1 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br />-1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере на пути рыцаря из замка <span class="tex-span">1</span> в замок <span class="tex-span">3</span> лежит только замок <span class="tex-span">2</span>. Когда рыцарь проделает путь <span class="tex-span">1 - 3</span> в первый раз, замок <span class="tex-span">2</span> не будет осквернен врагом, поэтому именно в нем рыцарь и остановится. Во второй год замок <span class="tex-span">2</span> станет осквернен, а потому в следующие два года рыцарю будет негде остановиться (так как ему важно, чтобы замок не был осквернен, начиная с годов <span class="tex-span">1</span> и <span class="tex-span">2</span>, соответственно). В пятый год рыцарь не будет считать замок <span class="tex-span">2</span> оскверненным, а потому вновь остановится в нем.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

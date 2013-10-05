@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="dc0a232g48ge78d5hfg744b63ce1fh2g"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="x0pd57olyu1o"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='dc0a232g48ge78d5hfg744b63ce1fh2g'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #160 (Div. 1)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Максим и скидки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Максим всегда ходит в супермаркет по воскресеньям. Сегодня в супермаркете действует система скидок. </p><p>Существует <span class="tex-span"><i>m</i></span> видов скидок. Будем считать, что скидки пронумерованы от 1 до <span class="tex-span"><i>m</i></span>. Чтобы воспользоваться скидкой номер <span class="tex-span"><i>i</i></span>, покупатель берет специальную корзину, в которую кладет ровно <span class="tex-span"><i>q</i><sub class="lower-index"><i>i</i></sub></span> товаров, которые он покупает. По условиям акции, в дополнение к положенным в корзину товарам покупатель может получить не более двух товаров из супермаркета бесплатно. Выбор количества «бесплатных товаров» (0, 1 или 2) и самих товаров предоставляется покупателю. Единственное условие, которое накладывается на выбранные «бесплатные товары»: каждый из них должен быть не дороже самого дешевого товара из <span class="tex-span"><i>q</i><sub class="lower-index"><i>i</i></sub></span> товаров корзины.</p><p>Сейчас Максиму нужно купить <span class="tex-span"><i>n</i></span> товаров в магазине. Посчитайте, за какую минимальную сумму денег Максим сможет их купить, если он будет пользоваться системой скидок максимально оптимально.</p><p>Считайте, что в супермаркете имеется достаточное количество корзин для любых действий. Одну и туже скидку разрешается использовать несколько раз. Конечно, Максим может покупать товары без использования каких-либо скидок.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано целое число <span class="tex-span"><i>m</i></span> <span class="tex-span">(1 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество видов скидок. Во второй строке заданы <span class="tex-span"><i>m</i></span> целых чисел: <span class="tex-span"><i>q</i><sub class="lower-index">1</sub>, <i>q</i><sub class="lower-index">2</sub>, ..., <i>q</i><sub class="lower-index"><i>m</i></sub></span> <span class="tex-span">(1 ≤ <i>q</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup>)</span>. </p><p>В третьей строке задано целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество товаров, нужных Максиму. В четвертой строке заданы <span class="tex-span"><i>n</i></span> целых чисел: <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">4</sup>)</span> — стоимости товаров.</p><p>Числа в строках разделяются одиночными пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственную строку выведите целое число — ответ на задачу.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br />2<br />4<br />50 50 100 100<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>200<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />2 3<br />5<br />50 50 50 50 50<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>150<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1<br />1<br />7<br />1 1 1 1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере Максиму нужно купить два товара стоимостью <span class="tex-span">100</span> и получить по скидке два товара стоимостью <span class="tex-span">50</span> бесплатно. В таком случае Максим заплатит <span class="tex-span">200</span>.</p><p>Во втором примере Максиму выгодно купить <span class="tex-span">3</span> товара, а <span class="tex-span">2</span> получить бесплатно по скидке. В таком случае Максим заплатит <span class="tex-span">150</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Максим и ресторан</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Максим открыл свой собственный ресторан, в котором стоит огромный стол длины <span class="tex-span"><i>p</i></span> метров.</p><p>Сегодня у Максима праздничный ужин, и к нему придет <span class="tex-span"><i>n</i></span> гостей. Пронумеруем гостей ресторана Максима от 1 до <span class="tex-span"><i>n</i></span>. Максим знает размеры всех гостей, которые к нему придут. Размер <span class="tex-span"><i>i</i></span>-го гостя (<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>) обозначает, сколько метров займет гость, если сядет за стол ресторана.</p><p>Задолго до ужина гости выстраиваются в очередь перед рестораном в некотором порядке. Затем Максим по очереди запускает гостей в свой ресторан. Максим перестает запускать гостей в ресторан в случае, если очередной гость не помещается за стол ресторана. Очередной гость не помещается за стол ресторана, если сумма размеров всех зашедших в ресторан гостей и размера очередного гостя больше <span class="tex-span"><i>p</i></span>. В этом случае, чтобы не обидеть гостя, который не поместился за стол, Максим больше никого не пускает в ресторан, даже если один из следующих в очереди гостей помещается за стол ресторана.</p><p>Теперь Максиму интересно, чему равно среднее количество зашедших в ресторан гостей по всем <span class="tex-span"><i>n</i>!</span> возможным порядкам гостей в очереди. Помогите Максиму, посчитайте это число.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 50)</span> — количество гостей ресторана. В следующей строке заданы целые числа <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">2</sub></span>, <span class="tex-span">...</span>, <span class="tex-span"><i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 50)</span> — размеры гостей в метрах. В третьей строке задано целое число <span class="tex-span"><i>p</i></span> <span class="tex-span">(1 ≤ <i>p</i> ≤ 50)</span> — длина стола в метрах. </p><p>Числа в строках разделяются одиночными пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственную строку выведите вещественное число — ответ на задачу. Ответ будет считаться верным, если абсолютная или относительная погрешность не будет превышать <span class="tex-span">10<sup class="upper-index"> - 4</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2 3<br />3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.3333333333<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере люди могут приходить в таких порядках: </p><p><ul> <li> <span class="tex-span">(1, 2, 3)</span> — двое человек будет в ресторане; </li><li> <span class="tex-span">(1, 3, 2)</span> — один человек будет в ресторане; </li><li> <span class="tex-span">(2, 1, 3)</span> — двое человек будет в ресторане; </li><li> <span class="tex-span">(2, 3, 1)</span> — один человек будет в ресторане; </li><li> <span class="tex-span">(3, 1, 2)</span> — один человек будет в ресторане; </li><li> <span class="tex-span">(3, 2, 1)</span> — один человек будет в ресторане. </li></ul></p><p>В сумме получаем <span class="tex-span">(2 + 1 + 2 + 1 + 1 + 1) / 6</span> = <span class="tex-span">8 / 6</span> = <span class="tex-span">1.(3)</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Максим и матрица</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Максим любит заполнять матрицу специальным образом. Ниже приведен псевдокод заполнения матрицы размера <span class="tex-span">(<i>m</i> + 1) × (<i>m</i> + 1)</span>:</p><p><img class="tex-graphics" src="http://codeforces.ru/renderer/b4feed54f2f467e1ff2b426bc4214bd8840cb295.png" /></p><p>Максим просит вас посчитать, сколько существует таких чисел <span class="tex-span"><i>m</i></span> <span class="tex-span">(1 ≤ <i>m</i> ≤ <i>n</i>)</span>, что сумма значений ячеек в строке с номером <span class="tex-span"><i>m</i> + 1</span>, полученной матрицы будет равна <span class="tex-span"><i>t</i></span>.</p><p>Выражение (<span class="tex-span"><i>x</i></span> <span class="tex-span"><i>xor</i></span> <span class="tex-span"><i>y</i></span>) обозначает применение операции побитового исключающего «ИЛИ» к числам <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span>. Данная операция есть во всех современных языках программирования, например, в языке <span class="tex-font-style-it">C++</span> и <span class="tex-font-style-it">Java</span> она обозначается символом «<span class="tex-font-style-tt">^</span>», в <span class="tex-font-style-it">Pascal</span> — «<span class="tex-font-style-tt">xor</span>».</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>t</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>t</i> ≤ 10<sup class="upper-index">12</sup>, <i>t</i> ≤ <i>n</i> + 1)</span>.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на <span class="tex-font-style-it">C++</span>. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственную строку выведите целое число — ответ на задачу. </p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1000000000000 1048576<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>118606527258<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Максим и возрастающая подпоследовательность</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>6 секунд</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Максим любит последовательности, особенно те, которые строго возрастают. Сейчас его интересует задача: какова длина самой длинной возрастающей подпоследовательности заданной последовательности <span class="tex-span"><i>a</i></span>?</p><p>Последовательность <span class="tex-span"><i>a</i></span> задается следующим образом: <ul> <li> длина последовательности равна <span class="tex-span"><i>n</i> × <i>t</i></span>; </li><li> <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7eb5f24eebeb274cdd0e91bef7ec83861c20c0f3.png" /> <span class="tex-span">(1 ≤ <i>i</i> ≤ <i>n</i> × <i>t</i>)</span>, где операция <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/9d1c2b7bc99c897fba3bae010544e249d87ce172.png" /> обозначает взятие остатка от деления числа <span class="tex-span"><i>x</i></span> на число <span class="tex-span"><i>y</i></span>. </li></ul></p><p>Последовательность <span class="tex-span"><i>s</i><sub class="lower-index">1</sub>,  <i>s</i><sub class="lower-index">2</sub>,  ...,  <i>s</i><sub class="lower-index"><i>r</i></sub></span> длины <span class="tex-span"><i>r</i></span> называется <span class="tex-font-style-it">подпоследовательностью</span> последовательности <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>,  <i>a</i><sub class="lower-index">2</sub>,  ...,  <i>a</i><sub class="lower-index"><i>n</i></sub></span>, если найдется такая возрастающая последовательность индексов <span class="tex-span"><i>i</i><sub class="lower-index">1</sub>, <i>i</i><sub class="lower-index">2</sub>, ..., <i>i</i><sub class="lower-index"><i>r</i></sub></span> <span class="tex-span">(1  ≤  <i>i</i><sub class="lower-index">1</sub>  &lt;  <i>i</i><sub class="lower-index">2</sub>  &lt; ...   &lt;  <i>i</i><sub class="lower-index"><i>r</i></sub>  ≤  <i>n</i>)</span>, что <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i><sub class="lower-index"><i>j</i></sub></sub>  =  <i>s</i><sub class="lower-index"><i>j</i></sub></span>. Иными словами, подпоследовательность может быть получена из последовательности путем вычеркивания некоторых элементов.</p><p>Последовательность <span class="tex-span"><i>s</i><sub class="lower-index">1</sub>,  <i>s</i><sub class="lower-index">2</sub>,  ...,  <i>s</i><sub class="lower-index"><i>r</i></sub></span> называется <span class="tex-font-style-it">возрастающей</span>, если выполняется неравенство: <span class="tex-span"><i>s</i><sub class="lower-index">1</sub> &lt; <i>s</i><sub class="lower-index">2</sub> &lt;  ... &lt;  <i>s</i><sub class="lower-index"><i>r</i></sub></span>.</p><p>У Максима есть <span class="tex-span"><i>k</i></span> вариантов последовательности <span class="tex-span"><i>a</i></span>. Помогите Максиму, для каждой последовательности найдите длину наибольшей возрастающей подпоследовательности.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы четыре целых числа <span class="tex-span"><i>k</i></span>, <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>maxb</i></span> и <span class="tex-span"><i>t</i></span> <span class="tex-span">(1 ≤ <i>k</i> ≤ 10; 1 ≤ <i>n</i>, <i>maxb</i> ≤ 10<sup class="upper-index">5</sup>; 1 ≤ <i>t</i> ≤ 10<sup class="upper-index">9</sup>; <i>n</i> × <i>maxb</i> ≤ 2·10<sup class="upper-index">7</sup>)</span>. Далее идет <span class="tex-span"><i>k</i></span> строк, каждая из которых содержит <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>b</i><sub class="lower-index">1</sub>, <i>b</i><sub class="lower-index">2</sub>, ..., <i>b</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(1 ≤ <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>maxb</i>)</span>. </p><p>Обратите внимание, для всех вариантов последовательности <span class="tex-span"><i>a</i></span> значения <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>maxb</i></span> и <span class="tex-span"><i>t</i></span> совпадают, различаются лишь массивы <span class="tex-span"><i>b</i></span>.</p><p>Числа в строках разделяются одиночными пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>k</i></span> целых чисел, разделенных пробельными символами — ответы для входных данных. Ответы для каждого варианта последовательности <span class="tex-span"><i>a</i></span> выводите в порядке следования этих последовательностей во входных данных.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3 5 2<br />3 2 1<br />1 2 3<br />2 3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />3<br />3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Максим и калькулятор</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Максима есть калькулятор. В калькуляторе есть две целочисленные ячейки. Сначала в первой ячейке записано число <span class="tex-span">1</span>, а во второй <span class="tex-span">0</span>. За одно действие можно выполнить одну из описанных ниже операций:</p><p><ol> <li> Пусть в текущий момент времени в первой ячейке записано число <span class="tex-span"><i>a</i></span>, а во второй число <span class="tex-span"><i>b</i></span>. Записать во вторую ячейку число <span class="tex-span"><i>b</i> + 1</span>; </li><li> Пусть в текущий момент времени в первой ячейке записано число <span class="tex-span"><i>a</i></span>, а во второй число <span class="tex-span"><i>b</i></span>. Записать в первую ячейку число <span class="tex-span"><i>a</i>·<i>b</i></span>. </li></ol></p><p>Сейчас Максим интересуется следующей задачей: сколько существует целых чисел <span class="tex-span"><i>x</i></span> <span class="tex-span">(<i>l</i> ≤ <i>x</i> ≤ <i>r</i>)</span> таких, что число <span class="tex-span"><i>x</i></span> можно записать в первую ячейку калькулятора выполнив не более <span class="tex-span"><i>p</i></span> действий.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы три целых числа: <span class="tex-span"><i>l</i></span>, <span class="tex-span"><i>r</i></span>, <span class="tex-span"><i>p</i></span> <span class="tex-span">(2 ≤ <i>l</i> ≤ <i>r</i> ≤ 10<sup class="upper-index">9</sup>, 1 ≤ <i>p</i> ≤ 100)</span>. </p><p>Числа в строке разделяются одиночными пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственную строку выведите целое число — ответ на задачу.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 10 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 111 100<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>106<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 111 11<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>47<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

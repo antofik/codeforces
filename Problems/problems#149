@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="82chfh87e20h142gf44980080b4fd2ab"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1gde0cc72tup7"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='82chfh87e20h142gf44980080b4fd2ab'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #106 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Командировка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Какая радость! Родители Пети уехали в командировку на целый год, предоставив шаловливого мальчугана самому себе. Петя обрадовался неимоверно. Он прыгал на кровати и бросался подушками целыми днями напролет, пока... </p><p>Сегодня Петя полез в буфет и обнаружил там страшную записку. Родители поручили сыну поливать их любимый цветок весь год, каждый день, утром, в обед и вечером. «Стоп!» — подумал Петя. Он точно знал, что если выполнять поручение родителей в течение <span class="tex-span"><i>i</i></span>-го (<span class="tex-span">1 ≤ <i>i</i> ≤ 12</span>) месяца года, то цветок вырастет на <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> сантиметров, а если не поливать цветок в <span class="tex-span"><i>i</i></span>-ый месяц, то цветок за этот месяц не вырастет. Также Петя знает, что родители ни за что на свете не поверят, что он поливал цветок, если цветок вырастет строго меньше, чем на <span class="tex-span"><i>k</i></span> сантиметров. </p><p>Помогите Пете выбрать минимальное количество месяцев, в которые он будет поливать цветок, так чтобы цветок вырос не менее чем на <span class="tex-span"><i>k</i></span> сантиметров.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит ровно одно целое число <span class="tex-span"><i>k</i></span> (<span class="tex-span">0 ≤ <i>k</i> ≤ 100</span>). В следующей строке записаны двенадцать целых чисел, разделенных пробелами: <span class="tex-span"><i>i</i></span>-ое (<span class="tex-span">1 ≤ <i>i</i> ≤ 12</span>) число в строке обозначает <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>). </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — минимальное количество месяцев, в которые Петя будет поливать цветок, так чтобы цветок вырос не менее чем на <span class="tex-span"><i>k</i></span> сантиметров. Если цветок не сможет вырасти на <span class="tex-span"><i>k</i></span> сантиметров за год, выведите <span class="tex-font-style-tt">-1</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 1 1 1 2 2 3 2 2 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>0<br />0 0 0 0 0 0 0 1 1 2 3 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>11<br />1 1 4 1 1 5 1 1 4 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим первый тестовый пример. В нем достаточно поливать цветок в течение седьмого и девятого месяца, тогда цветок вырастет ровно на пять сантиметров.</p><p>Во втором тестовом примере родители поверят Пете, даже если цветок совсем не вырастет (<span class="tex-span"><i>k</i> = 0</span>). Значит, Петя может не поливать цветок вовсе.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Марсианские часы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Пока дома никого нет, Петя решил тайком посмотреть в интернете запрещенные фильмы. «Как некрасиво!» — скажете вы, но не спешите судить мальчугана. В стране, в которой он живет, запрещены фильмы про марсиан, да и вообще про любые внеземные цивилизации. Это было очень несправедливо по отношению к Пете, ведь он так любил увлекательные космические истории с лазерами и роботами. </p><p>Сегодня Петя смотрит шокирующий блокбастер про марсиан с загадочным названием «R2:D2». Что же это такое, «R2:D2»? Кажется, это марсианское время, записанное в марсианской системе счисления. Петя знает, что время на Марсе считается в точности как на Земле (то есть <span class="tex-span">24</span> часа, в каждом часе <span class="tex-span">60</span> минут) и записывается в виде «<span class="tex-span"><i>a</i></span><span class="tex-font-style-tt">:</span><span class="tex-span"><i>b</i></span>», где строка <span class="tex-span"><i>a</i></span> — обозначает количество часов (от <span class="tex-span">0</span> до <span class="tex-span">23</span> включительно), а строка <span class="tex-span"><i>b</i></span> — количество минут (от <span class="tex-span">0</span> до <span class="tex-span">59</span> включительно). Единственное, что Петя не знает — в какой системе счисления записано марсианское время.</p><p>Ваша задача — вывести основания всех систем счисления, в которых могло бы быть записано время «<span class="tex-span"><i>a</i></span><span class="tex-font-style-tt">:</span><span class="tex-span"><i>b</i></span>».</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записана единственная строка в виде «<span class="tex-span"><i>a</i></span><span class="tex-font-style-tt">:</span><span class="tex-span"><i>b</i></span>» (без кавычек), где <span class="tex-span"><i>a</i></span> — непустая строка, состоящая из цифр и прописных букв латинского алфавита, обозначающая количество часов, а строка <span class="tex-span"><i>b</i></span> — непустая строка, состоящая из цифр и прописных букв латинского алфавита, обозначающая количество минут. Длины строк <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> — от <span class="tex-span">1</span> до <span class="tex-span">5</span> символов, включительно. Обратите внимание, в строках <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> могут быть лидирующие нули, которые никак не влияют на ответ (например, строка «<span class="tex-font-style-tt">008:1</span>» в десятичной системе счисления обозначает корректно записанное время).</p><p>Мы считаем, что символы <span class="tex-font-style-tt">0</span>, <span class="tex-font-style-tt">1</span>, ..., <span class="tex-font-style-tt">9</span> обозначают соответствующие цифры записи числа в некоторой системе счисления, а символы <span class="tex-font-style-tt">A</span>, <span class="tex-font-style-tt">B</span>, ..., <span class="tex-font-style-tt">Z</span> обозначают цифры <span class="tex-font-style-tt">10</span>, <span class="tex-font-style-tt">11</span>, ..., <span class="tex-font-style-tt">35</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите основания систем счисления, в которых могло бы быть записано время «<span class="tex-span"><i>a</i></span><span class="tex-font-style-tt">:</span><span class="tex-span"><i>b</i></span>», в возрастающем порядке. Разделяйте числа пробелами или переводами строк. Если не существует ни одной системы счисления, в которой может быть записано время «<span class="tex-span"><i>a</i></span><span class="tex-font-style-tt">:</span><span class="tex-span"><i>b</i></span>», выведите единственное целое число <span class="tex-font-style-tt">0</span>. Если существует бесконечно много систем счисления, в которых могло бы быть записано время «<span class="tex-span"><i>a</i></span><span class="tex-font-style-tt">:</span><span class="tex-span"><i>b</i></span>», выведите единственное целое число <span class="tex-font-style-tt">-1</span>.</p><p>Обратите внимание, что на Марсе возможны любые позиционные системы счисления с положительными основаниями строго больше единицы. </p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>11:20<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22</pre></div><div class="input"><div class="title">Входные данные</div><pre>2A:13<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>000B:00001<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим первый тестовый пример. Строка «<span class="tex-font-style-tt">11:20</span>» может быть воспринята, например, как время <span class="tex-font-style-tt">4:6</span>, записанное в троичной системе счисления или как время <span class="tex-font-style-tt">17:32</span> в шестнадцатеричной. </p><p>Рассмотрим второй тестовый пример. Строка «<span class="tex-font-style-tt">2A:13</span>» не может быть воспринята как корректное время ни в какой системе счисления. Для примера, возьмем одинадцатиричную систему счисления. В ней данная строка обозначает время <span class="tex-font-style-tt">32:14</span>, что не является корректным временем.</p><p>Рассмотрим третий тестовый пример. Строка «<span class="tex-font-style-tt">000B:00001</span>» может быть воспринята как корректное время в бесконечном количестве систем счисления. Для примера вы можете взять любую систему счисления с основанием не меньше <span class="tex-font-style-tt">12</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Разделение на команды</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Петя очень любит футбол, особенно когда родителей нет дома. Каждое утро он выходит во двор, собирает своих друзей, и они играют вместе весь день, изредка прерываясь на еду или какие-нибудь важные дела (например, поливание цветов). </p><p>Самое главное в футболе — перед началом игры честно поделиться на команды. Во дворе в футбол играют <span class="tex-span"><i>n</i></span> ребят (считая самого Петю), умение каждого мальчика играть в футбол выражается неотрицательной характеристикой <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (чем она больше, тем лучше мальчик играет). </p><p>Обозначим за <span class="tex-span"><i>x</i></span> количество игроков в первой команде, <span class="tex-span"><i>y</i></span> — количество игроков во второй команде, <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> — номера ребят, вошедших в первую команду, <span class="tex-span"><i>q</i><sub class="lower-index"><i>i</i></sub></span> — номера ребят, вошедших во вторую команду. Разделение <span class="tex-span"><i>n</i></span> ребят на две команды считается честным, если выполнены три условия:</p><p><ul> <li> Каждый мальчик играет ровно в одной команде (<span class="tex-span"><i>x</i> + <i>y</i> = <i>n</i></span>). </li><li> Размеры команд отличаются не более, чем на единицу (<span class="tex-span">|<i>x</i> - <i>y</i>| ≤ 1</span>). </li><li> Суммарные умения играть в футбол у двух команд отличаются не более, чем на величину умения самого лучшего игрока во дворе. Более формально: </li></ul></p><p><center class="tex-equation"><img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/b00349240b8889b3cc16970c552a5a2581cf0801.png" /></center></p><p>Ваша задача — помочь ребятам честно разделиться на две команды. Гарантируется, что честное разделение на две команды всегда существует.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество ребят во дворе. В следующей строке записаны <span class="tex-span"><i>n</i></span> целых положительных чисел, разделенных пробелами, <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">4</sup></span>), <span class="tex-span"><i>i</i></span>-ое число обозначает умение играть <span class="tex-span"><i>i</i></span>-ого мальчика. </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите целое число <span class="tex-span"><i>x</i></span> — количество мальчиков в первой команде, во второй строке выведите <span class="tex-span"><i>x</i></span> целых чисел — номера мальчиков, попавших в первую команду. В третьей строке выведите целое число <span class="tex-span"><i>y</i></span> — количество мальчиков во второй команде, в четвертой строке выведите <span class="tex-span"><i>y</i></span> целых чисел — номера мальчиков, попавших во вторую команду. Не забудьте, что должны выполняться все три условия: <span class="tex-span"><i>x</i> + <i>y</i> = <i>n</i></span>, <span class="tex-span">|<i>x</i> - <i>y</i>| ≤ 1</span>, а также условие на разницу суммарных умений.</p><p>Если решений несколько, выведите любое.</p><p>Мальчики нумеруются начиная с единицы в том порядке, в котором заданы их умения во входных данных. Номера мальчиков из одной команды разрешается выводить в любом порядке.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />1 2 <br />1<br />3 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />2 3 3 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br />4 1 3 <br />2<br />5 2 <br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим первый тестовый пример. В нем мы берем первого и второго мальчика в первую команду, а третьего мальчика во вторую команду. Проверим все три условия честного разделения. Первое ограничение выполнено (все мальчики участвуют в игре), второе ограничение на размеры групп (<span class="tex-span">|2 - 1| = 1 ≤ 1</span>) выполнено, третье ограничение на разность умений (<span class="tex-span">(2 + 1) - (1) = 2 ≤ 2</span>) выполнено.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Раскрашивание скобок</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Как-то раз Петя прочитал задачу про скобочную последовательность. Он долго думал над ней, но так и не нашел решение. Сегодня с этой задачей предстоит столкнуться вам.</p><p>Дана строка <span class="tex-span"><i>s</i></span>, представляющая собой правильную скобочную последовательность. Правильная скобочная последовательность — это последовательность открывающихся («<span class="tex-font-style-tt">(</span>») и закрывающихся («<span class="tex-font-style-tt">)</span>») скобок такая, что из нее можно получить корректное математическое выражение, вставляя между скобок числа и операторы. Например, последовательности «<span class="tex-font-style-tt">(())()</span>» и «<span class="tex-font-style-tt">()</span>» правильные скобочные, а последовательности «<span class="tex-font-style-tt">)()</span>» и «<span class="tex-font-style-tt">(()</span>» нет.</p><p>В правильной скобочной последовательности каждой скобке соответствует парная скобка (открывающейся скобке соответствует парная закрывающаяся и наоборот). Например, в скобочной последовательности, изображенной на рисунке, третьей скобке соответствует парная шестая, а пятой скобке соответствует четвертая.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/bd2fc051cb5dbd49f6117f73eecebf155eccaec3.png" /> </center> </p><p>Вам разрешается раскрасить некоторые скобки в скобочной последовательности, так чтобы выполнялись все три условия: <ul> <li> Каждая скобка либо не раскрашена, либо раскрашена в красный цвет, либо раскрашена в синий цвет. </li><li> Для любых двух парных скобок раскрашена ровно одна скобка из этой пары. Другими словами, для каждой скобки верно следующее: раскрашена либо она сама, либо соответствующая парная к ней. </li><li> Никакие две соседние раскрашенные скобки не имеют один и тот же цвет. </li></ul></p><p>Найдите количество различных раскрасок скобочной последовательности удовлетворяющих описанным выше условиям. Две раскраски считаются различными, если они отличаются цветом хотя бы одной скобки. Так как ответ может быть достаточно большим, выведите его по модулю <span class="tex-span">1000000007</span> (<span class="tex-span">10<sup class="upper-index">9</sup> + 7</span>).</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится единственная строка <span class="tex-span"><i>s</i></span> (<span class="tex-span">2 ≤ |<i>s</i>| ≤ 700</span>), представляющая собой правильную скобочную последовательность. </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — количество раскрасок скобочной последовательности удовлетворяющих описанным выше условиям по модулю <span class="tex-span">1000000007</span> (<span class="tex-span">10<sup class="upper-index">9</sup> + 7</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>(())<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>(()())<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>40<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>()<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим первый тестовый пример. Скобочную последовательность из этого примера можно раскрасить, например, как показано на двух рисунках ниже. <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/9b9baa2189cf342c6bb2482a2725045de8caf454.png" /> <img class="tex-graphics" src="http://codeforces.ru/renderer/04de1a2e6e96f674fd1a346981970d508480d59b.png" /> </center> </p><p>Две раскраски, показанные ниже, являются некорректными. <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/ec8f6e5f515b38081c3cff86b1ca01bc3d3ff496.png" /> <img class="tex-graphics" src="http://codeforces.ru/renderer/ad138f5861801a6cb1e4ab5466ef14c433588d7b.png" /> </center> </p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Марсианские строки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>За время своего изучения марсиан Петя хорошо понял, что марсиане крайне ленивые. Они любят спать и совсем не любят просыпаться. </p><p>Представьте себе марсианина имеющего ровно <span class="tex-span"><i>n</i></span> глаз расположенных в ряд, и пронумерованных слева направо от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Когда марсианин спит, он одевает на каждый свой глаз по повязке (чтобы утром марсианский свет не заставил его проснуться). С внутренней стороны каждой повязки написана одна прописная буква латинского алфавита, поэтому, когда марсианин утром просыпается и открывает все свои глаза, он видит строку <span class="tex-span"><i>s</i></span> из прописных букв латинского алфавита длины <span class="tex-span"><i>n</i></span>. </p><p>«Динь-дилинь!» — звонит будильник. Марсианин уже проснулся, но еще не открыл ни одного своего глаза. Он догадывается, что день сегодня будет трудным, поэтому ему хочется открыть глаза и увидеть что-нибудь хорошее. Марсианин считает, что только <span class="tex-span"><i>m</i></span> слов марсианского языка красивые. Также с утра ему очень сложно открыть все глаза сразу, поэтому он открывает два не накладывающихся отрезка последовательных глаз. <span class="tex-font-style-bf">Более формально, марсианин выбирает четыре числа <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span>, <span class="tex-span"><i>c</i></span>, <span class="tex-span"><i>d</i></span> (<span class="tex-span">1 ≤ <i>a</i> ≤ <i>b</i> &lt; <i>c</i> ≤ <i>d</i> ≤ <i>n</i></span>) и открывает все глаза с номерами <span class="tex-span"><i>i</i></span> такими, что <span class="tex-span"><i>a</i> ≤ <i>i</i> ≤ <i>b</i></span> или <span class="tex-span"><i>c</i> ≤ <i>i</i> ≤ <i>d</i></span>.</span> После того как марсианин открыл нужные ему глаза, он читает все видимые символы слева направо, получая тем самым какое-то слово. </p><p>Рассмотрим все различные слова, которые может увидеть с утра марсианин. Вам требуется узнать, сколько среди этих слов красивых.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задана непустая строка <span class="tex-span"><i>s</i></span> состоящая из прописных букв латинского алфавита, длиной <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>). Во второй строке задано целое число <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>m</i> ≤ 100</span>) — количество красивых слов. В следующих <span class="tex-span"><i>m</i></span> строках записаны красивые строки <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span>, состоящие из прописных букв латинского алфавита, длиной от <span class="tex-span">1</span> до <span class="tex-span">1000</span>. Все красивые строки попарно различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — количество различных красивых слов, которые может увидеть сегодня утром марсианин.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>ABCBABA<br />2<br />BAAB<br />ABBA<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим тестовый пример. В нем можно получить только вторую красивую строку, если открыть отрезки глаз <span class="tex-span"><i>a</i> = 1, <i>b</i> = 2</span> и <span class="tex-span"><i>c</i> = 4, <i>d</i> = 5</span> или отрезки глаз <span class="tex-span"><i>a</i> = 1, <i>b</i> = 2</span> и <span class="tex-span"><i>c</i> = 6, <i>d</i> = 7</span>. Первую красивую строку получить никак нельзя. </p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

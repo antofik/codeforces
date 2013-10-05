@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="f1b2f5fhhege5976237h8bdg6029bcf4"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="lnkzo2fx60bt"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='f1b2f5fhhege5976237h8bdg6029bcf4'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #152 (Div. 1)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Электроник-футболист</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В юном месяце апреле в старом парке тает снег, и ребята, в числе которых присутствует Сергей Сыроежкин, играют в футбол. Но друзья Сыроежкина не знают, что на самом деле вместо него будет играть Электроник. Электроник — робот, поэтому обладает некоторыми преимуществами перед ребятами. Например, он умеет попадать мячом прямо в заданную точку. А еще, ему не ведомо понятие «поддавки». Сочетание этих свойств делает из Электроника идеального футболиста — как только к нему попадает мяч, он может точно прицелиться и попасть в ворота. Такой тактики он и придерживался первую половину матча, однако гол забить получалось редко. У команды соперников был очень хороший вратарь, который ловил почти все мячи, летящие прямо в ворота. Но Электроник очень быстро соображает, он понял, что можно обмануть вратаря. Ведь ребята играют в футбольной коробке с твердыми стенами. Электроник может пнуть мяч в другую сторону, тогда вратарь не будет пытаться поймать этот мяч. Тогда, если мяч отскочит от стенки и полетит в ворота, будет забит заветный гол. </p><p>Ваша задача — помочь Электронику определить точку на стенке футбольной коробки, в которую Электронику нужно пнуть мяч, чтобы, отскочив ровно один раз от этой стенки, он попал прямо в ворота. В первой половине матча Электронику сильно досталось мячом по голове, в результате чего некоторые схемы были повреждены. Из-за полученной травмы Электроник может целиться только в правую от него стенку (Электроник стоит лицом к воротам соперника).</p><p>Футбольная коробка имеет форму прямоугольника. Введем двумерную систему координат таким образом, чтобы точка (<span class="tex-span">0</span>, <span class="tex-span">0</span>) лежала в левом нижнем углу поля, если смотреть на коробку сверху. Электроник играет за команду, чьи ворота справа. Футбольное поле дворовое, поэтому ворота соперников Электроника могут находиться не посередине левой стенки.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/b6e2d48d3c155924dfadcd191f01ed6e9eef3710.png" /> </center></p><p>В заданной системе координат вам даны: <ul> <li> <span class="tex-span"><i>y</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index">2</sub></span> — <span class="tex-span"><i>y</i></span>-координаты боковых стоек ворот соперников Электроника; </li><li> <span class="tex-span"><i>y</i><sub class="lower-index"><i>w</i></sub></span> — <span class="tex-span"><i>y</i></span>-координата стенки, в которую целится Электроник; </li><li> <span class="tex-span"><i>x</i><sub class="lower-index"><i>b</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>b</i></sub></span> — координаты положения мяча, в момент удара; </li><li> <span class="tex-span"><i>r</i></span> — радиус мяча. </li></ul></p><p>Гол считается забитым, если центр мяча пересекает ось <span class="tex-span"><i>OY</i></span> в заданной системе координат между точками (<span class="tex-span">0</span>, <span class="tex-span"><i>y</i><sub class="lower-index">1</sub></span>) и (<span class="tex-span">0</span>, <span class="tex-span"><i>y</i><sub class="lower-index">2</sub></span>). Мяч движется прямолинейно. Удар мяча о стену считается абсолютно упругим (мяч не сжимается от удара), угол падения равен углу отражения. Если мяч отскакивает от стены не в створ ворот, то есть задевает другую стену или штангу, то команда противников перехватывает мяч и Электроник начинает искать ошибку в расчетах, что делает его не дееспособным. Такого исхода, по возможности, следует избежать. Будем считать, что мяч задевает объект, если расстояние от центра мяча до объекта не более радиуса мяча <span class="tex-span"><i>r</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой и единственной строке вам даны целые числа <span class="tex-span"><i>y</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index">2</sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>w</i></sub></span>, <span class="tex-span"><i>x</i><sub class="lower-index"><i>b</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>b</i></sub></span>, <span class="tex-span"><i>r</i></span> (<span class="tex-span">1 ≤ <i>y</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">2</sub>, <i>y</i><sub class="lower-index"><i>w</i></sub>, <i>x</i><sub class="lower-index"><i>b</i></sub>, <i>y</i><sub class="lower-index"><i>b</i></sub> ≤ 10<sup class="upper-index">6</sup></span>; <span class="tex-span"><i>y</i><sub class="lower-index">1</sub> &lt; <i>y</i><sub class="lower-index">2</sub> &lt; <i>y</i><sub class="lower-index"><i>w</i></sub></span>; <span class="tex-span"><i>y</i><sub class="lower-index"><i>b</i></sub> + <i>r</i> &lt; <i>y</i><sub class="lower-index"><i>w</i></sub></span>; <span class="tex-span">2·<i>r</i> &lt; <i>y</i><sub class="lower-index">2</sub> - <i>y</i><sub class="lower-index">1</sub></span>).</p><p>Гарантируется, что мяч расположен в поле корректно, не пересекает ни одну из стен, не соприкасается со стеной, в которую целится Электроник. Штанги не могут располагаться в углах поля.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если Электроник не сможет забить гол описанным способом, выведите «-1» (без кавычек). Иначе выведите единственное число <span class="tex-span"><i>x</i><sub class="lower-index"><i>w</i></sub></span> — абсциссу точки прицеливания Электроника. </p><p>Если возможных точек прицеливания несколько — выведите абсциссу любой. При проверке правильности ответа все сравнения производятся с допустимой абсолютной погрешностью равной <span class="tex-span">10<sup class="upper-index"> - 8</sup></span>. </p><p>Рекомендуется выводить как можно больше знаков после десятичной точки.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 10 13 10 3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4.3750000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1 4 6 2 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 10 15 17 9 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>11.3333333333<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Обратите внимание на то, что в первом и третьем примерах возможны и другие корректные значения абсциссы <span class="tex-span"><i>x</i><sub class="lower-index"><i>w</i></sub></span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Конфеты - каждому!</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><div><div class="epigraph-text">Скоро Новый год. Мы все вместе в Простоквашино уедем. Будем там на лыжах кататься, печку топить, а в Новый год карнавал устроим. Ты нарядишься казаком или узбеком. Будешь вкусный плов готовить и казачью песню петь про ракитовый куст.</div><div class="epigraph-source">Эдуард Николаевич Успенский</div></div><p>В деревне Простоквашино празднуют Новый год. Дядя Федор вместе со своими друзьями — котом Матроскиным и псом Шариком решил угостить всех жителей на своей улице конфетами. Дядя Федор и его друзья решили, что жителям каждого дома на их улице они подарят по одному килограмму конфет. Таким образом им потребуется столько килограммов конфет, сколько домов есть на их улице.</p><p>Улицу, где живут трое из Простоквашино, можно мысленно разбить на <span class="tex-span"><i>n</i></span> последовательных участков одинаковой длины. С любого участка можно перейти на один из соседних участков за одну единицу времени. Каждый из участков бывает одного из трех типов: пустой участок, участок с домом или участок с магазином. В магазине Дядя Федор и его друзья могут купить конфеты, но не более одного килограмма конфет в одном магазине (продавцы заботятся о том, чтобы жители деревни не злоупотребляли сладким).</p><p>После того, как трое из Простоквашино выйдут из своего дома, они окажутся на первом участке дороги. Для попадания на этот участок дороги тоже требуется одна единица времени. Можно считать, что Дядя Федор и его друзья могут нести неограниченное число килограммов конфет. Каждый раз, когда они оказываются на участке с домом, они могут отдать один килограмм конфет жителям дома, а могут просто перейти на другой участок. Если трое из Простоквашино уже отдавали конфеты жителям какого-то дома, то еще раз они этого сделать не могут. Аналогично, если Дядя Федор и его друзья находятся на участке с магазином, то они могут либо купить в нем килограмм конфет, либо пропустить этот магазин. Если в каком-то магазине они уже купили килограмм конфет, то продавец их запомнил и второй раз не продаст им больше ни грамма конфет. Временем на покупку и вручение конфет можно пренебречь. Дядя Федор с котом Матроскиным и псом Шариком не хотят, чтобы жители хотя бы одного дома остались без угощения. </p><p>Трое из Простоквашино хотят потратить не более <span class="tex-span"><i>t</i></span> единиц времени на раздачу конфет, чтобы успеть подготовиться к празднованию Нового года. Для того, чтобы успеть раздать все конфеты, возможно, придется изначально взять с собой дополнительно <span class="tex-span"><i>k</i></span> килограммов конфет.</p><p>Дядя Федор хочет знать минимальное число <span class="tex-span"><i>k</i></span> килограммов конфет, которое необходимо взять с собой, чтобы успеть угостить жителей каждого дома на своей улице сладостями.</p><p>Ваша задача — написать программу, которая определит минимально возможное значение <span class="tex-span"><i>k</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>t</i></span>, разделенных пробелами (<span class="tex-span">2 ≤ <i>n</i> ≤ 5·10<sup class="upper-index">5</sup>, 1 ≤ <i>t</i> ≤ 10<sup class="upper-index">9</sup></span>). Вторая строка входных данных содержит <span class="tex-span"><i>n</i></span> символов, <span class="tex-span"><i>i</i></span>-ый из которых равен «<span class="tex-font-style-tt">H</span>» (если <span class="tex-span"><i>i</i></span>-ый участок содержит дом), «<span class="tex-font-style-tt">S</span>» (если <span class="tex-span"><i>i</i></span>-ый участок содержит магазин) или «<span class="tex-font-style-tt">.</span>» (если <span class="tex-span"><i>i</i></span>-ый участок не содержит ни дома, ни магазина). </p><p>Гарантируется, что имеется хотя бы один участок с домом.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если не существует ни одного значения <span class="tex-span"><i>k</i></span>, при котором возможно не более, чем за <span class="tex-span"><i>t</i></span> единиц времени угостить обитателей всех домов, то в единственной строке выведите «<span class="tex-font-style-tt">-1</span>» (без кавычек). Иначе в единственной строке выведите минимально возможное значение <span class="tex-span"><i>k</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 6<br />HSHSHS<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>14 100<br />...HHHSSS...SH<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>23 50<br />HHSS.......SSHHHHHHHHHH<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>8<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере магазинов столько же, сколько и домов. Если не брать с собой ни одного килограмма конфет, то для того, чтобы угостить жителей самого первого дома потребуется сделать хотя бы один шаг назад, на что у друзей из Простоквашино абсолютно нет времени. Если же взять с собой один килограмм конфет, то возвращаться ни разу не потребуется.</p><p>Во втором примере число магазинов равняется числу домов и времени предостаточно. Можно купить во всех магазинах конфеты пройдя улицу в одном направлении и раздать их при проходе в обратном направлении.</p><p>В третьем примере на улице меньше магазинов, чем домов. Придется друзьями из Простоквашино взять недостающее число килограммов конфет с собой из дома.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. День рождения ослика Иа-Иа</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У ослика Иа-Иа сегодня день рождения. Его друг, Винни-Пух, хочет сделать ему самый лучший подарок — горшочек меда. Конечно, медвежонок понимает, что полный горшочек до ослика донести не удастся, потому что по пути он съест весь мед. А раз уж Винни собрался перекусить по пути, то изначально в горшочке должно быть как можно больше меда. </p><p>За день до этого Винни-Пух пополнил свои запасы меда. Дома у Винни-Пуха есть <span class="tex-span"><i>n</i></span> полок, на каждой из которых находится некоторое, возможно нулевое, количество горшочков с медом. В течение дня Винни <span class="tex-span"><i>q</i></span> раз подходил к полкам с медом; в <span class="tex-span"><i>i</i></span>-тый раз он подходил к некоторой полке <span class="tex-span"><i>u</i><sub class="lower-index"><i>i</i></sub></span>, брал с нее некоторое количество горшочков <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span>, пробовал мед из каждого из них и ставил все эти горшочки на некоторую полку <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span>. Выбирая горшочки, Винни руководствовался интуицией, а, значит, можно считать, что среди всех наборов из <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> горшочков на полке <span class="tex-span"><i>u</i><sub class="lower-index"><i>i</i></sub></span>, он равновероятно выбирает один.</p><p>Сейчас Винни помнит все действия, которые он выполнял с горшочками меда. На праздник он хочет взять горшочек, который вчера ему не попадался. Для этого ему необходимо знать математическое ожидание <span class="tex-span"><i>m</i></span> количества полок, на которых нет ни одного нетронутого медвежонком горшочка. Для того, чтобы лучше оценить свои шансы, Винни-Пух хочет знать значение <span class="tex-span"><i>m</i></span> после каждого выполненного им действия.</p><p>Ваша задача — написать программу, которая найдет эти значения за него.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество полок у Винни-Пуха дома. Вторая строка содержит <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>, <span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>) — количество горшочков с медом на полке с номером <span class="tex-span"><i>i</i></span>. </p><p>В следующей строке содержится целое число <span class="tex-span"><i>q</i></span> (<span class="tex-span">1 ≤ <i>q</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество действий, которое выполнил Винни за предыдущий день. Далее следует <span class="tex-span"><i>q</i></span> строк, <span class="tex-span"><i>i</i></span>-ая из которых описывает очередное в хронологическом порядке действие и содержит три целых числа <span class="tex-span"><i>u</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>u</i><sub class="lower-index"><i>i</i></sub>, <i>v</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span">1 ≤ <i>k</i><sub class="lower-index"><i>i</i></sub> ≤ 5</span>) — номер полки, с которой Винни взял горшочки, номер полки, на которую Винни поставил горшочки после того, как попробовал мед из каждого из них, и количество горшочков, из которых Винни-Пух попробовал мёд, соответственно.</p><p>Считайте, что полки с горшочками пронумерованы целыми числами от 1 до <span class="tex-span"><i>n</i></span>. Гарантируется, что Винни-Пух никогда не пытался брать с полки больше горшков, чем на ней находится.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого действия Винни-Пуха выведите величину математического ожидания <span class="tex-span"><i>m</i></span> на момент окончания выполнения этого действия. Относительная или абсолютная погрешность каждого значения не должна превышать <span class="tex-span">10<sup class="upper-index"> - 9</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />2 2 3<br />5<br />1 2 1<br />2 1 2<br />1 2 2<br />3 1 1<br />3 2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.000000000000<br />0.333333333333<br />1.000000000000<br />1.000000000000<br />2.000000000000<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Ежик и звезды</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>По вечерам Ежик ходил к Медвежонку в гости считать звезды. Они усаживались на бревнышке и, прихлебывая чай, смотрели на звездное небо. Оно висело над крышей, прямо за печной трубой. Справа от трубы были звезды Медвежонка, а слева — Ежика. Обычно, Ежик просто считал все звезды, поэтому он знает, что всего их <span class="tex-span"><i>n</i></span>. В этот раз он решил немного усложнить себе задачу. Он мысленно ввел систему координат: начало координат положил в точке пересечения крыши и трубы, ось <span class="tex-span"><i>OX</i></span> направил вдоль крыши влево, ось <span class="tex-span"><i>OY</i></span> — вдоль трубы вверх (см. рисунок). Ежик проводит два луча из начала координат под углами <span class="tex-span">α<sub class="lower-index">1</sub></span> и <span class="tex-span">α<sub class="lower-index">2</sub></span> к оси <span class="tex-span"><i>OX</i></span>.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/210ff858dc003aaa9b47bb5441c4ea69fdf60083.png" /> </center></p><p>Теперь он выбирает любую из звезд, лежащих строго между этими лучами. После этого он опять проводит лучи, выходящие из этой звезды, под теми же углами <span class="tex-span">α<sub class="lower-index">1</sub></span> и <span class="tex-span">α<sub class="lower-index">2</sub></span> к оси <span class="tex-span"><i>OX</i></span> и выбирает очередную звезду, лежащую строго между новыми лучами. Так он повторяет до тех пор, пока между лучами, выходящими из очередной звезды, есть еще звезды, которые он может выбрать. </p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/2ef72f99096487df17b21d9a38310c68df0c8520.png" /> </center></p><p>В итоге у Ежика получается цепочка звезд, до каждой из которых он может последовательно добраться действуя по установленным правилам.</p><p>Ваша задача — найти наибольшее количество звезд <span class="tex-span"><i>m</i></span>, которое может содержать цепочка, полученная Ежиком.</p><p>Обратите внимание, что цепочка обязательно должна начинаться в точке начала координат, которая не учитывается при подсчете количества звезд <span class="tex-span"><i>m</i></span> в цепочке.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество звезд. Во второй строке в виде обыкновенных дробей вам даны отношения «<span class="tex-span"><i>a</i></span>/<span class="tex-span"><i>b</i></span> <span class="tex-span"><i>c</i></span>/<span class="tex-span"><i>d</i></span>», такие что <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/447e283e0b6cfb35388504e1b8f72c174a0b3e1d.png" /> и <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/de46e7b6d97a5ef8bb0c6086ee8121f1da0bffc0.png" /> (<span class="tex-span">0 ≤ <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i> ≤ 10<sup class="upper-index">5</sup></span>; <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/254cb0ef7494ebb0abad2f2e73ab275e64cb8eb3.png" />; <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/45ce45f66ad28ce761b633b57d14e70d93829455.png" />; <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/35d78a8352f7c8821699c80d32f4cca0647a043b.png" />). Заданные числа <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span>, <span class="tex-span"><i>c</i></span>, <span class="tex-span"><i>d</i></span> — целые.</p><p>В следующих <span class="tex-span"><i>n</i></span> строках даны пары целых чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>)— координаты звезд.</p><p>Гарантируется, что все звезды имеют различные координаты.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите число <span class="tex-span"><i>m</i></span> — ответ на задачу.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>15<br />1/3 2/1<br />3 1<br />6 2<br />4 2<br />2 5<br />4 5<br />6 6<br />3 4<br />1 6<br />2 1<br />7 4<br />9 3<br />5 3<br />1 3<br />15 5<br />12 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В примере длиннейшая цепочка, которую может составить Ежик, включает в себя четыре звезды. Обратите внимание, что звезды, лежащие на проводимых Ежиком лучах, не могут быть выбраны.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/6ff2dfed33b02e59eafc2bb74fca25d058ebd3b7.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Бесконечная матрица</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Алиса Селезнёва, как и любая другая школьница конца 21 века, интересуется наукой. Недавно она посетила МИВ (Московский Институт Времени), где его глава и один из изобретателей машины времени Академик Петров рассказал ей о том, как устроена машина времени.</p><p>Во время демонстрации работы машины времени Алиса заметила, что эта машина не обладает высоким быстродействием и заинтересовалась причиной такого недостатка устройства. Как выяснилось при детальном изучении, одна из задач, решение которой необходимо для работы машины времени, решается не оптимальным алгоритмом. Если найти способ решать такую задачу оптимально, то машина времени будет работать быстрее и расходовать меньше энергии.</p><p>Задача, которую не может решить оптимально ни один из сотрудников, заключается в следующем. Существует матрица <span class="tex-span"><i>a</i></span>, которая заполняется по следующему правилу:</p><p>Ячейки заполняются последовательными целыми положительными числами, начиная с единицы. Причем <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i>, <i>j</i></sub> &lt; <i>a</i><sub class="lower-index"><i>t</i>, <i>k</i></sub></span> (<span class="tex-span"><i>i</i>, <i>j</i>, <i>t</i>, <i>k</i> ≥ 1</span>) если:</p><p><ol> <li> <span class="tex-span"><i>max</i>(<i>i</i>, <i>j</i>) &lt; <i>max</i>(<i>t</i>, <i>k</i>)</span>; </li><li> <span class="tex-span"><i>max</i>(<i>i</i>, <i>j</i>) = <i>max</i>(<i>t</i>, <i>k</i>)</span> и <span class="tex-span"><i>j</i> &lt; <i>k</i></span>; </li><li> <span class="tex-span"><i>max</i>(<i>i</i>, <i>j</i>) = <i>max</i>(<i>t</i>, <i>k</i>)</span>, <span class="tex-span"><i>j</i> = <i>k</i></span> и <span class="tex-span"><i>i</i> &gt; <i>t</i></span>. </li></ol></p><p>Так, после того, как будут поставлены первые <span class="tex-span">36</span> чисел, матрица <span class="tex-span"><i>a</i></span> примет следующий вид:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/d29625396c5a66862219867fe0722c246724541d.png" /> </center></p><p>Для решения задачи необходимо научиться достаточно быстро находить для заданных значений <span class="tex-span"><i>x</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index">2</sub></span> (<span class="tex-span"><i>x</i><sub class="lower-index">1</sub> ≤ <i>x</i><sub class="lower-index">2</sub>, <i>y</i><sub class="lower-index">1</sub> ≤ <i>y</i><sub class="lower-index">2</sub></span>) значение выражения:</p><p><center class="tex-equation"><img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/94c30c938cfe895f10e965c38eaded3f1a3707c0.png" /></center></p><p>Так как значение этого выражения может быть очень большим, достаточно знать только последние <span class="tex-span">10</span> цифр искомого значения.</p><p>Итак, никто в МИВ не может решить поставленную задачу. Алиса отважилась воспользоваться машиной времени и отправиться в прошлое, чтобы обратиться за помощью к Вам.</p><p>Ваша задача — написать программу, которая по заданными значениям <span class="tex-span"><i>x</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index">2</sub></span> находит последние <span class="tex-span">10</span> цифр заданного выражения.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных находится единственное целое число <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>t</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество тестовых наборов, для которых необходимо решить задачу. </p><p>Каждая из последующих <span class="tex-span"><i>t</i></span> строк содержит описание очередного тестового набора — четыре целых положительных числа <span class="tex-span"><i>x</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index">2</sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index">1</sub> ≤ <i>x</i><sub class="lower-index">2</sub> ≤ 10<sup class="upper-index">9</sup>, 1 ≤ <i>y</i><sub class="lower-index">1</sub> ≤ <i>y</i><sub class="lower-index">2</sub> ≤ 10<sup class="upper-index">9</sup></span>), разделенных пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого из запросов выведите значение выражения, если оно содержит не более <span class="tex-span">10</span> знаков. Иначе выведите три символа «<span class="tex-font-style-tt">.</span>» (без кавычек), а затем десять последних цифр значения выражения. Выводите ответ для каждого запроса на отдельной строке. Как можно более точно придерживайтесь формата, указанного в примере.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 1 1 1<br />2 2 3 3<br />2 3 5 6<br />100 87 288 2002<br />4 2 5 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />24<br />300<br />...5679392764<br />111<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

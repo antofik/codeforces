@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="8a1h03h341844dd0h8361h3b8afd309g"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="ssvzs8dooqn2"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='8a1h03h341844dd0h8361h3b8afd309g'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #64</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Печеньки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Клычок — коллекционер печенек. Однажды он решил взять коробку и уложить в нее печеньки некоторым образом. Если взять квадрат размера <span class="tex-span"><i>k</i> × <i>k</i></span>, разбитый на клетки размера <span class="tex-span">1 × 1</span> и закрасить в нем главную диагональ вместе с клетками, лежащими выше нее, то закрашенная область будет равна области, занимаемой одной печенькой размера <span class="tex-span"><i>k</i></span>. У Клычка так же есть коробка с квадратным основанием <span class="tex-span">2<sup class="upper-index"><i>n</i></sup> × 2<sup class="upper-index"><i>n</i></sup></span>, разбитая на клетки размера <span class="tex-span">1 × 1</span>. В коробке печеньки не должны перекрываться, и их нельзя переворачивать или поворачивать. На рисунках изображены печеньки размера <span class="tex-span">2</span> и <span class="tex-span">4</span> соответственно:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/70aa0ac6c7fc89720c6c9afecd519aea52c62a1c.png" /> </center></p><p>Для укладки печенек маленький морж использует следующий алгоритм. Он берет из хранилища самую большую печеньку, которая может поместиться на некоторое место в коробке, и кладет ее туда. Все бы хорошо, но у маленького моржа в хранилище есть бесконечно много печенек размера <span class="tex-span">2</span> и больше, а печеньки размера <span class="tex-span">1</span> отсутствуют, следовательно, в коробке останутся пустые клетки. Его интересует, сколько же пустых клеток окажется в итоге.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 1000</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число, равное количеству пустых клеток в коробке. Ответ следует вывести по модулю <span class="tex-span">10<sup class="upper-index">6</sup> + 3</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Если коробка имеет основание <span class="tex-span">2<sup class="upper-index">3</sup> × 2<sup class="upper-index">3</sup></span> (как в примере), то печеньки в нее будут уложены следующим образом: <center><img class="tex-graphics" src="http://codeforces.ru/renderer/f753f6b8573ff0efacc4aadca43dd2668f20bc20.png" /></center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. SMS</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленький морж Клычок, как и все современные моржи, любит общаться с помощью SMS. Однажды он столкнулся с проблемой, что при отправке больших текстов они разделяются на части по <span class="tex-span"><i>n</i></span> символов (размер одного SMS сообщения), и разрываются целые предложения или даже слова! </p><p>Клычку это не понравилось, и перед ним встала задача разбить текст на сообщения самостоятельно таким образом, чтобы ни одно предложение не было разбито на части при отправке, и количество SMS сообщений для отправки было бы минимальным. Если два подряд идущих предложения находятся в разных сообщениях, то пробел между ними можно не учитывать (Клычок этот пробел не набирает).</p><p>Текст маленького моржа имеет следующий вид: <pre>TEXT ::= SENTENCE | SENTENCE SPACE TEXT<br />SENTENCE ::= WORD SPACE SENTENCE | WORD END<br />END ::= {'.', '?', '!'}<br />WORD ::= LETTER | LETTER WORD<br />LETTER ::= {'a'..'z', 'A'..'Z'}<br />SPACE ::= ' '<br /></pre></p><p>Под SPACE следует подразумевать символ пробела.</p><p>Сколько же сообщений отправил Клычок?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задается целое число <span class="tex-span"><i>n</i></span> — размер одного сообщения (<span class="tex-span">2 ≤ <i>n</i> ≤ 255</span>). В следующей строке находится сам текст. Длина текста не превышает <span class="tex-span">10<sup class="upper-index">4</sup></span> символов. Гарантируется, что текст удовлетворяет описанному выше формату. В частности, из этого следует, что текст не пуст.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой и единственной строке выведите количество SMS сообщений, которое потребуется Клычку. Если разбить текст невозможно, выведите &quot;<span class="tex-font-style-tt">Impossible</span>&quot; без кавычек.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>25<br />Hello. I am a little walrus.<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />How are you?<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Impossible<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>19<br />Hello! Do you like fish? Why?<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим третий пример. Текст будет разбит на 3 сообщения: &quot;<span class="tex-font-style-tt">Hello!</span>&quot;, &quot;<span class="tex-font-style-tt">Do you like fish?</span>&quot; и &quot;<span class="tex-font-style-tt">Why?</span>&quot;.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Счастливые билеты</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Моржландии билеты общественного транспорта характеризуются двумя целыми числами: номером серии и номером билета в этой серии. Пусть номер серии будет обозначаться <span class="tex-span"><i>a</i></span>, а номер билета — <span class="tex-span"><i>b</i></span>, тогда билет описывается упорядоченной парой чисел <span class="tex-span">(<i>a</i>, <i>b</i>)</span>. </p><p>У моржей существует примета, что билет счастливый, если <span class="tex-span"><i>a</i> * <i>b</i> = <i>rev</i>(<i>a</i>) * <i>rev</i>(<i>b</i>)</span>. Функция <span class="tex-span"><i>rev</i>(<i>x</i>)</span> переворачивает число, записанное в десятичной системе счисления, при этом ведущие нули исчезают. Например, <span class="tex-span"><i>rev</i>(12343) = 34321</span>, <span class="tex-span"><i>rev</i>(1200) = 21</span>.</p><p>Комитет управления общественным транспортом хочет выпустить <span class="tex-span"><i>x</i></span> серий, по <span class="tex-span"><i>y</i></span> билетов в каждой, так, чтобы всего было выпущено как минимум <span class="tex-span"><i>w</i></span> счастливых билетов, а общее количество выпущенных билетов (<span class="tex-span"><i>x</i>·<i>y</i></span>) было минимально. Серии нумеруются от <span class="tex-span">1</span> до <span class="tex-span"><i>x</i></span> (включительно), билеты в каждой нумеруются от <span class="tex-span">1</span> до <span class="tex-span"><i>y</i></span> (включительно). Транспортный комитет не может выпускать более <span class="tex-span"><i>max</i><sub class="lower-index"><i>x</i></sub></span> серий и более <span class="tex-span"><i>max</i><sub class="lower-index"><i>y</i></sub></span> билетов в одной серии.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны три целых числа <span class="tex-span"><i>max</i><sub class="lower-index"><i>x</i></sub></span>, <span class="tex-span"><i>max</i><sub class="lower-index"><i>y</i></sub></span>, <span class="tex-span"><i>w</i></span> (<span class="tex-span">1 ≤ <i>max</i><sub class="lower-index"><i>x</i></sub>, <i>max</i><sub class="lower-index"><i>y</i></sub> ≤ 10<sup class="upper-index">5</sup></span>, <span class="tex-span">1 ≤ <i>w</i> ≤ 10<sup class="upper-index">7</sup></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите в единственной строке через пробел пару чисел <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span>, если возможных ответов несколько — выведите любой. Если таких <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> не существует — выведите единственное число <span class="tex-span"> - 1</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 1</pre></div><div class="input"><div class="title">Входные данные</div><pre>132 10 35<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>7 5</pre></div><div class="input"><div class="title">Входные данные</div><pre>5 18 1000<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>48 132 235<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>22 111</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Лабораторная работа</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды морж-профессор Платон задал студентам-программистам следующую лабораторную работу.</p><p>В лабораторной работе требовалось реализовать такую структуру данных, которая поддерживала бы выпуклую оболочку на некотором множестве точек <span class="tex-span"><i>S</i></span>. На вход программе подавалось <span class="tex-span"><i>q</i></span> запросов двух типов:</p><p>1. Добавить точку с координатами <span class="tex-span">(<i>x</i>, <i>y</i>)</span> во множество <span class="tex-span"><i>S</i></span>. Заметьте, что при этом выпуклая оболочка множества <span class="tex-span"><i>S</i></span> могла измениться, а могла остаться прежней.</p><p>2. Сказать, принадлежит ли точка с координатами <span class="tex-span">(<i>x</i>, <i>y</i>)</span> области, ограниченной выпуклой оболочкой, включая границу.</p><p>Все студенты справились с заданием. А справитесь ли с ним Вы?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится целое число <span class="tex-span"><i>q</i></span> (<span class="tex-span">4 ≤ <i>q</i> ≤ 10<sup class="upper-index">5</sup></span>). </p><p>Далее идут <span class="tex-span"><i>q</i></span> строк вида &quot;<span class="tex-span"><i>t</i></span> <span class="tex-span"><i>x</i></span> <span class="tex-span"><i>y</i></span>&quot;, где <span class="tex-span"><i>t</i></span> — тип запроса (1 или 2), а <span class="tex-span">(<i>x</i>, <i>y</i>)</span> — координаты точки (<span class="tex-span"> - 10<sup class="upper-index">6</sup> ≤ <i>x</i>, <i>y</i> ≤ 10<sup class="upper-index">6</sup></span>, <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> — целые числа). </p><p>Гарантируется, что первыми идут 3 запроса первого типа, и точки, данные в этих запросах, образуют невырожденный треугольник. Все точки, добавляемые в <span class="tex-span"><i>S</i></span>, различны.</p><p>Существует хотя бы один запрос второго типа.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>На каждый запрос второго типа выведите по одной строке, содержащей &quot;<span class="tex-font-style-tt">YES</span>&quot;, если точка лежит внутри выпуклой оболочки или на ее границе, и &quot;<span class="tex-font-style-tt">NO</span>&quot; в противном случае.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>8<br />1 0 0<br />1 2 0<br />1 2 2<br />2 1 0<br />1 0 2<br />2 1 1<br />2 2 1<br />2 20 -1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br />YES<br />YES<br />NO<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Информационная реформа</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Несмотря на то, что уже XXI век на дворе, СМИ в Моржландии не сильно распространены. Оповещение городов ведется с помощью гонцов которые могут путешествовать только по дорогам. Сеть дорог в Моржландии устроена так, что от каждого города до любого другого можно добраться ровно одним способом, и длины дорог равны между собой.</p><p>Решением правителя Северного Полюса было принято провести информационную реформу. Было решено выбрать несколько городов и назначить их областными центрами. На обслуживание областного центра приходится тратить <span class="tex-span"><i>k</i></span> рыбликов (местная валюта) в год. Считается, что областной центр всегда имеет информацию о последних новостях. </p><p>Каждому городу, не являющемуся областным центром, было принято решение назначить областной центр, который будет отвечать за информированность этого города. В таком случае затраты на обслуживание равняются <span class="tex-span"><i>d</i><sub class="lower-index"><i>len</i></sub></span> рыбликам в год, где <span class="tex-span"><i>len</i></span> — расстояние от города до соответствующего областного центра, измеряемое в количестве дорог, которые надо проехать.</p><p>Ваша задача минимизировать расходы на проведение реформы.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 180, 1 ≤ <i>k</i> ≤ 10<sup class="upper-index">5</sup></span>).</p><p>Во второй строке записано <span class="tex-span"><i>n</i> - 1</span> целых чисел <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span>, нумерующихся с единицы (<span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub> ≤ <i>d</i><sub class="lower-index"><i>i</i> + 1</sub>, 0 ≤ <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>).</p><p>В следующих <span class="tex-span"><i>n</i> - 1</span> строках заданы пары номеров городов соединенных дорогой.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите минимальное количество рыбликов, затрачиваемых на обслуживание за один год. Во второй строке выведите <span class="tex-span"><i>n</i></span> чисел, где <span class="tex-span"><i>i</i></span>-ое число будет обозначать номер областного центра, который был назначен <span class="tex-span"><i>i</i></span>-ому городу. Если <span class="tex-span"><i>i</i></span>-й город сам является областным центром, то следует вывести число <span class="tex-span"><i>i</i></span>.</p><p>Если решений несколько, выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>8 10<br />2 5 9 11 15 19 20<br />1 4<br />1 3<br />1 7<br />4 6<br />2 8<br />2 3<br />3 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>38<br />3 3 3 4 3 4 3 3 </pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

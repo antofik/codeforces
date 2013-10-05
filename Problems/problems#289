@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="4280e8e7d139e505ge9bh53h3aeg2740"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1efvmluqpb7ij"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='4280e8e7d139e505ge9bh53h3aeg2740'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #177 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Пингвин Поло и отрезки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленький пингвин Поло очень любит целочисленные отрезки, то есть пары целых чисел <span class="tex-span">[<i>l</i>; <i>r</i>]</span> <span class="tex-span">(<i>l</i> ≤ <i>r</i>)</span>. </p><p>У него есть множество, состоящее из <span class="tex-span"><i>n</i></span> целочисленных отрезков: <span class="tex-span">[<i>l</i><sub class="lower-index">1</sub>; <i>r</i><sub class="lower-index">1</sub>], [<i>l</i><sub class="lower-index">2</sub>; <i>r</i><sub class="lower-index">2</sub>], ..., [<i>l</i><sub class="lower-index"><i>n</i></sub>; <i>r</i><sub class="lower-index"><i>n</i></sub>]</span>. Известно, что никакие два отрезка этого множества не пересекаются. За один шаг Поло может расширить любой отрезок множества на 1 влево или на 1 вправо, то есть из отрезка <span class="tex-span">[<i>l</i>; <i>r</i>]</span> получить либо отрезок <span class="tex-span">[<i>l</i> - 1; <i>r</i>]</span>, либо — <span class="tex-span">[<i>l</i>; <i>r</i> + 1]</span>.</p><p><span class="tex-font-style-it">Величиной</span> множества отрезков, состоящего из <span class="tex-span"><i>n</i></span> отрезков <span class="tex-span">[<i>l</i><sub class="lower-index">1</sub>; <i>r</i><sub class="lower-index">1</sub>], [<i>l</i><sub class="lower-index">2</sub>; <i>r</i><sub class="lower-index">2</sub>], ..., [<i>l</i><sub class="lower-index"><i>n</i></sub>; <i>r</i><sub class="lower-index"><i>n</i></sub>]</span>, назовем количество целых чисел <span class="tex-span"><i>x</i></span> таких, что существует целое число <span class="tex-span"><i>j</i></span>, для которого выполняется неравенство, <span class="tex-span"><i>l</i><sub class="lower-index"><i>j</i></sub> ≤ <i>x</i> ≤ <i>r</i><sub class="lower-index"><i>j</i></sub></span>.</p><p>Найдите минимальное количество шагов, которое требуется, чтобы величина множества отрезков Поло делилась на <span class="tex-span"><i>k</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>k</i> ≤ 10<sup class="upper-index">5</sup>)</span>. В каждой из следующих <span class="tex-span"><i>n</i></span> строк задан отрезок в виде пары целых чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">( - 10<sup class="upper-index">5</sup> ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup>)</span>, записанных через пробел.</p><p>Гарантируется, что никакие два отрезка не пересекаются. Другими словами, для любых двух целых чисел <span class="tex-span"><i>i</i>, <i>j</i></span> <span class="tex-span">(1 ≤ <i>i</i> &lt; <i>j</i> ≤ <i>n</i>)</span> выполняется неравенство, <span class="tex-span"><i>min</i>(<i>r</i><sub class="lower-index"><i>i</i></sub>, <i>r</i><sub class="lower-index"><i>j</i></sub>) &lt; <i>max</i>(<i>l</i><sub class="lower-index"><i>i</i></sub>, <i>l</i><sub class="lower-index"><i>j</i></sub>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите целое число — ответ на задачу.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 3<br />1 2<br />3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 7<br />1 2<br />3 3<br />4 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Пингвин Поло и матрица</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У маленького пингвина Поло есть матрица <span class="tex-span"><i>n</i> × <i>m</i></span>, состоящая из целых чисел. Пронумеруем строки матрицы от 1 до <span class="tex-span"><i>n</i></span> сверху вниз, а столбцы от 1 до <span class="tex-span"><i>m</i></span> слева направо. Обозначим через <span class="tex-span"><i>a</i><sub class="lower-index"><i>ij</i></sub></span> элемент матрицы, стоящий на пересечении <span class="tex-span"><i>i</i></span>-ой строки и <span class="tex-span"><i>j</i></span>-го столбца.</p><p>За один шаг пингвин может добавить к любому элементу матрицы или отнять от любого элемента матрицы число <span class="tex-span"><i>d</i></span>. Найдите минимальное количество шагов, которое требуется для того, чтобы все элементы матрицы были равны между собой. Если описанное невозможно, сообщите об этом.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>d</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>m</i> ≤ 100, 1 ≤ <i>d</i> ≤ 10<sup class="upper-index">4</sup>)</span> — размеры матрицы и параметр <span class="tex-span"><i>d</i></span>. В следующих <span class="tex-span"><i>n</i></span> строках записана матрица: <span class="tex-span"><i>j</i></span>-тое целое число в <span class="tex-span"><i>i</i></span>-той строке — элемент матрицы <span class="tex-span"><i>a</i><sub class="lower-index"><i>ij</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>ij</i></sub> ≤ 10<sup class="upper-index">4</sup>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите целое число — минимальное количество шагов, которое требуется для того, чтобы все элементы матрицы были равны между собой. Если описанное невозможно, выведите «<span class="tex-font-style-tt">-1</span>» (без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 2 2<br />2 4<br />6 8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1 2 7<br />6 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Пингвин Поло и строки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленький пингвин Поло очень любит строки. Но больше всего он любит строки длины <span class="tex-span"><i>n</i></span>.</p><p>Однажды он захотел найти строку, которая удовлетворяет следующим условиям:</p><p><ol> <li> Строка состоит из <span class="tex-span"><i>n</i></span> строчных латинских букв (то есть длина строки равна <span class="tex-span"><i>n</i></span>), среди этих букв ровно <span class="tex-span"><i>k</i></span> различных. </li><li> Никакие две соседние буквы строки не совпадают; то есть, если обозначить строку как <span class="tex-span"><i>s</i> = <i>s</i><sub class="lower-index">1</sub><i>s</i><sub class="lower-index">2</sub>... <i>s</i><sub class="lower-index"><i>n</i></sub></span>, то выполняется неравенство, <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub> ≠ <i>s</i><sub class="lower-index"><i>i</i> + 1</sub>(1 ≤ <i>i</i> &lt; <i>n</i>)</span>. </li><li> Среди всех строк, удовлетворяющих пунктам 1 и 2, искомая строка лексикографически минимальная. </li></ol></p><p>Помогите ему найти такую строку или сообщите, что такой строки нет.</p><p>Строка <span class="tex-span"><i>x</i> = <i>x</i><sub class="lower-index">1</sub><i>x</i><sub class="lower-index">2</sub>... <i>x</i><sub class="lower-index"><i>p</i></sub></span> <span class="tex-font-style-it">лексикографически меньше</span> строки <span class="tex-span"><i>y</i> = <i>y</i><sub class="lower-index">1</sub><i>y</i><sub class="lower-index">2</sub>... <i>y</i><sub class="lower-index"><i>q</i></sub></span>, если либо <span class="tex-span"><i>p</i> &lt; <i>q</i></span> и <span class="tex-span"><i>x</i><sub class="lower-index">1</sub> = <i>y</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub> = <i>y</i><sub class="lower-index">2</sub>, ... , <i>x</i><sub class="lower-index"><i>p</i></sub> = <i>y</i><sub class="lower-index"><i>p</i></sub></span>, либо существует такое число <span class="tex-span"><i>r</i></span> <span class="tex-span">(<i>r</i> &lt; <i>p</i>, <i>r</i> &lt; <i>q</i>)</span>, что <span class="tex-span"><i>x</i><sub class="lower-index">1</sub> = <i>y</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub> = <i>y</i><sub class="lower-index">2</sub>, ... , <i>x</i><sub class="lower-index"><i>r</i></sub> = <i>y</i><sub class="lower-index"><i>r</i></sub></span> и <span class="tex-span"><i>x</i><sub class="lower-index"><i>r</i> + 1</sub> &lt; <i>y</i><sub class="lower-index"><i>r</i> + 1</sub></span>. Символы строк сравниваются как их ASCII коды.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке записаны два целых положительных числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">6</sup>, 1 ≤ <i>k</i> ≤ 26)</span> — длина строки и количество различных букв.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите искомую строку. Если такой строки нет, выведите «<span class="tex-font-style-tt">-1</span>» (без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>7 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>ababacd<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Пингвин Поло и дома</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленький пингвин Поло любит свою родную деревню. В этой деревне <span class="tex-span"><i>n</i></span> домов, пронумерованных целыми числами от 1 до <span class="tex-span"><i>n</i></span>. На каждом доме висит табличка с целым числом, на <span class="tex-span"><i>i</i></span>-том доме висит табличка с целым числом <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>p</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>).</p><p>Маленький пингвин Поло очень любит гулять по этой деревне. Прогулка выглядит следующим образом. Сначала он стоит около дома с номером <span class="tex-span"><i>x</i></span>. Потом пингвин идет к дому, номер которого написан на табличке дома <span class="tex-span"><i>x</i></span> (то есть к дому <span class="tex-span"><i>p</i><sub class="lower-index"><i>x</i></sub></span>), затем к дому, номер которого написан на табличке дома <span class="tex-span"><i>p</i><sub class="lower-index"><i>x</i></sub></span> (то есть к дому <span class="tex-span"><i>p</i><sub class="lower-index"><i>p</i><sub class="lower-index"><i>x</i></sub></sub></span>), и так далее.</p><p>Известно, что:</p><p><ol> <li> Начав прогулку от любого дома с номером от 1 до <span class="tex-span"><i>k</i></span>, включительно, он может дойти до дома с номером 1. </li><li> Начав прогулку от любого дома с номером от <span class="tex-span"><i>k</i> + 1</span> до <span class="tex-span"><i>n</i></span>, включительно, он точно не может дойти до дома с номером 1. </li><li> Начав прогулку от дома с номером 1, пингвин Поло может попасть обратно к дому с номером 1 через некоторое ненулевое количество переходов от дома к дому. </li></ol></p><p>Вам нужно найти, сколькими способами можно написать числа на табличках домов, чтобы описанные выше три условия выполнялись. Выведите остаток от деления этого количества на <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке через пробел заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 1000, 1 ≤ <i>k</i> ≤ <i>min</i>(8, <i>n</i>)</span>) — количество домов и число <span class="tex-span"><i>k</i></span> из условия.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите целое число — ответ на задачу по модулю <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>54<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>7 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1728<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Пингвин Поло и операция XOR</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Пингвин Поло очень любит перестановки. Но больше всего он любит перестановки целых чисел от <span class="tex-span">0</span> до <span class="tex-span"><i>n</i></span>, включительно.</p><p>Для перестановки <span class="tex-span"><i>p</i> = <i>p</i><sub class="lower-index">0</sub>, <i>p</i><sub class="lower-index">1</sub>, ..., <i>p</i><sub class="lower-index"><i>n</i></sub></span> Поло определил ее красоту — число <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/0c51fe5d835015fdb8b8dbb056e9a83c439c83dc.png" />.</p><p>Выражение <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/b364f2e04c665b78b924ec10666327a4ef4635bc.png" /> обозначает применение операции побитового исключающего «ИЛИ» к числам <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span>. Данная операция есть во всех современных языках программирования, например, в языке <span class="tex-font-style-it">C++</span> и <span class="tex-font-style-it">Java</span> она обозначается символом «<span class="tex-font-style-tt">^</span>», в <span class="tex-font-style-it">Pascal</span> — «<span class="tex-font-style-tt">xor</span>».</p><p>Помогите ему найти среди всех перестановок целых чисел от <span class="tex-span">0</span> до <span class="tex-span"><i>n</i></span> перестановку с максимальной красотой.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке задано целое положительное число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">6</sup></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите целое число <span class="tex-span"><i>m</i></span> — максимально возможную красоту, в следующей строке выведите любую перестановку целых чисел от <span class="tex-span">0</span> до <span class="tex-span"><i>n</i></span>, красота которой равна <span class="tex-span"><i>m</i></span>.</p><p>Если существует несколько подходящих перестановок, разрешается вывести любую.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>20<br />0 2 1 4 3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

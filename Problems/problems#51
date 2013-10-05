@@ -1,0 +1,381 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="24d29da86c9agh9h11dcdg2c524g351e"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1fu1cs9gbz26x"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='24d29da86c9agh9h11dcdg2c524g351e'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #48</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Задача Читериуса</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Читериус — знаменитый на всю Берляндию астролог, маг, волшебник, а также обманщик и пройдоха. Одно из последних его изобретений — амулеты Читериуса! Они приносят удачу и здоровье, однако стоят немалых денег. Читериус изготавливает их сам. Секрет изготовления храниться в глубокой тайне. Но мы то знаем, что долгими ночами Читериус склеивает супер-клеем доминошки по две, чтобы получать квадратики <span class="tex-span">2 × 2</span> — волшебные амулеты Читериуса! <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/32c49b4a35af64883bc299e4a1ae0f44ea4d63c8.png" />  <span class="tex-font-size-small">Так выглядит один из амулетов Читериуса</span> </center></p><p>После тяжелой трудовой ночи Читериус изготовил <span class="tex-span"><i>n</i></span> амулетов. Каждый из них представляет собой квадрат <span class="tex-span">2 × 2</span>, каждая четвертинка содержит от 1 до 6 точек. Теперь он хочет разложить их в стопки, каждая стопка должна содержать одинаковые амулеты. Два амулета называются одинаковыми, если их можно повернуть так, что после наложения их друг на друга количества точек в соответствующих четвертинках окажется равным. Переворачивать амулеты нельзя.</p><p>Напишите программу, которая по заданным амулетам найдет количество стопок на столе Читериуса.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 1000</span>), <span class="tex-span"><i>n</i></span> — количество амулетов. Далее содержатся описания амулетов. Каждое описание занимает две строки и содержит по две цифры (от 1 до 6) в каждой из строк. Между каждой парой амулетов находится строка «<span class="tex-font-style-tt">**</span>».</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите искомое количество стопок.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />31<br />23<br />**<br />31<br />23<br />**<br />13<br />32<br />**<br />32<br />13<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />51<br />26<br />**<br />54<br />35<br />**<br />25<br />61<br />**<br />45<br />53<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Анализ таблиц bHTML</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В этой задаче используется крайне упрощенный вариант разметки таблиц средствами HTML. Пожалуйста, используйте условие как формальный документ.</p><p>Строка определяет таблицу bHTML, если имеет вид:<pre><br />TABLE ::= &lt;table&gt;ROWS&lt;/table&gt;<br />ROWS ::= ROW | ROW ROWS<br />ROW ::= &lt;tr&gt;CELLS&lt;/tr&gt;<br />CELLS ::= CELL | CELL CELLS<br />CELL ::= &lt;td&gt;&lt;/td&gt; | &lt;td&gt;TABLE&lt;/td&gt;<br /></pre></p><p>Пробелы в грамматике заданы исключительно для наглядности, при записи таблиц они не используются. Иными словами, таблицы в bHTML очень похожи на обычные таблицы HTML в которых только участвуют теги «<span class="tex-font-style-tt">table</span>», «<span class="tex-font-style-tt">tr</span>», «<span class="tex-font-style-tt">td</span>», все теги парные и таблица содержит хотя бы одну строку и хотя бы одну ячейку в каждой строке. Посмотрите тесты из условия в качестве примеров таблиц.</p><p>Как видно, таблицы могут вкладываться друг в друга. Вам задана одна таблица (в которую, возможно, вложены другие). Вам надо написать программу, которая проанализирует все таблицы и найдет для каждой из них количество ее ячеек. Таблицы не обязаны быть прямоугольными.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Для удобства входные данные могут быть разбиты на непустые строки произвольным образом. Входные данные состоят из не более чем 10 строк. Объедините все строки входных данных в одну, чтобы получить текстовое представление <span class="tex-span"><i>s</i></span> заданной таблицы. Текстовое <span class="tex-span"><i>s</i></span> представление соответствует грамматике из условия (корневой элемент грамматики TABLE), длина <span class="tex-span"><i>s</i></span> не превосходит 5000. Используются только строчные буквы при записи тегов, пробелов в строках нет.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите размеры всех таблиц во входных данных в порядке неубывания.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 </pre></div><br /><br /><div class="input"><div class="title">Входные данные</div><pre>&lt;table&gt;<br />&lt;tr&gt;<br />&lt;td&gt;<br />&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/<br />td<br />&gt;&lt;/tr&gt;&lt;tr<br />&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br />&lt;/td&gt;<br />&lt;/tr&gt;<br />&lt;/table&gt;<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 4 </pre></div><br /><br /><div class="input"><div class="title">Входные данные</div><pre>&lt;table&gt;&lt;tr&gt;&lt;td&gt;<br />&lt;table&gt;&lt;tr&gt;&lt;td&gt;<br />&lt;table&gt;&lt;tr&gt;&lt;td&gt;<br />&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;<br />&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br />&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br />&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br />&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 1 1 3 </pre></div><br /></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Три базовых станции</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Деревня Нью-Васюки вытянута вдоль автомобильной трассы и поэтому каждый город на ней характеризуется своим смещением относительно некоторой фиксированной точки — координатой <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>. Деревня состоит из <span class="tex-span"><i>n</i></span> домов, <span class="tex-span"><i>i</i></span>-ый дом расположен в точке с координатой <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>.</p><p>Провайдер сотовой связи TELE3 запланировал разместить три базовых станции таким образом, чтобы покрыть связью каждый дом в деревне. Базовая станция мощности <span class="tex-span"><i>d</i></span>, размещенная в точке <span class="tex-span"><i>t</i></span>, покрывает связью дома в отрезке <span class="tex-span">[<i>t</i> - <i>d</i>, <i>t</i> + <i>d</i>]</span> (включая границы).</p><p>Для упрощения монтажа (да и просто «чтобы не перепутать») планируется, что все три станции будут иметь одинаковую мощность <span class="tex-span"><i>d</i></span>. Какое минимальное значение <span class="tex-span"><i>d</i></span> достаточно, чтобы покрыть связью все дома в деревне.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 2·10<sup class="upper-index">5</sup></span>) — количество домов в деревне. Вторая строка содержит координаты домов — последовательность <span class="tex-span"><i>x</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub>, ..., <i>x</i><sub class="lower-index"><i>n</i></sub></span> целых чисел (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>). Возможно, что два или более города расположены в одной точке. Координаты заданы в произвольном порядке.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите искомую минимальную мощность <span class="tex-span"><i>d</i></span>. Во вторую строку выведите три числа — возможные координаты расположения базовых станций. Выводите координаты с 6 цифрами после десятичной точки. Позиции станций могут быть любыми от <span class="tex-span">0</span> до <span class="tex-span">2·10<sup class="upper-index">9</sup></span> включительно. Допускается, чтобы базовые станции имели совпадающие координаты. Если решений несколько, выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />1 2 3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.500000<br />1.500000 2.500000 3.500000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />10 20 30<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br />10.000000 20.000000 30.000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />10003 10004 10001 10002 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.500000<br />1.000000 10001.500000 10003.500000<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Геометрическая задача</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 second</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Поликарп очень любит геометрические прогрессии — он их коллекционер. Но так как такие прогрессии попадаются крайне редко, то ему очень нравятся и такие последовательности чисел, в которых можно удалить один элемент, что в результате получается геометрическая прогрессия.</p><p>В этой задаче геометрическими прогрессиями будем называть такие конечные последовательности чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>k</i></sub></span>, что <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> = <i>c</i>·<i>b</i><sup class="upper-index"><i>i</i> - 1</sup></span> для некоторых вещественных чисел <span class="tex-span"><i>c</i></span> и <span class="tex-span"><i>b</i></span>. Например, последовательности [2, -4, 8], [0, 0, 0, 0], [199] — геометрические прогрессии, а [0, 1, 2, 3] — нет.</p><p>Недавно Поликарпу попалась последовательность и он никак не может ее классифицировать. Помогите ему в этом. Определите, является ли она геометрической прогрессией. Если нет, то проверьте, можно ли удалить из нее один элемент так, чтобы в результате она стала геометрической прогрессией.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество чисел в заданной последовательности. Вторая строка содержит заданную последовательность. Числа разделяются пробелами. Все элементы заданной последовательности — целые, не превосходящие по абсолютной величине <span class="tex-span">10<sup class="upper-index">4</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-font-style-tt">0</span>, если заданная последовательность является геометрической прогрессией. В противном случае проверьте, верно ли, что можно удалить один элемент так, чтобы она стала геометрической прогрессией. Если это так, то выведите <span class="tex-font-style-tt">1</span>. В случае, если это сделать невозможно, выведите <span class="tex-font-style-tt">2</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />3 6 12 24<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />-8 -16 24 -32<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />0 1 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Пентагон</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>10 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В соответствии с последним указом Президента Берляндии каждый город страны должен иметь собственное здание Министерства Обороны (свой собственный Пентагон). Мегаполис Бербург не стал исключением. В этом городе <span class="tex-span"><i>n</i></span> перекрестков, некоторые пары из которых соединены двунаправленными дорогами. Всего в городе <span class="tex-span"><i>m</i></span> дорог, между каждой парой перекрестков не более одной.</p><p>В настоящий момент обсуждается выбор места расположения Пентагона в Бербурге. Решено, что Пентагон должен занимать территорию пяти различных перекрестков, которые соединены в цикл дорогами. В порядке цикла по дорогам будет построена специальная стена (как и положено — с высоким напряжением, колючей проволокой и т.п.). Таким образом, количество возможных способов построить Пентагон в городе равно количеству различных циклов длины 5, составленных из перекрестков и дорог.</p><p>Ваша задача вывести количество способов построить Пентагон в Бербурге. Учтите, что в этой задаче пройдет только достаточно оптимизированное решение, так что обязательно протестируйте свой код на максимальном тесте.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 700;0 ≤ <i>m</i> ≤ <i>n</i>·(<i>n</i> - 1) / 2</span>), <span class="tex-span"><i>n</i></span> — количество перекрестков, а <span class="tex-span"><i>m</i></span> — количество дорог в городе. Далее в <span class="tex-span"><i>m</i></span> строках содержатся описания дорог, по одной дороге в строке. Каждая дорога задана парой целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>;<i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub></span>), где <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> — номера соединяемых дорогой перекрестков. Перекрестки занумерованы от 1 до <span class="tex-span"><i>n</i></span>. Не гарантируется, что из любого перекрестка можно добраться в любой другой, двигаясь по дорогам.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — искомое количество способов. Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 5<br />1 2<br />2 3<br />3 4<br />4 5<br />5 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 10<br />1 2<br />1 3<br />1 4<br />1 5<br />2 3<br />2 4<br />2 5<br />3 4<br />3 5<br />4 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F. Гусеница</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Неориентированный граф называется <span class="tex-font-style-it">гусеницей</span>, если он является связным графом без циклов, и в нем существует такой путь, что любая вершина находится на расстоянии не более 1 от него. Гусеница может содержать петли, но не может содержать кратных ребер.</p><p>На рисунке изображен пример гусеницы: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/ad29ae51c90ec4c521da69cb508ccd76ca47c427.png" /> </center></p><p>Вам задан неориентированный граф <span class="tex-span"><i>G</i></span> с которым можно производить операцию сжатия двух вершин в одну. Для этого выбираются любые две вершины графа <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> (<span class="tex-span"><i>a</i> ≠ <i>b</i></span>). Из графа удаляются обе эти вершины вместе с их ребрами (инцидентными хотя бы одной из вершин <span class="tex-span"><i>a</i></span> или <span class="tex-span"><i>b</i></span>), но добавляется новая вершина <span class="tex-span"><i>w</i></span> вместе с ребрами вида <span class="tex-span">(<i>x</i>, <i>w</i>)</span> для каждого ребра (<span class="tex-span"><i>a</i>, <i>w</i></span>) и (<span class="tex-span"><i>b</i>, <i>w</i></span>). Если в графе существовало ребро (<span class="tex-span"><i>a</i>, <i>b</i></span>), то оно преобразуется в петлю <span class="tex-span">(<i>w</i>, <i>w</i></span>). В результате операции слияния могут появляться кратные ребра и петли. Заметим, что эта операция уменьшает количество вершин графа на 1, но оставляет неизменным количество ребер в графе.</p><p>Операция сжатия двух вершин может быть неформально описана как объединение двух вершин графа в одну, с естественным преобразованием ребер графа.</p><p>С помощью последовательного применения описанной операции можно любой заданный неориентированный граф сделать гусеницей. Напишите программу, которая выведет наименьшее количество операций сжатия, чтобы заданный граф сделать гусеницей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится пара целых чисел <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 2000;0 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>), <span class="tex-span"><i>n</i></span> — количество вершин в графе, а <span class="tex-span"><i>m</i></span> — количество ребер в нем. Далее в <span class="tex-span"><i>m</i></span> строках заданы ребра графа, по одному ребру в строке. Каждая строка содержит пару целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>;<i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub></span>), <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub></span> — номера соединяемых ребром вершин. Вершины пронумерованы от 1 до <span class="tex-span"><i>n</i></span>. Между каждой парой вершин может быть не более одного ребра. Заданный граф не обязательно является связным.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите искомое наименьшее число операций.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 4<br />1 2<br />2 3<br />3 4<br />4 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 3<br />1 2<br />3 4<br />5 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>7 6<br />1 2<br />2 3<br />1 4<br />4 5<br />1 6<br />6 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

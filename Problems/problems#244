@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="eh64hg68173ehfb323g2332gfbhb97a3"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="6b5p8snjakrw"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='eh64hg68173ehfb323g2332gfbhb97a3'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #150 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Мы делили апельсин</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды тетя Света купила в магазине апельсин. Апельсин состоял из <span class="tex-span"><i>n</i>·<i>k</i></span> долек, пронумерованых целыми числами от 1 до <span class="tex-span"><i>n</i>·<i>k</i></span>. </p><p>Дома тетю Свету ждут <span class="tex-span"><i>k</i></span> ребятишек. Недавно ребята узнали, что она несет домой апельсин и решили заранее его поделить. Для этого каждый ребенок записал у себя на листочке номер дольки, которую он хотел бы получить: <span class="tex-span"><i>i</i></span>-ый <span class="tex-span">(1 ≤ <i>i</i> ≤ <i>k</i>)</span> ребенок записал номер <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>·<i>k</i>)</span>. Совершенно случайно, все числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> оказались различными.</p><p>Теперь ребятам интересно узнать, как разделить апельсин так, чтобы выполнялись условия:</p><p><ul> <li> каждому ребенку достались ровно <span class="tex-span"><i>n</i></span> долек апельсина; </li><li> <span class="tex-span"><i>i</i></span>-ому ребенку обязательно досталась долька с номером <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>; </li><li> никакая долька не досталась двум ребятам одновременно. </li></ul></p><p>Помогите ребятам, разделите апельсин, выполнив описанные выше требования.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>k</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>k</i> ≤ 30)</span>. Во второй строке записаны <span class="tex-span"><i>k</i></span> целых чисел через пробел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>k</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>·<i>k</i>)</span>, где <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — номер дольки апельсина, которая понравилась <span class="tex-span"><i>i</i></span>-ому ребенку.</p><p>Гарантируется, что все числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> различные.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите ровно <span class="tex-span"><i>n</i>·<i>k</i></span> различных целых чисел. Первые <span class="tex-span"><i>n</i></span> чисел обозначают номера долек, которые достанутся первому ребенку, вторые <span class="tex-span"><i>n</i></span> чисел обозначают номера долек, которые достанутся второму ребенку, и так далее. Выведенные числа разделяйте пробельными символами.</p><p>Номера долек для ребенка можно выводить в любом порядке. Гарантируется, что ответ всегда существует. Если существует несколько правильных ответов, выведите любой.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 2<br />4 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 4 <br />1 3 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 1<br />2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 2 1 <br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Безусловно счастливые числа</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p><span class="tex-font-style-it">Поликарп любит счастливые числа. Всем известно, что счастливыми являются положительные целые числа, в десятичной записи (без лидирующих нулей) которых содержатся только счастливые цифры <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span>. Например, если <span class="tex-span"><i>x</i> = 4</span>, а <span class="tex-span"><i>y</i> = 7</span>, то числа 47, 744, 4 являются счастливыми.</span></p><p>Назовем целое положительное число <span class="tex-span"><i>a</i></span> <span class="tex-font-style-it">безусловно счастливым</span>, если существуют такие цифры <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> <span class="tex-span">(0 ≤ <i>x</i>, <i>y</i> ≤ 9)</span>, что в десятичной записи числа <span class="tex-span"><i>a</i></span> (без лидирующих нулей) содержатся только цифры <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span>.</p><p>У Поликарпа есть целое число <span class="tex-span"><i>n</i></span>. Он хочет узнать, сколько целых положительных чисел не превышающих <span class="tex-span"><i>n</i></span> являются безусловно счастливыми. Помогите ему, посчитайте это количество.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">9</sup>)</span> — число Поликарпа.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — сколько целых положительных чисел не превышающих <span class="tex-span"><i>n</i></span> являются безусловно счастливыми.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>10<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>123<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>113<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере все числа не превышающие <span class="tex-span">10</span> являются безусловно счастливыми.</p><p>Во втором примере числа 102, 103, 104, 105, 106, 107, 108, 109, 120, 123 не являются безусловно счастливыми.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Новая функция</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Поликарпа есть последовательность, состоящая из <span class="tex-span"><i>n</i></span> целых неотрицательных чисел: <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>.</p><p>Определим функцию <span class="tex-span"><i>f</i>(<i>l</i>, <i>r</i>)</span> (<span class="tex-span"><i>l</i>, <i>r</i></span> — целые, <span class="tex-span">1 ≤ <i>l</i> ≤ <i>r</i> ≤ <i>n</i></span>) для последовательности <span class="tex-span"><i>a</i></span> как операцию побитового ИЛИ всех элементов последовательности с индексами от <span class="tex-span"><i>l</i></span> до <span class="tex-span"><i>r</i></span>. Формально: <span class="tex-span"><i>f</i>(<i>l</i>, <i>r</i>) = <i>a</i><sub class="lower-index"><i>l</i></sub> | <i>a</i><sub class="lower-index"><i>l</i> + 1</sub> | ...  | <i>a</i><sub class="lower-index"><i>r</i></sub></span>. </p><p>Поликарп выписал на листок бумаги значения функции <span class="tex-span"><i>f</i>(<i>l</i>, <i>r</i>)</span> для всех <span class="tex-span"><i>l</i>, <i>r</i></span> (<span class="tex-span"><i>l</i>, <i>r</i></span> — целые, <span class="tex-span">1 ≤ <i>l</i> ≤ <i>r</i> ≤ <i>n</i></span>). Теперь он хочет узнать, сколько <span class="tex-font-style-bf">различных</span> чисел у него получилось. </p><p>Помогите Поликарпу, посчитайте количество различных значений функции <span class="tex-span"><i>f</i>(<i>l</i>, <i>r</i>)</span> для заданной последовательности <span class="tex-span"><i>a</i></span>.</p><p>Выражение <span class="tex-span"><i>x</i> | <i>y</i></span> обозначает применение операции побитового ИЛИ к числам <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span>. Данная операция есть во всех современных языках программирования, например, в языке <span class="tex-font-style-it">C++</span> и <span class="tex-font-style-it">Java</span> она обозначается «<span class="tex-font-style-tt">|</span>», в <span class="tex-font-style-it">Pascal</span> — «<span class="tex-font-style-tt">or</span>».</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество элементов последовательности <span class="tex-span"><i>a</i></span>. Во второй строке записаны <span class="tex-span"><i>n</i></span> целых чисел через пробел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup>)</span> — элементы последовательности <span class="tex-span"><i>a</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — количество различных значений функции <span class="tex-span"><i>f</i>(<i>l</i>, <i>r</i>)</span> для заданной последовательности <span class="tex-span"><i>a</i></span>.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4</pre></div><div class="input"><div class="title">Входные данные</div><pre>10<br />1 2 3 4 5 6 1 2 9 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>11</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере на листочке Поликарпа будет записано 6 чисел: <span class="tex-span"><i>f</i>(1, 1) = 1</span>, <span class="tex-span"><i>f</i>(1, 2) = 3</span>, <span class="tex-span"><i>f</i>(1, 3) = 3</span>, <span class="tex-span"><i>f</i>(2, 2) = 2</span>, <span class="tex-span"><i>f</i>(2, 3) = 2</span>, <span class="tex-span"><i>f</i>(3, 3) = 0</span>. Среди этих чисел ровно <span class="tex-span">4</span> различных числа: <span class="tex-span">0, 1, 2, 3</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Гидра</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды Петя на день рождения получил в подарок от мамы книжку «Легенды и Мифы Теории Графов». Оттуда он узнал о таком графе как <span class="tex-font-style-it">гидра</span>.</p><p>Неориентированный граф называется <span class="tex-font-style-it">гидрой</span>, если он имеет структуру, указанную на рисунке ниже. А именно: имеются две соединенные ребром вершины <span class="tex-span"><i>u</i></span> и <span class="tex-span"><i>v</i></span>, которые соответственно называются <span class="tex-font-style-it">грудью</span> и <span class="tex-font-style-it">животом</span> гидры. Грудь соединена с <span class="tex-span"><i>h</i></span> вершинами, которые называются <span class="tex-font-style-it">головами</span> гидры. Живот соединен с <span class="tex-span"><i>t</i></span> вершинами, которые называются <span class="tex-font-style-it">хвостами</span> гидры. Заметим, что гидра является деревом, состоящим из <span class="tex-span"><i>h</i> + <i>t</i> + 2</span> вершин.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/d8185e8ed7e79c47ae55e70d5a97751d68824a61.png" /> </center></p><p>Еще у Пети есть неориентированный граф <span class="tex-span"><i>G</i></span>, состоящий из <span class="tex-span"><i>n</i></span> вершин и <span class="tex-span"><i>m</i></span> ребер, который он получил в подарок от мамы на прошлый день рождения. Граф <span class="tex-span"><i>G</i></span> не содержит петель и кратных ребер.</p><p>Теперь Петя хочет найти в графе <span class="tex-span"><i>G</i></span> какую-нибудь гидру. Или же установить, что там гидры не содержится.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны четыре целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span>, <span class="tex-span"><i>h</i></span>, <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>, <span class="tex-span">1 ≤ <i>h</i>, <i>t</i> ≤ 100</span>) — количество вершин и ребер графа <span class="tex-span"><i>G</i></span>, а так же количество голов и хвостов у гидры.</p><p>В следующих <span class="tex-span"><i>m</i></span> строках дано описание ребер графа <span class="tex-span"><i>G</i></span>. В <span class="tex-span"><i>i</i></span>-ой из этих строк записаны два целых числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span"><i>a</i> ≠ <i>b</i></span>) — номера вершин, которые соединяет <span class="tex-span"><i>i</i></span>-ое ребро.</p><p>Гарантируется, что граф <span class="tex-span"><i>G</i></span> не содержит петель и кратных ребер. Считайте, что вершины графа <span class="tex-span"><i>G</i></span> пронумерованы целыми числами от 1 до <span class="tex-span"><i>n</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если в графе <span class="tex-span"><i>G</i></span> гидры нет, то выведите «<span class="tex-font-style-tt">NO</span>» (без кавычек).</p><p>Иначе в первой строке выведите «<span class="tex-font-style-tt">YES</span>» (без кавычек). Во второй строке выведите два целых числа — номера вершин <span class="tex-span"><i>u</i></span> и <span class="tex-span"><i>v</i></span>. В третьей строке выведите <span class="tex-span"><i>h</i></span> чисел — номера вершин, которые являются головами. В четверной строке выведите <span class="tex-span"><i>t</i></span> чисел — номера вершин, которые являются хвостами. Все выведенные вершины должны быть различны.</p><p>Если возможных ответов несколько — разрешается вывести любой.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>9 12 2 3<br />1 2<br />2 3<br />1 3<br />1 4<br />2 5<br />4 5<br />4 6<br />6 5<br />6 7<br />7 5<br />8 7<br />9 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br />4 1<br />5 6 <br />9 3 2 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>7 10 3 3<br />1 2<br />2 3<br />1 3<br />1 4<br />2 5<br />4 5<br />4 6<br />6 5<br />6 7<br />7 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>На картинке ниже изображен первый тестовый пример:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/4591c78fd0e74fb0f3e08b01a43fadba56da41f7.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Колорадский жук</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У дяди Вани в огороде большое поле картошки размером <span class="tex-span">(10<sup class="upper-index">10</sup> + 1) × (10<sup class="upper-index">10</sup> + 1)</span> квадратных метров. Поле разделено на квадратные грядки, каждая грядка занимает один квадратный метр.</p><p>Дядя Ваня знает, что скоро начнется нашествие колорадских жуков, которые могут уничтожить весь урожай. Для борьбы с насекомыми, дядя Ваня хочет опрыскать некоторые грядки инсектицидами.</p><p>И вот дядя Ваня вышел на поле, встал в самый центр центральной грядки поля и опрыскал эту грядку инсектицидами. Теперь он собирается сделать серию перемещений и обработать еще несколько грядок. В ходе каждого из перемещений дядя Ваня двигается влево, вправо, вверх или вниз по полю на некоторое целое количество метров. По пути дядя Ваня обрабатывает все грядки, на которые наступает. Другими словами грядки, которые имеют хоть какое-то пересечение с траекторией дяди Вани, оказываются обработанными инсектицидами.</p><p>Когда дядя Ваня закончил работу, он записал на листочек все свои перемещения. Теперь он хочет узнать количество грядок, которые не будут заражены после нашествия колорадских жуков.</p><p>Известно, что нашествие колорадских жуков происходит по следующей схеме. Сначала заражается некоторая грядка на границе поля. После этого любая грядка, которая не заражена и не обработана химикатами, имеющая общую сторону с некоторой зараженной грядкой, оказывается зараженной. Помогите дяде Ване, определите количество грядок, которые не будут заражены колорадским жуком.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 1000</span>) — количество перемещений дяди Вани.</p><p>В следующих <span class="tex-span"><i>n</i></span> строках задано описание перемещений дяди Вани. В <span class="tex-span"><i>i</i></span>-ой из этих строк описывается <span class="tex-span"><i>i</i></span>-ое по счету перемещение. Каждое перемещение задано в формате «<span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>», где <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> — символ, определяющий направление перемещения («<span class="tex-font-style-tt">L</span>», «<span class="tex-font-style-tt">R</span>», «<span class="tex-font-style-tt">U</span>» или «<span class="tex-font-style-tt">D</span>» для направлений «влево», «вправо», «вверх» и «вниз» соответственно), а <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup></span>) — целое число, определяющее количество метров, на которое происходит перемещение.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — количество грядок, которые не будут заражены колорадским жуком.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />R 8<br />U 9<br />L 9<br />D 8<br />L 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>101</pre></div><div class="input"><div class="title">Входные данные</div><pre>7<br />R 10<br />D 2<br />L 7<br />U 9<br />D 2<br />R 3<br />D 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>52</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

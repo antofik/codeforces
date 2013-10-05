@@ -1,0 +1,353 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="56f6addfee899c9b556f78957d7d4h5b"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1hn51aisvas98"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='56f6addfee899c9b556f78957d7d4h5b'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+            <div style="padding-top:1em;">
+<a href="http://codeforces.ru/vkcup2012"><img src="http://stat.codeforces.ru/images/vkcup2012-2.png"/>
+</a>
+</div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">VK Cup 2012 &#1050;&#1074;&#1072;&#1083;&#1080;&#1092;&#1080;&#1082;&#1072;&#1094;&#1080;&#1086;&#1085;&#1085;&#1099;&#1081; &#1088;&#1072;&#1091;&#1085;&#1076; 2</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Друзья или нет?</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Поликарпа есть хобби — он разрабатывает необычную социальную сеть. Работа почти закончена, осталось только реализовать модуль, определяющий друзей. Да-да, в этой социальной сети не придется добавлять друзей вручную! Определение пар друзей осуществляется следующим образом. Пусть пользователь <span class="tex-span"><i>A</i></span> написал сообщение пользователю <span class="tex-span"><i>B</i></span> в момент <span class="tex-span"><i>t</i><sub class="lower-index">1</sub></span>, а пользователь <span class="tex-span"><i>B</i></span> написал сообщение пользователю <span class="tex-span"><i>A</i></span> в момент <span class="tex-span"><i>t</i><sub class="lower-index">2</sub></span>. Если <span class="tex-span">0 &lt; <i>t</i><sub class="lower-index">2</sub> - <i>t</i><sub class="lower-index">1</sub> ≤ <i>d</i></span>, тогда сообщение пользователя <span class="tex-span"><i>B</i></span> было <span class="tex-font-style-it">ответом</span> на сообщение пользователя <span class="tex-span"><i>A</i></span>. Пользователи <span class="tex-span"><i>A</i></span> и <span class="tex-span"><i>B</i></span> считаются друзьями, если <span class="tex-span"><i>A</i></span> ответил хотя бы на одно сообщение <span class="tex-span"><i>B</i></span> или <span class="tex-span"><i>B</i></span> ответил хотя бы на одно сообщение <span class="tex-span"><i>A</i></span>.</p><p>Вам дан журнал переписки в хронологическом порядке и число <span class="tex-span"><i>d</i></span>. Найдите все пары пользователей, которые будут считаться друзьями.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>d</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>d</i> ≤ 1000</span>). В <span class="tex-span"><i>n</i></span> следующих строках задан журнал переписки. В <span class="tex-span"><i>i</i></span>-ой строке записана строка журнала в виде «<span class="tex-span"><i>A</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>B</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>» (без кавычек), означающая, что пользователь <span class="tex-span"><i>A</i><sub class="lower-index"><i>i</i></sub></span> послал сообщение пользователю <span class="tex-span"><i>B</i><sub class="lower-index"><i>i</i></sub></span> в момент времени <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>). Здесь <span class="tex-span"><i>A</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>B</i><sub class="lower-index"><i>i</i></sub></span> — непустые строки, состоящие из строчных латинских букв, длиной не более <span class="tex-span">20</span> символов, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> — целое число (<span class="tex-span">0 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 10000</span>). Гарантируется, что строки журнала заданы в порядке неубывания <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>, и никакой пользователь не присылал сообщения самому себе. Элементы в строках разделяются единичными пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первую строку выведите целое число <span class="tex-span"><i>k</i></span> — количество пар друзей. В следующих <span class="tex-span"><i>k</i></span> строках выведите пары друзей в виде «<span class="tex-span"><i>A</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>B</i><sub class="lower-index"><i>i</i></sub></span>» (без кавычек). Как пользователей в парах, так и сами пары можно выводить в любом порядке. Каждая пара должна быть выведена ровно один раз.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 1<br />vasya petya 1<br />petya vasya 2<br />anya ivan 2<br />ivan anya 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />petya vasya<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1 1000<br />a b 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере Вася и Петя — друзья, потому что времена отправки их сообщений отличаются на единицу, а Аня и Иван — нет, потому что времена отправки их сообщений отличаются больше чем на единицу.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. На вкус и цвет фломастеры разные</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Поликарпа есть <span class="tex-span"><i>n</i></span> фломастеров и <span class="tex-span"><i>m</i></span> колпачков для фломастеров. Каждый фломастер характеризуется двумя числами: <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> — цвет и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> — диаметр. Соответственно, каждый колпачок характеризуется двумя числами: <span class="tex-span"><i>a</i><sub class="lower-index"><i>j</i></sub></span> — цвет и <span class="tex-span"><i>b</i><sub class="lower-index"><i>j</i></sub></span> — диаметр. Колпачком <span class="tex-span">(<i>a</i><sub class="lower-index"><i>j</i></sub>, <i>b</i><sub class="lower-index"><i>j</i></sub>)</span> можно закрыть фломастер <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>)</span> только в том случае, если их диаметры совпадают, то есть <span class="tex-span"><i>b</i><sub class="lower-index"><i>j</i></sub> = <i>y</i><sub class="lower-index"><i>i</i></sub></span>. При этом фломастер считается <span class="tex-font-style-it">красиво закрытым</span>, если цвет колпачка и фломастера совпадают, то есть <span class="tex-span"><i>a</i><sub class="lower-index"><i>j</i></sub> = <i>x</i><sub class="lower-index"><i>i</i></sub></span>.</p><p>Найдите способ закрыть максимальное количество фломастеров. Если таких способов несколько, выберите из них такой, при котором количество <span class="tex-font-style-it">красиво закрытых</span> фломастеров максимально.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> через пробел (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество фломастеров и количество колпачков, соответственно. </p><p>В следующих <span class="tex-span"><i>n</i></span> строках описаны фломастеры. В <span class="tex-span"><i>i</i></span>-ой строке записаны через пробел два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>) — цвет <span class="tex-span"><i>i</i></span>-го фломастера и его диаметр, соответственно.</p><p>В следующих <span class="tex-span"><i>m</i></span> строках описаны колпачки. В <span class="tex-span"><i>j</i></span>-ой строке записаны через пробел два целых числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>j</i></sub></span>, <span class="tex-span"><i>b</i><sub class="lower-index"><i>j</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>j</i></sub>, <i>b</i><sub class="lower-index"><i>j</i></sub> ≤ 1000</span>) — цвет <span class="tex-span"><i>j</i></span>-го колпачка и его диаметр, соответственно.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите два целых числа <span class="tex-span"><i>u</i>, <i>v</i></span> через пробел, где <span class="tex-span"><i>u</i></span> — количество закрытых фломастеров, а <span class="tex-span"><i>v</i></span> — количество <span class="tex-font-style-it">красиво закрытых</span> фломастеров в искомом оптимальном способе. Помните, что необходимо найти способ закрыть максимальное количество фломастеров, а если таких способов несколько, выбрать из них тот, при котором количество <span class="tex-font-style-it">красиво закрытых</span> фломастеров максимально.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 4<br />1 2<br />3 4<br />2 4<br />5 4<br />2 4<br />1 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br />1 2<br />2 1<br />3 4<br />5 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере первый фломастер нужно закрыть четвертым колпачком, второй фломастер — первым, а третий фломастер — вторым. Таким образом, закрыты будут три фломастера, <span class="tex-font-style-it">красиво закрыты</span> — два, первый и третий.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. String Manipulation 1.0</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>На одном популярном интернет-ресурсе разработали необычный механизм редактирования имени пользователя. Менять имя пользователя можно только удалением из него некоторых символов: чтобы изменить текущее имя <span class="tex-span"><i>s</i></span>, пользователь может выбрать число <span class="tex-span"><i>p</i></span> и символ <span class="tex-span"><i>c</i></span> и удалить <span class="tex-span"><i>p</i></span>-е вхождение символа <span class="tex-span"><i>c</i></span> из имени. После того как пользователь изменил своё имя, отменить это изменение он не может.</p><p>Например, имя «<span class="tex-font-style-tt">arca</span>» можно изменить, удалив второе вхождение символа «<span class="tex-font-style-tt">a</span>», и получится «<span class="tex-font-style-tt">arc</span>». </p><p>Поликарп узнал, что изначально некий пользователь зарегистрировался под именем <span class="tex-span"><i>t</i></span>, где <span class="tex-span"><i>t</i></span> представляет собой строку <span class="tex-span"><i>s</i></span>, записанную <span class="tex-span"><i>k</i></span> раз подряд. Также Поликарпу известна последовательность изменений имени этого пользователя. Помогите Поликарпу выяснить итоговое имя пользователя.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится целое число <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ 2000</span>). Во второй строке записана непустая строка <span class="tex-span"><i>s</i></span>, состоящая из строчных букв латинского алфавита, длиной не более <span class="tex-span">100</span> символов. В третьей строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 20000</span>) — количество изменений имени. В следующих <span class="tex-span"><i>n</i></span> строках записаны сами изменения, по одному изменению в строке. Изменения записаны в виде «<span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span>» (без кавычек), где <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>p</i><sub class="lower-index"><i>i</i></sub> ≤ 200000</span>) — номер вхождения буквы <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> — строчная буква латинского алфавита. Гарантируется, что операции корректные, то есть удаляемая буква всегда существует, и в результате операций из имени удалятся не все буквы. Вхождения букв нумеруются начиная с 1.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственную строку — итоговое имя пользователя после применения всех операций изменения.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />bac<br />3<br />2 a<br />1 b<br />2 c<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>acb<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1<br />abacaba<br />4<br />1 a<br />1 a<br />1 c<br />2 b<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>baa<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим первый пример. Изначально у нас будет имя «<span class="tex-font-style-tt">bacbac</span>»; после первой операции оно превратится в «<span class="tex-font-style-tt">bacbc</span>», после второй — в «<span class="tex-font-style-tt">acbc</span>», и, наконец, после третьей — в «<span class="tex-font-style-tt">acb</span>».</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Палиндромные пары</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Дана непустая строка <span class="tex-span"><i>s</i></span>, состоящая из строчных латинских букв. Найдите количество пар непересекающихся подстрок-палиндромов этой строки.</p><p>Более формально: найдите количество четверок <span class="tex-span">(<i>a</i>, <i>b</i>, <i>x</i>, <i>y</i>)</span> таких, что <span class="tex-span">1 ≤ <i>a</i> ≤ <i>b</i> &lt; <i>x</i> ≤ <i>y</i> ≤ |<i>s</i>|</span> и подстроки <span class="tex-span"><i>s</i>[<i>a</i>... <i>b</i>]</span>, <span class="tex-span"><i>s</i>[<i>x</i>... <i>y</i>]</span> являются палиндромами.</p><p><span class="tex-font-style-it">Палиндромом</span> называется строка, которая одинаково читается слева направо и справа налево. Например, строки «<span class="tex-font-style-tt">abacaba</span>», «<span class="tex-font-style-tt">z</span>», «<span class="tex-font-style-tt">abba</span>» — палиндромы.</p><p><span class="tex-font-style-it">Подстрокой</span> <span class="tex-span"><i>s</i>[<i>i</i>... <i>j</i>]</span> (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>j</i> ≤ |<i>s</i>|</span>) строки <span class="tex-span"><i>s</i></span> = <span class="tex-span"><i>s</i><sub class="lower-index">1</sub><i>s</i><sub class="lower-index">2</sub>... <i>s</i><sub class="lower-index">|<i>s</i>|</sub></span> называется строка, равная <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub><i>s</i><sub class="lower-index"><i>i</i> + 1</sub>... <i>s</i><sub class="lower-index"><i>j</i></sub></span>. Например, подстрока <span class="tex-span"><i>s</i>[2...4]</span> строки <span class="tex-span"><i>s</i></span> = «<span class="tex-font-style-tt">abacaba</span>» равна «<span class="tex-font-style-tt">bac</span>».</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записана непустая строка <span class="tex-span"><i>s</i></span>, состоящая из строчных букв латинского алфавита ('<span class="tex-font-style-tt">a</span>' ... '<span class="tex-font-style-tt">z</span>'). Длина строки <span class="tex-span"><i>s</i></span> не более <span class="tex-span">2000</span> символов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — количество пар непересекающихся подстрок-палиндромов заданной строки.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>aa<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>aaa<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>abacaba<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>36<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Зебробашня</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленькая Танечка любит играть в кубики. Вообще-то она любит играть во что угодно, будь то кубики или тессеракты, лишь бы это «что угодно» было разноцветное. Каждый кубик характеризуется двумя параметрами — цвет <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> и размер <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span>. Зебробашней называется башня, состоящая из кубиков ровно двух цветов, причем цвета кубиков в башне должны чередоваться (цвета соседних должны отличаться). В Зебробашне должно быть не менее двух кубиков. Каких-либо других ограничений нет. Ниже на рисунке изображен пример Зебробашни.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/1fb8cedae2000d58ce8d42221189faa84cf5443d.png" /> </center></p><p>Высота Зебробашни — это сумма размеров всех кубиков, которые в нее входят. Помогите маленькой Танечке построить Зебробашню наибольшей возможной высоты, используя имеющиеся кубики. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество кубиков. В следующих <span class="tex-span"><i>n</i></span> строках заданы описания кубиков, по одному описанию в строке. Описание кубика состоит из записанных через пробел двух целых чисел <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>c</i><sub class="lower-index"><i>i</i></sub>, <i>s</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>) — цвет <span class="tex-span"><i>i</i></span>-го кубика и его размер, соответственно. Гарантируется, что существует хотя бы два кубика, цвета которых различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите описание Зебробашни максимальной возможной высоты в следующем формате. В первую строку выведите высоту башни, во вторую строку — количество кубиков в ней, в третью — номера кубиков в башне в порядке их перечисления снизу вверх, разделенные одиночными пробелами. Считайте кубики пронумерованными от 1 до <span class="tex-span"><i>n</i></span> в том порядке, в котором они были заданы во входных данных.</p><p>Если существует несколько Зебробашен максимальной высоты, разрешается вывести любую из них.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />1 2<br />1 3<br />2 4<br />3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9<br />3<br />2 3 1 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />1 1<br />2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />2<br />2 1 <br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

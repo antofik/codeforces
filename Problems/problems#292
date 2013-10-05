@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="edc6dd3548f2ee295beb2c3fa9f2b4f3"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1nql26fu010fl"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='edc6dd3548f2ee295beb2c3fa9f2b4f3'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">&#1063;&#1077;&#1084;&#1087;&#1080;&#1086;&#1085;&#1072;&#1090; &#1050;&#1056;&#1054;&#1050; 2013 - &#1056;&#1072;&#1091;&#1085;&#1076; 1</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. SMS-центр</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В некоторой большой организации, в которой работает Поликарп, находится собственный sms-центр. Задачей центра является рассылка сотрудникам различной важной информации. Поликарп решил проверить эффективность работы sms-центра. </p><p>Для этого он попросил предоставить ему данные о работе sms-центра за некоторый период времени. В ответ Поликарп получил список из <span class="tex-span"><i>n</i></span> заданий, поступавших в sms-центр корпорации. Каждое задание описывалось временем поступления в sms-центр и количеством sms-сообщений, которое нужно было отослать. Более формально, <span class="tex-span"><i>i</i></span>-ое задание описывалось двумя целыми числами <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> — моментом времени (секундой) поступления и количеством sms-сообщений соответственно.</p><p>Поликарп знает, что sms-центр может отсылать не более одного sms-сообщения в секунду. Для организации отправки сообщений sms-центр использует очередь. Рассмотрим некоторый момент времени <span class="tex-span"><i>x</i></span>, sms-центр будет функционировать в момент времени <span class="tex-span"><i>x</i></span> следующим образом:</p><p><ol> <li> Если в момент времени <span class="tex-span"><i>x</i></span> очередь сообщений не пуста, тогда происходит отправка сообщения из очереди (сообщение берется из головы очереди). Иначе отправка сообщения в момент времени <span class="tex-span"><i>x</i></span> не происходит. </li><li> Если в момент времени <span class="tex-span"><i>x</i></span> поступило задание на отправку сообщений, то в очередь добавляются все сообщения из этого задания (сообщения добавляются в хвост очереди). Обратите внимание, ни одно из этих сообщений не может быть отправлено в момент времени <span class="tex-span"><i>x</i></span>, так как решение об отправке или не отправке сообщения в момент времени <span class="tex-span"><i>x</i></span> принимается в пункте 1 до добавления этих сообщений. </li></ol></p><p>По результатам анализа выполнения всех <span class="tex-span"><i>n</i></span> заданий Поликарп хочет посчитать две величины: момент времени, когда было отправлено последнее sms-сообщение, а также максимальный размер очереди в некоторый момент времени. Помогите ему посчитать эти две характеристики, по которым он оценит эффективность работы sms-центра.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано единственное целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">3</sup>)</span> — количество заданий рассылки сообщений. Далее в <span class="tex-span"><i>n</i></span> строках заданы описания заданий: в <span class="tex-span"><i>i</i></span>-ой строке через пробел заданы два целых числа <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub>, <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup>)</span> — момент времени (секунда) поступления <span class="tex-span"><i>i</i></span>-го задания и количество сообщений, которое нужно отправить, соответственно.</p><p>Гарантируется, что все задания поступали в различные моменты времени. Гарантируется, что задания отсортированы в хронологическом порядке, то есть <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> &lt; <i>t</i><sub class="lower-index"><i>i</i> + 1</sub></span> для всех целых <span class="tex-span"><i>i</i></span> <span class="tex-span">(1 ≤ <i>i</i> &lt; <i>n</i>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственную строку через пробел выведите два целых числа — момент времени, когда было отправлено последнее sms-сообщение и максимальный размер очереди в некоторый момент времени.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />1 1<br />2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1<br />1000000 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1000010 10<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />3 3<br />4 3<br />5 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12 7<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере: </p><p><ul> <li> секунда 1 — первое сообщение появилось в очереди, размер очереди 1; </li><li> секунда 2 — первое сообщение отправлено, второе сообщение появилось в очереди, размер очереди 1; </li><li> секунда 3 — второе сообщение отправлено, размер очереди 0, </li></ul></p><p>Таким образом, максимальный размер очереди 1, последнее сообщение отправлено в секунду 3.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Топология сети</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p><span class="tex-font-style-it">В задаче используется упрощенная модель топологий сетей, внимательно прочтите условие задачи и используйте его как формальный документ при разработке решения.</span></p><p>Поликарп продолжает работать системным администратором в некоторой большой корпорации. Компьютерная сеть этой корпорации состоит из <span class="tex-span"><i>n</i></span> компьютеров, некоторые из которых соединены кабелем. Компьютеры пронумеруем целыми числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Известно, что любые два компьютера соединены кабелем непосредственно или через другие компьютеры.</p><p>Поликарп решил узнать топологию этой сети. Сетевая топология — это способ описания конфигурации сети, схема расположения и соединения сетевых устройств.</p><p>Поликарп знает три основные топологии сети: шина, кольцо и звезда. Шина — это топология, которая представляет собой общий кабель, к которому подсоединены все компьютеры. Кольцо — топология, в которой каждый компьютер соединен кабелем только с двумя другими. Звезда — это топология, в которой все компьютеры сети присоединены к единому центральному узлу.</p><p>Представим каждую из этих топологий сети в виде связного неориентированного графа. Под шиной будем понимать связный граф, являющийся единственным путем, то есть граф, в котором все вершины соединены с двумя другими, за исключением двух вершин, которые являются началом и концом пути. Под кольцом будем понимать связный граф, в котором все вершины соединены с двумя другими. Под звездой будем понимать связный граф, в котором выделена единственная центральная вершина, которая соединена со всеми остальными вершинами. Для лучшего понимания ознакомьтесь с рисунком.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/b7fd9cf74e6bae0507ed677b2dc48dfb8c8889e6.png" />   <span class="tex-font-size-script">(1) — шина, (2) — кольцо, (3) — звезда</span> </center></p><p>Вам задан связный неориентированный граф, характеризующий компьютерную сеть корпорации, в которой работает Поликарп. Помогите ему узнать, к какой из данных топологий относится заданная компьютерная сеть. Если это невозможно определить, сообщите, что топология этой сети неизвестна. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> <span class="tex-span">(4 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>; 3 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество вершин и ребер в графе соответственно. Далее в <span class="tex-span"><i>m</i></span> строках задано описание ребер графа. В <span class="tex-span"><i>i</i></span>-той строке через пробел задана пара целых чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span> — номера вершин, которые соединяет <span class="tex-span"><i>i</i></span>-ое ребро.</p><p>Гарантируется, что заданный граф является связным. Между любыми двумя вершинами существует не более одного ребра. Ни одно ребро не соединяет вершину саму с собой.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственную строку выведите название топологии сети, к которой относится заданный граф. Если ответом является шина, выведите «<span class="tex-font-style-tt">bus topology</span>» (без кавычек), если ответом является кольцо, выведите «<span class="tex-font-style-tt">ring topology</span>» (без кавычек), если ответом является звезда, выведите «<span class="tex-font-style-tt">star topology</span>» (без кавычек). Если ни один из этих типов не подходит, выведите «<span class="tex-font-style-tt">unknown topology</span>» (без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 3<br />1 2<br />2 3<br />3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>bus topology<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 4<br />1 2<br />2 3<br />3 4<br />4 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>ring topology<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 3<br />1 2<br />1 3<br />1 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>star topology<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 4<br />1 2<br />2 3<br />3 1<br />1 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>unknown topology<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Красивые IP-адреса</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p><span class="tex-font-style-it">В задаче используется упрощенная модель адресов в TCP/IP, внимательно прочтите условие.</span></p><p>IP-адрес — это 32-битное число, представленное в виде четверки десятичных 8-битных чисел (без лидирующих нулей), записанных через точку. Например, запись <span class="tex-font-style-tt">0.255.1.123</span> обозначает корректный IP-адрес, а записи <span class="tex-font-style-tt">0.256.1.123</span> и <span class="tex-font-style-tt">0.255.1.01</span> — нет. В данной задаче произвольная четверка 8-битных чисел является корректным IP-адресом.</p><p>Наш герой Поликарп до сих пор работает системным администратором в некоторой большой корпорации. Ему нравятся красивые IP-адреса. Чтобы проверить, является ли некоторый IP-адрес красивым, нужно сделать следующее:</p><p><ol> <li> выписать в строку четверку 8-битных чисел IP-адреса, пропуская точки; </li><li> проверить, является ли получившаяся строка палиндромом. </li></ol></p><p>Напомним, что палиндромом называется строка, которая одинаково читается справа налево и слева направо.</p><p>Например IP-адреса <span class="tex-font-style-tt">12.102.20.121</span> и <span class="tex-font-style-tt">0.3.14.130</span> являются красивыми (поскольку строки «<span class="tex-font-style-tt">1210220121</span>» и «<span class="tex-font-style-tt">0314130</span>» являются палиндромами), а IP-адреса <span class="tex-font-style-tt">1.20.20.1</span> и <span class="tex-font-style-tt">100.4.4.1</span> — нет.</p><p>Поликарп хочет найти все красивые IP-адреса, в которых встречается заданный набор цифр. Каждая цифра из набора должна встречаться в IP-адресе не менее одного раза, никакие другие цифры не должны встречаться в IP-адресе. Помогите ему справиться с этой нелегкой задачей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано единственное целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10)</span> — количество цифр в наборе. Во второй строке задан набор цифр <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 9)</span>. Гарантируется, что все цифры в наборе различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первую строку выведите единственное число <span class="tex-span"><i>k</i></span> — количество красивых IP-адресов, которые содержат заданный набор цифр. Далее в <span class="tex-span"><i>k</i></span> строк выведите сами IP-адреса по одному в строке в произвольном порядке.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6<br />0 1 2 9 8 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br />78.190.209.187<br />79.180.208.197<br />87.190.209.178<br />89.170.207.198<br />97.180.208.179<br />98.170.207.189<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1<br />4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>16<br />4.4.4.4<br />4.4.4.44<br />4.4.44.4<br />4.4.44.44<br />4.44.4.4<br />4.44.4.44<br />4.44.44.4<br />4.44.44.44<br />44.4.4.4<br />44.4.4.44<br />44.4.44.4<br />44.4.44.44<br />44.44.4.4<br />44.44.4.44<br />44.44.44.4<br />44.44.44.44<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Компоненты связности</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В уже известной нам некоторой большой корпорации, в которой работает системный администратор Поликарп, компьютерная сеть состоит <span class="tex-span"><i>n</i></span> компьютеров и <span class="tex-span"><i>m</i></span> кабелей, которые соединяют некоторые пары компьютеров. Другими словами, компьютерная сеть может быть представлена некоторым неориентированным графом из <span class="tex-span"><i>n</i></span> вершин и <span class="tex-span"><i>m</i></span> ребер. Пронумеруем компьютеры целыми числами от 1 до <span class="tex-span"><i>n</i></span>, пронумеруем кабели целыми числами от 1 до <span class="tex-span"><i>m</i></span>.</p><p>Поликарпу поручили ответственное задание — проверить надежность компьютерной сети его корпорации. Для этого Поликарп решил провести серию из <span class="tex-span"><i>k</i></span> экспериментов с компьютерной сетью, где <span class="tex-span"><i>i</i></span>-ый эксперимент заключается в следующем:</p><p><ol> <li> Временно отсоединить кабели с номерами от <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> до <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span>, включительно (остальные кабели остаются подсоединенными). </li><li> Посчитать количество компонент связности в графе, который определяет компьютерную сеть в настоящий момент. </li><li> Подсоединить отключенные кабели с номерами от <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> до <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> (то есть восстановить исходную сеть). </li></ol></p><p>Помогите Поликарпу провести все эксперименты и для каждого из них выведите количество компонент связности в графе, который определяет компьютерную сеть во время данного эксперимента. Изолированную вершину нужно считать отдельной компонентой.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел заданы два целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> <span class="tex-span">(2 ≤ <i>n</i> ≤ 500; 1 ≤ <i>m</i> ≤ 10<sup class="upper-index">4</sup>)</span> — количество компьютеров и количество кабелей соответственно.</p><p>Далее в <span class="tex-span"><i>m</i></span> строках задано описание кабелей. В <span class="tex-span"><i>i</i></span>-ой строке через пробел задана пара целых чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>; <i>x</i><sub class="lower-index"><i>i</i></sub> ≠ <i>y</i><sub class="lower-index"><i>i</i></sub>)</span> — номера компьютеров, которые соединяет <span class="tex-span"><i>i</i></span>-ый кабель. Обратите внимание, что пара компьютеров может быть соединена несколькими кабелями.</p><p>В следующей строке задано единственное целое число <span class="tex-span"><i>k</i></span> <span class="tex-span">(1 ≤ <i>k</i> ≤ 2·10<sup class="upper-index">4</sup>)</span> — количество экспериментов. Далее в <span class="tex-span"><i>k</i></span> строках задано описание экспериментов. В <span class="tex-span"><i>i</i></span>-ой строке через пробелы заданы числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ <i>m</i>)</span> — номера кабелей, которые Поликарп отсоединяет во время <span class="tex-span"><i>i</i></span>-го эксперимента. </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>k</i></span> чисел, в которых <span class="tex-span"><i>i</i></span>-ое число обозначает количество компонент связности графа, который определяет компьютерную сеть во время <span class="tex-span"><i>i</i></span>-го эксперимента. </p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 5<br />1 2<br />5 4<br />2 3<br />3 1<br />3 6<br />6<br />1 3<br />2 5<br />1 5<br />5 5<br />2 4<br />3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br />5<br />6<br />3<br />4<br />2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Копирование данных</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Очень часто приходится копировать большие объемы данных. Такая операция может потребовать больших затрат компьютерных ресурсов. В связи с этим, в этой задаче вам предлагается придумать способ быстрого копирования некоторой части одного массива чисел в другой.</p><p>Более формально, вам задано два массива целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index">1</sub>, <i>b</i><sub class="lower-index">2</sub>, ..., <i>b</i><sub class="lower-index"><i>n</i></sub></span> длины <span class="tex-span"><i>n</i></span>. Также есть <span class="tex-span"><i>m</i></span> запросов двух типов:</p><p><ol> <li> Скопировать подотрезок массива <span class="tex-span"><i>a</i></span> длины <span class="tex-span"><i>k</i></span>, начиная с позиции <span class="tex-span"><i>x</i></span>, в массив <span class="tex-span"><i>b</i></span>, начиная с позиции <span class="tex-span"><i>y</i></span>, то есть выполнить <span class="tex-span"><i>b</i><sub class="lower-index"><i>y</i> + <i>q</i></sub> = <i>a</i><sub class="lower-index"><i>x</i> + <i>q</i></sub></span> для всех целых <span class="tex-span"><i>q</i></span> <span class="tex-span">(0 ≤ <i>q</i> &lt; <i>k</i>)</span>. Операция задана корректно — оба подотрезка целиком содержатся в массивах <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> соответственно. </li><li> Определить значение в позиции <span class="tex-span"><i>x</i></span> массива <span class="tex-span"><i>b</i></span>, то есть найти значение <span class="tex-span"><i>b</i><sub class="lower-index"><i>x</i></sub></span>. </li></ol></p><p>Для каждого запроса второго типа выведите результат — значение соответствующего элемента массива <span class="tex-span"><i>b</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество элементов в массивах и количество запросов соответственно. Во второй строке задан массив целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(|<i>a</i><sub class="lower-index"><i>i</i></sub>| ≤ 10<sup class="upper-index">9</sup>)</span>. В третьей строке задан массив целых чисел <span class="tex-span"><i>b</i><sub class="lower-index">1</sub>, <i>b</i><sub class="lower-index">2</sub>, ..., <i>b</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(|<i>b</i><sub class="lower-index"><i>i</i></sub>| ≤ 10<sup class="upper-index">9</sup>)</span>.</p><p>В следующих <span class="tex-span"><i>m</i></span> строках заданы описания запросов. В <span class="tex-span"><i>i</i></span>-ой строке сначала задано целое число <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> — тип <span class="tex-span"><i>i</i></span>-го запроса <span class="tex-span">(1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 2)</span>. Если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 1</span>, то <span class="tex-span"><i>i</i></span>-ый запрос обозначает операцию копирования, если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 2</span>, то <span class="tex-span"><i>i</i></span>-ый запрос обозначает взятие значения в массиве <span class="tex-span"><i>b</i></span>. Если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 1</span>, то после типа запроса записаны три целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>, <i>k</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>, <i>k</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span> — параметры запроса копирования. Если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 2</span>, то следом, после типа запроса, в строке записано целое число <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span> — позиция в массиве <span class="tex-span"><i>b</i></span>.</p><p>Все числа в строках разделены одиночными пробелами. Гарантируется, что все запросы корректны, то есть границы копирования не выходят за границы массивов <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого запроса второго типа в отдельную строку выведите результат.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 10<br />1 2 0 -1 3<br />3 1 5 -2 0<br />2 5<br />1 3 3 3<br />2 5<br />2 4<br />2 1<br />1 2 1 4<br />2 1<br />2 4<br />1 4 2 1<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br />3<br />-1<br />3<br />2<br />3<br />-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

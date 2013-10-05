@@ -1,0 +1,704 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="eeg8cfeh45ee55g7454548d265a3h9a1"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1i09qv59nfc3h"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='eeg8cfeh45ee55g7454548d265a3h9a1'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+            <div style="padding:1em 0 0 2px;color:#C60C30;font-size:18px;font-weight:bold;">
+<a href="/abbyycup30"><img src="http://www.abbyy.ru/images/logo.gif"/></a>
+<span style="padding:1.5em;position:relative;bottom:7px;">Умный Бобер ждет вас на ABBYY Cup 3.0!</span>
+</div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">ABBYY Cup 3.0</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A1. Спецзадание</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Специальный агент Умный Бобер работает в отделе секретных исследований и разработок компании ABBYY. Трудится он там уже достаточно давно и доволен своей работой, так как она позволяет ему питаться в лучших лесных ресторанах и заказывать в них самые дорогие и экзотические породы древесины.</p><p>Довольный жизнью наш спецагент получает очередное важное задание: необходимо заполучить новейшие разработки британских ученых в области английского языка. Эти разработки засекречены и хранятся в большом сейфе. Зубы у бобра достаточно крепки, потому начальство уверено, что по прибытии на место вскрытие сейфа не вызовет сложностей.</p><p>И вот он уже доедает свою веточку осины и выходит на это важное задание. Естественно, прибыть на место у Умного Бобра труда не составило, а вот вскрыть сейф своими крепкими и большими зубами, увы, не получается. В этот момент с Умным Бобром связывается штаб и сообщает, что вскрывать зубами сейф нет необходимости, так как из достоверного источника была получена следующая информация: код от сейфа состоит из цифр и не имеет лидирующих нулей. Также была получена специальная подсказка, с помощью которой можно открыть сейф. Подсказка представляет собой строку <span class="tex-span"><i>s</i></span> со следующей структурой: <ul> <li> если <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> = «<span class="tex-font-style-tt">?</span>», то цифра, стоящая в коде от сейфа на позиции <span class="tex-span"><i>i</i></span> может быть любой (от <span class="tex-span">0</span> до <span class="tex-span">9</span>); </li><li> если <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> цифра от <span class="tex-span">0</span> до <span class="tex-span">9</span>, то значит, в коде на позиции <span class="tex-span"><i>i</i></span> строит цифра <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span>; </li><li> если в строке <span class="tex-span"><i>s</i></span> встречаются буквы от «<span class="tex-font-style-tt">A</span>» до «<span class="tex-font-style-tt">J</span>», то на всех позициях, где эти буквы одинаковы, стоит одинаковая цифра, а где буквы различаются — должны стоять обязательно разные цифры. </li><li> Длина кода сейфа совпадает с длиной подсказки. </li></ul></p><p>Например, для подсказки «<span class="tex-font-style-tt">?JGJ9</span>» подходят варианты кода от сейфа: «<span class="tex-font-style-tt">51919</span>», «<span class="tex-font-style-tt">55959</span>», «<span class="tex-font-style-tt">12329</span>», «<span class="tex-font-style-tt">93539</span>» и так далее, но не подходят такие варианты как: «<span class="tex-font-style-tt">56669</span>», «<span class="tex-font-style-tt">00111</span>», «<span class="tex-font-style-tt">03539</span>» и «<span class="tex-font-style-tt">13666</span>».</p><p>Получив такие данные, начальство меняет план действий и просит нашего спецагента работать тихо и аккуратно и не пытаться вскрыть сейф механическими способами, а попробовать перебрать пароль с помощью полученной подсказки.</p><p>В школе спецагентов Умный Бобер был первым во взводе по скорости перебора кодов от подобных сейфов, но сейчас он уже не в той форме: годы берут свое... Помогите ему определить количество возможных вариантов кода от сейфа, подходящих к заданной подсказке. Получив такую информацию и зная о своей скорости ввода кода, Умный Бобер сможет определить, успеет ли он на вечерний показ «Бобры идут по следу» на его любимом телеканале, или же его ждет бессонная ночь...</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится непустая строка <span class="tex-span"><i>s</i></span> — подсказка к коду от сейфа. Строка <span class="tex-span"><i>s</i></span> состоит из следующих символов: <span class="tex-font-style-tt">?, 0-9, A-J</span>. Гарантируется, что первый символ строки <span class="tex-span"><i>s</i></span> не равен символу <span class="tex-span">0</span>.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача A1): <ul> <li> <span class="tex-span">1 ≤ |<i>s</i>| ≤ 5</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи A1+A2): <ul> <li> <span class="tex-span">1 ≤ |<i>s</i>| ≤ 10<sup class="upper-index">5</sup></span>. </li></ul></p><p>Здесь запись <span class="tex-span">|<i>s</i>|</span> обозначает длину строки <span class="tex-span"><i>s</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите количество кодов, которые подходят к заданной подсказке.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>AJ<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>81<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1?AA<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>100<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A2. Спецзадание</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Специальный агент Умный Бобер работает в отделе секретных исследований и разработок компании ABBYY. Трудится он там уже достаточно давно и доволен своей работой, так как она позволяет ему питаться в лучших лесных ресторанах и заказывать в них самые дорогие и экзотические породы древесины.</p><p>Довольный жизнью наш спецагент получает очередное важное задание: необходимо заполучить новейшие разработки британских ученых в области английского языка. Эти разработки засекречены и хранятся в большом сейфе. Зубы у бобра достаточно крепки, потому начальство уверено, что по прибытии на место вскрытие сейфа не вызовет сложностей.</p><p>И вот он уже доедает свою веточку осины и выходит на это важное задание. Естественно, прибыть на место у Умного Бобра труда не составило, а вот вскрыть сейф своими крепкими и большими зубами, увы, не получается. В этот момент с Умным Бобром связывается штаб и сообщает, что вскрывать зубами сейф нет необходимости, так как из достоверного источника была получена следующая информация: код от сейфа состоит из цифр и не имеет лидирующих нулей. Также была получена специальная подсказка, с помощью которой можно открыть сейф. Подсказка представляет собой строку <span class="tex-span"><i>s</i></span> со следующей структурой: <ul> <li> если <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> = «<span class="tex-font-style-tt">?</span>», то цифра, стоящая в коде от сейфа на позиции <span class="tex-span"><i>i</i></span> может быть любой (от <span class="tex-span">0</span> до <span class="tex-span">9</span>); </li><li> если <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> цифра от <span class="tex-span">0</span> до <span class="tex-span">9</span>, то значит, в коде на позиции <span class="tex-span"><i>i</i></span> строит цифра <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span>; </li><li> если в строке <span class="tex-span"><i>s</i></span> встречаются буквы от «<span class="tex-font-style-tt">A</span>» до «<span class="tex-font-style-tt">J</span>», то на всех позициях, где эти буквы одинаковы, стоит одинаковая цифра, а где буквы различаются — должны стоять обязательно разные цифры. </li><li> Длина кода сейфа совпадает с длиной подсказки. </li></ul></p><p>Например, для подсказки «<span class="tex-font-style-tt">?JGJ9</span>» подходят варианты кода от сейфа: «<span class="tex-font-style-tt">51919</span>», «<span class="tex-font-style-tt">55959</span>», «<span class="tex-font-style-tt">12329</span>», «<span class="tex-font-style-tt">93539</span>» и так далее, но не подходят такие варианты как: «<span class="tex-font-style-tt">56669</span>», «<span class="tex-font-style-tt">00111</span>», «<span class="tex-font-style-tt">03539</span>» и «<span class="tex-font-style-tt">13666</span>».</p><p>Получив такие данные, начальство меняет план действий и просит нашего спецагента работать тихо и аккуратно и не пытаться вскрыть сейф механическими способами, а попробовать перебрать пароль с помощью полученной подсказки.</p><p>В школе спецагентов Умный Бобер был первым во взводе по скорости перебора кодов от подобных сейфов, но сейчас он уже не в той форме: годы берут свое... Помогите ему определить количество возможных вариантов кода от сейфа, подходящих к заданной подсказке. Получив такую информацию и зная о своей скорости ввода кода, Умный Бобер сможет определить, успеет ли он на вечерний показ «Бобры идут по следу» на его любимом телеканале, или же его ждет бессонная ночь...</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится непустая строка <span class="tex-span"><i>s</i></span> — подсказка к коду от сейфа. Строка <span class="tex-span"><i>s</i></span> состоит из следующих символов: <span class="tex-font-style-tt">?, 0-9, A-J</span>. Гарантируется, что первый символ строки <span class="tex-span"><i>s</i></span> не равен символу <span class="tex-span">0</span>.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача A1): <ul> <li> <span class="tex-span">1 ≤ |<i>s</i>| ≤ 5</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи A1+A2): <ul> <li> <span class="tex-span">1 ≤ |<i>s</i>| ≤ 10<sup class="upper-index">5</sup></span>. </li></ul></p><p>Здесь запись <span class="tex-span">|<i>s</i>|</span> обозначает длину строки <span class="tex-span"><i>s</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите количество кодов, которые подходят к заданной подсказке.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>AJ<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>81<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1?AA<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>100<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B1. ЭКГ</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В суматохе современной жизни люди часто забывают насколько прекрасен мир. Времени насладиться окружающим у них настолько мало, что некоторые даже занимают очередь в поликлинике сразу в несколько кабинетов одновременно, бегая из одной очереди в другую.</p><p>Наверняка многие из вас сталкивались с тем, когда незнакомец спрашивает у вас, кто последний в очереди, высказывает мнение, что он будет крайним, после чего скрывается в неизвестном направлении — это именно те представители современного мира, у которых коэффициент нехватки времени настолько велик, что они даже не смотрят зарубежные рейтинговые сериалы. Такие люди часто создают проблемы в очередях, ведь вновь пришедший человек не видит последнего в очереди и занимает место за «виртуальным» звеном этой цепочки, недоумевая, куда же делась легендарная личность.</p><p>Умный Бобер после длительной болезни записался на прием к терапевту. Кратко и лаконично терапевт сообщил Умному Бобру печальное известие: необходимо сделать ЭКГ. На следующий день Умный Бобер встал пораньше, поставил на скачивание известный сериал (до полной загрузки необходимо около трех часов) и, стиснув зубы, мужественно пошел занимать очередь в кабинет электрокардиограммы, который славится самыми большими очередями в поликлинике. </p><p>Отстояв около трех часов в очереди, Умный Бобер понял, что многие не видели, за кем занимали очередь, из-за чего получилась неразбериха. Он спросил у каждого бобра, имеющего желание посетить кабинет ЭКГ, за кем тот занимал. Если бобр не знал за кем он, то, возможно, сейчас его очередь на прием, а может ему еще стоять и стоять... </p><p>Как Вы догадались, Умный Бобер очень спешил домой, поэтому он дал Вам все необходимые данные, чтобы Вы помогли ему определить, каким же по номеру в очереди он может следовать.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">3</sup>)</span> и <span class="tex-span"><i>x</i></span> <span class="tex-span">(1 ≤ <i>x</i> ≤ <i>n</i>)</span> — количество бобров, стоявших в очереди, и номер Умного Бобра соответственно. Все желающие попасть на прием к врачу пронумерованы от 1 до <span class="tex-span"><i>n</i></span>.</p><p>Во второй строке содержится <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span> — номер бобра, за которым следует <span class="tex-span"><i>i</i></span>-ый бобер. Если <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> = 0</span>, то <span class="tex-span"><i>i</i></span>-ый бобер не знает, за кем он занимал. Гарантируется, что значения <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> соответствуют корректной очереди. Другими словами нет циклических зависимостей в очереди, а также за любым бобром в очереди может следовать не более одного бобра.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача B1): <ul> <li> Гарантируется, что количество нулевых элементов <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> не превзойдет <span class="tex-span">20</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи B1+B2): <ul> <li> Количество нулевых элементов <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> произвольно. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите все возможные позиции Умного Бобра в очереди в порядке возрастания.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 1<br />2 0 4 0 6 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />4<br />6<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 2<br />2 3 0 5 6 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 1<br />0 0 0 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />2<br />3<br />4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 2<br />0 0 1 0 4 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />3<br />4<br />6<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/f7a8a3507f77cb7d1708176734620ce59c76e8cc.png" /> <span class="tex-font-size-script"> Картинка для 4-го теста. </span> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B2. ЭКГ</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В суматохе современной жизни люди часто забывают насколько прекрасен мир. Времени насладиться окружающим у них настолько мало, что некоторые даже занимают очередь в поликлинике сразу в несколько кабинетов одновременно, бегая из одной очереди в другую.</p><p>Наверняка многие из вас сталкивались с тем, когда незнакомец спрашивает у вас, кто последний в очереди, высказывает мнение, что он будет крайним, после чего скрывается в неизвестном направлении — это именно те представители современного мира, у которых коэффициент нехватки времени настолько велик, что они даже не смотрят зарубежные рейтинговые сериалы. Такие люди часто создают проблемы в очередях, ведь вновь пришедший человек не видит последнего в очереди и занимает место за «виртуальным» звеном этой цепочки, недоумевая, куда же делась легендарная личность.</p><p>Умный Бобер после длительной болезни записался на прием к терапевту. Кратко и лаконично терапевт сообщил Умному Бобру печальное известие: необходимо сделать ЭКГ. На следующий день Умный Бобер встал пораньше, поставил на скачивание известный сериал (до полной загрузки необходимо около трех часов) и, стиснув зубы, мужественно пошел занимать очередь в кабинет электрокардиограммы, который славится самыми большими очередями в поликлинике. </p><p>Отстояв около трех часов в очереди, Умный Бобер понял, что многие не видели, за кем занимали очередь, из-за чего получилась неразбериха. Он спросил у каждого бобра, имеющего желание посетить кабинет ЭКГ, за кем тот занимал. Если бобр не знал за кем он, то, возможно, сейчас его очередь на прием, а может ему еще стоять и стоять... </p><p>Как Вы догадались, Умный Бобер очень спешил домой, поэтому он дал Вам все необходимые данные, чтобы Вы помогли ему определить, каким же по номеру в очереди он может следовать.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">3</sup>)</span> и <span class="tex-span"><i>x</i></span> <span class="tex-span">(1 ≤ <i>x</i> ≤ <i>n</i>)</span> — количество бобров, стоявших в очереди, и номер Умного Бобра соответственно. Все желающие попасть на прием к врачу пронумерованы от 1 до <span class="tex-span"><i>n</i></span>.</p><p>Во второй строке содержится <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span> — номер бобра, за которым следует <span class="tex-span"><i>i</i></span>-ый бобер. Если <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> = 0</span>, то <span class="tex-span"><i>i</i></span>-ый бобер не знает, за кем он занимал. Гарантируется, что значения <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> соответствуют корректной очереди. Другими словами нет циклических зависимостей в очереди, а также за любым бобром в очереди может следовать не более одного бобра.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача B1): <ul> <li> Гарантируется, что количество нулевых элементов <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> не превзойдет <span class="tex-span">20</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи B1+B2): <ul> <li> Количество нулевых элементов <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> произвольно. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите все возможные позиции Умного Бобра в очереди в порядке возрастания.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 1<br />2 0 4 0 6 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />4<br />6<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 2<br />2 3 0 5 6 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 1<br />0 0 0 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />2<br />3<br />4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 2<br />0 0 1 0 4 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />3<br />4<br />6<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/f7a8a3507f77cb7d1708176734620ce59c76e8cc.png" /> <span class="tex-font-size-script"> Картинка для 4-го теста. </span> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C1. Уборка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер следит за своим внешним видом, а особое внимание уделяет обуви, потому имеет огромное количество пар кроссовок от самых известных лесных брендов. Он старается аккуратно складывать свои ботинки, чтобы каждая пара стояла рядышком. Но к концу недели из-за достаточно активного образа жизни в его гардеробной образуется беспорядок.</p><p>Умный Бобер из ABBYY является не только самым эрудированным бобром в округе, но еще и самым хозяйственным. Например, по понедельникам Умный Бобер устраивает генеральную уборку в своем жилище.</p><p>Настало утро понедельника. Тратить на уборку весь день Умный Бобер не хочет, да еще и дел много, в тренажерный зал успеть нужно, потому желает прибраться как можно скорее. И вот полы вымыты, пыль вытерта — время прибраться в гардеробной. Но как только Умный Бобер вошел в гардеробную — все планы на день были вмиг разрушены: там царил полный хаос и казалось, что невозможно справиться даже за неделю. Обнадежьте нашего героя: подскажите ему, какое минимальное количество ботинок должно изменить свое положение, чтобы в гардеробной наступил порядок.</p><p>Гардеробная имеет прямоугольную форму и разделена на <span class="tex-span"><i>n</i> × <i>m</i></span> равных квадратов, причем в каждом квадрате лежит ровно по одному ботинку. Каждая пара обуви пронумерована уникальным числом от <span class="tex-span">1</span> до <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ab8b2a5b0ca09697178f2939d983946945df958d.png" />. Квадрат с координатами <span class="tex-span">(<i>i</i>, <i>j</i>)</span> содержит целое число — номер пары, которой принадлежит ботинок, лежащий в нем. Умный Бобер считает, что в гардеробной порядок, только когда каждая пара кроссовок лежит рядом. Будем считать, что пара кроссовок в квадратах <span class="tex-span">(<i>i</i><sub class="lower-index">1</sub>, <i>j</i><sub class="lower-index">1</sub>)</span> и <span class="tex-span">(<i>i</i><sub class="lower-index">2</sub>, <i>j</i><sub class="lower-index">2</sub>)</span> лежит рядом, если <span class="tex-span">|<i>i</i><sub class="lower-index">1</sub> - <i>i</i><sub class="lower-index">2</sub>| + |<i>j</i><sub class="lower-index">1</sub> - <i>j</i><sub class="lower-index">2</sub>| = 1</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span>, разделенных пробелом. Они соответствуют размеру гардеробной. Следующие <span class="tex-span"><i>n</i></span> строк содержат по <span class="tex-span"><i>m</i></span> целых чисел, разделенных пробелами. Эти числа описывают гардеробную. Каждое число соответствует одному из кроссовок. </p><p>Гарантируется, что: <ul> <li> <span class="tex-span"><i>n</i>·<i>m</i></span> будет четно. </li><li> Все числа, соответствующие номерам пар кроссовок в гардеробной, будут лежать в пределах от <span class="tex-span">1</span> до <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ab8b2a5b0ca09697178f2939d983946945df958d.png" />. </li><li> Каждое из чисел от <span class="tex-span">1</span> до <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ab8b2a5b0ca09697178f2939d983946945df958d.png" /> будет встречаться ровно дважды. </li></ul></p><p>Ограничения на входные данные для получения 30 баллов (подзадача C1): <ul> <li> <span class="tex-span">2 ≤ <i>n</i>, <i>m</i> ≤ 8</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи C1+C2): <ul> <li> <span class="tex-span">2 ≤ <i>n</i>, <i>m</i> ≤ 80</span>. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите ровно одно целое число — минимальное число кроссовок, которые должны поменять свое местоположение.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 3<br />1 1 2<br />2 3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 4<br />1 3 2 6<br />2 1 5 6<br />4 4 5 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/961577de30ff0d020f5ff401058b2d80e603f8c6.png" /> <span class="tex-font-size-script"> Второй пример. </span> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C2. Уборка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер следит за своим внешним видом, а особое внимание уделяет обуви, потому имеет огромное количество пар кроссовок от самых известных лесных брендов. Он старается аккуратно складывать свои ботинки, чтобы каждая пара стояла рядышком. Но к концу недели из-за достаточно активного образа жизни в его гардеробной образуется беспорядок.</p><p>Умный Бобер из ABBYY является не только самым эрудированным бобром в округе, но еще и самым хозяйственным. Например, по понедельникам Умный Бобер устраивает генеральную уборку в своем жилище.</p><p>Настало утро понедельника. Тратить на уборку весь день Умный Бобер не хочет, да еще и дел много, в тренажерный зал успеть нужно, потому желает прибраться как можно скорее. И вот полы вымыты, пыль вытерта — время прибраться в гардеробной. Но как только Умный Бобер вошел в гардеробную — все планы на день были вмиг разрушены: там царил полный хаос и казалось, что невозможно справиться даже за неделю. Обнадежьте нашего героя: подскажите ему, какое минимальное количество ботинок должно изменить свое положение, чтобы в гардеробной наступил порядок.</p><p>Гардеробная имеет прямоугольную форму и разделена на <span class="tex-span"><i>n</i> × <i>m</i></span> равных квадратов, причем в каждом квадрате лежит ровно по одному ботинку. Каждая пара обуви пронумерована уникальным числом от <span class="tex-span">1</span> до <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ab8b2a5b0ca09697178f2939d983946945df958d.png" />. Квадрат с координатами <span class="tex-span">(<i>i</i>, <i>j</i>)</span> содержит целое число — номер пары, которой принадлежит ботинок, лежащий в нем. Умный Бобер считает, что в гардеробной порядок, только когда каждая пара кроссовок лежит рядом. Будем считать, что пара кроссовок в квадратах <span class="tex-span">(<i>i</i><sub class="lower-index">1</sub>, <i>j</i><sub class="lower-index">1</sub>)</span> и <span class="tex-span">(<i>i</i><sub class="lower-index">2</sub>, <i>j</i><sub class="lower-index">2</sub>)</span> лежит рядом, если <span class="tex-span">|<i>i</i><sub class="lower-index">1</sub> - <i>i</i><sub class="lower-index">2</sub>| + |<i>j</i><sub class="lower-index">1</sub> - <i>j</i><sub class="lower-index">2</sub>| = 1</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span>, разделенных пробелом. Они соответствуют размеру гардеробной. Следующие <span class="tex-span"><i>n</i></span> строк содержат по <span class="tex-span"><i>m</i></span> целых чисел, разделенных пробелами. Эти числа описывают гардеробную. Каждое число соответствует одному из кроссовок. </p><p>Гарантируется, что: <ul> <li> <span class="tex-span"><i>n</i>·<i>m</i></span> будет четно. </li><li> Все числа, соответствующие номерам пар кроссовок в гардеробной, будут лежать в пределах от <span class="tex-span">1</span> до <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ab8b2a5b0ca09697178f2939d983946945df958d.png" />. </li><li> Каждое из чисел от <span class="tex-span">1</span> до <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ab8b2a5b0ca09697178f2939d983946945df958d.png" /> будет встречаться ровно дважды. </li></ul></p><p>Ограничения на входные данные для получения 30 баллов (подзадача C1): <ul> <li> <span class="tex-span">2 ≤ <i>n</i>, <i>m</i> ≤ 8</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи C1+C2): <ul> <li> <span class="tex-span">2 ≤ <i>n</i>, <i>m</i> ≤ 80</span>. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите ровно одно целое число — минимальное число кроссовок, которые должны поменять свое местоположение.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 3<br />1 1 2<br />2 3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 4<br />1 3 2 6<br />2 1 5 6<br />4 4 5 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/961577de30ff0d020f5ff401058b2d80e603f8c6.png" /> <span class="tex-font-size-script"> Второй пример. </span> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D1. Урок физкультуры</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер хочет быть не только умным, но и здоровым бобром! И поэтому он начал посещать уроки физкультуры в школе X. В этой школе занятия физкультурой ведет очень креативный преподаватель. Одним из его любимых разминочных упражнений является перебрасывание мячей. Ученики становятся в ряд. Каждый изначально получает один мяч. Мячи пронумерованы от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> (требование комиссии по инвентаризации). </p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/a27a913abc0e8f3df1ed16396177c12670af6193.png" /> <span class="tex-font-size-script"> Рисунок 1. Начальное положения для <span class="tex-span"><i>n</i> = 5</span>. </span> </center></p><p>После получения мячей ученики выполняют разминочное упражнение. Упражнение проходит в несколько бросков. Для каждого из бросков учитель выбирает двух произвольных разных учеников, которые будут в нем участвовать. Выбранные ученики бросают друг другу свои мячи. Таким образом, после каждого броска ученики остаются на своих местах, а два мяча меняются местами.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/8813b2f7491e0b76630a36e165eff16ec27b826c.png" /> <span class="tex-font-size-script"> Рисунок 2. Пример броска. </span> </center></p><p>В данном случае произошел бросок между учениками, которые держали <span class="tex-span">2</span>-й и <span class="tex-span">4</span>-й мячи. Так как упражнений в разминке немало, то на каждое из них выделяется немного времени. Поэтому для каждого ученика известно, в каком максимальном числе бросков он может принять участие. В рамках рассматриваемых уроков физкультуры, это число <span class="tex-span">1</span> или <span class="tex-span">2</span>.</p><p>Заметим, что после всех этапов рассматриваемого упражнения любой из мячей может оказаться у любого из учеников. Умный Бобер решил формализовать это и ввел понятие «порядок мячей». Порядок мячей — это последовательность из <span class="tex-span"><i>n</i></span> чисел, которая соответствует порядку мячей в строю. Первое число будет соответствовать номеру мяча у первого слева ученика в строю, второе — номеру мяча у второго ученика и так далее. Например, на рисунке <span class="tex-span">2</span> порядок мячей был (<span class="tex-span">1</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">4</span>, <span class="tex-span">5</span>), а после броска стал (<span class="tex-span">1</span>, <span class="tex-span">4</span>, <span class="tex-span">3</span>, <span class="tex-span">2</span>, <span class="tex-span">5</span>). Умный бобер знает количество учеников и для каждого из учеников максимальное число бросков, в которых данный ученик может принять участие. И теперь ему стало любопытно, каково количество различных вариантов порядка мячей после окончания упражнения. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит одно целое число <span class="tex-span"><i>n</i></span> — количество учеников в строю и мячей. Следующая строка содержит ровно <span class="tex-span"><i>n</i></span> целых чисел, разделенных пробелами. Каждое число соответствует ученику в строю (<span class="tex-span"><i>i</i></span>-ое число соответствует <span class="tex-span"><i>i</i></span>-ому слева в строю ученику) и показывает, в каком числе бросков он может участвовать.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача D1): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 10</span>. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи D1+D2): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 500</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи D1+D2+D3): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 1000000</span>. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Вывод должен содержать ровно одно целое число — число вариантов порядка мячей после окончания упражнения. Так как оно может быть достаточно велико, выводите его по модулю <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2 2 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>120<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8<br />1 2 2 1 2 1 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>16800<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D2. Урок физкультуры</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер хочет быть не только умным, но и здоровым бобром! И поэтому он начал посещать уроки физкультуры в школе X. В этой школе занятия физкультурой ведет очень креативный преподаватель. Одним из его любимых разминочных упражнений является перебрасывание мячей. Ученики становятся в ряд. Каждый изначально получает один мяч. Мячи пронумерованы от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> (требование комиссии по инвентаризации). </p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/a27a913abc0e8f3df1ed16396177c12670af6193.png" /> <span class="tex-font-size-script"> Рисунок 1. Начальное положения для <span class="tex-span"><i>n</i> = 5</span>. </span> </center></p><p>После получения мячей ученики выполняют разминочное упражнение. Упражнение проходит в несколько бросков. Для каждого из бросков учитель выбирает двух произвольных разных учеников, которые будут в нем участвовать. Выбранные ученики бросают друг другу свои мячи. Таким образом, после каждого броска ученики остаются на своих местах, а два мяча меняются местами.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/8813b2f7491e0b76630a36e165eff16ec27b826c.png" /> <span class="tex-font-size-script"> Рисунок 2. Пример броска. </span> </center></p><p>В данном случае произошел бросок между учениками, которые держали <span class="tex-span">2</span>-й и <span class="tex-span">4</span>-й мячи. Так как упражнений в разминке немало, то на каждое из них выделяется немного времени. Поэтому для каждого ученика известно, в каком максимальном числе бросков он может принять участие. В рамках рассматриваемых уроков физкультуры, это число <span class="tex-span">1</span> или <span class="tex-span">2</span>.</p><p>Заметим, что после всех этапов рассматриваемого упражнения любой из мячей может оказаться у любого из учеников. Умный Бобер решил формализовать это и ввел понятие «порядок мячей». Порядок мячей — это последовательность из <span class="tex-span"><i>n</i></span> чисел, которая соответствует порядку мячей в строю. Первое число будет соответствовать номеру мяча у первого слева ученика в строю, второе — номеру мяча у второго ученика и так далее. Например, на рисунке <span class="tex-span">2</span> порядок мячей был (<span class="tex-span">1</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">4</span>, <span class="tex-span">5</span>), а после броска стал (<span class="tex-span">1</span>, <span class="tex-span">4</span>, <span class="tex-span">3</span>, <span class="tex-span">2</span>, <span class="tex-span">5</span>). Умный бобер знает количество учеников и для каждого из учеников максимальное число бросков, в которых данный ученик может принять участие. И теперь ему стало любопытно, каково количество различных вариантов порядка мячей после окончания упражнения. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит одно целое число <span class="tex-span"><i>n</i></span> — количество учеников в строю и мячей. Следующая строка содержит ровно <span class="tex-span"><i>n</i></span> целых чисел, разделенных пробелами. Каждое число соответствует ученику в строю (<span class="tex-span"><i>i</i></span>-ое число соответствует <span class="tex-span"><i>i</i></span>-ому слева в строю ученику) и показывает, в каком числе бросков он может участвовать.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача D1): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 10</span>. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи D1+D2): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 500</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи D1+D2+D3): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 1000000</span>. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Вывод должен содержать ровно одно целое число — число вариантов порядка мячей после окончания упражнения. Так как оно может быть достаточно велико, выводите его по модулю <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2 2 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>120<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8<br />1 2 2 1 2 1 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>16800<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D3. Урок физкультуры</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер хочет быть не только умным, но и здоровым бобром! И поэтому он начал посещать уроки физкультуры в школе X. В этой школе занятия физкультурой ведет очень креативный преподаватель. Одним из его любимых разминочных упражнений является перебрасывание мячей. Ученики становятся в ряд. Каждый изначально получает один мяч. Мячи пронумерованы от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> (требование комиссии по инвентаризации). </p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/a27a913abc0e8f3df1ed16396177c12670af6193.png" /> <span class="tex-font-size-script"> Рисунок 1. Начальное положения для <span class="tex-span"><i>n</i> = 5</span>. </span> </center></p><p>После получения мячей ученики выполняют разминочное упражнение. Упражнение проходит в несколько бросков. Для каждого из бросков учитель выбирает двух произвольных разных учеников, которые будут в нем участвовать. Выбранные ученики бросают друг другу свои мячи. Таким образом, после каждого броска ученики остаются на своих местах, а два мяча меняются местами.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/8813b2f7491e0b76630a36e165eff16ec27b826c.png" /> <span class="tex-font-size-script"> Рисунок 2. Пример броска. </span> </center></p><p>В данном случае произошел бросок между учениками, которые держали <span class="tex-span">2</span>-й и <span class="tex-span">4</span>-й мячи. Так как упражнений в разминке немало, то на каждое из них выделяется немного времени. Поэтому для каждого ученика известно, в каком максимальном числе бросков он может принять участие. В рамках рассматриваемых уроков физкультуры, это число <span class="tex-span">1</span> или <span class="tex-span">2</span>.</p><p>Заметим, что после всех этапов рассматриваемого упражнения любой из мячей может оказаться у любого из учеников. Умный Бобер решил формализовать это и ввел понятие «порядок мячей». Порядок мячей — это последовательность из <span class="tex-span"><i>n</i></span> чисел, которая соответствует порядку мячей в строю. Первое число будет соответствовать номеру мяча у первого слева ученика в строю, второе — номеру мяча у второго ученика и так далее. Например, на рисунке <span class="tex-span">2</span> порядок мячей был (<span class="tex-span">1</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">4</span>, <span class="tex-span">5</span>), а после броска стал (<span class="tex-span">1</span>, <span class="tex-span">4</span>, <span class="tex-span">3</span>, <span class="tex-span">2</span>, <span class="tex-span">5</span>). Умный бобер знает количество учеников и для каждого из учеников максимальное число бросков, в которых данный ученик может принять участие. И теперь ему стало любопытно, каково количество различных вариантов порядка мячей после окончания упражнения. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит одно целое число <span class="tex-span"><i>n</i></span> — количество учеников в строю и мячей. Следующая строка содержит ровно <span class="tex-span"><i>n</i></span> целых чисел, разделенных пробелами. Каждое число соответствует ученику в строю (<span class="tex-span"><i>i</i></span>-ое число соответствует <span class="tex-span"><i>i</i></span>-ому слева в строю ученику) и показывает, в каком числе бросков он может участвовать.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача D1): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 10</span>. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи D1+D2): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 500</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи D1+D2+D3): <ul> <li> <span class="tex-span">1 ≤ <i>n</i> ≤ 1000000</span>. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Вывод должен содержать ровно одно целое число — число вариантов порядка мячей после окончания упражнения. Так как оно может быть достаточно велико, выводите его по модулю <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2 2 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>120<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8<br />1 2 2 1 2 1 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>16800<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E1. Задание на лето</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>К своим трем годам Умный Бобер в совершенстве овладел всеми арифметическими операциями, а от своего учителя по математике одаренный ученик получил следующее домашнее задание на лето:</p><p>Дана последовательность целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>. Необходимо последовательно произвести над ней <span class="tex-span"><i>m</i></span> операций следующего вида:</p><p><ol> <li> Для заданных чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> присвоить элементу <span class="tex-span"><i>a</i><sub class="lower-index"><i>x</i><sub class="lower-index"><i>i</i></sub></sub></span> значение <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span>. </li><li> Для заданных чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> необходимо вычислить сумму <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1d7ff346cc22d72b468f0d5a8f2d7186003971d4.png" />, где <span class="tex-span"><i>f</i><sub class="lower-index">0</sub> = <i>f</i><sub class="lower-index">1</sub> = 1</span> и при <span class="tex-span"><i>i</i> ≥ 2</span>: <span class="tex-span"><i>f</i><sub class="lower-index"><i>i</i></sub> = <i>f</i><sub class="lower-index"><i>i</i> - 1</sub> + <i>f</i><sub class="lower-index"><i>i</i> - 2</sub></span>. </li><li> Для тройки чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> необходимо для всех <span class="tex-span"><i>x</i></span> <span class="tex-span">(<i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>x</i> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub>)</span> увеличить значение <span class="tex-span"><i>a</i><sub class="lower-index"><i>x</i></sub></span> на <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span>. </li></ol></p><p>Этим летом Умный Бобер решил отправиться в тур по великим озерам Канады, потому просит Вас помочь ему в решении данной задачи.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 2·10<sup class="upper-index">5</sup></span>) — количество чисел в последовательности и количество операций соответственно. Вторая строка содержит <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>). Далее идет <span class="tex-span"><i>m</i></span> строк, каждая из которых описывает операцию. Каждый строка начинается с целого числа <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 3</span>) — тип операции: <ul> <li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 1</span>, то далее идет два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 0 ≤ <i>v</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>); </li><li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 2</span>, то далее идет два целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>); </li><li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 3</span>, то далее идет три целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 0 ≤ <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>). </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">30</span> баллов (подзадача E1): <ul> <li> Гарантируется, что <span class="tex-span"><i>n</i></span> не превышает <span class="tex-span">100</span>, <span class="tex-span"><i>m</i></span> не превышает <span class="tex-span">10000</span> и не будет запросов <span class="tex-span">3</span>-го типа. </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">70</span> баллов (подзадачи E1+E2): <ul> <li> Гарантируется, что будут запросы только <span class="tex-span">1</span>-го и <span class="tex-span">2</span>-го типа. </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">100</span> баллов (подзадачи E1+E2+E3): <ul> <li> Дополнительные ограничения отсутствуют. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого запроса второго типа выведите вычисленную сумму по модулю <span class="tex-span">1000000000</span> <span class="tex-span">(10<sup class="upper-index">9</sup>)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 5<br />1 3 1 2 4<br />2 1 4<br />2 1 5<br />2 2 4<br />1 3 10<br />2 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br />32<br />8<br />50<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 4<br />1 3 1 2 4<br />3 1 4 1<br />2 2 4<br />1 2 10<br />2 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br />45<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E2. Задание на лето</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>К своим трем годам Умный Бобер в совершенстве овладел всеми арифметическими операциями, а от своего учителя по математике одаренный ученик получил следующее домашнее задание на лето:</p><p>Дана последовательность целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>. Необходимо последовательно произвести над ней <span class="tex-span"><i>m</i></span> операций следующего вида:</p><p><ol> <li> Для заданных чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> присвоить элементу <span class="tex-span"><i>a</i><sub class="lower-index"><i>x</i><sub class="lower-index"><i>i</i></sub></sub></span> значение <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span>. </li><li> Для заданных чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> необходимо вычислить сумму <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1d7ff346cc22d72b468f0d5a8f2d7186003971d4.png" />, где <span class="tex-span"><i>f</i><sub class="lower-index">0</sub> = <i>f</i><sub class="lower-index">1</sub> = 1</span> и при <span class="tex-span"><i>i</i> ≥ 2</span>: <span class="tex-span"><i>f</i><sub class="lower-index"><i>i</i></sub> = <i>f</i><sub class="lower-index"><i>i</i> - 1</sub> + <i>f</i><sub class="lower-index"><i>i</i> - 2</sub></span>. </li><li> Для тройки чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> необходимо для всех <span class="tex-span"><i>x</i></span> <span class="tex-span">(<i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>x</i> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub>)</span> увеличить значение <span class="tex-span"><i>a</i><sub class="lower-index"><i>x</i></sub></span> на <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span>. </li></ol></p><p>Этим летом Умный Бобер решил отправиться в тур по великим озерам Канады, потому просит Вас помочь ему в решении данной задачи.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 2·10<sup class="upper-index">5</sup></span>) — количество чисел в последовательности и количество операций соответственно. Вторая строка содержит <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>). Далее идет <span class="tex-span"><i>m</i></span> строк, каждая из которых описывает операцию. Каждый строка начинается с целого числа <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 3</span>) — тип операции: <ul> <li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 1</span>, то далее идет два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 0 ≤ <i>v</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>); </li><li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 2</span>, то далее идет два целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>); </li><li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 3</span>, то далее идет три целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 0 ≤ <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>). </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">30</span> баллов (подзадача E1): <ul> <li> Гарантируется, что <span class="tex-span"><i>n</i></span> не превышает <span class="tex-span">100</span>, <span class="tex-span"><i>m</i></span> не превышает <span class="tex-span">10000</span> и не будет запросов <span class="tex-span">3</span>-го типа. </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">70</span> баллов (подзадачи E1+E2): <ul> <li> Гарантируется, что будут запросы только <span class="tex-span">1</span>-го и <span class="tex-span">2</span>-го типа. </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">100</span> баллов (подзадачи E1+E2+E3): <ul> <li> Дополнительные ограничения отсутствуют. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого запроса второго типа выведите вычисленную сумму по модулю <span class="tex-span">1000000000</span> <span class="tex-span">(10<sup class="upper-index">9</sup>)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 5<br />1 3 1 2 4<br />2 1 4<br />2 1 5<br />2 2 4<br />1 3 10<br />2 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br />32<br />8<br />50<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 4<br />1 3 1 2 4<br />3 1 4 1<br />2 2 4<br />1 2 10<br />2 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br />45<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E3. Задание на лето</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>К своим трем годам Умный Бобер в совершенстве овладел всеми арифметическими операциями, а от своего учителя по математике одаренный ученик получил следующее домашнее задание на лето:</p><p>Дана последовательность целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>. Необходимо последовательно произвести над ней <span class="tex-span"><i>m</i></span> операций следующего вида:</p><p><ol> <li> Для заданных чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> присвоить элементу <span class="tex-span"><i>a</i><sub class="lower-index"><i>x</i><sub class="lower-index"><i>i</i></sub></sub></span> значение <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span>. </li><li> Для заданных чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> необходимо вычислить сумму <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1d7ff346cc22d72b468f0d5a8f2d7186003971d4.png" />, где <span class="tex-span"><i>f</i><sub class="lower-index">0</sub> = <i>f</i><sub class="lower-index">1</sub> = 1</span> и при <span class="tex-span"><i>i</i> ≥ 2</span>: <span class="tex-span"><i>f</i><sub class="lower-index"><i>i</i></sub> = <i>f</i><sub class="lower-index"><i>i</i> - 1</sub> + <i>f</i><sub class="lower-index"><i>i</i> - 2</sub></span>. </li><li> Для тройки чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> необходимо для всех <span class="tex-span"><i>x</i></span> <span class="tex-span">(<i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>x</i> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub>)</span> увеличить значение <span class="tex-span"><i>a</i><sub class="lower-index"><i>x</i></sub></span> на <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span>. </li></ol></p><p>Этим летом Умный Бобер решил отправиться в тур по великим озерам Канады, потому просит Вас помочь ему в решении данной задачи.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 2·10<sup class="upper-index">5</sup></span>) — количество чисел в последовательности и количество операций соответственно. Вторая строка содержит <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>). Далее идет <span class="tex-span"><i>m</i></span> строк, каждая из которых описывает операцию. Каждый строка начинается с целого числа <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 3</span>) — тип операции: <ul> <li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 1</span>, то далее идет два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 0 ≤ <i>v</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>); </li><li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 2</span>, то далее идет два целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>); </li><li> если <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> = 3</span>, то далее идет три целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 0 ≤ <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>). </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">30</span> баллов (подзадача E1): <ul> <li> Гарантируется, что <span class="tex-span"><i>n</i></span> не превышает <span class="tex-span">100</span>, <span class="tex-span"><i>m</i></span> не превышает <span class="tex-span">10000</span> и не будет запросов <span class="tex-span">3</span>-го типа. </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">70</span> баллов (подзадачи E1+E2): <ul> <li> Гарантируется, что будут запросы только <span class="tex-span">1</span>-го и <span class="tex-span">2</span>-го типа. </li></ul></p><p>Ограничения на входные данные для получения <span class="tex-span">100</span> баллов (подзадачи E1+E2+E3): <ul> <li> Дополнительные ограничения отсутствуют. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого запроса второго типа выведите вычисленную сумму по модулю <span class="tex-span">1000000000</span> <span class="tex-span">(10<sup class="upper-index">9</sup>)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 5<br />1 3 1 2 4<br />2 1 4<br />2 1 5<br />2 2 4<br />1 3 10<br />2 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br />32<br />8<br />50<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 4<br />1 3 1 2 4<br />3 1 4 1<br />2 2 4<br />1 2 10<br />2 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br />45<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F1. Солнышки и лучики</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер увлекся рисованием. Он рисует солнышки. Однако, в какой-то момент Умный Бобер понял, что просто рисовать солнышки ему скучно. И он решил разработать программу, которая будет обрабатывать его рисунки. Вам дано изображение, нарисованное Бобром. Оно будет иметь два цвета: один для фона, второй для солнышек на изображении. Ваша задача будет заключаться в том, чтобы посчитать число солнышек на изображении и для каждого из них посчитать число лучиков. </p><p>Солнышко представляет собой произвольно повернутый эллипс с лучиками. Под лучиком будем понимать отрезок соединяющий границу эллипса с некоторой точкой вне эллипса.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/ff9a67d1127ac221d2e692861ff250f72c2953a6.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются кругами. </span> </center></p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/80577aef68d7f85b21af98ff23442fb0a946b73b.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются эллипсами, оси которых параллельны координатным осям. </span> </center></p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/fdee1f3d86b6b39dafaf6e2f7f1b4a2ce8d1e480.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются эллипсами с поворотом. </span> </center></p><p>Гарантируется, что: <ul> <li> Никакие два солнышка не имеют общих точек. </li><li> Толщина лучиков будет составлять <span class="tex-span">3</span> пикселя. </li><li> Длины осей эллипсов, соответствующих солнышкам, будут лежать в пределах от <span class="tex-span">40</span> до <span class="tex-span">200</span> пикселей. </li><li> Никакие два лучика не пересекаются. </li><li> Длины всех лучиков будет лежать в пределах от <span class="tex-span">10</span> до <span class="tex-span">30</span> пикселей. </li></ul></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит два целых числа <span class="tex-span"><i>h</i></span> и <span class="tex-span"><i>w</i></span> — высота и ширина изображения (<span class="tex-span">1 ≤ <i>h</i>, <i>w</i> ≤ 1600</span>). Следующие <span class="tex-span"><i>h</i></span> строк будут содержать по <span class="tex-span"><i>w</i></span> целых чисел, разделенных пробелами. Они описывают рисунок Умного Бобра. Каждое из этих чисел будет равно либо <span class="tex-span">0</span> (фон изображения), либо <span class="tex-span">1</span> (цвет солнышка).</p><p>Ограничения на входные данные для получения 30 баллов (подзадача F1): <ul> <li> Все солнышки на изображении имеют форму кругов. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи F1+F2): <ul> <li> Все солнышки на изображении имеют форму эллипсов, оси которых параллельны координатным осям. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи F1+F2+F3):</p><p><ul> <li> Все солнышки на изображении имеют форму эллипсов, которые могут быть произвольным образом повернуты. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Первая строка должна содержать ровно одно целое число <span class="tex-span"><i>k</i></span> — количество солнышек на рисунке Бобра. Вторая строка должна содержать ровно <span class="tex-span"><i>k</i></span> целых чисел, разделенных пробелами. Эти числа будут соответствовать количеству лучиков на каждом из солнышек. Числа во второй строке должны быть <span class="tex-font-style-bf">отсортированы</span> по возрастанию.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"></div></div><div class="note"><div class="section-title">Примечание</div><p>Для каждого уровня сложности Вам предлагается пример исходных данных. Скачать примеры можно на <span class="tex-font-style-tt">http://www.abbyy.ru/sun.zip</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F2. Солнышки и лучики</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер увлекся рисованием. Он рисует солнышки. Однако, в какой-то момент Умный Бобер понял, что просто рисовать солнышки ему скучно. И он решил разработать программу, которая будет обрабатывать его рисунки. Вам дано изображение, нарисованное Бобром. Оно будет иметь два цвета: один для фона, второй для солнышек на изображении. Ваша задача будет заключаться в том, чтобы посчитать число солнышек на изображении и для каждого из них посчитать число лучиков. </p><p>Солнышко представляет собой произвольно повернутый эллипс с лучиками. Под лучиком будем понимать отрезок соединяющий границу эллипса с некоторой точкой вне эллипса.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/ff9a67d1127ac221d2e692861ff250f72c2953a6.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются кругами. </span> </center></p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/80577aef68d7f85b21af98ff23442fb0a946b73b.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются эллипсами, оси которых параллельны координатным осям. </span> </center></p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/fdee1f3d86b6b39dafaf6e2f7f1b4a2ce8d1e480.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются эллипсами с поворотом. </span> </center></p><p>Гарантируется, что: <ul> <li> Никакие два солнышка не имеют общих точек. </li><li> Толщина лучиков будет составлять <span class="tex-span">3</span> пикселя. </li><li> Длины осей эллипсов, соответствующих солнышкам, будут лежать в пределах от <span class="tex-span">40</span> до <span class="tex-span">200</span> пикселей. </li><li> Никакие два лучика не пересекаются. </li><li> Длины всех лучиков будет лежать в пределах от <span class="tex-span">10</span> до <span class="tex-span">30</span> пикселей. </li></ul></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит два целых числа <span class="tex-span"><i>h</i></span> и <span class="tex-span"><i>w</i></span> — высота и ширина изображения (<span class="tex-span">1 ≤ <i>h</i>, <i>w</i> ≤ 1600</span>). Следующие <span class="tex-span"><i>h</i></span> строк будут содержать по <span class="tex-span"><i>w</i></span> целых чисел, разделенных пробелами. Они описывают рисунок Умного Бобра. Каждое из этих чисел будет равно либо <span class="tex-span">0</span> (фон изображения), либо <span class="tex-span">1</span> (цвет солнышка).</p><p>Ограничения на входные данные для получения 30 баллов (подзадача F1): <ul> <li> Все солнышки на изображении имеют форму кругов. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи F1+F2): <ul> <li> Все солнышки на изображении имеют форму эллипсов, оси которых параллельны координатным осям. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи F1+F2+F3):</p><p><ul> <li> Все солнышки на изображении имеют форму эллипсов, которые могут быть произвольным образом повернуты. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Первая строка должна содержать ровно одно целое число <span class="tex-span"><i>k</i></span> — количество солнышек на рисунке Бобра. Вторая строка должна содержать ровно <span class="tex-span"><i>k</i></span> целых чисел, разделенных пробелами. Эти числа будут соответствовать количеству лучиков на каждом из солнышек. Числа во второй строке должны быть <span class="tex-font-style-bf">отсортированы</span> по возрастанию.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"></div></div><div class="note"><div class="section-title">Примечание</div><p>Для каждого уровня сложности Вам предлагается пример исходных данных. Скачать примеры можно на <span class="tex-font-style-tt">http://www.abbyy.ru/sun.zip</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F3. Солнышки и лучики</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер увлекся рисованием. Он рисует солнышки. Однако, в какой-то момент Умный Бобер понял, что просто рисовать солнышки ему скучно. И он решил разработать программу, которая будет обрабатывать его рисунки. Вам дано изображение, нарисованное Бобром. Оно будет иметь два цвета: один для фона, второй для солнышек на изображении. Ваша задача будет заключаться в том, чтобы посчитать число солнышек на изображении и для каждого из них посчитать число лучиков. </p><p>Солнышко представляет собой произвольно повернутый эллипс с лучиками. Под лучиком будем понимать отрезок соединяющий границу эллипса с некоторой точкой вне эллипса.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/ff9a67d1127ac221d2e692861ff250f72c2953a6.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются кругами. </span> </center></p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/80577aef68d7f85b21af98ff23442fb0a946b73b.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются эллипсами, оси которых параллельны координатным осям. </span> </center></p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/fdee1f3d86b6b39dafaf6e2f7f1b4a2ce8d1e480.png" /> <span class="tex-font-size-script"> Изображение, на котором все солнышки являются эллипсами с поворотом. </span> </center></p><p>Гарантируется, что: <ul> <li> Никакие два солнышка не имеют общих точек. </li><li> Толщина лучиков будет составлять <span class="tex-span">3</span> пикселя. </li><li> Длины осей эллипсов, соответствующих солнышкам, будут лежать в пределах от <span class="tex-span">40</span> до <span class="tex-span">200</span> пикселей. </li><li> Никакие два лучика не пересекаются. </li><li> Длины всех лучиков будет лежать в пределах от <span class="tex-span">10</span> до <span class="tex-span">30</span> пикселей. </li></ul></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит два целых числа <span class="tex-span"><i>h</i></span> и <span class="tex-span"><i>w</i></span> — высота и ширина изображения (<span class="tex-span">1 ≤ <i>h</i>, <i>w</i> ≤ 1600</span>). Следующие <span class="tex-span"><i>h</i></span> строк будут содержать по <span class="tex-span"><i>w</i></span> целых чисел, разделенных пробелами. Они описывают рисунок Умного Бобра. Каждое из этих чисел будет равно либо <span class="tex-span">0</span> (фон изображения), либо <span class="tex-span">1</span> (цвет солнышка).</p><p>Ограничения на входные данные для получения 30 баллов (подзадача F1): <ul> <li> Все солнышки на изображении имеют форму кругов. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи F1+F2): <ul> <li> Все солнышки на изображении имеют форму эллипсов, оси которых параллельны координатным осям. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи F1+F2+F3):</p><p><ul> <li> Все солнышки на изображении имеют форму эллипсов, которые могут быть произвольным образом повернуты. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Первая строка должна содержать ровно одно целое число <span class="tex-span"><i>k</i></span> — количество солнышек на рисунке Бобра. Вторая строка должна содержать ровно <span class="tex-span"><i>k</i></span> целых чисел, разделенных пробелами. Эти числа будут соответствовать количеству лучиков на каждом из солнышек. Числа во второй строке должны быть <span class="tex-font-style-bf">отсортированы</span> по возрастанию.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"></div></div><div class="note"><div class="section-title">Примечание</div><p>Для каждого уровня сложности Вам предлагается пример исходных данных. Скачать примеры можно на <span class="tex-font-style-tt">http://www.abbyy.ru/sun.zip</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">G1. Хорошие подстроки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер недавно увлекся новой игрой в слова. Ее суть состоит в следующем: подсчитать количество различных хороших подстрок некоторой строки <span class="tex-span"><i>s</i></span>. Для определения того, является ли строка хорошей, в игре используются правила. Их всего <span class="tex-span"><i>n</i></span> штук. Каждое правило описывается тройкой <span class="tex-span">(<i>p</i>, <i>l</i>, <i>r</i>)</span>, где <span class="tex-span"><i>p</i></span> — строка, а <span class="tex-span"><i>l</i></span> и <span class="tex-span"><i>r</i></span> <span class="tex-span">(<i>l</i> ≤ <i>r</i>)</span> — целые числа. Будем говорить, что строка <span class="tex-span"><i>t</i></span> удовлетворяет правилу <span class="tex-span">(<i>p</i>, <i>l</i>, <i>r</i>)</span>, если количество вхождений строки <span class="tex-span"><i>t</i></span> в строку <span class="tex-span"><i>p</i></span> лежит в пределах от <span class="tex-span"><i>l</i></span> до <span class="tex-span"><i>r</i></span> включительно. Например, строка «<span class="tex-font-style-tt">ab</span>», удовлетворяет правилам («<span class="tex-font-style-tt">ab</span>», <span class="tex-span">1</span>, <span class="tex-span">2</span>) и («<span class="tex-font-style-tt">aab</span>», <span class="tex-span">0</span>, <span class="tex-span">1</span>), но не удовлетворяет правилам («<span class="tex-font-style-tt">cd</span>», <span class="tex-span">1</span>, <span class="tex-span">2</span>) и («<span class="tex-font-style-tt">abab</span>», <span class="tex-span">0</span>, <span class="tex-span">1</span>).</p><p><span class="tex-font-style-it">Подстрокой</span> <span class="tex-span"><i>s</i>[<i>l</i>... <i>r</i>]</span> <span class="tex-span">(1 ≤ <i>l</i> ≤ <i>r</i> ≤ |<i>s</i>|)</span> строки <span class="tex-span"><i>s</i> = <i>s</i><sub class="lower-index">1</sub><i>s</i><sub class="lower-index">2</sub>... <i>s</i><sub class="lower-index">|<i>s</i>|</sub></span> (где <span class="tex-span">|<i>s</i>|</span> — длина строки <span class="tex-span"><i>s</i></span>) называется строка <span class="tex-span"><i>s</i><sub class="lower-index"><i>l</i></sub><i>s</i><sub class="lower-index"><i>l</i> + 1</sub>... <i>s</i><sub class="lower-index"><i>r</i></sub></span>.</p><p>Будем считать, что <span class="tex-font-style-it">количество вхождений</span> строки <span class="tex-span"><i>t</i></span> в строку <span class="tex-span"><i>p</i></span> — это количество пар целых чисел <span class="tex-span"><i>l</i>, <i>r</i></span> <span class="tex-span">(1 ≤ <i>l</i> ≤ <i>r</i> ≤ |<i>p</i>|)</span> таких, что <span class="tex-span"><i>p</i>[<i>l</i>... <i>r</i>] = <i>t</i></span>.</p><p>Будем говорить, что строка <span class="tex-span"><i>t</i></span> является хорошей, если она удовлетворяет всем <span class="tex-span"><i>n</i></span> правилам. Умный Бобер просит вас помочь ему в написании программы, которая будет вычислять количество различных хороших подстрок строки <span class="tex-span"><i>s</i></span>. Две подстроки <span class="tex-span"><i>s</i>[<i>x</i>... <i>y</i>]</span> и <span class="tex-span"><i>s</i>[<i>z</i>... <i>w</i>]</span> считаются различными, если <span class="tex-span"><i>s</i>[<i>x</i>... <i>y</i>] ≠ <i>s</i>[<i>z</i>... <i>w</i>]</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит строку <span class="tex-span"><i>s</i></span>. Вторая строка содержит целое число <span class="tex-span"><i>n</i></span>. Следующие <span class="tex-span"><i>n</i></span> строк содержат правила по одному в строке. Каждая из этих строк содержит строку и два целых числа <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub>, <i>l</i><sub class="lower-index"><i>i</i></sub>, <i>r</i><sub class="lower-index"><i>i</i></sub></span>, разделенные единичными пробелами (<span class="tex-span">0 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ |<i>p</i><sub class="lower-index"><i>i</i></sub>|</span>). Гарантируется, что все заданные строки непустые и содержат только строчные латинские буквы.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача G1): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 200</span>. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи G1+G2): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 2000</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи G1+G2+G3): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 50000</span>. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите ровно одно целое число — количество различных хороших подстрок строки <span class="tex-span"><i>s</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>aaab<br />2<br />aa 0 0<br />aab 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>ltntlnen<br />3<br />n 0 0<br />ttlneenl 1 4<br />lelllt 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>a<br />0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере подходят подстроки «<span class="tex-font-style-tt">aab</span>», «<span class="tex-font-style-tt">ab</span>» и «<span class="tex-font-style-tt">b</span>».</p><p>Во втором тестовом примере «<span class="tex-font-style-tt">e</span>» и «<span class="tex-font-style-tt">t</span>».</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">G2. Хорошие подстроки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер недавно увлекся новой игрой в слова. Ее суть состоит в следующем: подсчитать количество различных хороших подстрок некоторой строки <span class="tex-span"><i>s</i></span>. Для определения того, является ли строка хорошей, в игре используются правила. Их всего <span class="tex-span"><i>n</i></span> штук. Каждое правило описывается тройкой <span class="tex-span">(<i>p</i>, <i>l</i>, <i>r</i>)</span>, где <span class="tex-span"><i>p</i></span> — строка, а <span class="tex-span"><i>l</i></span> и <span class="tex-span"><i>r</i></span> <span class="tex-span">(<i>l</i> ≤ <i>r</i>)</span> — целые числа. Будем говорить, что строка <span class="tex-span"><i>t</i></span> удовлетворяет правилу <span class="tex-span">(<i>p</i>, <i>l</i>, <i>r</i>)</span>, если количество вхождений строки <span class="tex-span"><i>t</i></span> в строку <span class="tex-span"><i>p</i></span> лежит в пределах от <span class="tex-span"><i>l</i></span> до <span class="tex-span"><i>r</i></span> включительно. Например, строка «<span class="tex-font-style-tt">ab</span>», удовлетворяет правилам («<span class="tex-font-style-tt">ab</span>», <span class="tex-span">1</span>, <span class="tex-span">2</span>) и («<span class="tex-font-style-tt">aab</span>», <span class="tex-span">0</span>, <span class="tex-span">1</span>), но не удовлетворяет правилам («<span class="tex-font-style-tt">cd</span>», <span class="tex-span">1</span>, <span class="tex-span">2</span>) и («<span class="tex-font-style-tt">abab</span>», <span class="tex-span">0</span>, <span class="tex-span">1</span>).</p><p><span class="tex-font-style-it">Подстрокой</span> <span class="tex-span"><i>s</i>[<i>l</i>... <i>r</i>]</span> <span class="tex-span">(1 ≤ <i>l</i> ≤ <i>r</i> ≤ |<i>s</i>|)</span> строки <span class="tex-span"><i>s</i> = <i>s</i><sub class="lower-index">1</sub><i>s</i><sub class="lower-index">2</sub>... <i>s</i><sub class="lower-index">|<i>s</i>|</sub></span> (где <span class="tex-span">|<i>s</i>|</span> — длина строки <span class="tex-span"><i>s</i></span>) называется строка <span class="tex-span"><i>s</i><sub class="lower-index"><i>l</i></sub><i>s</i><sub class="lower-index"><i>l</i> + 1</sub>... <i>s</i><sub class="lower-index"><i>r</i></sub></span>.</p><p>Будем считать, что <span class="tex-font-style-it">количество вхождений</span> строки <span class="tex-span"><i>t</i></span> в строку <span class="tex-span"><i>p</i></span> — это количество пар целых чисел <span class="tex-span"><i>l</i>, <i>r</i></span> <span class="tex-span">(1 ≤ <i>l</i> ≤ <i>r</i> ≤ |<i>p</i>|)</span> таких, что <span class="tex-span"><i>p</i>[<i>l</i>... <i>r</i>] = <i>t</i></span>.</p><p>Будем говорить, что строка <span class="tex-span"><i>t</i></span> является хорошей, если она удовлетворяет всем <span class="tex-span"><i>n</i></span> правилам. Умный Бобер просит вас помочь ему в написании программы, которая будет вычислять количество различных хороших подстрок строки <span class="tex-span"><i>s</i></span>. Две подстроки <span class="tex-span"><i>s</i>[<i>x</i>... <i>y</i>]</span> и <span class="tex-span"><i>s</i>[<i>z</i>... <i>w</i>]</span> считаются различными, если <span class="tex-span"><i>s</i>[<i>x</i>... <i>y</i>] ≠ <i>s</i>[<i>z</i>... <i>w</i>]</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит строку <span class="tex-span"><i>s</i></span>. Вторая строка содержит целое число <span class="tex-span"><i>n</i></span>. Следующие <span class="tex-span"><i>n</i></span> строк содержат правила по одному в строке. Каждая из этих строк содержит строку и два целых числа <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub>, <i>l</i><sub class="lower-index"><i>i</i></sub>, <i>r</i><sub class="lower-index"><i>i</i></sub></span>, разделенные единичными пробелами (<span class="tex-span">0 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ |<i>p</i><sub class="lower-index"><i>i</i></sub>|</span>). Гарантируется, что все заданные строки непустые и содержат только строчные латинские буквы.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача G1): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 200</span>. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи G1+G2): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 2000</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи G1+G2+G3): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 50000</span>. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите ровно одно целое число — количество различных хороших подстрок строки <span class="tex-span"><i>s</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>aaab<br />2<br />aa 0 0<br />aab 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>ltntlnen<br />3<br />n 0 0<br />ttlneenl 1 4<br />lelllt 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>a<br />0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере подходят подстроки «<span class="tex-font-style-tt">aab</span>», «<span class="tex-font-style-tt">ab</span>» и «<span class="tex-font-style-tt">b</span>».</p><p>Во втором тестовом примере «<span class="tex-font-style-tt">e</span>» и «<span class="tex-font-style-tt">t</span>».</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">G3. Хорошие подстроки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Умный Бобер недавно увлекся новой игрой в слова. Ее суть состоит в следующем: подсчитать количество различных хороших подстрок некоторой строки <span class="tex-span"><i>s</i></span>. Для определения того, является ли строка хорошей, в игре используются правила. Их всего <span class="tex-span"><i>n</i></span> штук. Каждое правило описывается тройкой <span class="tex-span">(<i>p</i>, <i>l</i>, <i>r</i>)</span>, где <span class="tex-span"><i>p</i></span> — строка, а <span class="tex-span"><i>l</i></span> и <span class="tex-span"><i>r</i></span> <span class="tex-span">(<i>l</i> ≤ <i>r</i>)</span> — целые числа. Будем говорить, что строка <span class="tex-span"><i>t</i></span> удовлетворяет правилу <span class="tex-span">(<i>p</i>, <i>l</i>, <i>r</i>)</span>, если количество вхождений строки <span class="tex-span"><i>t</i></span> в строку <span class="tex-span"><i>p</i></span> лежит в пределах от <span class="tex-span"><i>l</i></span> до <span class="tex-span"><i>r</i></span> включительно. Например, строка «<span class="tex-font-style-tt">ab</span>», удовлетворяет правилам («<span class="tex-font-style-tt">ab</span>», <span class="tex-span">1</span>, <span class="tex-span">2</span>) и («<span class="tex-font-style-tt">aab</span>», <span class="tex-span">0</span>, <span class="tex-span">1</span>), но не удовлетворяет правилам («<span class="tex-font-style-tt">cd</span>», <span class="tex-span">1</span>, <span class="tex-span">2</span>) и («<span class="tex-font-style-tt">abab</span>», <span class="tex-span">0</span>, <span class="tex-span">1</span>).</p><p><span class="tex-font-style-it">Подстрокой</span> <span class="tex-span"><i>s</i>[<i>l</i>... <i>r</i>]</span> <span class="tex-span">(1 ≤ <i>l</i> ≤ <i>r</i> ≤ |<i>s</i>|)</span> строки <span class="tex-span"><i>s</i> = <i>s</i><sub class="lower-index">1</sub><i>s</i><sub class="lower-index">2</sub>... <i>s</i><sub class="lower-index">|<i>s</i>|</sub></span> (где <span class="tex-span">|<i>s</i>|</span> — длина строки <span class="tex-span"><i>s</i></span>) называется строка <span class="tex-span"><i>s</i><sub class="lower-index"><i>l</i></sub><i>s</i><sub class="lower-index"><i>l</i> + 1</sub>... <i>s</i><sub class="lower-index"><i>r</i></sub></span>.</p><p>Будем считать, что <span class="tex-font-style-it">количество вхождений</span> строки <span class="tex-span"><i>t</i></span> в строку <span class="tex-span"><i>p</i></span> — это количество пар целых чисел <span class="tex-span"><i>l</i>, <i>r</i></span> <span class="tex-span">(1 ≤ <i>l</i> ≤ <i>r</i> ≤ |<i>p</i>|)</span> таких, что <span class="tex-span"><i>p</i>[<i>l</i>... <i>r</i>] = <i>t</i></span>.</p><p>Будем говорить, что строка <span class="tex-span"><i>t</i></span> является хорошей, если она удовлетворяет всем <span class="tex-span"><i>n</i></span> правилам. Умный Бобер просит вас помочь ему в написании программы, которая будет вычислять количество различных хороших подстрок строки <span class="tex-span"><i>s</i></span>. Две подстроки <span class="tex-span"><i>s</i>[<i>x</i>... <i>y</i>]</span> и <span class="tex-span"><i>s</i>[<i>z</i>... <i>w</i>]</span> считаются различными, если <span class="tex-span"><i>s</i>[<i>x</i>... <i>y</i>] ≠ <i>s</i>[<i>z</i>... <i>w</i>]</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит строку <span class="tex-span"><i>s</i></span>. Вторая строка содержит целое число <span class="tex-span"><i>n</i></span>. Следующие <span class="tex-span"><i>n</i></span> строк содержат правила по одному в строке. Каждая из этих строк содержит строку и два целых числа <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub>, <i>l</i><sub class="lower-index"><i>i</i></sub>, <i>r</i><sub class="lower-index"><i>i</i></sub></span>, разделенные единичными пробелами (<span class="tex-span">0 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ |<i>p</i><sub class="lower-index"><i>i</i></sub>|</span>). Гарантируется, что все заданные строки непустые и содержат только строчные латинские буквы.</p><p>Ограничения на входные данные для получения 30 баллов (подзадача G1): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 200</span>. </li></ul></p><p>Ограничения на входные данные для получения 70 баллов (подзадачи G1+G2): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 2000</span>. </li></ul></p><p>Ограничения на входные данные для получения 100 баллов (подзадачи G1+G2+G3): <ul> <li> <span class="tex-span">0 ≤ <i>n</i> ≤ 10</span>. </li><li> Длина строки <span class="tex-span"><i>s</i></span> и максимальная длина строки <span class="tex-span"><i>p</i></span> <span class="tex-span"> ≤ 50000</span>. </li></ul></p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите ровно одно целое число — количество различных хороших подстрок строки <span class="tex-span"><i>s</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>aaab<br />2<br />aa 0 0<br />aab 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>ltntlnen<br />3<br />n 0 0<br />ttlneenl 1 4<br />lelllt 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>a<br />0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере подходят подстроки «<span class="tex-font-style-tt">aab</span>», «<span class="tex-font-style-tt">ab</span>» и «<span class="tex-font-style-tt">b</span>».</p><p>Во втором тестовом примере «<span class="tex-font-style-tt">e</span>» и «<span class="tex-font-style-tt">t</span>».</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

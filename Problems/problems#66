@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="bab68365ce1dgb4ebeb856ce9dc0abbh"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1tj87t8lwvl1k"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='bab68365ce1dgb4ebeb856ce9dc0abbh'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #61 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Петя и Java</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленький Петя недавно начал посещать кружок по программированию. Естественно, перед ним появилась задача выбрать язык, на котором он будет программировать. После долгих размышлений, он понял, что Java — лучший выбор. Главным аргументом в пользу выбора Java было то, что в ней есть очень большой целочисленный тип данных — BigInteger. </p><p>Но после посещения занятий кружка, Петя понял, что не все задачи требует использования типа BigInteger. Как оказалось, в некоторых задачах намного удобнее использовать маленькие типы данных. Поэтому возникает вопрос: «Какой целочисленный тип использовать, если нужно хранить натуральное число <span class="tex-span"><i>n</i></span>?»</p><p>Петя знает лишь 5 целочисленных типов:</p><p>1) <span class="tex-font-style-bf">byte</span> занимает 1 байт, позволяет хранить числа от <span class="tex-span"> - 128</span> до <span class="tex-span">127</span></p><p>2) <span class="tex-font-style-bf">short</span> занимает 2 байта, позволяет хранить числа от <span class="tex-span"> - 32768</span> до <span class="tex-span">32767</span></p><p>3) <span class="tex-font-style-bf">int</span> занимает 4 байта, позволяет хранить числа от <span class="tex-span"> - 2147483648</span> до <span class="tex-span">2147483647</span></p><p>4) <span class="tex-font-style-bf">long</span> занимает 8 байт, позволяет хранить числа от <span class="tex-span"> - 9223372036854775808</span> до <span class="tex-span">9223372036854775807</span></p><p>5) <span class="tex-font-style-bf">BigInteger</span> позволяет хранить любое целое число, но при этом не является примитивным типом, и операции с ним выполняются гораздо медленнее.</p><p>Для всех указанных выше типов значения границ включаются в диапазон значений.</p><p>Из этого списка Петя хочет выбрать самый маленький тип, в котором можно хранить натуральное число <span class="tex-span"><i>n</i></span>. Так как BigInteger работает гораздо медленнее, Петя рассматривает его в последнюю очередь. Помогите ему.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано натуральное число <span class="tex-span"><i>n</i></span>. Оно состоит не более чем из <span class="tex-span">100</span> цифр и не содержит лидирующих нулей. <span class="tex-span"><i>n</i></span> не может являться пустой строкой.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите первый тип из списка &quot;<span class="tex-font-style-tt">byte</span>, <span class="tex-font-style-tt">short</span>, <span class="tex-font-style-tt">int</span>, <span class="tex-font-style-tt">long</span>, <span class="tex-font-style-tt">BigInteger</span>&quot;, в котором можно хранить натуральное число <span class="tex-span"><i>n</i></span>, в соответствии с данными, приведенными выше.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>127<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>byte<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>130<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>short<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>123456789101112131415161718192021222324<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>BigInteger<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Петя и деревня</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленький Петя часто ездит к бабушке в деревню. У бабушки есть большой огород, который, если смотреть сверху, можно представить в виде прямоугольника размером <span class="tex-span">1 × <i>n</i></span>, разбитого на <span class="tex-span"><i>n</i></span> одинаковых квадратных участков. Особенностью огорода является то, что каждый из квадратных участков имеет свою фиксированную высоту и над каждым из участков при помощи новейшей системы водоснабжения может быть создан искусственный дождь над этим участком. </p><p>Создание искусственного дождя — дорогостоящая операция, поэтому мы ограничимся тем, что искусственный дождь будет создан лишь над одним участком. При этом вода с каждого затопленного участка будет попадать на соседние с ним участки, если их высота не превосходит высоту данного участка. То есть, к примеру, если огород представляет собой прямоугольник <span class="tex-span">1 × 5</span>, где высоты участков равны 4, 2, 3, 3, 2, то создав искусственный дождь над любым из участков с высотой 3 — вода разольется по всем участкам, кроме участка с высотой 4. Картинка, поясняющая этот пример: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/919f9d129465552c31029df6a29ef6374681f956.png" /> </center></p><p>Петя увлекается программированием, поэтому он решил найти такой участок, что если мы создадим над этим участком искусственный дождь, то количество участков, на которые попадет вода, будет максимальным. Помогите ему.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано натуральное число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 1000</span>) — количество участков. Во второй строке записано <span class="tex-span"><i>n</i></span> натуральных чисел — высоты участков. Все числа во входном файле не менее 1 и не более 1000.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — максимальное число участков, на которые попадет вода, если мы создадим искусственный дождь ровно над одним участком.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br />2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2 1 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8<br />1 2 1 1 1 3 3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Петя и файловая система</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Недавно на занятии по программированию маленький Петя показывал, как он умеет быстро создавать файлы и папки на компьютере. Но скоро это занятие ему надоело, и он решил заняться куда более полезным делом: он решил подсчитать, в какой папке больше всего подпапок (включая вложенные папки, папки во вложенных папках, и так далее) и в какой папке больше всего файлов (включая файлы в подпапках). </p><p>Более формально, подпапками данной папки являются все папки, лежащие в ней, а так же подпапки всех этих папок. При этом сама данная папка не считается своей подпапкой. Файл считается лежащим в папке тогда и только тогда, когда он либо непосредственно лежит в данной папке, либо лежит в какой-то из подпапок данной папки.</p><p>Для лучшего понимания того, как учитываются вложенные папки и вложенные файлы, смотрите пояснения и ответы к примерам.</p><p>Дано несколько файлов, которые успел создать Петя. Путь к каждому файлу имеет вид:</p><p><span class="tex-span"><i>diskName</i></span>:<span class="tex-span">\</span><span class="tex-span"><i>folder</i><sub class="lower-index">1</sub></span><span class="tex-span">\</span><span class="tex-span"><i>folder</i><sub class="lower-index">2</sub></span><span class="tex-span">\...\</span><span class="tex-span"><i>folder</i><sub class="lower-index"><i>n</i></sub></span><span class="tex-span">\</span><span class="tex-span"><i>fileName</i></span> <ul></ul></p><p><li> <span class="tex-span"><i>diskName</i></span> — это одна большая латинская буква из множества {<span class="tex-font-style-tt">C,D,E,F,G</span>} </li><li> <span class="tex-span"><i>folder</i><sub class="lower-index">1</sub>, ..., <i>folder</i><sub class="lower-index"><i>n</i></sub></span> — названия папок, при этом каждое из названий папок — непустая последовательность из строчных латинских букв и цифр от 0 до 9. (<span class="tex-span"><i>n</i> ≥ 1</span>) </li><li> <span class="tex-span"><i>fileName</i></span> — имя файла в виде <span class="tex-span"><i>name</i></span>.<span class="tex-span"><i>extension</i></span>, где <span class="tex-span"><i>name</i></span> и <span class="tex-span"><i>extension</i></span> — непустые последовательности из строчных латинских букв и цифр от 0 до 9. </li></p><p>Также известно, что нет файлов, путь к которым имеет вид <span class="tex-span"><i>diskName</i></span>:<span class="tex-span">\</span><span class="tex-span"><i>fileName</i></span>. То есть, каждый файл лежит в какой-то папке, а непосредственно в корне диска файлов нет. То есть мы считаем, что диск не является папкой.</p><p>Помогите Пете — найдите наибольшее число подпапок, которое может быть в какой-либо папке, и наибольшее число файлов, которое может быть в какой-либо папке, считая все ее подпапки.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В каждой строке входных данных записано описание одного пути к файлу. Длина каждой из строк не превосходит 100, при этом всего строк не более 100. Гарантируется, что все пути корректны и соответствуют описанным выше правилам. Также, гарантируется, что во входных данных нет двух полностью одинаковых строк, то есть каждый файл описан ровно один раз.</p><p>Во входных данных содержится хотя бы один путь.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите два числа через пробел. Первое — максимальное количество возможных подпапок у папки (включая вложенные папки и папки во вложенных папках) и второе — максимальное количество файлов в папке (включая вложенные файлы во вложенных папках). Заметим, что диски не считаются папками.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>C:<span class="tex-span">\</span>folder1<span class="tex-span">\</span>file1.txt</pre></div><div class="output"><div class="title">Выходные данные</div><pre>0 1</pre></div><div class="input"><div class="title">Входные данные</div><pre>C:<span class="tex-span">\</span>folder1<span class="tex-span">\</span>folder2<span class="tex-span">\</span>folder3<span class="tex-span">\</span>file1.txt<br />C:<span class="tex-span">\</span>folder1<span class="tex-span">\</span>folder2<span class="tex-span">\</span>folder4<span class="tex-span">\</span>file1.txt<br />D:<span class="tex-span">\</span>folder1<span class="tex-span">\</span>file1.txt<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 2</pre></div><div class="input"><div class="title">Входные данные</div><pre>C:<span class="tex-span">\</span>file<span class="tex-span">\</span>file<span class="tex-span">\</span>file<span class="tex-span">\</span>file<span class="tex-span">\</span>file.txt<br />C:<span class="tex-span">\</span>file<span class="tex-span">\</span>file<span class="tex-span">\</span>file<span class="tex-span">\</span>file2<span class="tex-span">\</span>file.txt</pre></div><div class="output"><div class="title">Выходные данные</div><pre>4 2</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере имеем одну папку на диске <span class="tex-font-style-tt">С</span>. Подпапок у нее нет, поэтому первое число ответа — это <span class="tex-span">0</span>. Но в этой папке лежит один файл, поэтому второе число ответа — это <span class="tex-span">1</span>.</p><p>Во втором примере у нас есть несколько разных папок. Рассмотрим папку <span class="tex-font-style-tt">folder1</span> на диске С. Непосредственно в этой папке находится одна папка: <span class="tex-font-style-tt">folder2</span>, а в папке <span class="tex-font-style-tt">folder2</span>, находится еще две папки — <span class="tex-font-style-tt">folder3</span> и <span class="tex-font-style-tt">folder4</span>. Таким образом, у папки <span class="tex-font-style-tt">folder1</span> на диске <span class="tex-font-style-tt">С</span> есть ровно <span class="tex-span">3</span> подпапки. Также в этой папке есть два файла, хоть они и не лежат непосредственно в самой папке, но они находятся в подпапках <span class="tex-font-style-tt">folder1</span>.</p><p>В третьем примере, мы имеем, что названия некоторых папок и некоторых подпапок совпадают. Рассмотрим папку <span class="tex-font-style-tt">file</span>, которая лежит непосредственно на диске <span class="tex-font-style-tt">С</span>. В этой папке лежит еще одна папка <span class="tex-font-style-tt">file</span>, в которой в свою очередь лежит еще одна папка <span class="tex-font-style-tt">file</span>, в которой лежат еще две папки — <span class="tex-font-style-tt">file</span> и <span class="tex-font-style-tt">file2</span>. Таким образом, в папке <span class="tex-font-style-tt">file</span>, лежащей прямо на диске <span class="tex-font-style-tt">С</span> содержится <span class="tex-span">4</span> подпапки.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Петя и его друзья</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У маленького Пети скоро день рождения. В связи с таким замечательным событием, друзья Пети решили подарить ему конфеты. Всего друзей у Пети ровно <span class="tex-span"><i>n</i></span>.</p><p>Напомним определение наибольшего общего делителя: <span class="tex-span"><i>НОД</i>(<i>a</i><sub class="lower-index">1</sub>, ..., <i>a</i><sub class="lower-index"><i>k</i></sub>) = <i>d</i></span>, где <span class="tex-span"><i>d</i></span> — такое максимальное натуральное число, что каждое <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>k</i></span>) делится нацело на <span class="tex-span"><i>d</i></span>. При этом мы считаем, что все <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> больше нуля.</p><p>Друзья, зная, что Петя серьезно увлекается программированием, заранее договорились, что <span class="tex-span">1</span>-ый друг подарит <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span> конфет, <span class="tex-span">2</span>-ой друг — <span class="tex-span"><i>a</i><sub class="lower-index">2</sub></span> конфет, ..., <span class="tex-span"><i>n</i></span>-ый друг — <span class="tex-span"><i>a</i><sub class="lower-index"><i>n</i></sub></span> конфет. При этом, они хотят, чтобы для любых <span class="tex-span"><i>i</i></span> и <span class="tex-span"><i>j</i></span> (<span class="tex-span">1 ≤ <i>i</i>, <i>j</i> ≤ <i>n</i></span>) <span class="tex-span"><i>НОД</i>(<i>a</i><sub class="lower-index"><i>i</i></sub>, <i>a</i><sub class="lower-index"><i>j</i></sub>)</span> был не равен <span class="tex-span">1</span>. Но в то же время, они хотят, чтобы <span class="tex-span"><i>НОД</i>(<i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub>) = 1</span>. Еще одно условие: все <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> должны быть различны.</p><p>Помогите друзьям выбрать подходящие числа <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 50</span>). </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если ответа не существует, выведите &quot;<span class="tex-font-style-tt">-1</span>&quot; без кавычек. Иначе выведите набор из <span class="tex-span"><i>n</i></span> различных натуральных чисел — <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>, по одному числу в строке. Каждое из чисел должно состоять не более чем из <span class="tex-span">100</span> цифр, и не должно содержать ведущих нулей. Если решений несколько, выведите любое. </p><p>Не забудьте, что все условия должны выполняться:</p><p><ul></ul></p><p><li> Для любых <span class="tex-span"><i>i</i></span> и <span class="tex-span"><i>j</i></span> (<span class="tex-span">1 ≤ <i>i</i>, <i>j</i> ≤ <i>n</i></span>): <span class="tex-span"><i>НОД</i>(<i>a</i><sub class="lower-index"><i>i</i></sub>, <i>a</i><sub class="lower-index"><i>j</i></sub>) ≠ 1</span></li></p><p><li> <span class="tex-span"><i>НОД</i>(<i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub>) = 1</span></li></p><p><li> Для любых <span class="tex-span"><i>i</i></span> и <span class="tex-span"><i>j</i></span> (<span class="tex-span">1 ≤ <i>i</i>, <i>j</i> ≤ <i>n</i>, <i>i</i> ≠ <i>j</i></span>): <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>a</i><sub class="lower-index"><i>j</i></sub></span> </li></p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>99<br />55<br />11115<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>385<br />360<br />792<br />8360<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Петя и почта</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Дядя маленького Пети работает почтальоном. Почтовые отделения расположены на одной кольцевой дороге, при этом возле каждого почтового отделения есть своя собственная заправочная станция. Работа Петиного дяди заключается в следующем: утром он должен выйти из дома и пойти к какому-нибудь почтовому отделению. В отделении он получает порцию писем и машину. Далее, он должен проехать на полученной машине ровно один круг по кольцевой дороге и вернуться к стартовому почтовому отделению (дядя может проехать круг в любом направлении, как против направления часовой стрелки, так и по направлению часовой стрелки). При этом, так как машина принадлежит почте города, то и заправляться бензином она должна лишь на станциях, принадлежащих почтовым отделениям.</p><p>Всего станций ровно <span class="tex-span"><i>n</i></span>, и на <span class="tex-span"><i>i</i></span>-ой станции машину можно заправить не более чем на <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> литров бензина. При этом на каждой станции можно заправляться не более одного раза. Расстояние между <span class="tex-span">1</span>-ой и <span class="tex-span">2</span>-ой станцией составляет <span class="tex-span"><i>b</i><sub class="lower-index">1</sub></span> километров, между <span class="tex-span">2</span>-ой и <span class="tex-span">3</span>-ей — <span class="tex-span"><i>b</i><sub class="lower-index">2</sub></span> километров, ..., между <span class="tex-span">(<i>n</i> - 1)</span>-ой и <span class="tex-span"><i>n</i></span>-ой — <span class="tex-span"><i>b</i><sub class="lower-index"><i>n</i> - 1</sub></span> километров и между <span class="tex-span"><i>n</i></span>-ой и <span class="tex-span">1</span>-ой — <span class="tex-span"><i>b</i><sub class="lower-index"><i>n</i></sub></span> километров. Высокотехнологичная машина Петиного дяди расходует лишь один литр бензина на один километр. Известно, что станции расположены так, что сумма всех <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> равна сумме всех <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>. Считается, что <span class="tex-span"><i>i</i></span>-ая заправочная станция и <span class="tex-span"><i>i</i></span>-ое почтовое отделение находятся очень близко, поэтому расстояние между ними — <span class="tex-span">0</span> километров.</p><p>Таким образом, становится понятно, что если стартовать с некоторых почтовых отделений, то не всегда можно проехать один круг по кольцевой дороге. Перед дядей появилась задача: узнать, на какие станции он может пойти утром, чтобы можно было проехать ровно один круг по кольцевой дороге и посетить все почтовые отделения, находящиеся на ней.</p><p>Петя посещает кружок по программированию, и он вызвался помочь дяде, но его знаний оказалось недостаточно, поэтому он просит вас помочь написать программу, которая решает поставленную задачу.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>). Во второй строке записано <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — на сколько литров бензина можно заправить машину на <span class="tex-span"><i>i</i></span>-ой станции. В третьей строке записано <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>b</i><sub class="lower-index">1</sub>, <i>b</i><sub class="lower-index">2</sub>, ..., <i>b</i><sub class="lower-index"><i>n</i></sub></span> — расстояния между <span class="tex-span">1</span>-ой и <span class="tex-span">2</span>-ой заправочными станциями, <span class="tex-span">2</span>-ой и <span class="tex-span">3</span>-ей, ..., <span class="tex-span"><i>n</i></span>-ой и <span class="tex-span">1</span>-ой соответственно. Сумма всех <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> равняется сумме всех <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и не превосходит <span class="tex-span">10<sup class="upper-index">9</sup></span>. Каждое из чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> не меньше чем <span class="tex-span">1</span> и не больше чем <span class="tex-span">10<sup class="upper-index">9</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите число <span class="tex-span"><i>k</i></span> — количество возможных почтовых отделений, начиная с которых машина может проехать один круг по кольцевой дороге. Во второй строке выведите <span class="tex-span"><i>k</i></span> чисел в порядке возрастания — номера почтовых отделений, с которых можно стартовать.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />1 7 2 3<br />8 1 1 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />2 4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8<br />1 2 1 2 1 2 1 2<br />2 1 2 1 2 1 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>8<br />1 2 3 4 5 6 7 8<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

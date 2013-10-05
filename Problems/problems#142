@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="ba35ah7g0d54a3g1cd1286c13aa77144"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="17834uotjmpdd"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='ba35ah7g0d54a3g1cd1286c13aa77144'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #102 (Div. 1)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Помогите крестьянину</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Жил да был в Тридевятом царстве крестьянин Семеныч, и была у него любимая корова Зорька. Все лето он заготавливал для нее корма на зиму — косил траву, сушил ее, складывал в стога. Будучи продвинутым крестьянином, для удобства хранения Семеныч собирал сено в одинаковые соломенные блоки кубической формы и складывал их у себя в амбаре. За лето упорного труда он заготовил целых <span class="tex-span"><i>A</i>·<i>B</i>·<i>C</i></span> соломенных блоков, и сложил их в амбаре в виде прямоугольного параллелепипеда в <span class="tex-span"><i>A</i></span> слоев в высоту, <span class="tex-span"><i>B</i></span> рядов в слое по <span class="tex-span"><i>C</i></span> блоков в каждом ряду.</p><p>В конце осени Семеныч еще раз зашел в амбар полюбоваться заготовленным за лето кропотливого труда сеном и с ужасом обнаружил, что соломенные блоки валялись в амбаре в полном беспорядке. Оказывается, в амбар тайком пробрались воры и полностью разобрали и унесли один слой блоков на передней, задней, верхней и боковых стенках, в результате чего в амбаре остался параллелепипед из <span class="tex-span">(<i>A</i> - 1) × (<i>B</i> - 2) × (<i>C</i> - 2)</span> соломенных блоков. Чтобы скрыть следы преступления, воры разобрали его на отдельные блоки размером <span class="tex-span">1 × 1 × 1</span> и разбросали их по всему амбару. Семеныч насчитал в амбаре после ограбления <span class="tex-span"><i>n</i></span> соломенных блоков, но забыл числа <span class="tex-span"><i>A</i></span>, <span class="tex-span"><i>B</i></span> и <span class="tex-span"><i>C</i></span>.</p><p>Зная число <span class="tex-span"><i>n</i></span>, найдите минимально возможное и максимально возможное количество соломенных блоков, которое было украдено.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке записано целое число <span class="tex-span"><i>n</i></span> из условия задачи (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">9</sup></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите через пробел минимальное и максимальное количество соломенных блоков, которые могли быть похищены ворами.</p><p>Учтите, что ответ на задачу может быть довольно большим, поэтому необходимо использовать 64-битный целый тип для вычислений. Пожалуйста, не используйте спецификатор %lld для чтения или записи 64-битных чисел на С++. Рекомендуется использовать потоки cin, cout или спецификатор %I64d.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>28 41<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>47 65<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>12<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>48 105<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим первый тест из примера. Если первоначально в амбаре у Семеныча находился параллелепипед из <span class="tex-span">32 = 2 × 4 × 4</span> соломенных блоков, после ограбления в амбаре осталось как раз <span class="tex-span">4 = (2 - 1) × (4 - 2) × (4 - 2)</span> соломенных блоков. Так воры могли украсть <span class="tex-span">32 - 4 = 28</span> соломенных блоков. Если первоначально в амбаре у Семеныча находился параллелепипед из <span class="tex-span">45 = 5 × 3 × 3</span> соломенных блоков, после ограбления в амбаре осталось <span class="tex-span">4 = (5 - 1) × (3 - 2) × (3 - 2)</span> соломенных блоков. Так воры могли украсть <span class="tex-span">45 - 4 = 41</span> соломенных блоков. Ни при каких других вариантах первоначального размещения блоков (таких, что после ограбления в амбаре остается ровно 4 блока) из амбара не могло быть похищено менее 28 или более 41 блока.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Помогите воеводе</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Жил да был в Тридевятом царстве Никита Добрынич — главный царский воевода. Он всегда гордился своими воинами и любил приглашать Царя на строевые учения, на которых демонстрировались боевые приемы и тактики возглавляемого им отряда дружины. Долго ли — коротко ли, но однажды поссорился Никита Добрынич с Бабой Ягой (ходили слухи, что ссора произошла после того, как воевода невысоко отозвался о боевых навыках избушки на курьих ножках, чем очень расстроил Бабу Ягу). </p><p>Результатом ссоры стало довольно странное проклятье, наложенное Бабой Ягой на воеводу. Звучало оно очень умно и довольно безобидно: «<span class="tex-font-style-it">Да будут все солдаты, квадрат расстояния между которыми на учениях окажется равным <span class="tex-span">5</span>, враждовать друг с другом!</span>»</p><p>Строевые учения проходят на прямоугольной площадке <span class="tex-span"><i>n</i> × <i>m</i></span>, разбитой на <span class="tex-span"><i>nm</i></span> квадратных участков размерами <span class="tex-span">1 × 1</span> для каждого солдата. Таким образом, квадрат расстояния между солдатами на участках <span class="tex-span">(<i>x</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">1</sub>)</span> и <span class="tex-span">(<i>x</i><sub class="lower-index">2</sub>, <i>y</i><sub class="lower-index">2</sub>)</span> в точности равен <span class="tex-span">(<i>x</i><sub class="lower-index">1</sub> - <i>x</i><sub class="lower-index">2</sub>)<sup class="upper-index">2</sup> + (<i>y</i><sub class="lower-index">1</sub> - <i>y</i><sub class="lower-index">2</sub>)<sup class="upper-index">2</sup></span>, и теперь в учениях не всегда могут принимать участие сразу <span class="tex-span"><i>nm</i></span> солдат, как это было до проклятия Бабы Яги. Если, конечно, воевода не хочет, чтобы солдаты побили друг друга, или того хуже... Например, если поставить дружинника в квадрат <span class="tex-span">(2, 2)</span>, то дружинников в квадраты <span class="tex-span">(1, 4)</span>, <span class="tex-span">(3, 4)</span>, <span class="tex-span">(4, 1)</span> и <span class="tex-span">(4, 3)</span> поставить уже нельзя — между любым из них и дружинником в квадрате <span class="tex-span">(2, 2)</span> начнет действовать проклятье Бабы Яги.</p><p>Ваша задача — помочь воеводе, и по заданным размерам площадки для строевых учений сообщить, какое максимальное количество воинов можно одновременно собрать на этой площадке, чтобы ни на каких двух из них не начало действовать проклятье Бабы Яги.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке через пробел записаны целые числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 1000</span>) — размеры площадки для строевых учений.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите искомое максимальное количество дружинников.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4</pre></div><div class="input"><div class="title">Входные данные</div><pre>3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте из примера расположить 4-х дружинников на площадке размером <span class="tex-span">2 × 4</span> можно следующим образом (места расположения дружинников на схеме обозначены серыми кругами):</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/6788dd01c2f5689a5763826f9912dc9c1bdbe53e.png" /> </center></p><p>Во втором тесте из примера расположить 6-х дружинников на площадке размером <span class="tex-span">3 × 4</span> можно следующим образом:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/65ed0d53d5e08a568005104fa947482ffeefc166.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Помогите складовщику</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Тридевятом царстве наступила поздняя осень, убран небывалый урожай, и настало время готовиться к зиме. В то время как большинство жителей отмечает праздник урожая, складовщик Семен пытается решить довольно нетривиальную задачу размещения на складах сельскохозяйственного оборудования.</p><p>Проблемы у него возникли с самой крупной техникой, которой, разумеется, являются турбоплуги. Проблема в том, что турбоплуг при хранении занимает на складе не обычную прямоугольную форму, а T-образную, как на одной из четырех картинок ниже (где символом «<span class="tex-font-style-tt">#</span>» обозначено место, занимаемое турбоплугом, символом «<span class="tex-font-style-tt">.</span>» — свободное пространство):</p><p><center> <span class="tex-font-style-tt"> <span> <pre>###      ..#      .#.      #..<br />.#.      ###      .#.      ###<br />.#.      ..#      ###      #..<br /></pre> </span> </span> </center></p><p>Перед Семеном встала довольно естественная задача: разместить на заданном складе размерами <span class="tex-span"><i>n</i> × <i>m</i></span> максимальное количество турбоплугов. При хранении турбоплуги можно поворачивать как угодно (так чтобы они занимали область как на одной из четырех картинок выше), однако нельзя, чтобы два турбоплуга «накладывались», то есть занимали общую область склада.</p><p>Семен чувствует, что один не сможет найти оптимальное размещение турбоплугов на складе, максимизирующее их общее количество. Поможете ему?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке записаны через пробел два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> — размеры склада (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 9</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите максимальное количество турбоплугов, которое можно разместить на складе. В следующих <span class="tex-span"><i>n</i></span> строках выведите по <span class="tex-span"><i>m</i></span> символов. Символом «<span class="tex-font-style-tt">.</span>» (точка) обозначайте пустое место, последовательными заглавными буквами латинского алфавита («<span class="tex-font-style-tt">A</span>» — для первого турбоплуга, «<span class="tex-font-style-tt">B</span>» — для второго, и так далее до количества турбоплугов в вашей схеме) — места для соответствующих турбоплугов при их оптимальном расположении на складе. Порядок нумерации мест для турбоплугов на складе значения не имеет. Если существует несколько оптимальных решений для склада данных размеров — выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />AAA<br />.A.<br />.A.<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br />A..C..<br />AAAC..<br />ABCCCD<br />.B.DDD<br />BBB..D<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br />..<br />..<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Помогите Крокодилу Гене 2</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Научившись (не без помощи участников Codeforces) оптимально играть в карточную игру из предыдущего раунда, Гена и Чебурашка (как Вы, возможно, помните — тоже обитатели Тридевятого царства) решили бросить скучные карточные игры и поиграть в солдатиков.</p><p>Правила игры следующие: есть боевая площадка <span class="tex-span"><i>n</i> × <i>m</i></span> клеток, на некоторых клетках которой стоят игрушечные солдатики (зеленые принадлежат Крокодилу Гены, а красные — Чебурашке), причем на каждой из <span class="tex-span"><i>n</i></span> линий площадки стоит не более двух солдатиков. Своим ходом игрок должен <span class="tex-font-style-bf">выбрать</span> не менее <span class="tex-span">1</span> и не более <span class="tex-span"><i>k</i></span> солдатиков, принадлежащих ему, и совершить ими либо <span class="tex-font-style-it">наступление</span>, либо <span class="tex-font-style-it">отступление</span>.</p><p><span class="tex-font-style-it">Наступление</span> — это перемещение всех выбранных солдатиков вдоль линий, на которых они стоят, <span class="tex-font-style-bf">по направлению к</span> вражескому солдатику, если он в этой линии есть. Если на данной линии нет вражеского солдатика — солдатик на данной линии во время хода может перемещаться в любом направлении. Каждый выбранный солдатик должен переместиться хотя бы на одну клетку, при этом разные солдатики могут переместиться на разное количество клеток. В процессе наступления солдатикам не разрешено пересекать клетки, в которых стоят (или стояли непосредственно перед наступлением) другие солдатики, выходить за пределы боевой площадки, а также по окончании наступления стоять в клетках, на которых стоят (или стояли непосредственно перед наступлением) другие солдатики.</p><p><span class="tex-font-style-it">Отступление</span> — это перемещение всех выбранных солдатиков вдоль линий, на которых они стоят, <span class="tex-font-style-bf">по направлению от</span> вражеского солдатика, если он в этой линии есть. <span class="tex-font-style-it">Остальные правила отступления полностью повторяют наступление.</span></p><p>Например, пусть первоначально боевая площадка имела вид (здесь символами «<span class="tex-font-style-tt">G</span>» обозначены солдатики Крокодила Гены, а символами «<span class="tex-font-style-tt">R</span>» — солдатики Чебурашки):</p><p><center> <span class="tex-font-style-tt"> <pre>-G-R-<br />-R-G-<br /></pre> </span> </center></p><p>Пусть <span class="tex-span"><i>k</i> = 2</span> и ходит Крокодил Гена. Если он решит совершить <span class="tex-font-style-it">наступление</span>, то после него боевая площадка может принять вид:</p><p><center> <span class="tex-font-style-tt"> <pre>--GR-     --GR-     -G-R-<br />-RG--     -R-G-     -RG--<br /></pre> </span> </center></p><p>Если в предыдущем примере Крокодил Гена решит совершить <span class="tex-font-style-it">отступление</span>, то после него боевая площадка может принять вид:</p><p><center> <span class="tex-font-style-tt"> <pre>G--R-     G--R-     -G-R-<br />-R--G     -R-G-     -R--G<br /></pre> </span> </center></p><p>С другой стороны, следующие площадки не могут быть получены в результате корректного хода Крокодила Гены:</p><p><center> <span class="tex-font-style-tt"> <pre>G--R-     ---RG     --GR-<br />-RG--     -R-G-     GR---<br /></pre> </span> </center></p><p>Начинает игру Крокодил Гена. Ход состоит в проведении наступления или отступления согласно правилам. Игрок, который не может сделать ход, проигрывает, а его соперник считается победителем. Определите победителя заданной партии в «Солдатиков», если Крокодил Гена и Чебурашка продолжают находиться под воздействием желтых таблеточек из задачи прошлого тура и всегда играют оптимально (то есть стараются выиграть, если это возможно, либо свести игру в ничью, сделав так, чтобы она продолжалась бесконечно, при невозможности выиграть).</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны через пробел целые числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i>, <i>k</i> ≤ 100</span>). Далее в <span class="tex-span"><i>n</i></span> строках записано по <span class="tex-span"><i>m</i></span> символов из множества {«<span class="tex-font-style-tt">-</span>», «<span class="tex-font-style-tt">G</span>», «<span class="tex-font-style-tt">R</span>»}, обозначающих, соответственно, свободную клетку боевой площадки, клетку, занятую солдатиком Крокодила Гены и клетку, занятую солдатиком Чебурашки. </p><p>Гарантируется, что в каждой строке находится не более двух солдат.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">First</span>» (без кавычек), если в заданной партии в «Солдатиков» победит Крокодил Гена, «<span class="tex-font-style-tt">Second</span>» (без кавычек), если победит Чебурашка, либо «<span class="tex-font-style-tt">Draw</span>» (также без кавычек) в случае, если игра будет продолжаться бесконечно.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 3 1<br />R-G<br />RG-<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>First<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3 2<br />G-R<br />R-G<br />G-R<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Second<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 3 1<br />-R-<br />-G-<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Draw<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 5 2<br />-G-R-<br />-R-G-<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>First<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Помогите Гному Грише 2</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В последнее время Гном Гриша занят важными раскопками на Кудыкиной горе, однако по понятным причинам (как вы, возможно, помните, он является необычным гномом, и вообще не переносит солнечного света) проводить раскопки Гриша может только ночью, а наутро, до первого луча солнца, должен возвращаться в свой склеп. Поэтому он хочет найти кратчайший маршрут от места раскопок до своего склепа. Вспомнив предыдущий успех участников Codeforces в транспортировке его гроба в склеп, Гриша в очередной раз каким-то чудом оказался в Вашей спальне и настойчиво попросил Вас помочь ему. Как обычно, Вы были не в силах отказать.</p><p>После недолгих раздумий, вы формализовали задачу следующим образом: Кудыкина гора, в силу своей правильной формы, оканчивающейся довольно острой вершиной, суть есть конус с радиусом основания <span class="tex-span"><i>r</i></span> и высотой <span class="tex-span"><i>h</i></span>. Кладбище, где проводит по ночам раскопки Гриша, а также его склеп — суть две точки на поверхности конуса. Все, что требуется — найти расстояние между точками по поверхности конуса.</p><p>Задача осложняется тем, что все подножие горы на уровне земли и даже пространство под горой ископали гномы (интересно, они искали там то же самое, что и Гриша?), поэтому можно считать, что кратчайший путь между точками может проходить не только по боковой поверхности, но и по основанию конуса (и, как частный случай задачи, обе точки могут лежать на основании конуса — см. первый тест из примеров).</p><p>В качестве решения его задачи Гришу вполне устроит искомое кратчайшее расстояние между точками, а путь Гриша как-нибудь найдет и сам. Два часа, которые он отвел на решение задачи, уже идут!</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке ввода записаны через пробел целые числа <span class="tex-span"><i>r</i></span> и <span class="tex-span"><i>h</i></span> (<span class="tex-span">1 ≤ <i>r</i>, <i>h</i> ≤ 1000</span>) – радиус основания и высота конуса соответственно. Во второй и третьей строках записаны координаты двух точек на поверхности конуса — по три действительных числа через пробел. Координаты точек заданы в системе координат, где начало координат находится в центре основания конуса, а его ось вращения совпадает с осью <span class="tex-span"><i>OZ</i></span>. В этой системе координат вершина конуса находится в точке <span class="tex-span">(0, 0, <i>h</i>)</span>, основание конуса есть круг с центром в точке <span class="tex-span">(0, 0, 0)</span>, лежащий в плоскости <span class="tex-span"><i>XOY</i></span>, а все точки поверхности конуса имеют неотрицательную координату <span class="tex-span"><i>z</i></span>. Гарантируется, что расстояния от точек до поверхности конуса не превосходят <span class="tex-span">10<sup class="upper-index"> - 12</sup></span>. Все действительные числа на входе имеют не более 16 знаков после десятичной точки.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите длину кратчайшего пути между точками, заданными на входе, с абсолютной или относительной погрешностью не более <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 2<br />1.0 0.0 0.0<br />-1.0 0.0 0.0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2.000000000</pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br />1.0 0.0 0.0<br />1.0 0.0 1.0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2.414213562</pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br />1.0 0.0 1.0<br />-1.0 0.0 1.0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2.534324263</pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br />1.0 0.0 0.0<br />0.0 1.0 1.0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3.254470198</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

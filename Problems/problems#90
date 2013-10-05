@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="b7878ha434638g1dg41f40b8ace469d4"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="ln2jpnpuf4lb"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='b7878ha434638g1dg41f40b8ace469d4'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #74 (Div. 2 Only)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Канатная дорога</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Группа студентов хочет подняться на вершину горы, чтобы там устроить пикник. Для этого они решили воспользоваться канатной дорогой.</p><p>Канатная дорога представляет собой некоторое количество кабинок, которые подвешены с помощью каната на специальные опоры. Канат циклически прокручивается между первой и последней опорами (первая из них находится у подножья горы, а последняя — на вершине), а вместе с ним движутся и прикрепленные к нему кабинки.</p><p>Количество кабинок кратно трем и они раскрашены в три цвета — красный, зеленый и синий — таким образом, что после каждой красной кабинки идет зеленая кабинка, после каждой зеленой — синяя, а после каждой синей — красная. В каждую кабинку помещается не более двух человек. Кабинки приходят с периодичностью в одну минуту, а поднимаются наверх ровно за <span class="tex-span">30</span> минут.</p><p>Все студенты делятся на три группы: <span class="tex-span"><i>r</i></span> из них любят кататься только в красных кабинках, <span class="tex-span"><i>g</i></span> — только в зеленых и <span class="tex-span"><i>b</i></span> — только в синих. Студент никогда не садится в кабинку с цветом, который ему не нравится.</p><p>Первая пришедшая кабинка (в момент времени <span class="tex-span">0</span>) имеет красный цвет. Определите наименьшее время, за которое вся группа студентов может подняться на вершину горы.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находятся три целых числа — <span class="tex-span"><i>r</i></span>, <span class="tex-span"><i>g</i></span> и <span class="tex-span"><i>b</i></span> (<span class="tex-span">0 ≤ <i>r</i>, <i>g</i>, <i>b</i> ≤ 100</span>). Гарантируется, что <span class="tex-span"><i>r</i> + <i>g</i> + <i>b</i> &gt; 0</span>, то есть группа состоит хотя бы из одного студента.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — наименьшее время, за которое вся группа студентов может подняться на вершину горы.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 3 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>34</pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>33</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Разберем первый пример.</p><p>В момент времени <span class="tex-span">0</span> приходит красная кабинка, в нее садится один студент из группы <span class="tex-span"><i>r</i></span> и приезжает наверх в момент времени <span class="tex-span">30</span>.</p><p>В момент времени <span class="tex-span">1</span> приезжает зеленая кабинка, в нее садятся два студента из группы <span class="tex-span"><i>g</i></span>, которые приезжают наверх в момент времени <span class="tex-span">31</span>.</p><p>В момент времени <span class="tex-span">2</span> приезжает синяя кабинка, в нее садятся два студента из группы <span class="tex-span"><i>b</i></span>, которые приезжают наверх в момент времени <span class="tex-span">32</span>.</p><p>В момент времени <span class="tex-span">3</span> приезжает красная кабинка, но одному оставшемуся студенту красный цвет не нравится и кабинка уезжает пустой.</p><p>В момент времени <span class="tex-span">4</span> приезжает зеленая кабинка, в нее садится один студент из группы <span class="tex-span"><i>g</i></span>, который приезжает наверх в момент времени <span class="tex-span">34</span>.</p><p>Итак, все студенты наверху, общее затраченное время равно <span class="tex-span">34</span> минутам.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Африканский кроссворд</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Африканский кроссворд представляет собой прямоугольную таблицу <span class="tex-span"><i>n</i> × <i>m</i></span>, в каждую ячейку которой вписана ровно одна буква. В этой таблице (еще ее называют сеткой) зашифровано некоторое слово, которое нужно расшифровать.</p><p>Чтобы решить кроссворд, нужно вычеркнуть все повторяющиеся буквы в строках и в столбцах. Другими словами, буква должна быть вычеркнута в том и только в том случае, когда в соответствующих ей строке или столбце помимо нее есть еще хотя бы одна такая же буква. Причем все такие буквы вычеркиваются одновременно.</p><p>Когда все повторяющиеся буквы будут вычеркнуты, оставшиеся буквы следует выписать в одну строчку. Раньше идут те буквы, которые находятся выше, если они в одной строке — раньше идет та буква, которая левее. Полученное слово является ответом.</p><p>Вам предлагается решить африканский кроссворд и вывести слово, которое в нем зашифровано.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержатся два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 100</span>). В следующих <span class="tex-span"><i>n</i></span> строках содержится по <span class="tex-span"><i>m</i></span> маленьких латинских букв — сетка кроссворда.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите зашифрованное слово. Гарантируется, что ответ состоит хотя бы из одной буквы.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3<br />cba<br />bcd<br />cbc<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>abcd</pre></div><div class="input"><div class="title">Входные данные</div><pre>5 5<br />fcofd<br />ooedo<br />afaoa<br />rdcdf<br />eofsf<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>codeforces</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Ограбление</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Ночь. Неуловимый Джо пробрался внутрь сейфа главного банка страны. Здесь имеется <span class="tex-span"><i>n</i></span> ячеек, расположенных в ряд, в каждой из которых лежит некоторое количество алмазов. Для удобства пронумеруем ячейки натуральными числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> слева направо.</p><p>К сожалению, Джо не отключил последнюю из систем безопасности. Зато он знает как она устроена.</p><p>Каждую минуту система безопасности определяет для каждых двух соседних ячеек (разность номеров которых ровно <span class="tex-span">1</span>) суммарное количество алмазов в них. В итоге получается <span class="tex-span"><i>n</i> - 1</span> сумма. Если хотя бы одна из них отличается от соответствующей суммы, полученной при предыдущем измерении, система безопасности срабатывает.</p><p>Джо может перемещать алмазы между проверками системы безопасности. За минуту между двумя проверками он успевает сделать не более <span class="tex-span"><i>m</i></span> перемещений. Перемещением считается одна из трех следующих операций: перемещение алмаза из любой ячейки в любую другую, перемещение алмаза из любой ячейки в карман Джо, перемещение алмаза из кармана в любую ячейку. Изначально карман Джо пуст, в любую ячейку и в карман помещается неограниченное количество алмазов. Считается, что до всех действий Джо система делает хотя бы одну проверку.</p><p>Утром в банк придут банковские служащие, поэтому Джо должен уйти из банка до этого момента. У Джо есть <span class="tex-span"><i>k</i></span> перерывов между проверками системы безопасности перед тем, как нужно будет скрыться. Все, что останется при этом у Джо в кармане, считается его добычей.</p><p>Определите наибольшее количество алмазов, которые может унести с собой Джо. Система безопасности при этом не должна сработать (в том числе и после того, как Джо покинет банк), а скрыться Джо должен до наступления утра.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находятся целые числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">4</sup></span>, <span class="tex-span">1 ≤ <i>m</i>, <i>k</i> ≤ 10<sup class="upper-index">9</sup></span>). В следующей строке находятся <span class="tex-span"><i>n</i></span> чисел. <span class="tex-span"><i>i</i></span>-ое из них равно количеству алмазов в <span class="tex-span"><i>i</i></span>-ой ячейке — целое число от <span class="tex-span">0</span> до <span class="tex-span">10<sup class="upper-index">5</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — максимальное количество алмазов, которые может унести с собой Джо.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 3 1<br />2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0</pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2 2<br />4 1 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Во втором примере Джо может действовать следующим образом.</p><p>Изначально расположение алмазов <span class="tex-span">4</span> <span class="tex-span">1</span> <span class="tex-span">3</span>.</p><p>За первый перерыв Джо перекладывает один алмаз из <span class="tex-span">1</span>-ой ячейки во <span class="tex-span">2</span>-ую и один алмаз из <span class="tex-span">3</span>-ей ячейки себе в карман.</p><p>Расположение алмазов в конце первого перерыва <span class="tex-span">3</span> <span class="tex-span">2</span> <span class="tex-span">2</span>. Проверка не находит изменений и система безопасности не срабатывает.</p><p>За второй перерыв Джо перекладывает один алмаз из <span class="tex-span">3</span>-ей ячейки во <span class="tex-span">2</span>-ую и один алмаз из <span class="tex-span">1</span>-ой ячейки себе в карман.</p><p>Расположение алмазов в конце второго перерыва <span class="tex-span">2</span> <span class="tex-span">3</span> <span class="tex-span">1</span>. Проверка опять не находит изменений и система безопасности не срабатывает.</p><p>Теперь Джо уходит с <span class="tex-span">2</span> алмазами в кармане.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Библиотека виджетов</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася пишет свою собственную библиотеку для построения графического пользовательского интерфейса. Свое детище Вася назвал <span class="tex-font-style-tt">VTK</span> (<span class="tex-font-style-tt">VasyaToolKit</span>). Одним из интересных аспектов данной библиотеки является упаковка виджетов друг в друга.</p><p>Виджетом называется некоторый элемент графического интерфейса. Каждый виджет имеет ширину и высоту, и занимает некоторый прямоугольник на экране. В Васиной библиотеке любой виджет имеет тип <span class="tex-font-style-tt">Widget</span>. Далее для простоты мы будем отождествлять виджет и его тип.</p><p>Типы <span class="tex-font-style-tt">HBox</span> и <span class="tex-font-style-tt">VBox</span> — производные от типа <span class="tex-font-style-tt">Widget</span>, поэтому тоже являются типами <span class="tex-font-style-tt">Widget</span>. Виджеты <span class="tex-font-style-tt">HBox</span> и <span class="tex-font-style-tt">VBox</span> — особенные. Они могут хранить в себе другие виджеты. Оба эти виджета с помощью метода <span class="tex-font-style-tt">pack()</span> могут вложить непосредственно в себя какой либо другой виджет. Виджеты типов <span class="tex-font-style-tt">HBox</span> и <span class="tex-font-style-tt">VBox</span> могут хранить в себе несколько других виджетов, в том числе несколько одинаковых — они просто будут отображены несколько раз. В результате выполнения метода <span class="tex-font-style-tt">pack()</span> сохраняется только ссылка на вложенный виджет, то есть при изменении вложенного виджета, его изображение в виджете, в который он вложен, тоже изменится.</p><p>Будем считать, что виджет <span class="tex-span"><i>a</i></span> вложен в виджет <span class="tex-span"><i>b</i></span> если существует цепочка виджетов <span class="tex-span"><i>a</i> = <i>c</i><sub class="lower-index">1</sub>, <i>c</i><sub class="lower-index">2</sub>, ..., <i>c</i><sub class="lower-index"><i>k</i></sub> = <i>b</i></span>, <span class="tex-span"><i>k</i> ≥ 2</span>, для которых <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> вложен непосредственно в <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i> + 1</sub></span> для любого <span class="tex-span">1 ≤ <i>i</i> &lt; <i>k</i></span>. В Васиной библиотеке не допускается ситуация, что виджет <span class="tex-span"><i>a</i></span> вложен в виджет <span class="tex-span"><i>a</i></span> (то есть в себя) — при попытке вложить виджеты друг в друга таким образом сразу же выдается ошибка.</p><p>Также виджеты <span class="tex-font-style-tt">HBox</span> и <span class="tex-font-style-tt">VBox</span> имеют параметры <span class="tex-font-style-tt">border</span> и <span class="tex-font-style-tt">spacing</span>, которые задаются методами <span class="tex-font-style-tt">set_border()</span> и <span class="tex-font-style-tt">set_spacing()</span> соответственно. По умолчанию оба этих параметра равны <span class="tex-span">0</span>.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/f5dcdc67c614a585e6a2645c7ebbe13d8b6313c7.png" /> </center></p><p>На картинке выше видно каким образом виджеты упаковываются в <span class="tex-font-style-tt">HBox</span> и <span class="tex-font-style-tt">VBox</span>. При этом <span class="tex-font-style-tt">HBox</span> и <span class="tex-font-style-tt">VBox</span> автоматически меняют свой размер в зависимости от размеров вложенных виджетов. Сами <span class="tex-font-style-tt">HBox</span> и <span class="tex-font-style-tt">VBox</span> отличаются только тем, что в <span class="tex-font-style-tt">HBox</span> виджеты упаковываются по горизонтали, а в <span class="tex-font-style-tt">VBox</span> — по вертикали. При этом параметр <span class="tex-font-style-tt">spacing</span> задает расстояние между соседними виджетами, а <span class="tex-font-style-tt">border</span> — рамку вокруг всех вложенных виджетов нужной ширины. Вложенные виджеты располагаются ровно в том порядке, в котором для них был вызван метод <span class="tex-font-style-tt">pack()</span>. Если внутри <span class="tex-font-style-tt">HBox</span> или <span class="tex-font-style-tt">VBox</span> нет ни одного вложенного виджета, то их размеры равны <span class="tex-span">0 × 0</span> вне зависимости от параметров <span class="tex-font-style-tt">border</span> и <span class="tex-font-style-tt">spacing</span>.</p><p>Построение всех виджетов идет с помощью скриптового языка <span class="tex-font-style-tt">VasyaScript</span>. Описание этого языка вы найдете в описании входных данных.</p><p>Для контрольной проверки верности своего кода Вася просит написать вас программу, вычисляющую размеры всех виджетов по исходному коду на языке <span class="tex-font-style-tt">VasyaScript</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находится целое число <span class="tex-span"><i>n</i></span> — количество инструкций (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>). В последующих <span class="tex-span"><i>n</i></span> строках располагаются инструкции на языке <span class="tex-font-style-tt">VasyaScript</span> по одной инструкции на строку. Ниже приведен список возможных инструкций.</p><p><ul></ul></p><p><li> «<span class="tex-font-style-tt">Widget [name]([x],[y])</span>» — создание нового виджета <span class="tex-font-style-tt">[name]</span> типа <span class="tex-font-style-tt">Widget</span> шириной <span class="tex-font-style-tt">[x]</span> единиц и высотой <span class="tex-font-style-tt">[y]</span> единиц.</li></p><p><li> «<span class="tex-font-style-tt">HBox [name]</span>» — создать новый виджет <span class="tex-font-style-tt">[name]</span> типа <span class="tex-font-style-tt">HBox</span>.</li></p><p><li> «<span class="tex-font-style-tt">VBox [name]</span>» — создать новый виджет <span class="tex-font-style-tt">[name]</span> типа <span class="tex-font-style-tt">VBox</span>.</li></p><p><li> «<span class="tex-font-style-tt">[name1].pack([name2])</span>» — упаковать виджет <span class="tex-font-style-tt">[name2]</span> в виджет <span class="tex-font-style-tt">[name1]</span>. При этом виджет <span class="tex-font-style-tt">[name1]</span> должен иметь тип <span class="tex-font-style-tt">HBox</span> или <span class="tex-font-style-tt">VBox</span>.</li></p><p><li> «<span class="tex-font-style-tt">[name].set_border([x])</span>» — установить виджету <span class="tex-font-style-tt">[name]</span> параметр <span class="tex-font-style-tt">border</span> в <span class="tex-font-style-tt">[x]</span> единиц. Виджет <span class="tex-font-style-tt">[name]</span> должен иметь тип <span class="tex-font-style-tt">HBox</span> или <span class="tex-font-style-tt">VBox</span>.</li></p><p><li> «<span class="tex-font-style-tt">[name].set_spacing([x])</span>» — установить виджету <span class="tex-font-style-tt">[name]</span> параметр <span class="tex-font-style-tt">spacing</span> в <span class="tex-font-style-tt">[x]</span> единиц. Виджет <span class="tex-font-style-tt">[name]</span> должен иметь тип <span class="tex-font-style-tt">HBox</span> или <span class="tex-font-style-tt">VBox</span>.</li></p><p>Все инструкции записаны без пробелов в начале и в конце строки, слова внутри инструкции разделены ровно одним пробелом. Непосредственно перед числами и непосредственно после них пробелов нет.</p><p>Регистр букв имеет значение, то есть, например «<span class="tex-font-style-tt">wiDget x</span>» — некорректная инструкция. Во входных данных регистр букв соблюден.</p><p>Все названия виджетов состоят из малых латинских букв и имеют длину от <span class="tex-span">1</span> до <span class="tex-span">10</span> символов включительно. Названия всех виджетов попарно различны. Все числа в скрипте целые от <span class="tex-span">0</span> до <span class="tex-span">100</span> включительно.</p><p>Гарантируется, что приведенный скрипт корректен, то есть все действия с виджетами происходят после их создания и никакой виджет не вложен сам в себя. Гарантируется, что в скрипте создается хотя бы один виджет.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого виджета в отдельной строке выведите через пробел его название, ширину и высоту. Строки должны быть упорядочены лексикографически по названию виджета.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>12<br />Widget me(50,40)<br />VBox grandpa<br />HBox father<br />grandpa.pack(father)<br />father.pack(me)<br />grandpa.set_border(10)<br />grandpa.set_spacing(20)<br />Widget brother(30,60)<br />father.pack(brother)<br />Widget friend(20,60)<br />Widget uncle(100,20)<br />grandpa.pack(uncle)<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>brother 30 60<br />father 80 60<br />friend 20 60<br />grandpa 120 120<br />me 50 40<br />uncle 100 20<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>15<br />Widget pack(10,10)<br />HBox dummy<br />HBox x<br />VBox y<br />y.pack(dummy)<br />y.set_border(5)<br />y.set_spacing(55)<br />dummy.set_border(10)<br />dummy.set_spacing(20)<br />x.set_border(10)<br />x.set_spacing(10)<br />x.pack(pack)<br />x.pack(dummy)<br />x.pack(pack)<br />x.set_border(0)<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>dummy 0 0<br />pack 10 10<br />x 40 10<br />y 10 10<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере виджеты располагаются следующим образом: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/7440a54cafba8de95732832cd80dd328ffb395fc.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Игра с фишками</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Рассмотрим следующую игру. Имеется прямоугольное поле размера <span class="tex-span"><i>n</i> × <i>m</i></span>, в некоторых клетках которого находятся фишки.</p><p>На каждой фишке нарисована стрелка. Таким образом, каждая фишка на поле показывает в одном из направлений: вверх, вниз, налево или направо.</p><p>Игрок может выбрать одну из фишек и сделать ей ход.</p><p>Ход подразумевает следующую последовательность действий. Выбранная фишка назначается текущей. После этого игрок проверяет есть ли фишки в той же строке (или в том же столбце), что и текущая фишка, на которые указывает стрелка текущей фишки. Если там есть хотя бы одна фишка, то ближайшая из них назначается новой текущей фишкой, а бывшая текущая фишка удаляется с поля. После этого проверка повторяется. Этот процесс может повторяться несколько. Если новая фишка не найдена, текущая фишка удаляется с поля и ход игрока заканчивается.</p><p>В результате хода игрок получает некоторое количество очков, равное количеству удаленных фишек.</p><p>По заданной начальной расстановке фишек определите максимальное количество очков, которое может получить игрок за один ход, а также количество таких ходов.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке даны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i>, <i>n</i> × <i>m</i> ≤ 5000</span>). Далее идут <span class="tex-span"><i>n</i></span> строк по <span class="tex-span"><i>m</i></span> символов в каждой — описание игрового поля. «<span class="tex-font-style-tt">.</span>» означает, что данная клетка пуста. «<span class="tex-font-style-tt">L</span>», «<span class="tex-font-style-tt">R</span>», «<span class="tex-font-style-tt">U</span>», «<span class="tex-font-style-tt">D</span>» означают, что в данной клетке есть фишка и стрелка на ней указывает налево, направо, вверх или вниз соответственно.</p><p>Гарантируется, что на поле имеется хотя бы одна фишка.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите два числа — максимальное количество очков, которое может получить игрок за один ход и количество ходов, позволяющих получить это максимальное количество очков.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 4<br />DRLD<br />U.UL<br />.UUR<br />RDDL<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>10 1</pre></div><div class="input"><div class="title">Входные данные</div><pre>3 5<br />.D...<br />RRRLL<br />.U...<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6 2</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере наибольшее количество очков приносит фишка в позиции <span class="tex-span">(3, 3)</span>. Ее ход можно проследить на следующей картинке:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/5da9160736a11fddbcca99b34dfe2ad7edda84c0.png" /> </center></p><p>Все остальные фишки приносят меньше очков.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

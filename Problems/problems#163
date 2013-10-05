@@ -1,0 +1,353 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="52g917c6h2314gf1fdc1dd422hd0hf1c"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="55kukas0fec0"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='52g917c6h2314gf1fdc1dd422hd0hf1c'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+            <div style="padding-top:1em;">
+<a href="http://codeforces.ru/vkcup2012"><img src="http://stat.codeforces.ru/images/vkcup2012-2.png"/>
+</a>
+</div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">VK Cup 2012 &#1056;&#1072;&#1091;&#1085;&#1076; 2</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Подстрока и подпоследовательность</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Как-то раз Поликарп раздобыл две непустые строки <span class="tex-span"><i>s</i></span> и <span class="tex-span"><i>t</i></span>, состоящие из строчных букв латинского алфавита. Поликарп неплохо разбирается в строках, поэтому он сразу задался вопросом: сколько существует различных пар «<span class="tex-span"><i>x</i></span> <span class="tex-span"><i>y</i></span>» таких, что <span class="tex-span"><i>x</i></span> — подстрока строки <span class="tex-span"><i>s</i></span>, <span class="tex-span"><i>y</i></span> — подпоследовательность строки <span class="tex-span"><i>t</i></span>, а содержимое <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> одинаково. Две пары считаются различными, если в них различаются подстроки строки <span class="tex-span"><i>s</i></span> или различаются подпоследовательности строки <span class="tex-span"><i>t</i></span>. Прочтите условие до конца для точного понимания различности подстрок и подпоследовательностей в данной задаче.</p><p><span class="tex-font-style-it">Длиной</span> строки <span class="tex-span"><i>s</i></span> называется количество символов в ней. Пусть длина строки <span class="tex-span"><i>s</i></span> обозначается <span class="tex-span">|<i>s</i>|</span>, тогда можно записать строку <span class="tex-span"><i>s</i></span> в виде <span class="tex-span"><i>s</i> = <i>s</i><sub class="lower-index">1</sub><i>s</i><sub class="lower-index">2</sub>... <i>s</i><sub class="lower-index">|<i>s</i>|</sub></span>.</p><p>Непустую строку <span class="tex-span"><i>x</i> = <i>s</i>[<i>a</i>... <i>b</i>] = <i>s</i><sub class="lower-index"><i>a</i></sub><i>s</i><sub class="lower-index"><i>a</i> + 1</sub>... <i>s</i><sub class="lower-index"><i>b</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i> ≤ <i>b</i> ≤ |<i>s</i>|</span>) будем называть <span class="tex-font-style-it">подстрокой</span> строки <span class="tex-span"><i>s</i></span>. Например, «<span class="tex-font-style-tt">code</span>» и «<span class="tex-font-style-tt">force</span>» — подстроки «<span class="tex-font-style-tt">codeforces</span>», а «<span class="tex-font-style-tt">coders</span>» — нет. Две подстроки <span class="tex-span"><i>s</i>[<i>a</i>... <i>b</i>]</span> и <span class="tex-span"><i>s</i>[<i>c</i>... <i>d</i>]</span> <span class="tex-font-style-it">считаются различными</span>, если <span class="tex-span"><i>a</i> ≠ <i>c</i></span> или <span class="tex-span"><i>b</i> ≠ <i>d</i></span>. Например, если <span class="tex-span"><i>s</i></span>=«<span class="tex-font-style-tt">codeforces</span>», то <span class="tex-span"><i>s</i>[2...2]</span> и <span class="tex-span"><i>s</i>[6...6]</span> — различны, несмотря на то, что их содержимое одинаково.</p><p>Непустую строку <span class="tex-span"><i>y</i> = <i>s</i>[<i>p</i><sub class="lower-index">1</sub><i>p</i><sub class="lower-index">2</sub>... <i>p</i><sub class="lower-index">|<i>y</i>|</sub>] = <i>s</i><sub class="lower-index"><i>p</i><sub class="lower-index">1</sub></sub><i>s</i><sub class="lower-index"><i>p</i><sub class="lower-index">2</sub></sub>... <i>s</i><sub class="lower-index"><i>p</i><sub class="lower-index">|<i>y</i>|</sub></sub></span> (<span class="tex-span">1 ≤ <i>p</i><sub class="lower-index">1</sub> &lt; <i>p</i><sub class="lower-index">2</sub> &lt; ... &lt; <i>p</i><sub class="lower-index">|<i>y</i>|</sub> ≤ |<i>s</i>|</span>) будем называть <span class="tex-font-style-it">подпоследовательностью</span> строки <span class="tex-span"><i>s</i></span>. Например, «<span class="tex-font-style-tt">coders</span>» — подпоследовательность «<span class="tex-font-style-tt">codeforces</span>». Две подпоследовательности <span class="tex-span"><i>u</i> = <i>s</i>[<i>p</i><sub class="lower-index">1</sub><i>p</i><sub class="lower-index">2</sub>... <i>p</i><sub class="lower-index">|<i>u</i>|</sub>]</span> и <span class="tex-span"><i>v</i> = <i>s</i>[<i>q</i><sub class="lower-index">1</sub><i>q</i><sub class="lower-index">2</sub>... <i>q</i><sub class="lower-index">|<i>v</i>|</sub>]</span> <span class="tex-font-style-it">считаются различными</span>, если различны последовательности <span class="tex-span"><i>p</i></span> и <span class="tex-span"><i>q</i></span>. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные состоят из двух строк. Первая из них содержит <span class="tex-span"><i>s</i></span> (<span class="tex-span">1 ≤ |<i>s</i>| ≤ 5000</span>), а вторая — <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ |<i>t</i>| ≤ 5000</span>). Обе строки состоят из строчных латинских букв.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — количество различных пар «<span class="tex-span"><i>x</i></span> <span class="tex-span"><i>y</i></span>» таких, что <span class="tex-span"><i>x</i></span> — подстрока строки <span class="tex-span"><i>s</i></span>, <span class="tex-span"><i>y</i></span> — подпоследовательность строки <span class="tex-span"><i>t</i></span>, а содержимое <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> одинаково. Так как ответ может быть достаточно большим, выведите его остаток при делении на <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>aa<br />aa<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>codeforces<br />forceofcode<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>60<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Выпишем все пары «<span class="tex-span"><i>x</i></span> <span class="tex-span"><i>y</i></span>», которые входят в ответ в первом тестовом примере: «<span class="tex-span"><i>s</i>[1...1]</span> <span class="tex-span"><i>t</i>[1]</span>», «<span class="tex-span"><i>s</i>[2...2]</span> <span class="tex-span"><i>t</i>[1]</span>», «<span class="tex-span"><i>s</i>[1...1]</span> <span class="tex-span"><i>t</i>[2]</span>», «<span class="tex-span"><i>s</i>[2...2]</span> <span class="tex-span"><i>t</i>[2]</span>», «<span class="tex-span"><i>s</i>[1...2]</span> <span class="tex-span"><i>t</i>[1 2]</span>».</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Лемминги</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Как известно, лемминги любят прыгать. Для очередного эффектного группового прыжка <span class="tex-span"><i>n</i></span> леммингов собрались у высокой скалы, на которой расположены <span class="tex-span"><i>k</i></span> удобных уступов. Первый уступ расположен на высоте <span class="tex-span"><i>h</i></span> метров, второй — на высоте <span class="tex-span">2<i>h</i></span>, и так далее (<span class="tex-span"><i>i</i></span>-ый на высоте <span class="tex-span"><i>i</i>·<i>h</i></span> метров). Лемминги собираются прыгать на закате, до которого осталось не так много времени.</p><p>Каждый лемминг характеризуется скоростью подъёма <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> метров в минуту и массой <span class="tex-span"><i>m</i><sub class="lower-index"><i>i</i></sub></span>. Это означает, что <span class="tex-span"><i>i</i></span>-й лемминг может взобраться на <span class="tex-span"><i>j</i></span>-й уступ за время <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/7b77043fa78e710a6e67692ae13a7ab726fac683.png" /> минут.</p><p>Чтобы прыжок получился красивым, более тяжелые лемминги должны прыгать с более высоких уступов: если лемминг массой <span class="tex-span"><i>m</i><sub class="lower-index"><i>i</i></sub></span> прыгает с уступа <span class="tex-span"><i>i</i></span>, а лемминг массой <span class="tex-span"><i>m</i><sub class="lower-index"><i>j</i></sub></span> прыгает с уступа <span class="tex-span"><i>j</i></span> (для <span class="tex-span"><i>i</i> &lt; <i>j</i></span>), то должно выполняться неравенство <span class="tex-span"><i>m</i><sub class="lower-index"><i>i</i></sub> ≤ <i>m</i><sub class="lower-index"><i>j</i></sub></span>.</p><p>Так как леммингов <span class="tex-span"><i>n</i></span>, а уступов всего <span class="tex-span"><i>k</i></span> (<span class="tex-span"><i>k</i> ≤ <i>n</i></span>), то из <span class="tex-span"><i>n</i></span> леммингов предстоит выбрать <span class="tex-span"><i>k</i></span>, которые примут участие в прыжке. Выбранных леммингов нужно распределить по уступам с <span class="tex-span">1</span> по <span class="tex-span"><i>k</i></span> по одному леммингу на уступ. Лемминги должны быть упорядочены в порядке неубывания массы с возрастанием высоты уступа. Кроме того, каждый лемминг должен успеть подняться на свой уступ, то есть время его подъёма не должно превышать <span class="tex-span"><i>t</i></span> минут. Лемминги карабкаются на свои уступы все одновременно и не мешают друг другу.</p><p>Определите способ организовать прыжок леммингов таким образом, чтобы время <span class="tex-span"><i>t</i></span> было минимально.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел заданы целые числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>k</i></span> и <span class="tex-span"><i>h</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>, <span class="tex-span">1 ≤ <i>h</i> ≤ 10<sup class="upper-index">4</sup></span>) — общее количество леммингов, количество уступов и расстояние между соседними уступами.</p><p>Во второй строке через пробел записаны <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>m</i><sub class="lower-index">1</sub>, <i>m</i><sub class="lower-index">2</sub>, ..., <i>m</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>m</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>), где <span class="tex-span"><i>m</i><sub class="lower-index"><i>i</i></sub></span> — масса <span class="tex-span"><i>i</i></span>-го лемминга.</p><p>В третьей строке через пробел записаны <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>v</i><sub class="lower-index">1</sub>, <i>v</i><sub class="lower-index">2</sub>, ..., <i>v</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>v</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>), где <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> — скорость <span class="tex-span"><i>i</i></span>-го лемминга.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>k</i></span> различных чисел от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> — номера леммингов, которые отправятся на уступы на высотах <span class="tex-span"><i>h</i>, 2<i>h</i>, ..., <i>kh</i></span>, соответственно, при оптимальном способе организации прыжка. Если существует несколько способов выбрать леммингов, выведите любой.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 3 2<br />1 2 3 2 1<br />1 2 1 2 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5 2 4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 3 10<br />3 4 3 2 1<br />5 4 3 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4 3 1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим первый тестовый пример. Пятый лемминг со скоростью 10 забирается на уступ на высоте 2 за <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/215e7035e1b836a262740867b9bbd824fd3c66fe.png" /> минуты; второй лемминг со скоростью 2 забирается на уступ на высоте 4 за 2 минуты; четвертый лемминг со скоростью 2 забирается на уступ на высоте 6 за 3 минуты. Все лемминги успевают занять свои места за 3 минуты. </p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Конвейер</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Антон попал в цех по производству конфет. Он обнаружил в нем работающий конвейер и решил пробежать по нему от начала до конца.</p><p>Конвейер представляет собой закольцованную ленту общей длиной <span class="tex-span">2<i>l</i></span> метров, из которых <span class="tex-span"><i>l</i></span> метров находятся на поверхности и представляют собой прямую полосу. Часть ленты, которая в каждый момент времени поворачивает (выныривает из-под пола на поверхность и уходит обратно), будем считать пренебрежимо короткой.</p><p>Лента двигается равномерно со скоростью <span class="tex-span"><i>v</i><sub class="lower-index">1</sub></span> метров в секунду. Антон будет двигаться по ней в том же направлении с постоянной скоростью <span class="tex-span"><i>v</i><sub class="lower-index">2</sub></span> метров в секунду, то есть относительно пола он будет двигаться со скоростью <span class="tex-span"><i>v</i><sub class="lower-index">1</sub> + <i>v</i><sub class="lower-index">2</sub></span> метров в секунду. Останавливаться или менять скорость или направление движения Антон не будет.</p><p>Кое-где к ленте прилипли конфеты (<span class="tex-span"><i>n</i></span> штук). Они двигаются вместе с лентой, не отлипая от неё. Антон заинтересован в конфетах, но в движении вперёд он заинтересован больше. Поэтому он соберёт все конфеты, мимо которых будет пробегать, но не больше. Если конфета находится в начале полосы в момент, когда Антон начинает бег, то он её возьмет, а если находится в конце полосы в момент, когда Антон сойдёт с конвейера — он оставит её.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/20de122feb29fddf4ef5e03b8d37912e7aefb855.png" />   <span class="tex-font-size-script"> На рисунке изображен пример с двумя конфетами. Одна расположена   в позиции <span class="tex-span"><i>a</i><sub class="lower-index">1</sub> = <i>l</i> - <i>d</i></span> и находится сейчас на верхней половине ленты, вторая   в позиции <span class="tex-span"><i>a</i><sub class="lower-index">2</sub> = 2<i>l</i> - <i>d</i></span> и находится сейчас на нижней половине ленты. </span> </center></p><p>Известно, что относительно начального положения ленты конфеты расположены в точках <span class="tex-span">0 ≤ <i>a</i><sub class="lower-index">1</sub> &lt; <i>a</i><sub class="lower-index">2</sub> &lt; ... &lt; <i>a</i><sub class="lower-index"><i>n</i></sub> &lt; 2<i>l</i></span>. Положения на ленте от <span class="tex-span">0</span> до <span class="tex-span"><i>l</i></span> соответствуют верхней, а от <span class="tex-span"><i>l</i></span> до <span class="tex-span">2<i>l</i></span> — нижней половине ленты (см. пример). Все координаты заданы в метрах.</p><p>Антон начнет бег по полосе в случайный момент времени. Это означает, что все возможные положения ленты в момент начала бега равновероятны. Определите для каждого <span class="tex-span"><i>i</i></span> от <span class="tex-span">0</span> до <span class="tex-span"><i>n</i></span> вероятность того, что Антон соберёт ровно <span class="tex-span"><i>i</i></span> конфет.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел записаны целые числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>l</i></span>, <span class="tex-span"><i>v</i><sub class="lower-index">1</sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index">2</sub></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>, <span class="tex-span">1 ≤ <i>l</i>, <i>v</i><sub class="lower-index">1</sub>, <i>v</i><sub class="lower-index">2</sub> ≤ 10<sup class="upper-index">9</sup></span>) — количество конфет, длина видимой части конвейера, скорость конвейера и скорость Антона.</p><p>Во второй строке через пробел записана последовательность целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index">1</sub> &lt; <i>a</i><sub class="lower-index">2</sub> &lt; ... &lt; <i>a</i><sub class="lower-index"><i>n</i></sub> &lt; 2<i>l</i></span>) — координаты конфет.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i> + 1</span> число (по одному на строку): вероятности того, что Антон соберёт ровно <span class="tex-span"><i>i</i></span> конфет, для каждого <span class="tex-span"><i>i</i></span> от <span class="tex-span">0</span> (первая строка) до <span class="tex-span"><i>n</i></span> (последняя). Ответ будет считаться верным, если каждое число будет иметь абсолютную или относительную погрешность не более <span class="tex-span">10<sup class="upper-index"> - 9</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 1 1 1<br />0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.75000000000000000000<br />0.25000000000000000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 3 1 2<br />2 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.33333333333333331000<br />0.66666666666666663000<br />0.00000000000000000000<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере Антон сможет взять конфету, если в момент начала бега её координата менее 0.5; если же координата конфеты в момент начала бега не менее 0.5, то забрать конфету не получится. Так как все положения ленты равновероятны, то вероятность забрать конфету равна <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/55d1d7955c1e59f407eb6baa7601582a54eeac4f.png" />, а вероятность не забрать её равна <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/0e79ad74cc0314b318cc094369c845c55b37c9ef.png" />.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Большой холодильник</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>5 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася хочет купить новый холодильник. Он считает, что холодильник должен быть прямоугольным параллелепипедом с целочисленными длинами ребер. Вася рассчитал, что для повседневного пользования ему понадобится холодильник объема не меньше <span class="tex-span"><i>V</i></span>. Кроме того, Вася по натуре минималист, поэтому объем должен быть и не больше <span class="tex-span"><i>V</i></span> — к чему занимать лишнее место в квартире? Определившись с объемом холодильника, Вася столкнулся с новой непростой задачей — чтобы холодильник было проще мыть, при фиксированном объеме <span class="tex-span"><i>V</i></span> он должен иметь минимальную площадь поверхности.</p><p>Объем и площадь поверхности холодильника с ребрами <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span>, <span class="tex-span"><i>c</i></span> равны <span class="tex-span"><i>V</i> = <i>abc</i></span> и <span class="tex-span"><i>S</i> = 2(<i>ab</i> + <i>bc</i> + <i>ca</i>)</span>, соответственно.</p><p>Помогите Васе по заданному объему <span class="tex-span"><i>V</i></span> найти такие целые длины ребер холодильника <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span>, <span class="tex-span"><i>c</i></span>, чтобы объем холодильника был равен <span class="tex-span"><i>V</i></span> и при этом его площадь поверхности <span class="tex-span"><i>S</i></span> была минимальна.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>t</i> ≤ 500</span>) — количество наборов данных.</p><p>Далее следует описание <span class="tex-span"><i>t</i></span> наборов данных. Каждый набор состоит из одного целого числа <span class="tex-span"><i>V</i></span> (<span class="tex-span">2 ≤ <i>V</i> ≤ 10<sup class="upper-index">18</sup></span>), заданного своим разложением на множители следующим образом.</p><p>Пусть <span class="tex-span"><i>V</i></span> = <span class="tex-span"><i>p</i><sub class="lower-index">1</sub><sup class="upper-index"><i>a</i><sub class="lower-index">1</sub></sup><i>p</i><sub class="lower-index">2</sub><sup class="upper-index"><i>a</i><sub class="lower-index">2</sub></sup>... <i>p</i><sub class="lower-index"><i>k</i></sub><sup class="upper-index"><i>a</i><sub class="lower-index"><i>k</i></sub></sup></span>, где <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> — различные простые числа, а <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — положительные целые степени. </p><p>Тогда в первой строке описания набора данных записано единственное положительное целое число <span class="tex-span"><i>k</i></span> — количество различных простых делителей <span class="tex-span"><i>V</i></span>. В следующих <span class="tex-span"><i>k</i></span> строках записаны простые числа <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> и их степени <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, разделенные пробелом. Все <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> различны, все <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> &gt; 0</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>t</i></span> строк, в <span class="tex-span"><i>i</i></span>-й строке выведите ответ на <span class="tex-span"><i>i</i></span>-й набор данных — четыре целых числа, записанные через пробел: минимальная возможная площадь поверхности <span class="tex-span"><i>S</i></span> и соответствующие длины ребер <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span>, <span class="tex-span"><i>c</i></span>. Если вариантов длин ребер, дающих минимальную площадь, несколько, разрешается вывести любой из них. Длины ребер холодильника разрешается выводить в любом порядке.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1<br />2 3<br />1<br />17 1<br />3<br />3 1<br />2 3<br />5 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>24 2 2 2<br />70 1 1 17<br />148 4 6 5<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом наборе данных примера объем холодильника <span class="tex-span"><i>V</i> = 2<sup class="upper-index">3</sup> = 8</span>, и минимальную площадь поверхности дадут ребра одинаковой длины.</p><p>Во втором наборе данных объем <span class="tex-span"><i>V</i> = 17</span>, и его можно получить из единственного набора ребер целочисленных длин.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Электронное правительство</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В рамках проекта «Электронное правительство» лучшим программистам страны Распиляндии поручили создание системы автоматизации сбора статистики и анализа прессы.</p><p>Известно, что членами правительства Распиляндии может стать любой из <span class="tex-span"><i>k</i></span> граждан. Их фамилии — <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>k</i></sub></span>. Все фамилии различны. Изначально в правительство входят все <span class="tex-span"><i>k</i></span> граждан из этого списка. Система должна поддерживать следующие возможности:</p><p><ul> <li> Включить гражданина <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> в состав правительства. </li><li> Исключить гражданина <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> из состава правительства. </li><li> По заданному тексту статьи определить, насколько она политизирована. Для этого, для каждого действующего члена правительства, вычисляется количество раз, которое его фамилия встречается в тексте как подстрока. Считаются все вхождения, в том числе и пересекающиеся. Степень политизированности текста определяется как сумма этих количеств по всем действующим членам правительства. </li></ul></p><p>Реализуйте эту систему.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел записаны числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>k</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество запросов к системе и количество потенциальных членов правительства.</p><p>В следующих <span class="tex-span"><i>k</i></span> строках заданы фамилии <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>k</i></sub></span>, по одной на строку. Все фамилии попарно различны.</p><p>В следующих <span class="tex-span"><i>n</i></span> строках заданы запросы к системе, по одному на строку. Каждый запрос состоит из символа, определяющего операцию, и аргумента операции, записанных подряд без пробела.</p><p>Операции «включить в правительство» соответствует символ «<span class="tex-font-style-tt">+</span>», операции «исключить» — «<span class="tex-font-style-tt">-</span>». Аргументом этих операций является целое число от <span class="tex-span">1</span> до <span class="tex-span"><i>k</i></span> — номер гражданина, которого она затрагивает. Любой гражданин может быть включен и исключен из правительства произвольное количество раз в любом порядке. Включение в правительство гражданина, который в него уже входит, или исключение гражданина, который и так не входил, ничего не меняет.</p><p>Операции «подсчитать политизированность» соответствует символ «<span class="tex-font-style-tt">?</span>». Её аргументом является текст.</p><p>Все строки, как фамилии, так и тексты, являются непустыми последовательностями строчных букв латинского алфавита. Суммарная длина всех фамилий не превышает <span class="tex-span">10<sup class="upper-index">6</sup></span>, суммарная длина всех текстов не превышает <span class="tex-span">10<sup class="upper-index">6</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждой операции «подсчитать политизированность» выведите на отдельной строке степень политизированности заданного в ней текста. Для остальных операций ничего выводить не нужно.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>7 3<br />a<br />aa<br />ab<br />?aaab<br />-2<br />?aaab<br />-3<br />?aaab<br />+2<br />?aabbaa<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br />4<br />3<br />6<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

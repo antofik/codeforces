@@ -1,0 +1,435 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="8ag0d9cgfch5a4agbga7528a8gbhhge6"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="kd8dw5py61zo"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='8ag0d9cgfch5a4agbga7528a8gbhhge6'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">&#1064;&#1082;&#1086;&#1083;&#1100;&#1085;&#1072;&#1103; &#1080;&#1085;&#1076;&#1080;&#1074;&#1080;&#1076;&#1091;&#1072;&#1083;&#1100;&#1085;&#1072;&#1103; &#1086;&#1083;&#1080;&#1084;&#1087;&#1080;&#1072;&#1076;&#1072; #1 (&#1047;&#1050;&#1064; 2010/11)&lt;br/&gt;-&lt;br&gt;Codeforces Beta Round #38 (ACM-ICPC Rules)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Армия</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Система Вооруженных Сил Берляндии состоит из <span class="tex-span"><i>n</i></span> званий, которые пронумерованы натуральными числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, где <span class="tex-span">1</span> — самое младшее звание, а <span class="tex-span"><i>n</i></span> — самое старшее.</p><p>Чтобы дослужиться от звания номер <span class="tex-span"><i>i</i></span> до звания номер <span class="tex-span"><i>i</i> + 1</span>, требуется ровно <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> лет. Получить некоторое звание <span class="tex-span"><i>i</i></span>, не получив до этого все предыдущие <span class="tex-span"><i>i</i> - 1</span> званий, невозможно.</p><p>Буквально только что Вася получил новое звание <span class="tex-span"><i>a</i></span>, но он мечтает служить в звании <span class="tex-span"><i>b</i></span>. Найдите, какое количество лет Васе еще нужно служить в армии Берляндии, чтобы осуществить свою мечту.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных находится целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 100</span>). Во второй строке находятся <span class="tex-span"><i>n</i> - 1</span> целых чисел <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>). В третьей строке входного файла находятся два целых числа <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> (<span class="tex-span">1 ≤ <i>a</i> &lt; <i>b</i> ≤ <i>n</i></span>). Числа в строках разделены пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — количество лет, которое потребуется Васе, чтобы дослужиться от звания <span class="tex-span"><i>a</i></span> до звания <span class="tex-span"><i>b</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />5 6<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />5 6<br />1 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>11<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Ладья, Конь... и снова Конь</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>На стандартной шахматной доске <span class="tex-span">8 × 8</span> находятся две фигуры — ладья и конь. Известно, в каких позициях они расположены. Гарантируется, что ни одна из них не бьет другую.</p><p>Ваша задача — найти количество способов поставить на эту доску еще одного коня так, чтобы ни одна из трех фигур на доске не била никакую другую. Новую фигуру разрешается ставить только на свободную клетку.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит описание положения ладьи на доске, которое представляет собой строку длины 2, где первый символ — это строчная буква латинского алфавита от <span class="tex-font-style-tt">a</span> до <span class="tex-font-style-tt">h</span>, а второй символ — цифра от 1 до 8. Вторая строка содержит описание положения коня в аналогичном формате. Гарантируется, что позиции не совпадают.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — искомое количество способов.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>a1<br />b2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>44<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>a8<br />d4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>38<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Жалюзи</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Как известно, жалюзи состоят из горизонтальных непрозрачных полос, которые можно поворачивать, таким образом регулируя количество света, поступающего в помещение. На складе завода для производства жалюзи есть <span class="tex-span"><i>n</i></span> полос ширины 1. Проблема заключается в том, что все они — неизрасходованные части с различных заказов, то есть возможно не все они одинаковой длины (возможно даже, что все они имеют различные длины).</p><p>Каждую полосу можно разрезать на две или более части. Разрезы производятся перпендикулярно стороне, вдоль которой измеряется длина. Таким образом, разрезы не изменяют ширину полосы, но каждый из получившихся кусков имеет меньшую длину (сумма которых равна длине исходной полосы).</p><p>После всех разрезаний, конструируются жалюзи путем последовательного соединения по сторонам, вдоль которых измеряется длина, некоторого количества одинаковых по длине частей. Также, кроме полученных кусков, в качестве части жалюзи может выступать исходная полоса, если она не была разрезана. Запрещено конструировать жалюзи каким-либо другим способом.</p><p>Таким образом, если жалюзи состоят из <span class="tex-span"><i>k</i></span> частей длины <span class="tex-span"><i>d</i></span> каждая, то она имеет вид прямоугольника <span class="tex-span"><i>k</i> × <i>d</i></span> бурльметров. </p><p>Ваша задача — найти, для какого наибольшего по площади окна можно изготовить жалюзи из заданных полос, если по техническим причинам не разрешается использовать куски короче <span class="tex-span"><i>l</i></span> бурльметров. Окно представляет собой прямоугольник с целыми положительными длинами сторон.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных находятся два целых числа, записанных через пробел, <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>l</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>l</i> ≤ 100</span>) — количество полос на складе и минимальная допустимая длина части жалюзи в бурльметрах. Во второй строке через пробел записаны <span class="tex-span"><i>n</i></span> целыx чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — длины исходных полос в бурльметрах (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — максимальную площадь окна в квадратных бурльметрах, которую можно закрыть полностью. Если не существует окна положительной площади, которое можно закрыть полностью, не нарушив никакое из описанных правил, то выведите единственное число <span class="tex-span">0</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 2<br />1 2 3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>8<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 3<br />5 5 7 3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>15<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 3<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте из условия, искомое окно имеет размеры <span class="tex-span">2 × 4</span>, а жалюзи для него состоят из 4 частей по 2 бурльметра каждая. Одна из частей — это исходная полоса длины 2, другая — часть обрезанной полосы длины 3, а две оставшиеся — части разрезанной пополам полосы длины 4.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Архитектор Вася</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды Вася играл в кубики. Все кубики в наборе имели правильную кубическую форму. Он был талантливым архитектором, но все равно башенка, которую он строил, постоянно разваливалась.</p><p>Рассмотрим процесс построения. Вася берет очередной кубик и кладет его сверху на уже построенную башенку так, что грани этого кубика параллельны граням ранее поставленных. Введем декартову систему координат на горизонтальной плоскости, на которую Вася ставит первый кубик. Тогда проекция <span class="tex-span"><i>i</i></span>-ого кубика на эту плоскость представляет собой квадрат со сторонами, параллельными осям координат с противоположными углами в точках <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i>, 1</sub>, <i>y</i><sub class="lower-index"><i>i</i>, 1</sub>)</span> и <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i>, 2</sub>, <i>y</i><sub class="lower-index"><i>i</i>, 2</sub>)</span>. Кубики отлиты из однородной пластмассы, масса кубика <span class="tex-span"><i>a</i> × <i>a</i> × <i>a</i></span> составляет <span class="tex-span"><i>a</i><sup class="upper-index">3</sup></span> грамм.</p><p>Гарантируется, что любой кубик, кроме первого, Вася кладет на предыдущий, то есть площадь пересечения верхней грани предыдущего и нижней грани очередного всегда положительна.</p><p>Мы (в том числе и Вася) живем в нормальном мире, где действуют законы физической статики. И поэтому, возможно, если положить очередной кубик, то башенка упадет под воздействием силы тяжести. Вася последовательно кладет кубики до тех пор, пока хотя бы один кубик не выйдет из устойчивого состояния и не упадет вниз. Если это происходит, то Вася расстраивается и заканчивает строительство. Выведите количество кубиков в максимальной устойчивой башенке, то есть максимальное число <span class="tex-span"><i>m</i></span> такое, что все башенки из кубиков 1, 2, ..., <span class="tex-span"><i>k</i></span> для всех целых <span class="tex-span"><i>k</i></span> от 1 до <span class="tex-span"><i>m</i></span> являются устойчивыми.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>) — количество кубиков. В следующих <span class="tex-span"><i>n</i></span> строках записаны по четыре числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i>, 1</sub>, <i>y</i><sub class="lower-index"><i>i</i>, 1</sub>, <i>x</i><sub class="lower-index"><i>i</i>, 2</sub>, <i>y</i><sub class="lower-index"><i>i</i>, 2</sub></span> (<span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i>, 1</sub> ≠ <i>x</i><sub class="lower-index"><i>i</i>, 2</sub>, |<i>x</i><sub class="lower-index"><i>i</i>, 1</sub> - <i>x</i><sub class="lower-index"><i>i</i>, 2</sub>| = |<i>y</i><sub class="lower-index"><i>i</i>, 1</sub> - <i>y</i><sub class="lower-index"><i>i</i>, 2</sub>|</span>) — координаты противоположных углов основания <span class="tex-span"><i>i</i></span>-ого кубика. Координаты — это целые числа, по абсолютной величине не превосходящие <span class="tex-span">50</span>. </p><p>Кубики заданы в том порядке, в котором Вася их ставит. Гарантируется, что площадь пересечения верхней грани кубика номер <span class="tex-span"><i>i</i> - 1</span> и нижней грани кубика <span class="tex-span"><i>i</i></span> строго больше нуля для всех <span class="tex-span"><i>i</i> ≥ 2</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите количество кубиков в максимальной устойчивой башенке.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />0 0 3 3<br />1 0 4 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />0 0 3 3<br />2 0 5 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />0 0 3 3<br />1 0 4 3<br />2 0 5 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Ну-ка, покатились!</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>На числовой прямой, направленной слева направо, находятся <span class="tex-span"><i>n</i></span> шариков с координатами <span class="tex-span"><i>x</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub>, ..., <i>x</i><sub class="lower-index"><i>n</i></sub></span>. Размеры шариков будем считать бесконечно малыми, то есть в этой задаче каждый из них будем считать материальной точкой. Вы можете в некоторые из них воткнуть булавки, стоимость втыкания в <span class="tex-span"><i>i</i></span>-ый шарик равна <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span>, число <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> может быть отрицательным. После того, как вы выберите и воткнете нужные вам булавки, шарики начнут катиться влево по правилу: если в шарик воткнута булавка, то он не двигается, иначе шарик катится до ближайшего другого шарика, в который булавка воткнута, где заканчивает свое движение. Если слева от данного неприколотого шарика не существует приколотого, то считается, что шарик укатывается бесконечно влево, и вы заплатите за это бесконечно большой штраф. В случае, если никакой шарик не укатился бесконечно влево, то штраф будет состоять из двух слагаемых: <ul> <li> сумма стоимостей воткнутых булавок; </li><li> сумма длин путей каждого из шариков, то есть сумма абсолютных величин разностей их начальных и конечных позиций. </li></ul></p><p>Ваша задача — выбрать и приколоть некоторые шарики так, чтобы штраф, который вы заплатите, был как можно меньше.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 3000</span>) — количество шариков. В следующих <span class="tex-span"><i>n</i></span> строках даны описания шариков парами целых чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span"> - 10<sup class="upper-index">9</sup> ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>). Числа разделяются пробелом. Каждое описание находится на отдельной строке. Никакие два шарика не имеют одинакового начального положения. </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — наименьший штраф, который вам придется заплатить.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />2 3<br />3 4<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />1 7<br />3 1<br />5 10<br />6 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>11<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F. Умный мальчик</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды Вася и Петя придумали новую игру и назвали ее «Умный мальчик». Для игры они зафиксировали некоторый набор слов — словарь. Допускается, что словарь содержит одинаковые слова.</p><p>Правила игры таковы: сначала первый игрок выбирает любую букву (слово длины <span class="tex-span">1</span>) из любого слова из словаря и записывает ее на лист бумаги. Второй игрок приписывает к этой букве некоторую другую в начало или в конец, таким образом получая уже слово длины <span class="tex-span">2</span>, затем опять ходит первый игрок, и он опять приписывает некоторую букву в начало или в конец, получая слово длины <span class="tex-span">3</span>. И так далее. Но игрок не имеет права нарушать условие: новое записанное слово должно являться подстрокой некоторого слова из словаря. Проигрывает тот, кто не может увеличить текущую строку так, чтобы не нарушалось условие.</p><p>Также если после хода на бумаге записана некоторая строка <span class="tex-span"><i>s</i></span>, то игрок, сделавший этот ход, получает количество очков по формуле:</p><p><center class="tex-equation"><img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/831de813618e0dc55fa0e07c8768f46b91d18927.png" /></center></p><p>где: <ul> <li> <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ba84be02bcc8a18469dd8faac3056b4c4eb0054f.png" /> — порядковый номер символа <span class="tex-span"><i>c</i></span> в латинском алфавите, пронумерованном с <span class="tex-span">1</span>. Например, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/691184ea4a48c6be138dfe5989d6d0e5e3184a6b.png" />, а <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/a92af08618cdbc859838ca588e67ffbee1b7683d.png" />. </li><li> <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/52774077a8c15647cbf170fd26873d90f60c914a.png" /> — количество слов из словаря, где встречается строка <span class="tex-span"><i>s</i></span> как подстрока хотя бы один раз. </li></ul></p><p>Ваша задача — узнать, кто выиграет в этой игре, и итоговый счет. Каждый игрок играет оптимально, и в первую очередь стремится выиграть, во вторую — максимизировать свои очки, в третью — минимизировать очки соперника.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано целое число <span class="tex-span"><i>n</i></span> — количество слов в зафиксированном словаре <span class="tex-span">(1 ≤ <i>n</i> ≤ 30)</span>. Далее в <span class="tex-span"><i>n</i></span> строках по одному на строке записаны слова из словаря — непустые строки, состоящие из строчных букв латинского алфавита, длиной не более <span class="tex-span">30</span> символов. Среди списка слов могут быть одинаковые.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первую строку выходных данных выведите строку «First» или «Second» — кто выиграет в игре. Во вторую строку выведите количество очков у первого игрока и количество очков у второго игрока после завершения игры. Числа разделите одним пробелом.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />aba<br />abac<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Second<br />29 35<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />artem<br />nik<br />max<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>First<br />2403 1882<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">G. Очередь</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В зимний холодный вечер наш герой Вася стоял в очереди на вокзале за билетом на финал чемпионата Codeforces. Как обычно это бывает, кассир, сказав, что он отлучится на 5 минут, ушел на целый час... Тогда Вася, чтобы не скучать в это время, стал изучать такой механизм, как очередь. Наблюдения потрясли Васю.</p><p>Каждый человек характеризуется числами <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — важностью его дел (чем это число больше, тем важнее его дело), и числом <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> — характеристика его совести. Числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> образуют перестановку чисел от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>.</p><p>Пусть на данный момент очередь состоит из <span class="tex-span"><i>n</i> - 1</span> людей. Рассмотрим, как ведет себя пришедший номер <span class="tex-span"><i>n</i></span>. Первым делом он встает в конец текущей очереди, а дальше поступает следующим образом: если у человека, который стоит перед ним важность дел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> меньше чем <span class="tex-span"><i>a</i><sub class="lower-index"><i>n</i></sub></span>, то они меняются местами (выглядит это так: человек номер <span class="tex-span"><i>n</i></span> спрашивает у предыдущего: «Эээ... простите, пожалуйста, у меня очень важное дело... можете меня пропустить вперед?»), затем он опять спрашивает у впереди стоящего человека, и так далее. Если же <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> больше чем <span class="tex-span"><i>a</i><sub class="lower-index"><i>n</i></sub></span>, то продвижение вперед заканчивается. Но такую операцию обмена человек номер <span class="tex-span"><i>n</i></span> может совершить не более, чем <span class="tex-span"><i>c</i><sub class="lower-index"><i>n</i></sub></span> раз.</p><p>В нашей задаче будем считать, что к моменту, когда человек номер <span class="tex-span"><i>n</i></span> придет в очередь, процесс обменов в очереди из <span class="tex-span"><i>n</i> - 1</span> людей уже закончится. Если обмен возможен, то он обязательно происходит.</p><p>Ваша задача — помочь Васе промоделировать описанный процесс и найти, в каком порядке пришедшие люди будут располагаться в очереди после окончания всех обменов.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных находится целое число <span class="tex-span"><i>n</i></span> — количество людей, пришедших в данную очередь (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>). Далее в <span class="tex-span"><i>n</i></span> строках заданы описания людей в порядке их прихода — целые числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span">0 ≤ <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>), записанные через пробел. Каждое описание находится на отдельной строке. Все <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите перестановку чисел от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, означающую образованную по описанным правилам очередь в порядке от начала к концу. В этой последовательности <span class="tex-span"><i>i</i></span>-ое число означает номер человека, который будет стоять в очереди на месте номер <span class="tex-span"><i>i</i></span> после завершения процесса обменов. Люди нумеруются с <span class="tex-span">1</span> в порядке, в котором они заданы во входных данных. Числа разделяйте пробелом.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />1 0<br />2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 1 </pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />1 3<br />2 3<br />3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 2 1 </pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />2 3<br />1 4<br />4 3<br />3 1<br />5 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 1 5 4 2 </pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">H. Великий марафон</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В день празднования Дня Зависимости в Берляндии, было решено устроить грандиозный марафон. Берляндия состоит из <span class="tex-span"><i>n</i></span> городов, некоторые из которых связаны двусторонними дорогами. Каждая дорога имеет некоторую длину. Города пронумерованы от 1 до <span class="tex-span"><i>n</i></span>. Известно, что из любого города можно добраться по дорогам в любой другой.</p><p>В соревновании принимают участие <span class="tex-span"><i>n</i></span> бегунов, по одному из каждого города. Но берляндские бегуны по своей натуре — болтуны, и поэтому жюри приняло меры для предотвращения больших скоплений участников марафона. Жюри решило, чтобы каждый спортсмен стартовал из своего родного города. Перед стартом каждый спортсмен получит листок бумаги, на котором будет написано, в каком городе у него расположен финиш. Финиш для каждого спортсмена назначается случайным образом, но не может совпадать с его стартом. Допускается, чтобы у нескольких спортсменов финиш располагался в одном и том же городе. Все спортсмены стартуют одновременно, и каждый бежит от старта до финиша по кратчайшему маршруту. Скорости всех спортсменов одинаковые и равны <span class="tex-span">1</span>.</p><p>По итогам соревнования будет составлена таблица результатов, в которой спортсмены будут отсортированы по неубыванию времени, которое они потратили на преодоление дистанции. Первые <span class="tex-span"><i>g</i></span> спортсменов в этой таблице получат золотые медали, следующие <span class="tex-span"><i>s</i></span> спортсменов — серебряные, а остальные бронзовые. Причем, если два или более спортсмена потратили одинаковое время на преодоление дистанции, то они упорядочиваются по возрастанию номеров городов, из которых они стартовали. Из этого следует, что никакие два спортсмена не делят одно и то же место.</p><p>По правилам соревнования количество золотых медалей <span class="tex-span"><i>g</i></span> должно удовлетворять неравенству <span class="tex-span"><i>g</i><sub class="lower-index">1</sub> ≤ <i>g</i> ≤ <i>g</i><sub class="lower-index">2</sub></span>, где <span class="tex-span"><i>g</i><sub class="lower-index">1</sub></span> и <span class="tex-span"><i>g</i><sub class="lower-index">2</sub></span> исторически сложившиеся значения. Аналогично, количество серебряных медалей <span class="tex-span"><i>s</i></span> должно удовлетворять неравенству <span class="tex-span"><i>s</i><sub class="lower-index">1</sub> ≤ <i>s</i> ≤ <i>s</i><sub class="lower-index">2</sub></span>, где <span class="tex-span"><i>s</i><sub class="lower-index">1</sub></span> и <span class="tex-span"><i>s</i><sub class="lower-index">2</sub></span> тоже исторически сложившиеся значения.</p><p>В настоящий момент, до начала соревнования, неизвестны пункты назначения каждого из спортсменов. Однако пресса требует каких-либо подробностей, и поэтому Вам поручили подсчитать количество способов распределить медали. Два способа распределения считаются различными, если хотя бы один спортсмен получил при этих распределениях медали разного достоинства.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных заданы целые числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">3 ≤ <i>n</i> ≤ 50</span>, <span class="tex-span"><i>n</i> - 1 ≤ <i>m</i> ≤ 1000</span>), где <span class="tex-span"><i>n</i></span> — количество городов в Берляндии, а <span class="tex-span"><i>m</i></span> — количество дорог.</p><p>Далее в <span class="tex-span"><i>m</i></span> строках даны описания дорог в виде тройки целых чисел <span class="tex-span"><i>v</i></span>, <span class="tex-span"><i>u</i></span>, <span class="tex-span"><i>c</i></span> — номера соединяемых городов и ее длина (<span class="tex-span">1 ≤ <i>v</i>, <i>u</i> ≤ <i>n</i></span>, <span class="tex-span"><i>v</i> ≠ <i>u</i></span>, <span class="tex-span">1 ≤ <i>c</i> ≤ 1000</span>). Между каждой парой городов — не более одной дороги.</p><p>В последней строке записаны целые числа <span class="tex-span"><i>g</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>g</i><sub class="lower-index">2</sub></span>, <span class="tex-span"><i>s</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>s</i><sub class="lower-index">2</sub></span> (<span class="tex-span">1 ≤ <i>g</i><sub class="lower-index">1</sub> ≤ <i>g</i><sub class="lower-index">2</sub></span>, <span class="tex-span">1 ≤ <i>s</i><sub class="lower-index">1</sub> ≤ <i>s</i><sub class="lower-index">2</sub></span>, <span class="tex-span"><i>g</i><sub class="lower-index">2</sub> + <i>s</i><sub class="lower-index">2</sub> &lt; <i>n</i></span>). Числа во входных данных, расположенные на одной строке, разделены пробелом.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — количество способов распределить медали. Гарантируется, что это число помещается в стандартный знаковый 64-битный тип данных.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2<br />1 2 1<br />2 3 1<br />1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 5<br />1 2 2<br />2 3 1<br />3 4 2<br />4 1 2<br />1 3 3<br />1 2 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>19<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 2 2<br />2 3 1<br />3 1 2<br />1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

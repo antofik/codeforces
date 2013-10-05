@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="d5ecaadbg2ah6f688c16e98f4cdb04df"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="n34btmbj2064"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='d5ecaadbg2ah6f688c16e98f4cdb04df'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #178 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Шаасс и Осколы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Шаасс решил поохотиться на птиц. Есть <span class="tex-span"><i>n</i></span> электрических проводов, параллельных друг другу. Провода пронумерованы от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> сверху вниз. На каждом проводе некоторое количество осколов сидят в рядок, на <span class="tex-span"><i>i</i></span>-ом проводе сидит <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> осколов. Осколы — это такие вкуснейшие птицы, они гнездятся рядом с Шаассом.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/621f013fbb3721f3c9c086b4e613fccf579468d7.png" /> </center></p><p>Иногда Шаассу удается подстрелить одну птицу, птица умирает (обозначим номер провода, на котором сидела эта птица как <span class="tex-span"><i>i</i></span>). После чего все птицы слева от нее на проводе <span class="tex-span"><i>i</i></span> пугаются и перепрыгивают вверх на провод номер <span class="tex-span"><i>i</i> - 1</span>. Если выше проводов нет, то они улетают. Также, все птицы справа от подстреленной перепрыгивают вниз на провод <span class="tex-span"><i>i</i> + 1</span>, а если такого провода нет, то они улетают. </p><p>Шаасс подстрелил <span class="tex-span"><i>m</i></span> птиц. Зная изначальное количество птиц на каждом проводе, скажите, сколько птиц будет сидеть на каждом проводе после охоты.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span>, <span class="tex-span">(1 ≤ <i>n</i> ≤ 100)</span>. Следующая строка содержит разделенные пробелом целые числа <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>, <span class="tex-span">(0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 100)</span>. </p><p>В третьей строке записано целое число <span class="tex-span"><i>m</i></span>, <span class="tex-span">(0 ≤ <i>m</i> ≤ 100)</span>. В каждой из следующих <span class="tex-span"><i>m</i></span> строк записано по два целых числа, <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>. Эти числа означают, что в <span class="tex-span"><i>i</i></span>-ый раз Шаасс подстрелил <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>-ую птицу слева на <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>-ом проводе, <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 1 ≤ <i>y</i><sub class="lower-index"><i>i</i></sub>)</span>. Гарантируется, что в этот момент на <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>-ом проводе будет как минимум <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> птиц.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В <span class="tex-span"><i>i</i></span>-ой строке выведите количество птиц на <span class="tex-span"><i>i</i></span>-ом проводе.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />10 10 10 10 10<br />5<br />2 5<br />3 13<br />2 12<br />1 13<br />4 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br />12<br />5<br />0<br />16<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />2 4 1<br />1<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br />0<br />3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Шаасс и книжная полка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Шаасса есть <span class="tex-span"><i>n</i></span> книг. Он хочет смастерить полку подо все свои книги. Также он хочет, чтобы размеры полки были как можно меньше. Толщина <span class="tex-span"><i>i</i></span>-ой книги равна <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>, а ширина ее страниц равна <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span>. Толщина каждой книги — либо <span class="tex-span">1</span>, либо <span class="tex-span">2</span>. Высота страниц всех книг одинаковая.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/7dcb3d5acdb3762c9750e3615f916f23d1aee6fb.png" /> </center></p><p>Шаасс кладет книги на полку следующим образом. Сперва он выбирает несколько книг и кладет их вертикально. Затем он кладет оставшиеся книги горизонтально над вертикальными книгами. Сумма ширин горизонтальных книг не должна превышать суммарную толщину вертикальных книг. На рисунке ниже приведен пример, как можно уложить книги.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/e10beb2b0e9eb086bd7a11263e9d28065ea8fd78.png" /> </center></p><p>Помогите Шаассу вычислить минимальную достижимую общую толщину вертикальных книг, если он хочет уложить все книги на полку описанным способом.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано целое число <span class="tex-span"><i>n</i></span>, <span class="tex-span">(1 ≤ <i>n</i> ≤ 100)</span>. В каждой из следующих <span class="tex-span"><i>n</i></span> строк записано два целых числа <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span>, обозначающие толщину и ширину <span class="tex-span"><i>i</i></span>-ой книги соответственно (<span class="tex-span">1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 2, 1 ≤ <i>w</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите минимальную достижимую общую толщину вертикальных книг.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 12<br />1 3<br />2 15<br />2 5<br />2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />1 10<br />2 1<br />2 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Шаасс и лампочки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В ряд выстроено <span class="tex-span"><i>n</i></span> лампочек. Лампочки пронумерованы от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> слева направо. Изначально некоторые лампочки включены. Шаасс хочет включить все лампочки. За один ход он может включить лампочку (которая на тот момент должна быть выключенной), если у нее есть хотя бы одна соседняя включенная лампочка. </p><p>Юноша знает изначальное состояние лампочек и ему интересно, сколько есть различных способов включить все лампочки. Пожалуйста, посчитайте искомое количество способов по модулю <span class="tex-span">1000000007 (10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span>, где <span class="tex-span"><i>n</i></span> — общее количество лампочек, а <span class="tex-span"><i>m</i></span> — количество изначально включенных лампочек, <span class="tex-span">(1 ≤ <i>n</i> ≤ 1000, 1 ≤ <i>m</i> ≤ <i>n</i>)</span>. Вторая строка содержит <span class="tex-span"><i>m</i></span> различных целых чисел, каждое — от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, включительно — номера изначально включенных лампочек.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите количество различных возможных способов включить все лампочки по модулю <span class="tex-span">1000000007 (10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 1<br />1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 2<br />1 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>11 2<br />4 8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6720<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Шаасс и робот-маляр</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Шаассу кажется, что на кухне скучно, когда там вся плитка на полу белая. Пол на его кухне вымощен <span class="tex-span"><i>n</i>·<i>m</i></span> квадратными плитками в форме прямоугольника размера <span class="tex-span"><i>n</i> × <i>m</i></span>. И вот юноша решил покрасить некоторые плитки черным, так чтобы получилась «шахматная раскраска». То есть, никакие две соседние плитки не должны быть одного цвета.</p><p>Для покраски Шаасс хочет задействовать робота-маляра. Вначале робот стоит на плитке <span class="tex-span">(<i>x</i><sub class="lower-index"><i>s</i></sub>, <i>y</i><sub class="lower-index"><i>s</i></sub>)</span> на границе кухни и направлен диагонально (то есть, смотрит влево-вверх, влево-вниз, вправо-вверх или вправо-вниз). Гуляя по кухне, робот закрашивает любую плитку, на которую он ступает, даже если эта плитка уже была закрашена. На покраску плитки требуется одна единица черной краски. Если в любой момент робот натолкнется на кухонную стену, он оттолкнется от нее по законам отражения. Обратите внимание, плитка закрашивается в тот момент, когда робот наступает на нее, шагая из другой плитки, то есть при изменении направления на одной и той же плитке закрашивания этой плитки не происходит. Плитка, на которой стоит робот в самом начале тоже закрашивается.</p><p>Робот прекращает покраску, как только пол становится стилизован под шахматную доску. Вам даны размеры кухни и позиция робота. Посчитайте, сколько краски потребит робот, пока не закрасит пол.</p><p>Рассмотрим изображенный ниже пример.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/7df2096f6969d97c7028a1bc36952fefb565e8f8.png" /> </center></p><p>Если робот начинает движение с плитки номер 1 (плитки с координатами <span class="tex-span">(1, 1)</span>) таблицы слева, направляясь вниз-вправо, то он пройдет по плиткам 1354236 и потратит на этом пути 7 единиц черной краски, пока не остановится на плитке номер 6. Но если он начнет с плитки номер 1, как в таблице справа, направляясь вниз-вправо, то он застрянет в цикле плиток 1, 2, и 3.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержатся два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span>, <span class="tex-span">(2 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup>)</span>. Во второй строке содержатся два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>s</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>s</i></sub></span> <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>s</i></sub> ≤ <i>n</i>, 1 ≤ <i>y</i><sub class="lower-index"><i>s</i></sub> ≤ <i>m</i>)</span> и исходное направление робота. Направление представлено одной из следующих строк: «<span class="tex-font-style-tt">UL</span>» (направление вверх-влево), «<span class="tex-font-style-tt">UR</span>» (вверх-вправо), «<span class="tex-font-style-tt">DL</span>» (вниз-влево) or «<span class="tex-font-style-tt">DR</span>» (вниз-вправо).</p><p>Заметьте, что запись <span class="tex-span">(<i>x</i><sub class="lower-index"><i>s</i></sub>, <i>y</i><sub class="lower-index"><i>s</i></sub>)</span> означает, что плитка находится в <span class="tex-span"><i>x</i><sub class="lower-index"><i>s</i></sub></span>-ом ряду сверху и в <span class="tex-span"><i>y</i><sub class="lower-index"><i>s</i></sub></span>-ом столбце слева на кухне.</p><p>Гарантируется, что изначально робот стоит на границе кухни (то есть в клетке, у которой менее четырех соседей по стороне).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите количество краски, которое затратит робот на окраску кухонного пола на манер шахматной доски. Или, если эта цель не будет достигнута, выведите <span class="tex-font-style-tt">-1</span>.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения и записи 64-битных чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 4<br />1 1 DR<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>7<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 4<br />3 3 DR<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>11<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 1 DR<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 2 DL<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Шаасс Великий</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Великий Шаасс коронован как новый император Драхта. В империи есть <span class="tex-span"><i>n</i></span> городов, их соединяет <span class="tex-span"><i>n</i> - 1</span> двусторонних дорог. У каждой дороги есть определенная длина, каждая дорога соединяет пару городов. Каждую пару городов соединяет единственный простой путь.</p><p>Его величество великий Шаасс решил разрушить одну из дорог и построить другую дорогу той же длины между некоторой парой городов. Он должен построить дорогу так, чтобы было все еще возможно путешествовать из каждого города в любой другой по дорогам империи.</p><p>Вы как его советник должны помочь ему найти способ выполнить описанное действие. Вы должны найти такой способ, который минимизирует общую сумму попарных расстояний между городами. Вычислите минимальную сумму.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится целое число <span class="tex-span"><i>n</i></span>, обозначающее количество городов в империи, <span class="tex-span">(2 ≤ <i>n</i> ≤ 5000)</span>. В следующих <span class="tex-span"><i>n</i> - 1</span> строках содержится по три целых числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span>, обозначающие два города <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>, соединенные дорогой длины <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, <i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub>, 1 ≤ <i>w</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите минимальную попарную сумму расстояний между городами.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения и записи 64-битных чисел на С++. Рекоммендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2 2<br />1 3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>12<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6<br />1 2 1<br />2 3 1<br />3 4 1<br />4 5 1<br />5 6 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>29<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6<br />1 3 1<br />2 3 1<br />3 4 100<br />4 5 2<br />4 6 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>825<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

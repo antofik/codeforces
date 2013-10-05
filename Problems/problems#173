@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="gefc6cbd7c92g24935d0d236a1263h1c"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="a9r1x85n119h"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='gefc6cbd7c92g24935d0d236a1263h1c'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">&#1063;&#1077;&#1084;&#1087;&#1080;&#1086;&#1085;&#1072;&#1090; &#1050;&#1056;&#1054;&#1050; 2012 - &#1056;&#1072;&#1091;&#1085;&#1076; 1</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Шишки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Никифор и Поликарп играют в игру камень-ножницы-бумага на щелбаны.</p><p>Напомним вам правила этой игры. В игру камень-ножницы-бумага играют двое. В каждом раунде игроки независимо друг от друга выбирают один из трех знаков, который изображают при помощи кисти руки: камень, ножницы или бумагу. Победитель определяется по следующим правилам: камень побеждает ножницы, ножницы побеждают бумагу, а бумага побеждает камень. Если игроки выбрали одинаковые знаки, то в данном раунде объявляется ничья.</p><p>Никифор и Поликарп уже сыграли ровно <span class="tex-span"><i>n</i></span> раундов. При этом в каждом из раундов победитель щелкал по лбу проигравшему противнику, от чего у того на лбу появлялась шишка. В случае ничейного раунда игроки ничего не делали и продолжали играть дальше.</p><p>Оказалось, что Никифор действовал по следующей стратегии: перед началом игры он выбрал себе некоторую последовательность знаков <span class="tex-span"><i>A</i> = (<i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>m</i></sub>)</span>, после чего циклически показывал знаки из этой последовательности, начиная с первого из них. Циклически означает, что Никифор показывает знаки в следующем порядке <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">2</sub></span>, <span class="tex-span">...</span>, <span class="tex-span"><i>a</i><sub class="lower-index"><i>m</i></sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">2</sub></span>, <span class="tex-span">...</span>, <span class="tex-span"><i>a</i><sub class="lower-index"><i>m</i></sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span>, <span class="tex-span">...</span> и так далее. Поликарп действовал по аналогичной стратегии, только, в качестве последовательности для выбора знаков, он выбрал свою последовательность <span class="tex-span"><i>B</i> = (<i>b</i><sub class="lower-index">1</sub>, <i>b</i><sub class="lower-index">2</sub>, ..., <i>b</i><sub class="lower-index"><i>k</i></sub>)</span>.</p><p>Определите количество шишек на лбах обоих игроков после <span class="tex-span"><i>n</i></span> раундов игры. Можно считать, что в начале игры шишек на лбах игроков не было.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 2·10<sup class="upper-index">9</sup></span>) — количество раундов игры.</p><p>Во второй строке записана последовательность <span class="tex-span"><i>A</i></span> в виде строки из <span class="tex-span"><i>m</i></span> символов, а в третьей — последовательность <span class="tex-span"><i>B</i></span> в виде строки из <span class="tex-span"><i>k</i></span> символов (<span class="tex-span">1 ≤ <i>m</i>, <i>k</i> ≤ 1000</span>). Заданные строки состоят только из символов «<span class="tex-font-style-tt">R</span>», «<span class="tex-font-style-tt">S</span>» и «<span class="tex-font-style-tt">P</span>». Символ «<span class="tex-font-style-tt">R</span>» (от английского rock) означает знак камня, символ «<span class="tex-font-style-tt">S</span>» (scissors) — ножниц, «<span class="tex-font-style-tt">P</span>» (paper) — бумаги.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите два целых числа, разделяя их пробелом — количество шишек на лбу Никифора и количество шишек на лбу Поликарпа.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>7<br />RPS<br />RSPP<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 2</pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />RRRRRRRR<br />R<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0 0</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере игра шла следующим образом:</p><p><ul> <li> <span class="tex-font-style-tt">R - R</span>. Ничья. </li><li> <span class="tex-font-style-tt">P - S</span>. Никифор проигрывает. </li><li> <span class="tex-font-style-tt">S - P</span>. Поликарп проигрывает. </li><li> <span class="tex-font-style-tt">R - P</span>. Никифор проигрывает. </li><li> <span class="tex-font-style-tt">P - R</span>. Поликарп проигрывает. </li><li> <span class="tex-font-style-tt">S - S</span>. Ничья. </li><li> <span class="tex-font-style-tt">R - P</span>. Никифор проигрывает. </li></ul></p><p>Итого у Никифора <span class="tex-span">3</span> поражения (<span class="tex-span">3</span> шишки), а у Поликарпа только <span class="tex-span">2</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Тайная комната</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>«Тайная комната снова открыта» — эта новость распространилась по всему Хогвартсу. Дамблдор был уволен и теперь Гарри пытается попасть в тайную комнату. Лорд Волдеморт не доволен таким развитием событий, он хочет помешать Гарри.</p><p>Тайная комната представляет собой прямоугольное поле <span class="tex-span"><i>n</i> × <i>m</i></span>, в некоторых клетках которого стоят колонны. Колонны обладают необычным свойством: луч света может беспрепятственно проходить сквозь них, не меняя своего направления. Используя магию, можно превратить некоторые колонны в магические. Магические колонны отличаются от обычных тем, что луч света, проходящий через магическую колонну, отражается в четыре стороны как показано на рисунке.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/adfa1f08ea7212877329f05bb676fcbdd981527d.png" /> <span class="tex-font-size-script"> Слева свет проходит через обычную колонну, справа — через магическую. </span> </center></p><p>Василиск находится на правой стороне правой нижней клетки поля и смотрит налево (в сторону левой нижней клетки). Как гласит легенда, тот, кто посмотрит прямо в глаза Василиску, сразу умирает. А тот, кто посмотрит в глаза Василиску через колонну, окаменеет. Мы знаем, что дверь в тайную комнату находится на левой стороне левой верхней клетки поля, а также что любой заходящий в комнату человек обязательно будет смотреть по направлению своего движения (то есть в сторону правой верхней клетки). </p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/6dd1f17c6f451e404cd2081512171f3d0bc67876.png" /> <span class="tex-font-size-script"> На рисунке изображен первый тестовый пример. </span> </center></p><p>Вам заданы размеры тайной комнаты и позиции колонн. Лорд Волдеморт попросил вас найти минимальное количество колонн, которое нужно сделать магическими, чтобы любой, кто вошел в тайную комнату, немедленно окаменел, или сказать, что задуманное сделать невозможно. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">2 ≤ <i>n</i>, <i>m</i> ≤ 1000</span>) — размеры тайной комнаты. Следующие <span class="tex-span"><i>n</i></span> строк содержат по <span class="tex-span"><i>m</i></span> символов. Каждый символ равен «<span class="tex-font-style-tt">.</span>» или «<span class="tex-font-style-tt">#</span>» и описывает соответствующую клетку тайной комнаты. Символ равен «<span class="tex-font-style-tt">.</span>» — если соответствующая клетка комнаты пустая, «<span class="tex-font-style-tt">#</span>» — если соответствующая клетка содержит обычную колонну.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — минимальное количество колонн, которое нужно сделать магическими, для защиты тайной комнаты или -1, если защитить тайную комнату невозможно.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3<br />.#.<br />...<br />.#.<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 3<br />##.<br />...<br />.#.<br />.#.<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>На картинке выше показан первый тестовый пример. Обе колонны в первом примере нужно сделать магическими. Значком дракона обозначен Василиск, значком бинокля обозначен наблюдатель, который войдет в тайную комнату. Черная звездочка обозначает место, где должно произойти окаменение. Желтыми линиями обозначается движение света через колонны.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Максимум на спирали</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Рассмотрим квадрат <span class="tex-span"><i>k</i> × <i>k</i></span>, разделенный на единичные квадратики, причем <span class="tex-span"><i>k</i> ≥ 3</span> и нечетно. Начиная от левой верхней клетки, будем красить клетки в следующем порядке: двигаемся сначала вправо, затем вниз, затем влево, затем вверх, затем опять вправо и так далее. При этом движение в одном направлении заканчиваем в одном из двух случаев: мы добрались до стенки квадрата, или следующая после следующей клетки уже покрашена. Всю покраску заканчиваем, если при движении в любом из направлений, не удается закрасить ни одной клетки. Фигуру, состоящую из закрашенных клеток, назовем <span class="tex-font-style-it">спиралью</span>.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/f1720a992301e03d1505e75eae9c6f8255581ac4.png" /> <span class="tex-font-size-script"> Примеры спиралей для <span class="tex-span"><i>k</i> = 3, 5, 7, 9</span> можно видеть на рисунке. </span> </center></p><p>Имеется таблица <span class="tex-span"><i>n</i> × <i>m</i></span>, в каждой ячейке которой находится число. Рассмотрим всевозможные спирали, образованные ячейками таблицы. Это означает, что мы рассматриваем спирали всевозможных размеров, которые не выходят за границы таблицы. Для каждой из спиралей найдем сумму чисел ячеек, из которых она образована. От вас требуется найти максимум из всех этих значений среди всех спиралей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">3 ≤ <i>n</i>, <i>m</i> ≤ 500</span>) — размеры таблицы.</p><p>В следующих <span class="tex-span"><i>n</i></span> строках записано по <span class="tex-span"><i>m</i></span> целых чисел, разделенных пробелами: <span class="tex-span"><i>j</i></span>-ое число в <span class="tex-span"><i>i</i></span>-ой строке <span class="tex-span"><i>a</i><sub class="lower-index"><i>ij</i></sub></span> (<span class="tex-span"> - 1000 ≤ <i>a</i><sub class="lower-index"><i>ij</i></sub> ≤ 1000</span>) — число, записанное в <span class="tex-span"><i>j</i></span>-ой ячейке <span class="tex-span"><i>i</i></span>-ой строки таблицы.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — максимальную сумму чисел среди всех спиралей.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 5<br />0 0 0 0 0<br />1 1 1 1 1<br />0 0 0 0 1<br />1 1 1 0 1<br />1 0 0 0 1<br />1 1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>17</pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 1 1<br />1 0 0<br />1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6</pre></div><div class="input"><div class="title">Входные данные</div><pre>6 6<br />-3 2 0 1 5 -1<br />4 -1 2 -3 0 1<br />-5 1 2 4 1 -2<br />0 -2 1 3 -1 2<br />3 1 4 -3 -2 0<br />-1 2 -1 3 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>13</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере спираль с максимальной суммой будет покрывать все единички таблицы.</p><p>Во втором примере спираль может покрыть только шесть единичек.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Наместничество</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Троичном королевстве ровно <span class="tex-span"><i>n</i> = 3<i>k</i></span> городов. Все они расположены на побережье реки Триссисипи, которая протекает через все королевство. Некоторые из городов расположены по одну сторону реки, а все остальные — по другую.</p><p>Между некоторыми городами построены мосты. Каждый мост соединяет два города, расположенные по разные стороны реки. Между любыми двумя городами имеется не более одного моста.</p><p>Недавно взошедший на престол король Тристан Третий занят распределением своих наместников между городами. Всего имеется <span class="tex-span"><i>k</i></span> наместников и король хочет поручить каждому из них управлять ровно тремя городами. Однако никакому из наместников нельзя поручать управление городами, которые соединены мостом — ради своей выгоды наместник может установить слишком высокую пошлину на проезд по мосту, что плохо скажется на репутации короля.</p><p>Помогите королю Тристану Третьему распределить наместников между городами, если это возможно.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке даны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> — количество городов и мостов (<span class="tex-span">3 ≤ <i>n</i> &lt; 10<sup class="upper-index">5</sup></span>, <span class="tex-span"><i>n</i> = 3<i>k</i></span>, <span class="tex-span">0 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>). В следующих <span class="tex-span"><i>m</i></span> строках описаны мосты. <span class="tex-span"><i>i</i></span>-ая строка содержит два целых числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> — номера городов, которые соединяет <span class="tex-span"><i>i</i></span>-ый мост (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span">1 ≤ <i>i</i> ≤ <i>m</i></span>).</p><p>Гарантируется, что никакой мост не соединяет город сам с собой, а также, что между любыми двумя городами не более одного моста.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если нужным образом распределить наместников нельзя, то в единственной строке выведите «<span class="tex-font-style-tt">NO</span>» (без кавычек).</p><p>Иначе в первой строке выведите «<span class="tex-font-style-tt">YES</span>» (без кавычек), а во второй — какой наместник должен управлять каждым из городов. <span class="tex-span"><i>i</i></span>-ое число должно означать номер наместника (от <span class="tex-span">1</span> до <span class="tex-span"><i>k</i></span>), который должен управлять <span class="tex-span"><i>i</i></span>-ым городом из входных данных — всего <span class="tex-span"><i>n</i></span> чисел.</p><p>Если возможных решений несколько — выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 6<br />1 2<br />4 1<br />3 5<br />6 5<br />2 6<br />4 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br />1 2 1 2 2 1 </pre></div><div class="input"><div class="title">Входные данные</div><pre>3 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Отдыхаем группами</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Один очень известный клуб «по интересам» собирает своих членов на отдых на природе. Чтобы мероприятие было интересней, директора клуба решили разбить членов клуба на группы. </p><p>Каждый человек характеризуется двумя целыми числами: <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> — ответственность, <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — возраст. <span class="tex-font-style-it">Группой</span> назовем непустое подмножество членов клуба с одним особенным членом клуба, которого мы будем называть лидером группы. Лидер группы должен быть одним из самых ответственных людей в группе (его ответственность должна быть не меньше, чем у любого другого человека из группы), также возраст любого человека в группе должен отличаться не более чем на <span class="tex-span"><i>k</i></span> от возраста лидера группы. </p><p>Некоторые члены клуба друзья, поэтому они хотят попасть в одну группу. Конечно же, интересней отдыхать в группе с большим количеством людей. Поэтому администрация клуба просит Вас написать программу, которая будет отвечать на следующий запрос: «Какой наибольший размер может быть у группы, которая содержит одновременно человека <span class="tex-span"><i>x</i></span> и человека <span class="tex-span"><i>y</i></span>?». Возможно, <span class="tex-span"><i>x</i></span> или <span class="tex-span"><i>y</i></span> будет лидером этой группы.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>, 0 ≤ <i>k</i> ≤ 10<sup class="upper-index">9</sup></span>) — количество членов клуба и возрастное ограничение для группы. </p><p>В следующей строке записаны целые числа <span class="tex-span"><i>r</i><sub class="lower-index">1</sub>, <i>r</i><sub class="lower-index">2</sub>, ..., <i>r</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>), разделенные пробелами, — ответственности людей. В следующей строке в таком же формате записаны целые числа <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>) — возрасты людей. </p><p>В следующей строке записано единственное целое число <span class="tex-span"><i>q</i></span> (<span class="tex-span">1 ≤ <i>q</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество запросов. В следующих <span class="tex-span"><i>q</i></span> строках записаны запросы в виде пар целых чисел, разделенных пробелом, <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, <i>x</i><sub class="lower-index"><i>i</i></sub> ≠ <i>y</i><sub class="lower-index"><i>i</i></sub></span>) — номера людей, которые должны оказаться в одной группе.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого запроса выведите ответ в отдельной строке — максимальное количество людей в группе, которая содержит заданных людей. Если такой группы не существует, выведите -1.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 1<br />1 5 4 1 2<br />4 4 3 2 2<br />4<br />5 3<br />2 3<br />2 5<br />4 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br />3<br />-1<br />4<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом запросе самая большая группа, включающая участников 3 и 5 — это группа <span class="tex-span">{1, 3, 4, 5}</span>, где 3 является лидером группы.</p><p>Во втором запросе лидером должен быть участник 2, так, что группа будет иметь следующий состав: <span class="tex-span">{1, 2, 3}</span>.</p><p>В третьем запросе у лидера группы должен быть возраст 3. Следовательно, единственным лидером может быть участник 3, но он менее ответственный, чем участник 2. Таким образом, сформировать такую группу невозможно.</p><p>В четвертом запросе группа такая же, как и в первом.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

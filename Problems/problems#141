@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="6hc1fbhf70eca2de6h6576ghgc4ef7f7"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1hl0bm0izdwwq"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='6hc1fbhf70eca2de6h6576ghgc4ef7f7'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #101 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Веселая шутка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вот и прошли новогодние праздники. Для Деда Мороза и его коллег пришло время отдыха и приема гостей. Когда встречаются два «Новогодних Деда», то их помощники в честь такого знаменательного события вырезают из картона буквы имен гостя и хозяина, и вывешивают над парадным входом. Однажды ночью, когда все легли спать, кто-то снял все буквы имен наших персонажей. Затем он, возможно, перемешал эти буквы, и положил в одну кучку перед дверью.</p><p>Наутро так и не удалось найти виновника беспорядка, но всех заинтересовал еще один вопрос: можно ли из букв, сложенных перед дверью, заново составить имена гостя и хозяина? То есть нужно проверить, что не останется лишних, и не придется вырезать дополнительные буквы.</p><p>Помогите «Новогодним Дедам» и их друзьям разобраться с этой проблемой, если вам даны обе надписи, висевшие над парадной дверью вечером, и буквы в кучке, найденной перед парадной дверью утром.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Во входных данных три строки: в первой строке — имя гостя, во второй — имя хозяина резиденции, в третьей строке — буквы в кучке, найденной перед дверью утром. Все строки не пусты и состоят только из заглавных латинских букв. Длина каждой строки не превосходит <span class="tex-span">100</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">YES</span>» без кавычек, если из букв в кучке можно составить имена «Новогодних Дедов», и «<span class="tex-font-style-tt">NO</span>» без кавычек в противном случае.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>SANTACLAUS<br />DEDMOROZ<br />SANTAMOROZDEDCLAUS<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>PAPAINOEL<br />JOULUPUKKI<br />JOULNAPAOILELUPUKKI<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>BABBONATALE<br />FATHERCHRISTMAS<br />BABCHRISTMASBONATALLEFATHER<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере: из букв, записанных в последней строке можно составить имена, записанные в первых двух, и не останется лишних букв.</p><p>Во втором примере: в кучке не хватает буквы «<span class="tex-font-style-tt">P</span>» и лишняя буква «<span class="tex-font-style-tt">L</span>».</p><p>В третьем примере: лишняя буква «<span class="tex-font-style-tt">L</span>».</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Классики</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вот уже прошла почти половина зимы, и Маша мечтает о лете. Санки и коньки ей уже надоели, сегодня всю ночь ей снились классики. Это очень популярная детская игра, в которой игровое поле — классики — выглядит так, как показано на рисунке (все клетки квадратные и нумеруются снизу вверх, клетки в одной строке нумеруются слева направо). Опишем классики цифрами, которые обозначают количество квадратов в строке, начиная с нижней: 1-1-2-1-2-1-2-(1-2)..., где далее повторяется период (1-2).</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/66a0b22ad4c51f6b4f0a3e457f63e5f27336402a.png" /> </center></p><p>Система координат задана так, как показано на рисунке. Стороны всех квадратов равны между собой и имеют длину <span class="tex-span"><i>a</i></span>.</p><p>Маша очень умная и сообразительная девочка, и ее волнуют совсем недетские вопросы: если она бросит камешек в точку с координатами <span class="tex-span">(<i>x</i>, <i>y</i>)</span>, то попадет ли она в какой-либо квадрат? В случае положительного ответа также требуется определить номер этого квадрата.</p><p>Считается, что камешек попал в квадрат, если он находится <span class="tex-font-style-bf">строго</span> внутри него. То есть камень, упавший на границу квадрата, не считается попавшим.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке входных данных записаны три целых числа: <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>x</i></span>, <span class="tex-span"><i>y</i></span>, где <span class="tex-span"><i>a</i></span> (<span class="tex-span">1 ≤ <i>a</i> ≤ 100</span>) — сторона квадрата, <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> (<span class="tex-span"> - 10<sup class="upper-index">6</sup> ≤ <i>x</i> ≤ 10<sup class="upper-index">6</sup>, 0 ≤ <i>y</i> ≤ 10<sup class="upper-index">6</sup></span>) — координаты камня.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите номер квадрата, внутрь которого попал камень, или «<span class="tex-font-style-tt">-1</span>» без кавычек, если камешек на границе какого-то квадрата или вне классиков.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 0 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 0 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 0 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 4 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Очередь</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Главном Банке Берляндии в очереди в кассу стоят <span class="tex-span"><i>n</i></span> человек, каждый знает свой рост <span class="tex-span"><i>h</i><sub class="lower-index"><i>i</i></sub></span>, а также росты остальных людей в очереди. Каждый из них мысленно запомнил число <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — сколько людей, которые выше ростом и стоят в очереди раньше.</p><p>Проходит некоторое время, и кассир уходит на обеденный перерыв, а люди из очереди рассаживаются на стулья в зале ожидания в произвольном порядке.</p><p>Когда обеденный перерыв закончился, то выясняется, что никто из них не помнит точного порядка людей в очереди, но каждый помнит свое число <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>.</p><p>Ваша задача — если это возможно, восстановить порядок людей в очереди. Может быть, что допустимых порядков несколько, но вам требуется найти любой из них. Также требуется вывести возможный набор чисел <span class="tex-span"><i>h</i><sub class="lower-index"><i>i</i></sub></span> — росты людей в очереди, так чтобы числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> были корректны.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span> — количество людей в очереди (<span class="tex-span">1 ≤ <i>n</i> ≤ 3000</span>). Далее в <span class="tex-span"><i>n</i></span> строках по одному на строке даны описания людей в формате «<span class="tex-span"><i>name</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>», где <span class="tex-span"><i>name</i><sub class="lower-index"><i>i</i></sub></span> — непустая строка из строчных латинских букв длиной не более <span class="tex-span">10</span> символов (имя <span class="tex-span"><i>i</i></span>-ого человека), <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — целое число (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i> - 1</span>), обозначающее количество людей, которые выше ростом и стоят в очереди раньше <span class="tex-span"><i>i</i></span>-ого человека. Гарантируется, что все имена различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если не существует ни одного допустимого порядка людей в очереди, то выведите единственную строку, содержащую «<span class="tex-font-style-tt">-1</span>» (без кавычек). В противном случае в <span class="tex-span"><i>n</i></span> строках выведите людей в формате «<span class="tex-span"><i>name</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>h</i><sub class="lower-index"><i>i</i></sub></span>», где <span class="tex-span"><i>h</i><sub class="lower-index"><i>i</i></sub></span> — целое число от <span class="tex-span">1</span> до <span class="tex-span">10<sup class="upper-index">9</sup></span> (включительно), предполагаемый рост человека с именем <span class="tex-span"><i>name</i><sub class="lower-index"><i>i</i></sub></span>. Людей выводите в порядке очереди от начала к концу. Числа <span class="tex-span"><i>h</i><sub class="lower-index"><i>i</i></sub></span> не обязаны быть уникальными.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />a 0<br />b 2<br />c 0<br />d 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>a 150<br />c 170<br />d 180<br />b 160<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />vasya 0<br />petya 1<br />manya 3<br />dunay 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Трамплины</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася участвует в лыжной гонке по оси <span class="tex-span"><i>X</i></span>. Старт находится в точке <span class="tex-span">0</span>, а финиш — в точке <span class="tex-span"><i>L</i></span>, то есть на расстоянии <span class="tex-span"><i>L</i></span> метров от старта в положительном направлении оси. Вася так сильно натренирован, что может пробежать один метр ровно за одну секунду.</p><p>Кроме того, на трассе расположено <span class="tex-span"><i>n</i></span> трамплинов, каждый трамплин характеризуется четырьмя числами: <ul> <li> <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> — координата трамплина, </li><li> <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> — через сколько метров приземлится Вася, если наедет на этот трамплин, </li><li> <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> — длительность полета в секундах </li><li> <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> — число, означающее сколько метров до трамплина Вася должен разбегаться, чтобы суметь приготовиться и прыгнуть с этого трамплина. В течение разбега Вася обязан ехать по снегу (то есть не должен находиться в полете), но его скорость все равно составляет один метр в секунду. </li></ul></p><p>Васе разрешается двигаться <span class="tex-font-style-bf">в любом направлении</span> оси <span class="tex-span"><i>X</i></span>, но запрещается заходить за линию старта, то есть в отрицательную полуось. Вася сам выбирает, какими трамплинами он воспользуется и в каком порядке, то есть он не обязан пользоваться всеми трамплинами, которые находятся на его пути. В частности, Вася может проехать мимо трамплина. Гарантируется, что <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub> + <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ <i>L</i></span>, значит, Вася не сможет преодолеть линию финиша в полете.</p><p><span class="tex-font-style-bf">Вася может прыгать на трамплине только в сторону положительного направления оси <span class="tex-span"><i>X</i></span>. То есть, используя <span class="tex-span"><i>i</i></span>-ый трамплин, он начинает разгон в точке <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub> - <i>p</i><sub class="lower-index"><i>i</i></sub></span>, прыгает в точке <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и приземляется в точке <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub> + <i>d</i><sub class="lower-index"><i>i</i></sub></span>. В другую сторону прыгать не разрешается.</span></p><p>Ваша задача — найти минимальное время, которое потратит Вася, чтобы преодолеть дистанцию.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>L</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>, <span class="tex-span">1 ≤ <i>L</i> ≤ 10<sup class="upper-index">9</sup></span>). Далее в <span class="tex-span"><i>n</i></span> строках находятся описания трамплинов, каждое описание находится на отдельной строке. Каждое описание — это четверка целых неотрицательных чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>L</i></span>, <span class="tex-span">1 ≤ <i>d</i><sub class="lower-index"><i>i</i></sub>, <i>t</i><sub class="lower-index"><i>i</i></sub>, <i>p</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>, <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub> + <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ <i>L</i></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите в первую строку минимальное время в секундах, которое нужно Васе, чтобы преодолеть трассу. Во вторую строку выведите <span class="tex-span"><i>k</i></span> — количество трамплинов, которыми нужно воспользоваться Васе, а в третью строку выведите <span class="tex-span"><i>k</i></span> чисел — номера использованных трамплинов в порядке, в котором Вася их использовал. Каждый номер выводите ровно один раз, числа при выводе разделяйте пробелом. Трамплины нумеруются с 1 в том порядке, в котором они заданы во входных данных.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 20<br />5 10 5 5<br />4 16 1 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>15<br />1<br />1 </pre></div><div class="input"><div class="title">Входные данные</div><pre>2 20<br />9 8 12 6<br />15 5 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>16<br />1<br />2 </pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере, Вася не сможет воспользоваться трамплином номер 2, потому что тогда он должен будет разбегаться, начиная с точки <span class="tex-font-style-tt">-3</span>, что не разрешено условием. Оптимальный вариант — воспользоваться трамплином номер 1, итоговое время равно: движение до точки разбега + разбег до трамплина + время полета + движение до финиша<span class="tex-span"> = 0 + 5 + 5 + 5 = 15</span>.</p><p>Во втором примере, Васе вообще не выгодно использовать трамплин номер 1, так как <span class="tex-span"><i>t</i><sub class="lower-index">1</sub> &gt; <i>d</i><sub class="lower-index">1</sub></span>. Оптимальный вариант — воспользоваться трамплином номер 2, итоговое время равно: движение до точки разбега + разбег до трамплина + время полета + движение до финиша<span class="tex-span"> = 14 + 1 + 1 + 0 = 16</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Большая чистка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Дед Мороз со Снегурочкой после того, как раздали все подарки и исполнили все желания, вернулись в свою резиденцию и обнаружили, что она вся занесена снегом. Герои очень устали, и решили расчистить лишь дорожки между домиками. В резиденции <span class="tex-span"><i>n</i></span> домиков, соединенных <span class="tex-span"><i>m</i></span> дорожками. По дорожкам можно ходить в обоих направлениях. </p><p>Снегурочка предложила разделить работу: Дед Мороз будет чистить широкие дорожки, а она будет протаптывать узенькие. Для каждой дорожки герои определили, кто ее может чистить: либо Дед Мороз, либо Снегурочка. Для экономии усилий было решено расчистить дорожки так, чтобы выполнялись оба условия: <ul> <li> между любыми двумя домиками должен существовать <span class="tex-font-style-bf">ровно один простой путь</span> по расчищенным дорожкам; </li><li> Дед Мороз должен расчистить столько же дорожек, сколько и Снегурочка. </li></ul></p><p>И тут герои задумались: какие же дорожки им надо расчистить?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записаны два целых положительных числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">3</sup></span>, <span class="tex-span">1 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество домиков и количество дорожек. Далее следует <span class="tex-span"><i>m</i></span> строк, в каждой из которых задано описание одной дорожки: номера домиков, которые она соединяет, — <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> (<span class="tex-span">1 ≤ <i>x</i>, <i>y</i> ≤ <i>n</i></span>), и кто ее собирается чистить («<span class="tex-font-style-tt">S</span>» — Снегурочка, или «<span class="tex-font-style-tt">M</span>» — Дед Мороз). По каждой дорожке можно ходить в обоих направлениях. Обратите внимание, что между двумя домиками может быть больше одной дорожки, и дорожка может вести из домика в него же.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">-1</span>» без кавычек, если невозможно выбрать дорожки, которые будут расчищены по заданным правилам. В противном случае выведите в первую строку количество расчищенных дорожек, а во вторую — номера этих дорожек (дорожки нумеруются с <span class="tex-span">1</span> в том порядке, в котором они заданы во входных данных). Номера дорожек разрешается выводить в любом порядке. Каждый номер следует вывести ровно один раз. Числа при выводе разделяйте пробелами.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 2<br />1 1 S<br />1 1 M<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /><br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 2 S<br />1 3 M<br />2 3 S<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />2 1 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 6<br />1 1 S<br />1 2 M<br />1 3 S<br />1 4 M<br />1 5 M<br />2 2 S<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Путь называется простым, если все домики на пути попарно различны.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

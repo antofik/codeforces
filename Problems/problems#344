@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="eeb022gcd70d28g766f7da50c1b501b0"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="kj5ryli55hre"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='eeb022gcd70d28g766f7da50c1b501b0'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #200 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Магниты</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Безумный ученый Майк развлекается, составляя ряды домино. В качестве домино Майк использует прямоугольные магниты с полюсами «плюс» и «минус». Если друг к другу приблизить два магнита, то одноименные полюса отталкиваются, а разноименные полюса притягиваются.</p><p>Майк начинает с того, что горизонтально кладет на стол один магнит. На каждом следующем шаге Майк продолжает ряд справа, приставляя еще один магнит горизонтально. В зависимости от того, как Майк положил магнит на стол, тот либо притягивается к предыдущему (тогда образуется «островок» из нескольких магнитов вместе), либо отталкивается от предыдущего (тогда Майк кладет новый магнит на некотором расстоянии справа от предыдущего). Считается, что магнит, лежащий отдельно от других, тоже образует свой «островок».</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/1080bca1bfd4fb588982bdc5c23614cd5143cd30.png" /> </center></p><p>Майк выложил в ряд несколько магнитов. Определите, сколько «островков» получилось в ряду.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100000</span>) — количество магнитов. Далее следуют <span class="tex-span"><i>n</i></span> строк: <span class="tex-span"><i>i</i></span>-я строка (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>) содержит символы «<span class="tex-font-style-tt">01</span>», если Майк положил <span class="tex-span"><i>i</i></span>-ый по порядку магнит в положении «плюс-минус», и символы «<span class="tex-font-style-tt">10</span>», если Майк положил этот магнит в положении «минус-плюс».</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выходных данных выведите количество «островков», получившихся в ряду.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6<br />10<br />10<br />10<br />01<br />10<br />10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />01<br />01<br />10<br />10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Первый тест соответствует рисунку. В этом тесте три «островка» размером три, один и два магнита.</p><p>Во втором тесте два «островка» по два магнита.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Простые молекулы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Безумный ученый Майк ставит эксперименты по химии. Сегодня он попытается собрать одну молекулу из трех атомов.</p><p>Известно, что молекула состоит из атомов, некоторые пары которых соединены атомарными связями. У каждого атома есть значение валентности — количества связей, которые атом должен образовывать с другими атомами. Атом может создавать <span class="tex-font-style-bf">одну или несколько</span> связей с любым другим атомом, но не с самим собой. Количество связей для атома в молекуле должно быть равно его валентности.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/0ef8f61871aebb7d194eadf8ee9a8423dc190d8c.png" /> </center></p><p>Майку известны валентности всех трех атомов. Найдите молекулу, которую из них можно собрать, или же определите, что это невозможно.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке входных данных через пробел записаны три целых числа <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> и <span class="tex-span"><i>c</i></span> (<span class="tex-span">1 ≤ <i>a</i>, <i>b</i>, <i>c</i> ≤ 10<sup class="upper-index">6</sup></span>) — валентности трех данных атомов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если нужная молекула существует, выведите через пробел три целых числа — количество связей между 1-м и 2-м, 2-м и 3-м, 3-м и 1-м атомами соответственно. Если решений несколько, выведите любое. Если решения не существует, выведите «<span class="tex-font-style-tt">Impossible</span>» (без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0 1 1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 4 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 3 2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Impossible<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Первый пример соответствует первому рисунку. Между 1-м и 2-м атомами в данном случае нет связей.</p><p>Второй пример соответствует второму рисунку. Между каждой парой атомов есть одна или несколько связей.</p><p>Третий пример соответствует третьему рисунку. Решения не существует, потому что атом не может образовывать связи с самим собой.</p><p>Ситуация на четвертом рисунке невозможна, так как каждый атом должен вступать хотя бы в одну атомарную связь.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Рациональное сопротивление</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Безумный ученый Майк в свободное время строит машину времени. Для окончания проекта ему понадобился резистор с определенным значением сопротивления.</p><p>Однако у Майка в запасе есть только большое количество одинаковых резисторов с единичным сопротивлением <span class="tex-span"><i>R</i><sub class="lower-index">0</sub> = 1</span>. Элементы с другим сопротивлением можно собирать из данных резисторов. В данной задаче элементами будем считать: <ol> <li> один резистор; </li><li> элемент и <span class="tex-font-style-bf">один</span> резистор, подключенные последовательно; </li><li> элемент и <span class="tex-font-style-bf">один</span> резистор, подключенные параллельно. </li></ol></p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/b690df1af69fcac6c39def4b162264708449293e.png" /> </center></p><p>При последовательном подключении сопротивление нового элемента равно <span class="tex-span"><i>R</i> = <i>R</i><sub class="lower-index"><i>e</i></sub> + <i>R</i><sub class="lower-index">0</sub></span>. При параллельном подключении сопротивление нового элемента равно <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/8e69f2f9d85e6584607971a68a207b22774fdf76.png" />. В данном случае <span class="tex-span"><i>R</i><sub class="lower-index"><i>e</i></sub></span> равняется сопротивлению подключаемого элемента.</p><p>Майку нужно собрать элемент с сопротивлением, равным дроби <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/58deb68a92272d09bf8f758a3c1e806b2e2c92b5.png" />. Определите наименьшее количество резисторов, с помощью которых можно собрать такой элемент.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке входных данных через пробел записаны два целых числа <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> (<span class="tex-span">1 ≤ <i>a</i>, <i>b</i> ≤ 10<sup class="upper-index">18</sup></span>). Гарантируется, что дробь <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/58deb68a92272d09bf8f758a3c1e806b2e2c92b5.png" /> несократима. Гарантируется, что решение всегда существует.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — ответ на задачу.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-битных чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>199 200<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>200<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере хватает одного резистора.</p><p>Во втором примере можно соединить два резистора параллельно, а полученный элемент соединить последовательно с третьим резистором. Таким образом получаем элемент с сопротивлением <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/5305da389756aab6423d918a08ced468f05604df.png" />. С помощью двух резисторов такой элемент построить невозможно.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Переменный ток</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Безумный ученый Майк только что завершил сборку новой установки для поиска внеземного разума! Он так торопился запустить ее в первый раз, что подключил провода питания не глядя и принялся за опыты. Впоследствии Майк заметил, что эти провода переплелись между собой и что их теперь придется распутывать.</p><p>Установку питают два провода: «плюс» и «минус», которые идут по полу от стены (слева) до самой установки (справа). Как в стене, так и в установке на одинаковой высоте имеется по два контакта, к которым в каком-то порядке подключены провода. Провода считаются запутанными, если есть места, где один провод проходит над другим. Например, на картинке ниже таких мест четыре (вид сверху):</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/5d5a8fb60d94479ffcd82131a4adf68eef67cd99.png" /> </center></p><p>Майк знает, в какой последовательности провода проходят друг над другом. Он также заметил, что слева провод «плюс» всегда подключен к верхнему контакту (так, как на картинке). Майк хотел бы распутать провода, не отсоединяя их от контактов и <span class="tex-font-style-bf">не трогая</span> саму установку. Определите, удастся ли ему это сделать. Считайте, что провода можно передвигать как угодно, что провода могут произвольно растягиваться, но не могут рваться.</p><p>Для лучшего понимания задачи рекомендуется прочитать пояснения ко всем тестовым примерам.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке ввода дана последовательность символов «<span class="tex-font-style-tt">+</span>» и «<span class="tex-font-style-tt">-</span>» длиной <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100000</span>). На <span class="tex-span"><i>i</i></span>-той (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>) позиции последовательности находится символ «<span class="tex-font-style-tt">+</span>», если на <span class="tex-span"><i>i</i></span>-том шаге от стены провод «плюс» проходит над проводом «минус», и символ «<span class="tex-font-style-tt">-</span>» иначе.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">Yes</span>» (без кавычек), если провода можно распутать, или же «<span class="tex-font-style-tt">No</span>» (без кавычек), если провода распутать нельзя.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>-++-<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Yes<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>+-<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>No<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>++<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Yes<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>-<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>No<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Первый пример соответствует картинке, приведенной в условии. Чтобы распутать провода, можно сначала «плюс» отвести вниз, избавившись от двух пересечений в середине, а потом провести его под «минусом», убрав и пересечения по краям.</p><p>Во втором примере провод «плюс» делает один полный оборот вокруг «минуса». Следовательно, распутать провода нельзя: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/11cd5a524c74769cdcbf3db4e778cd5a3dc49313.png" /> </center></p><p>В третьем примере провод «плюс» просто два раза подряд проходит сверху над «минусом». Приподняв и переместив «плюс» выше, провода можно распутать: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/75b02491b0f1aff7e2473e2d94fb2e0a190f55f8.png" /> </center></p><p>В четвертом примере «минус» один раз проходит над «плюсом». Не трогая саму установку, нельзя сделать так, чтобы провода не проходили один на другим: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/79eb2b8a24780afc2d8966ddb3dfbb7e54c9ab90.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Время чтения</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Безумный ученый Майк не использует медленные жесткие диски. В его модификации жесткого диска есть не одна, а <span class="tex-span"><i>n</i></span> разных головок, которые могут читать данные параллельно.</p><p>Разрез жесткого диска Майка представляет собой бесконечный массив из дорожек. Дорожки массива пронумерованы слева направо целыми числами, начиная с 1. В начальном состоянии <span class="tex-span"><i>i</i></span>-тая считывающая головка находится над дорожкой с номером <span class="tex-span"><i>h</i><sub class="lower-index"><i>i</i></sub></span>. Программное обеспечение жесткого диска за 1 секунду может переместить каждую из головок ровно на одну дорожку направо или налево, либо оставить на текущей дорожке. В течение времени работы жесткого диска движение каждой головки не влияет на движение остальных головок: головки могут меняться местами; на каждой дорожке может находиться несколько головок. Дорожка считается <span class="tex-font-style-it">считанной</span>, если хотя бы одна головка побывала на этой дорожке. В частности, все дорожки под номерами <span class="tex-span"><i>h</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>h</i><sub class="lower-index">2</sub></span>, <span class="tex-span">...</span>, <span class="tex-span"><i>h</i><sub class="lower-index"><i>n</i></sub></span> уже считаны в начале работы жесткого диска.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/79247149e8374d4c388dad17222308c98ad4ead5.png" /> </center></p><p>Майку нужно считать данные на <span class="tex-span"><i>m</i></span> разных дорожках под номерами <span class="tex-span"><i>p</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>p</i><sub class="lower-index">2</sub></span>, <span class="tex-span">...</span>, <span class="tex-span"><i>p</i><sub class="lower-index"><i>m</i></sub></span>. Определите наименьшее время, за которое жесткий диск сможет считать данные с заданных дорожек. Обратите внимание на то, что при этом дополнительно может быть считано произвольное количество других дорожек.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных через пробел даны два целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество головок диска и количество дорожек, данные которых нужно считать, соответственно. Во второй строке через пробел в порядке возрастания даны <span class="tex-span"><i>n</i></span> различных целых чисел <span class="tex-span"><i>h</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>h</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">10</sup></span>, <span class="tex-span"><i>h</i><sub class="lower-index"><i>i</i></sub> &lt; <i>h</i><sub class="lower-index"><i>i</i> + 1</sub></span>) — начальные позиции головок. В третьей строке через пробел в порядке возрастания даны <span class="tex-span"><i>m</i></span> различных целых чисел <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>p</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">10</sup></span>, <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub> &lt; <i>p</i><sub class="lower-index"><i>i</i> + 1</sub></span>) — номера дорожек, с которых нужно считать данные.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-битных чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — наименьшее время в секундах, за которое можно считать все нужные дорожки.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 4<br />2 5 6<br />1 3 6 8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 2 3<br />1 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1 2<br />165<br />142 200<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>81<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Первый тест совпадает с рисунком. В данном случае данные дорожки можно считать за 2 секунды следующим образом:</p><p><ol> <li> за первую секунду переместить 1-ую головку налево и на следующей секунде оставить ее на месте; </li><li> вторую головку два раза переместить налево; </li><li> третью головку два раза переместить направо (причем 6-ая дорожка считана уже в самом начале работы диска). </li></ol></p><p>За 1 секунду дорожки считать невозможно, так как 3-я головка находится на расстоянии 2 от 8-ой дорожки.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

@@ -1,0 +1,381 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="2ah1bhd8b142eg91g61h0735g61hf11f"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="18zkx69w2vfh0"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='2ah1bhd8b142eg91g61h0735g61hf11f'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #100</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Новогодний стол</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Геральд накрывает новогодний стол. Стол имеет форму круга радиуса <span class="tex-span"><i>R</i></span>. Геральд пригласил много гостей и обеспокоен вопросом, поместятся ли на столе тарелки для всех них. Считайте, что все тарелки круглые и имеют одинаковые радиусы, равные <span class="tex-span"><i>r</i></span>. Каждая тарелка должна целиком помещаться на столе и касаться края стола. Разумеется, тарелки не должны пересекаться, однако могут касаться. Помогите Геральду определить, поместятся ли на столе <span class="tex-span"><i>n</i></span> тарелок для гостей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>R</i></span> и <span class="tex-span"><i>r</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>, <span class="tex-span">1 ≤ <i>R</i>, <i>r</i> ≤ 1000</span>) — количество тарелок, радиус стола и радиус тарелок.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">YES</span>» (без кавычек), если на столе можно разместить <span class="tex-span"><i>n</i></span> тарелок по описанным правилам, и «<span class="tex-font-style-tt">NO</span>», если нельзя. </p><p>Обратите внимание, что каждая тарелка должна касаться края стола.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 10 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 10 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1 10 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Возможное расположение тарелок для первого примера: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/5fb2acd83bbeeaef92fa3da6efb0b030de097582.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Новогодние открытки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В то время как хозяйственный Геральд накрывает стол, Александр закончил очередной пост на Codeforces и начинает отвечать на новогодние поздравления друзей. У Александра <span class="tex-span"><i>n</i></span> друзей, и каждый из них отправляет Александру ровно одну электронную открытку. Будем нумеровать друзей числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> в том порядке, в котором они отправляют открытки. Для открыток введем ту же самую нумерацию, то есть получается, что <span class="tex-span"><i>i</i></span>-ый друг отправил Александру открытку с номером <span class="tex-span"><i>i</i></span>. </p><p>Александр тоже отправляет друзьям открытки, причем чтобы не искать открытки в Интернете, он просто использует ранее присланные ему (иногда, правда, дорисовывая необходимые элементы). Изначально у Александра нет открыток. Александр всегда придерживается двух правил:</p><p><ol> <li> Он никогда не отправляет другу открытку, присланную этим же другом. </li><li> Среди остальных открыток, имеющихся у него в данный момент, Александр всегда выбирает ту, которая больше всех нравится ему самому. </li></ol></p><p>Каждому другу Александр планирует отправить ровно по одной открытке. Разумеется, Александр может отправлять одну и ту же открытку несколько раз.</p><p>У Александра и у каждого из друзей есть список предпочтений, представляющий собой перестановку чисел от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Первое число в списке — это номер самой любимой открытки, второе — следующей за ней, и так далее, последний номер — наименее предпочтительная открытка.</p><p>Ваша задача — определить, в какие моменты времени Александр должен отправлять открытки своим друзьям, чтобы порадовать каждого из них как можно больше. Иначе говоря, чтобы в результате применения двух Сашиных правил, каждый друг получил как можно более предпочтительную для него открытку.</p><p>Обратите внимание, что Александр не обладает свободой выбора в том, какую открытку отправить, а всегда строго придерживается двух правил.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 300</span>) — количество друзей Александра, равное количеству открыток. Следующие <span class="tex-span"><i>n</i></span> строк содержат списки предпочтений друзей. Каждый список состоит из <span class="tex-span"><i>n</i></span> различных целых чисел от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Последняя строка содержит список предпочтений самого Александра в том же формате.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i></span> чисел, разделенных пробелами: <span class="tex-span"><i>i</i></span>-ое число должно являться номером друга, после получения открытки от которого Александр должен отправить открытку <span class="tex-span"><i>i</i></span>-ому другу. Если решений несколько, выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />1 2 3 4<br />4 1 3 2<br />4 3 1 2<br />3 4 2 1<br />3 1 2 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 1 1 4<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В примере алгоритм действий Александра и его друзей таков: <ol> <li> Александр получает открытку <span class="tex-span">1</span> от первого друга. </li><li> Александр отправляет полученную открытку (на данный момент она у него одна, а значит, самая предпочтительная для него) друзьям с номерами <span class="tex-span">2</span> и <span class="tex-span">3</span>. </li><li> Александр получает открытку <span class="tex-span">2</span> от второго друга, теперь у него две открытки — <span class="tex-span">1</span> и <span class="tex-span">2</span>. </li><li> Александр отправляет открытку первому другу. Несмотря на то, что открытка <span class="tex-span">1</span> Александру нравится больше, он отправляет открытку <span class="tex-span">2</span>, потому что не может отправлять другу открытку, присланную им же. </li><li> Александр получает открытку <span class="tex-span">3</span> от третьего друга. </li><li> Александр получает открытку <span class="tex-span">4</span> от четвертого друга. </li><li> Среди имеющихся у Александра открыток <span class="tex-span">1</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">4</span> самая любимая его открытка — <span class="tex-span">3</span>, и он отправляет ее четвертому другу. </li></ol></p><p>Заметим, что можно делать отправку открытки сразу нескольким друзьям (в данном случае второму и третьему). Четвертому другу можно отправить открытку номер <span class="tex-span">3</span> как после получения третьей открытки, так и после получения четвертой открытки (оба варианта являются правильными).</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Новогодние снеговики</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Пока хозяйственный Геральд накрывает стол и никогда не дающий скучать друзьям Александр отправляет открытки, Сергей лепит снеговиков. Каждый снеговик должен состоять из трех комов — большого, среднего и маленького. Сергею помогают его двойники: они уже слепили <span class="tex-span"><i>n</i></span> снежных комов, которые представляют собой шары с радиусами <span class="tex-span"><i>r</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>r</i><sub class="lower-index">2</sub></span>, ..., <span class="tex-span"><i>r</i><sub class="lower-index"><i>n</i></sub></span>. Снеговика можно слепить из любых трех комов, радиусы которых попарно различны. Например, из комов с радиусами <span class="tex-span">1</span>, <span class="tex-span">2</span> и <span class="tex-span">3</span> можно слепить снеговика, а <span class="tex-span">2</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span> или <span class="tex-span">2</span>, <span class="tex-span">2</span>, <span class="tex-span">2</span> — нельзя. Помогите Сергею и его двойникам определить, какое <span class="tex-font-style-bf">наибольшее</span> количество снеговиков они смогут слепить из своих комов.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество комов. В следующей строке заданы <span class="tex-span"><i>n</i></span> целых чисел — радиусы комов <span class="tex-span"><i>r</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>r</i><sub class="lower-index">2</sub></span>, ..., <span class="tex-span"><i>r</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>). Радиусы комов могут совпадать.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите одно целое число <span class="tex-span"><i>k</i></span> — наибольшее количество снеговиков. Следующие <span class="tex-span"><i>k</i></span> строк должны содержать описания снеговиков. Описание каждого снеговика должно состоять из трех чисел, разделенных пробелами — радиуса большого кома, радиуса среднего кома и радиуса маленького кома. Снеговиков разрешается выводить в любом порядке. Если решений несколько, выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>7<br />1 2 3 4 5 6 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />3 2 1<br />6 5 4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />2 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Новогодний контест</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Пока Геральд накрывает стол, Александр отправляет открытки, а Сергей и его двойники создают армию (клонов) снеговиков, Геннадий пишет новогодний контест.</p><p>Новогодний контест начинается в 18:00 31 декабря и заканчивается в 6:00 1 января. На контесте предлагается <span class="tex-span"><i>n</i></span> задач. Штрафное время по каждой сданной задаче начисляется как расстояние от момента ее сдачи до Нового года в минутах. Например, задача, сданная в 21:00 получает штрафное время 180, так же как задача, сданная в 3:00. Общее штрафное время считается как сумма штрафных времен по всем сданным задачам. Разрешается сдавать задачу ровно в момент окончания контеста 6:00.</p><p>Геннадий открыл задачи ровно в 18:00 и за первые 10 минут контеста успел оценить их сложность. Он полагает, что потратит на решение <span class="tex-span"><i>i</i></span>-ой задачи <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> минут. Отправить решение на проверку Геннадий сможет в любой момент времени после завершения его написания. Вероятно, ему придется отрываться от решения одной задачи, чтобы отправить на проверку решение по другим. Временем отправки решения можно пренебречь, то есть считать его равным нулю. Генндий может одновременно отправить несколько решений. Кроме того, он может в любой момент перейти от решения одной задачи к другой, а потом вернуться к первой задаче с того же места, на котором закончил. При этом суммарное время решения <span class="tex-span"><i>i</i></span>-ой задачи составит также <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> минут. Разумеется, Геннадий не совершает штрафных попыток, и все его решения проходят с первого раза. Он может приступать к решению задач начиная с 18:10.</p><p>Помогите Геннадию выбрать из стратегий, при которых он решит максимальное возможное количество задач, ту, при которой его общее штрафное время будут минимальным.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>) — количество задач. В следующей строке через пробел заданы <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 720</span>) — количества времени в минутах, которые Геннадий потратит на решение задач.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите два целых числа — количество решенных Геннадием задач и общее штрафное время при оптимальной стратегии.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />30 330 720<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 10<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В примере одна из возможных оптимальных стратегий Геннадия такова. В 18:10 он начинает решать первую задачу и решает ее через 30 минут (в 18:40). В 18:40 он начинает решать вторую задачу. До Нового года остается 320 минут, поэтому Геннадий не успевает закончить решение второй задачи до Нового года. В 0:00 он отрывается от решения второй задачи и сдает первую, и сразу же возвращается к решению второй задачи. В 0:10 он дописывает решение по второй задаче и сдает его, получая 10 минут штрафного времени. Заметим, что так как общая продолжительность контеста 720 минут и 10 минут Геннадий уже потратил на чтение задач, он вообще не успеет решить за контест третью задачу. Да, такие задачи бывают.</p><p>Соревнования по описанным правилам ежегодно проходят на сайте http://b23.ru/3wvc</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Новогодняя гирлянда</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>5 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В то время как Геральд, Александр, Сергей и Геннадий уже занимаются привычными новогодними делами, Эдвард второпях наряжает новогоднюю елку. А какая елка без гирлянды? У Эдварда есть лампочки <span class="tex-span"><i>m</i></span> цветов, и он хочет составить из них гирлянду — последовательность длины <span class="tex-span"><i>L</i></span>. Елка Эдварда состоит из <span class="tex-span"><i>n</i></span> ярусов, и Эдвард планирует расположить гирлянду таким образом, чтобы первые <span class="tex-span"><i>l</i><sub class="lower-index">1</sub></span> лампочек гирлянды украшали первый ярус, следующие <span class="tex-span"><i>l</i><sub class="lower-index">2</sub></span> лампочек — второй ярус и так далее, на последнем <span class="tex-span"><i>n</i></span>-ом ярусе окажутся последние <span class="tex-span"><i>l</i><sub class="lower-index"><i>n</i></sub></span> лампочек, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/e444352e6f3188286a54650b0cc918121525a492.png" /> Эдвард — любитель математических головоломок, поэтому его неожиданно заинтересовал вопрос: сколько у него различных вариантов собрать гирлянду, чтобы выполнялись оба условия: <ol> <li> Любые две подряд идущие лампочки на каждом ярусе должны иметь разные цвета. </li><li> Множества цветов лампочек на каждых двух <span class="tex-font-style-bf">соседних</span> ярусах должны быть различны. Здесь рассматриваются неупорядоченные множества (не мультимножества), в которых каждый цвет встречается не более одного раза. То есть количество лампочек значения не имеет. </li></ol></p><p>Помогите Эдварду получить ответ на мучающий его вопрос, иначе он не успеет нарядить елку до Нового года. Считайте, что у Эдварда бесконечное количество лампочек каждого из <span class="tex-span"><i>m</i></span> цветов, причем использовать все <span class="tex-span"><i>m</i></span> цветов необязательно. Гирлянды считаются различными, если они как последовательности различаются хотя бы в одной позиции. Вычислите ответ на задачу по заданному модулю <span class="tex-span"><i>p</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>p</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">6</sup></span>, <span class="tex-span">2 ≤ <i>p</i> ≤ 10<sup class="upper-index">9</sup></span>) — количество ярусов елки, количество цветов лампочек и модуль, соответственно. Следующая строка содержит <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ 5000</span>, <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ba00472aa4924de40da7f039202523b7f0cf35f8.png" />).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — количество гирлянд по модулю <span class="tex-span"><i>p</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2 1000<br />3 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>8<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 3 1000<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>24<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1 1 1000<br />5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере возможны следующие варианты: 121|1|12, 121|1|21, 121|2|12, 121|2|21, 212|1|12, 212|1|21, 212|2|12, 212|2|21. Во втором примере возможны варианты: 12|13, 12|23, 12|31, 12|32 и т.д. <center> Рисунок к первому примеру: <img class="tex-graphics" src="http://codeforces.ru/renderer/14e63120a01e2b3b8283759a79ac5898bae207b6.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F. Новогодняя снежинка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В то время как Геральд ..., иначе говоря, в канун Нового года, Константин приготовил необыкновенный подарок для Прекрасной Дамы. Это волшебная новогодняя снежинка, способная исполнить любое заветное желание.</p><p>Новогодняя снежинка состоит из маленьких ледяных кристаллов, которые можно приближенно считать точками на плоскости. Вся прелесть новогодней снежинки в том, что она имеет центр симметрии. Это такая точка, что для каждого кристалла снежинки найдется другой кристалл, симметричный ему относительно этой точки. Один из кристаллов может располагаться непосредственно в центре симметрии.</p><p>Пока Константин выбирал снежинку среди миллионов других снежинок, не менее симметричных и не менее волшебных, потом преодолевал нелегкий путь через сугробы к дому своей возлюбленной и с замиранием сердца ждал несколько долгих мгновений, перед тем как Прекрасная Дама отворила дверь, некоторые кристаллы снежинки растаяли и, естественно, исчезли. Константин уверен, что таких кристаллов было не более <span class="tex-span"><i>k</i></span>, потому что он обращался со снежинкой очень аккуратно. Теперь он готов продемонстрировать Прекрасной Даме всю мощь нанотехнологий и восстановить симметрию снежинки.</p><p>Вам даны координаты уцелевших кристаллов снежинки, заданные в нанометрах. Ваша задача — определить все возможные положения изначального центра симметрии.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 200 000</span>, <span class="tex-span">0 ≤ <i>k</i> ≤ 10</span>) — количество имеющихся кристаллов и наибольшее количество растаявших кристаллов соответственно. Следующие <span class="tex-span"><i>n</i></span> строк содержат координаты имеющихся кристаллов в формате «<span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>». Координаты являются целыми числами и не превосходят <span class="tex-span">5·10<sup class="upper-index">8</sup></span> по абсолютной величине. Все заданные точки различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите целое число <span class="tex-span"><i>c</i></span> — количество возможных центров симметрии. Следующие <span class="tex-span"><i>c</i></span> строк должны содержать описания центров. Каждый центр симметрии описывается парой координат «<span class="tex-span"><i>x</i></span> <span class="tex-span"><i>y</i></span>», разделенных пробелом. Координаты выводите с абсолютной погрешностью, не превосходящей <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>. Центры симметрии разрешается выводить в любом порядке. Все выводимые точки должны быть различны. В случае если существует бесконечное количество возможных центров симметрии, выведите одно число «-1».</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 0<br />0 0<br />0 1<br />1 0<br />1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />0.5 0.5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 2<br />0 0<br />0 1<br />1 0<br />1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br />0.0 0.5<br />0.5 0.0<br />0.5 0.5<br />0.5 1.0<br />1.0 0.5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 4<br />0 0<br />0 1<br />1 0<br />1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

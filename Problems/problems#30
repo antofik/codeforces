@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="fg774e309fgaba3cbb190g0d0bf1393d"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="oxnyreulux3h"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='fg774e309fgaba3cbb190g0d0bf1393d'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #30 (Codeforces format)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Бухгалтерский учёт</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Жил-был в одной стране Царь по имени Цопа. После очередной царской реформы полномочия Царя стали настолько широкими, что, в частности, он стал собственноручно заниматься финансовой отчётностью.</p><p>Известен суммарный доход <span class="tex-span"><i>A</i></span> его Царства по итогам <span class="tex-span">0</span>-го года, и суммарный доход <span class="tex-span"><i>B</i></span> по итогам <span class="tex-span"><i>n</i></span>-го года (оба числа могут быть отрицательными, что означает — в этот год экономика Царства была убыточной).</p><p>Царь хочет продемонстрировать финансовую стабильность, для этого ему надо подобрать единый коэффициент <span class="tex-span"><i>X</i></span> — коэффициент роста дохода Царства за один год. Этот коэффициент должен удовлетворять уравнению:</p><p><center class="tex-equation"><span class="tex-span"><i>A</i>·<i>X</i><sup class="upper-index"><i>n</i></sup> = <i>B</i>.</span></center></p><p>Разумеется, Царь не собирается делать такую работу вручную, и требует от вас написать программу, ищущую этот коэффициент <span class="tex-span"><i>X</i></span>.</p><p>Следует отметить, что дробные числа крайне не любят в экономических структурах Царства, поэтому как входные данные, так и искомый коэффициент должны быть целыми. Искомый коэффициент <span class="tex-span"><i>X</i></span> может оказаться равным нулю или даже быть отрицательным.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке записаны три целых числа <span class="tex-span"><i>A</i></span>, <span class="tex-span"><i>B</i></span>, <span class="tex-span"><i>n</i></span>, удовлетворяющих условиям: <span class="tex-span">|<i>A</i>|, |<i>B</i>| ≤ 1000</span>, <span class="tex-span">1 ≤ <i>n</i> ≤ 10</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — искомый целый коэффициент <span class="tex-span"><i>X</i></span>, или фразу «No solution», если такого коэффициента не существует, или он не целый. Если ответов несколько, выведите любой.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 18 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3</pre></div><div class="input"><div class="title">Входные данные</div><pre>-1 8 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-2</pre></div><div class="input"><div class="title">Входные данные</div><pre>0 0 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5</pre></div><div class="input"><div class="title">Входные данные</div><pre>1 16 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>No solution</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Codeforces World Finals</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Царю Цопе много раз докладывали о стремительно набирающем популярность сайте Codeforces, на котором собираются светлейшие умы нашего человечества, — ради тренировки и дальнейшего просветления своих умов. И Цопа недавно осознал: если он хочет поработить весь мир, то для этого ему необходимо отдать приказ организовать всемирный турнир Codeforces. Цопа уверен, — после этого его поступка все светлейшие умы добровольно перейдут в его подчинение, и самая сложная часть плана порабощения мира будет осуществлена.</p><p>Финальный раунд Codeforces World Finals 20YY назначен на дату <span class="tex-span"><i>DD</i></span>.<span class="tex-span"><i>MM</i></span>.<span class="tex-span"><i>YY</i></span>, где <span class="tex-span"><i>DD</i></span> — день проведения раунда, <span class="tex-span"><i>MM</i></span> — месяц, а <span class="tex-span"><i>YY</i></span> — последние 2 цифры года. Васе посчастливилось стать первым в истории Берляндии участником, вышедшим в финал. Но есть одна проблема: по правилам соревнования, все участники на момент финального раунда должны быть не младше 18 лет, а Вася родился в день <span class="tex-span"><i>BD</i></span>.<span class="tex-span"><i>BM</i></span>.<span class="tex-span"><i>BY</i></span>. Эта дата написана в Васином паспорте, копию которого он уже отправил организаторам соревнования. Но Вася узнал, что в разных странах форматы записи дат отличаются, например, в США обычно сначала записывается номер месяца, затем день, а потом год. Вася хочет узнать, а можно ли так переставить числа в его дате рождения, чтобы на момент <span class="tex-span"><i>DD</i></span>.<span class="tex-span"><i>MM</i></span>.<span class="tex-span"><i>YY</i></span> ему было хотя бы 18 лет. Ведь тогда он сможет сказать, что в его родной Берляндии даты записываются по-другому. Помогите ему справиться с этой задачей.</p><p>По еще одному странному правилу, участник должен родиться в том же столетии, в котором проводится финал. Допускается, если участнику исполняется 18 ровно в день финала.</p><p>Так как мы рассматриваем годы проведения финала исключительно с <span class="tex-span">2001</span> до <span class="tex-span">2099</span>, то високосным годом будем считать среди них такие, которые делятся на <span class="tex-span">4</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задана дата <span class="tex-span"><i>DD</i></span>.<span class="tex-span"><i>MM</i></span>.<span class="tex-span"><i>YY</i></span>, во второй строке задана дата <span class="tex-span"><i>BD</i></span>.<span class="tex-span"><i>BM</i></span>.<span class="tex-span"><i>BY</i></span>. Гарантируется, что обе даты корректны, и номера годов <span class="tex-span"><i>YY</i></span> и <span class="tex-span"><i>BY</i></span> всегда лежат в отрезке <span class="tex-span">[01;99]</span>.</p><p>Могло оказаться, что по паспорту Вася родился уже после финала. В этом случае он все равно может менять местами числа в дате.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если можно переставить числа в дате рождения так, чтобы на момент <span class="tex-span"><i>DD</i></span>.<span class="tex-span"><i>MM</i></span>.<span class="tex-span"><i>YY</i></span> Васе было хотя бы 18 лет, выведите <span class="tex-font-style-tt">YES</span>. Иначе выведите <span class="tex-font-style-tt">NO</span>. </p><p>Каждое число содержит ровно две цифры, и обозначает день, месяц или год в дате. Учтите, что разрешается переставлять любые числа, но не цифры.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>01.01.98<br />01.01.80<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>20.10.20<br />10.02.30<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>28.02.74<br />28.02.64<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Тир</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды в теплый солнечный день Царь Цопа решил сходить в тир, расположенный в Центральном парке, чтобы попробовать выиграть главный приз — большую плюшевую розовую панду. Цопа не очень силен в стрельбе, и поэтому он пригласил Вас помочь ему.</p><p>Тир представляет собой бесконечную вертикальную плоскость, на которой введена декартова система координат, на которой появляются мишени. <span class="tex-span"><i>i</i></span>-ая мишень характеризуется своими координатами <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>, а также <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> — временем, когда эта мишень появится на плоскости, и числом <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> — вероятностью, с которой Цопа попадает в данную мишень, если он будет целиться в нее.</p><p>Мишень появляется и исчезает мгновенно, и Цопа может попасть в нее, если в момент <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> прицел его направлен точно в точку <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>)</span>. Скорость перемещения прицела по плоскости равна 1. Все данные заранее известны ему (он же Царь), и поэтому, в частности, он может выбрать, в какую мишень ему целиться с самого начала, в момент времени 0. Цопа действует так, что математическое ожидание количества попаданий максимально.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано число <span class="tex-span"><i>n</i></span> — число мишеней в тире (<span class="tex-span">1 ≤ <i>n</i> ≤ 1000</span>). Далее в следующих строках описаны <span class="tex-span"><i>n</i></span> мишеней: в <span class="tex-span"><i>i</i></span>-ой строке идёт описание <span class="tex-span"><i>i</i></span>-ой мишени. Каждое описание представляет собой четвёрку чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> (где <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> — целые, <span class="tex-span"> - 1000 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>, <span class="tex-span">0 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>, а вещественное число <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> задано не более чем с 6 знаками после десятичной точки, и выполняется <span class="tex-span">0 ≤ <i>p</i><sub class="lower-index"><i>i</i></sub> ≤ 1</span>). Никакие две различные мишени не могут находиться в одной и той же точке.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — максимальное математическое ожидание количества попаданий в мишени. Ответ будет принят, если он отличается от правильного не более чем на <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br />0 0 0 0.5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.5000000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />0 0 0 0.6<br />5 0 5 0.7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.3000000000<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Задача Царя?</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Каждый настоящий Царь в своей жизни должен поработить мир, провести финал чемпионата мира Codeforces, выиграть розовую панду в тире и объехать свое царство.</p><p>Первые три вещи Царь Цопа уже сделал в своей жизни. Осталось всего лишь объехать свое Царство. Оно, по неизвестным науке причинам, представляет собой бесконечную декартову систему координат, на которой отмечены города. Каждый город будем считать точкой на этой плоскости. Буквально перед самым отъездом, к Царю пришел гонец и сообщил пренеприятнейшее известие о том, что на самом деле города в Царстве расположены в точках с координатами <span class="tex-span">(<i>x</i><sub class="lower-index">1</sub>, 0), (<i>x</i><sub class="lower-index">2</sub>, 0), ..., (<i>x</i><sub class="lower-index"><i>n</i></sub>, 0)</span>, а еще один город в точке <span class="tex-span">(<i>x</i><sub class="lower-index"><i>n</i> + 1</sub>, <i>y</i><sub class="lower-index"><i>n</i> + 1</sub>)</span> (то есть всего их в Царстве ровно <span class="tex-span"><i>n</i> + 1</span>). </p><p>Но выбора у Царя нет, и он пустился в дальнее путешествие. Начало его пути — это город номер <span class="tex-span"><i>k</i></span>. Ваша задача — найти такой путь Царя через все города в произвольном порядке (можно даже посещать один город дважды), который имеет наименьшую длину. Закончить путешествие разрешается в любом городе. Можно считать, что между любыми двумя различными городами существует дорога длиной, равной расстоянию между соответствующими точками на плоскости.</p><p>Никакие два города не могут находиться в одной точке.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>, 1 ≤ <i>k</i> ≤ <i>n</i> + 1</span>) — число городов и номер стартового города соответственно. Во второй строке через пробел записано <span class="tex-span"><i>n</i> + 1</span> целых чисел <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>. В третьей строке записано <span class="tex-span"><i>y</i><sub class="lower-index"><i>n</i> + 1</sub></span>. Все координаты — целые числа, не превосходящие по модулю <span class="tex-span">10<sup class="upper-index">6</sup></span>. Никакие два города не могут находиться в одной точке.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — наименьшую длину путешествия. Ваш ответ должен иметь относительную или абсолютную погрешность меньше, чем <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 1<br />0 1 2 1<br />1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3.41421356237309490000</pre></div><div class="input"><div class="title">Входные данные</div><pre>3 1<br />1 0 2 1<br />1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3.82842712474619030000</pre></div><div class="input"><div class="title">Входные данные</div><pre>4 5<br />0 5 -1 -5 2<br />3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>14.24264068711928400000</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Хитрый и умный пароль</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В эпоху своей молодости герой нашего рассказа Царь Цопа решил, что все его личные данные не очень хорошо скрыты от посторонних глаз, а для монарха это недопустимо. Поэтому он придумал хитрый и умный пароль (лишь спустя много лет Цопа узнал, что его пароль — это палиндром нечетной длины), а затем зашифровал все свои данные.</p><p>Как известно, монархи в душе такие же люди, как и все остальные смертные, и поэтому чтобы не забыть свой хитрый и умный пароль, Цопа решил записать его на бумажку. Зная, что опасно хранить пароль в таком виде, он решил его зашифровать следующим образом: с конца и с начала своего пароля-палиндрома он отрезал по <span class="tex-span"><i>x</i></span> символов (<span class="tex-span"><i>x</i></span> может быть равно <span class="tex-span">0</span>, и <span class="tex-span">2<i>x</i></span> строго меньше, чем длина пароля). У него получились 3 <span class="tex-font-style-bf"><span class="tex-font-style-it">части пароля</span></span>. Назовем их <span class="tex-span"><i>prefix</i></span>, <span class="tex-span"><i>middle</i></span> и <span class="tex-span"><i>suffix</i></span> соответственно, причем <span class="tex-span"><i>prefix</i></span> и <span class="tex-span"><i>suffix</i></span> имеют одинаковую, возможно нулевую, длину, а <span class="tex-span"><i>middle</i></span> — всегда нечётной длины. Из этих трех частей он сделал строку <span class="tex-span"><i>A</i> + <i>prefix</i> + <i>B</i> + <i>middle</i> + <i>C</i> + <i>suffix</i></span>, где <span class="tex-span"><i>A</i></span>, <span class="tex-span"><i>B</i></span> и <span class="tex-span"><i>C</i></span> — некоторые придуманные Цопой строки (возможно нулевой длины), а «<span class="tex-span"> + </span>» означает операцию конкатенации («склеивания» строк).</p><p>Прошло много лет, и буквально вчера Царь Цопа нашел бумажку, где был записан его пароль, зашифрованный описанным выше способом. Сам пароль, а также строки <span class="tex-span"><i>A</i></span>, <span class="tex-span"><i>B</i></span> и <span class="tex-span"><i>C</i></span> давно уже забыты, и поэтому Цопа просит вас найти пароль максимальной длины, который мог бы быть придуман, зашифрован и записан Цопой.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные представляют собой единственную строку из прописных латинских букв длиной от <span class="tex-span">1</span> до <span class="tex-span">10<sup class="upper-index">5</sup></span> символов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первую строку выведите одно целое число <span class="tex-span"><i>k</i></span> — количество <span class="tex-font-style-bf"><span class="tex-font-style-it">непустых частей пароля</span></span> в получившемся у вас ответе (<img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1d3312b9ecb4aaef4f6998ba33bc1bc6dcfac529.png" />). Далее выведите <span class="tex-span"><i>k</i></span> строк по два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> — позицию начала и длину соответствующей части пароля. Пары выводите в порядке возрастания <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>. Числа в паре при выводе разделяйте одним пробелом.</p><p>Позиция начала <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> — целое число от <span class="tex-span">1</span> до длины входной строки. Никакая длина <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> не может быть равна <span class="tex-span">0</span>, так как части пароля нулевой длины выводить не нужно. Среднее из чисел <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> обязательно должно быть нечётным.</p><p>Если решений несколько, выведите любое. Учтите, что ваша задача — максимизировать не <span class="tex-span"><i>k</i></span>, а сумму <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>abacaba<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />1 7<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>axbya<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br />1 1<br />2 1<br />5 1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>xabyczba<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br />2 2<br />4 1<br />7 2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

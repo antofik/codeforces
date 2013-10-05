@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="81h75ahhabbd203b8dd60ad06ff53906"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1qyhnlrk2hq2s"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='81h75ahhabbd203b8dd60ad06ff53906'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #168 (Div. 1)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Множество свободное от k-делимости</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Множество свободное от k-делимости — это множество целых чисел, в котором не существует двух целых чисел, таких, что первое число равно другому, умноженному на <span class="tex-span"><i>k</i></span>. То есть, во множестве не существует двух целых чисел <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> <span class="tex-span">(<i>x</i> &lt; <i>y</i>)</span>, таких, что <span class="tex-span"><i>y</i> = <i>x</i>·<i>k</i></span>.</p><p>Вам дан набор, состоящий из <span class="tex-span"><i>n</i></span> различных положительных целых чисел. Ваша задача — найти размер наибольшего его подмножества свободного от k-делимости.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>, 1 ≤ <i>k</i> ≤ 10<sup class="upper-index">9</sup></span>). Следующая строка содержит список из <span class="tex-span"><i>n</i></span> различных положительных целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup>)</span>.</p><p>Все числа в строках разделяются единичными пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выходных данных выведите размер наибольшего подмножества свободного от k-делимости для <span class="tex-span">{<i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub>}</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 2<br />2 3 6 5 4 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере одно из возможных наибольших подмножеств свободных от 2-делимости: {4, 5, 6}.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Нулевое дерево</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p><span class="tex-font-style-it">Дерево</span> — это граф, состоящий из <span class="tex-span"><i>n</i></span> вершин и ровно <span class="tex-span"><i>n</i> - 1</span> ребер; этот граф должен удовлетворять следующему условию: существует ровно один кратчайший (по количеству ребер) путь между любой парой его вершин.</p><p><span class="tex-font-style-it">Поддерево</span> дерева <span class="tex-span"><i>T</i></span> — это дерево, где как вершины, так и ребра являются подмножествами вершин и ребер <span class="tex-span"><i>T</i></span>.</p><p>Вам дано дерево с <span class="tex-span"><i>n</i></span> вершинами. Вы можете считать, что его вершины пронумерованы целыми числами от 1 до <span class="tex-span"><i>n</i></span>. Дополнительно в каждой вершине дерева записано целое число. Изначально целое число, записанное в <span class="tex-span"><i>i</i></span>-ой вершине, равняется <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span>. За один ход Вы можете применить следующую операцию:</p><p><ol> <li> Выбрать поддерево данного дерева, которое включает вершину с номером 1. </li><li> Увеличить (или уменьшить) на один все целые числа, записанные в вершинах этого поддерева. </li></ol></p><p>Вычислите минимальное количество ходов, необходимое для того, чтобы сделать все целые числа, записанные в вершинах данного дерева, равными нулю.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>). Каждая из следующих <span class="tex-span"><i>n</i> - 1</span> строк содержит два целых числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>; <i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub></span>), обозначающих, что существует ребро между вершинами <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>. Гарантируется, что граф, представленный во входных данных, является деревом. </p><p>Последняя строка входных данных содержит список из <span class="tex-span"><i>n</i></span> целых чисел, записанных через пробел, <span class="tex-span"><i>v</i><sub class="lower-index">1</sub>, <i>v</i><sub class="lower-index">2</sub>, ..., <i>v</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">|<i>v</i><sub class="lower-index"><i>i</i></sub>| ≤ 10<sup class="upper-index">9</sup></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите минимальное количество операций, необходимое для решения задачи.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-битных чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2<br />1 3<br />1 -1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Последняя Дыра!</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Луи есть <span class="tex-span"><i>n</i></span> кругов на плоскости. Центр круга номер <span class="tex-span"><i>i</i></span> находится в точке <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>)</span>. В момент времени ноль круги начинают одновременно расти. Иными словами, радиус каждого круга в момент времени <span class="tex-span"><i>t</i> (<i>t</i> &gt; 0)</span> равняется <span class="tex-span"><i>t</i></span>. Круги изображаются в виде черных дисков на бесконечной белой плоскости. Итак, в каждый момент плоскость состоит из нескольких черных и белых регионов. Заметьте, что круги, разрастаясь, могут накладываться друг на друга.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/d8525e7740caa2e450f93a569c1db8170da5c17b.png" /> </center></p><p>Будем называть <span class="tex-font-style-it">дырой</span> замкнутую, связную белую область. Например, на рисунке изображены две дыры, обозначенные красной границей. Пока круги растут, они могут создать новые дыры и легко видеть, что каждая созданная дыра в конце концов исчезнет. Луи просит Вас найти момент времени, когда исчезает последняя дыра. Другими словами, первый момент времени, после которого никогда не будет ни одной дыры на плоскости.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>). Каждая из следующих <span class="tex-span"><i>n</i></span> строк содержит по два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span"> - 10<sup class="upper-index">4</sup> ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">4</sup></span>), обозначающих расположение <span class="tex-span"><i>i</i></span>-того круга.</p><p>Гарантируется, что никакие два круга не имеют центра в одной и той же точке.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите момент времени, когда исчезает последняя дыра. Если ни в один момент времени не существует ни одной дыры, выведите <span class="tex-font-style-tt">-1</span>.</p><p>Ответ будет считаться правильным, если абсолютная или относительная погрешность не превышают <span class="tex-span">10<sup class="upper-index"> - 4</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />0 0<br />1 1<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />0 0<br />0 2<br />2 2<br />2 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.414214<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />0 1<br />0 -1<br />-2 0<br />4 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2.125000<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Прекрасная матрица</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Ленни была матрица размера <span class="tex-span"><i>n</i> × <i>m</i></span>, состоящая из целых чисел. Он обожал эту матрицу, поскольку числа в каждой строке матрицы были отсортированы в порядке неубывания. Матрицы, которые обладают таким свойством, Ленни называет <span class="tex-font-style-it">прекрасными</span>.</p><p>Однажды, когда Ленни был в школе, его младший брат играл с матрицей Ленни в своей комнате. Он стер некоторые записи в матрице и изменил порядок некоторых ее столбцов. Придя домой, Ленни очень опечалился и теперь хочет восстановить свою матрицу.</p><p>Помогите ему найти порядок столбцов матрицы так, чтобы было возможно заполнить стертые записи и снова получить прекрасную матрицу. Обратите внимание, что стертые записи можно заполнять любыми целыми числами.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит два положительных целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>·<i>m</i> ≤ 10<sup class="upper-index">5</sup></span>). Каждая из следующих <span class="tex-span"><i>n</i></span> строк содержит <span class="tex-span"><i>m</i></span> целых чисел через пробел — матрица Ленни. Число -1 обозначает стертую запись в матрице. Все остальные целые числа (каждое из которых между <span class="tex-span">0</span> и <span class="tex-span">10<sup class="upper-index">9</sup></span>, включительно) представляют заполненные записи.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если не существует возможных способов переупорядочить столбцы, выведите -1. В противном случае, выходные данные должны содержать <span class="tex-span"><i>m</i></span> целых чисел <span class="tex-span"><i>p</i><sub class="lower-index">1</sub>, <i>p</i><sub class="lower-index">2</sub>, ..., <i>p</i><sub class="lower-index"><i>m</i></sub></span>, обозначающих искомую перестановку столбцов. Таким образом, первый столбец прекрасной матрицы будет <span class="tex-span"><i>p</i><sub class="lower-index">1</sub></span>-ым столбцом изначальной матрицы. Второй столбец прекрасной матрицы будет <span class="tex-span"><i>p</i><sub class="lower-index">2</sub></span>-ым столбцом изначальной матрицы и так далее.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 -1 -1<br />1 2 1<br />2 -1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 1 2 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 3<br />1 2 2<br />2 5 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 3 2 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 3<br />1 2 3<br />3 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Зеркальная комната</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Представьте таблицу размера <span class="tex-span"><i>n</i> × <i>m</i></span>, где некоторые ячейки заблокированы. У ячейки в верхнем левом углу координаты — <span class="tex-span">(1, 1)</span>, а у ячейки в правом нижнем углу — <span class="tex-span">(<i>n</i>, <i>m</i>)</span>. Всего в таблице существуют <span class="tex-span"><i>k</i></span> заблокированных ячеек, остальные ячейки — пустые. Вы пускаете луч лазера из центра пустой ячейки <span class="tex-span">(<i>x</i><sub class="lower-index"><i>s</i></sub>, <i>y</i><sub class="lower-index"><i>s</i></sub>)</span> в одном из диагональных направлений (то есть северо-восток, северо-запад, юго-запад или юго-восток). Если луч попадает в заблокированную ячейку или на границу таблицы, то он отражается. Поведение отражения луча в разных ситуациях показано на рисунке ниже.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/faa3580e1dfae5570e0ebbd3363f0f4080b69701.png" /> </center></p><p>Заметим, что через некоторое время луч попадает в бесконечный цикл. Посчитайте количество пустых ячеек, через которые луч проходит хотя бы однажды. Считается, что луч проходит через ячейку, если он проходит через ее центр.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>k</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup>, 0 ≤ <i>k</i> ≤ 10<sup class="upper-index">5</sup>)</span>. Каждая из следующих <span class="tex-span"><i>k</i></span> строк содержит два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 1 ≤ <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ <i>m</i>)</span>, числа обозначают положение <span class="tex-span"><i>i</i></span>-ой заблокированной ячейки.</p><p>Последняя строка содержит два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>s</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>s</i></sub></span> <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>s</i></sub> ≤ <i>n</i>, 1 ≤ <i>y</i><sub class="lower-index"><i>s</i></sub> ≤ <i>m</i>)</span> и направление луча, равное «<span class="tex-font-style-tt">NE</span>», «<span class="tex-font-style-tt">NW</span>», «<span class="tex-font-style-tt">SE</span>» или «<span class="tex-font-style-tt">SW</span>». Эти строки соответствуют направлениям <span class="tex-span">( - 1, 1)</span>, <span class="tex-span">( - 1,  - 1)</span>, <span class="tex-span">(1, 1)</span>, <span class="tex-span">(1,  - 1)</span>.</p><p>Гарантируется, что никакие две блокируемые ячейки не имеют одинаковых координат.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выходных данных выведите количество пустых ячеек, через которые луч проходит хотя бы раз.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3 0<br />1 2 SW<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>7 5 3<br />3 3<br />4 3<br />5 3<br />2 1 SE<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>14<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

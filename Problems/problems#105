@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="9eb018c7f7471h5011999f537hddf3h7"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1a1toy3kgegct"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='9eb018c7f7471h5011999f537hddf3h7'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #81</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Трансмиграция</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Disgaea, как и в большинстве ролевых игр, персонажи имеют навыки, которые определяют способность персонажа владения тем или иным оружием или заклинанием. Если персонаж не имеет нужного навыка, то он не может его использовать. Степень владения навыком измеряется целым числом, которая повышается при использовании данного навыка. Для разных классов персонажей характерны различные навыки.</p><p>К сожалению, навыки, которые не свойственны классу данного персонажа, получить довольно трудно. Для обхода этого ограничения существует так называемая трансмиграция.</p><p>Трансмиграция — это реинкарнация персонажа в новое существо, переселение его души с сохранением части его опыта из прошлой жизни.</p><p>В результате трансмиграции новый персонаж получает все навыки, которые были у старого персонажа, а степень владения ими уменьшается в соответствии с коэффициентом <span class="tex-span"><i>k</i></span> (если степень владения была равна <span class="tex-span"><i>x</i></span>, то после трансмиграции она становится равна <span class="tex-span">[<i>kx</i>]</span>, где <span class="tex-span">[<i>y</i>]</span> — целая часть числа <span class="tex-span"><i>y</i></span>). Если степень владения какими либо навыками теперь <span class="tex-font-style-bf">строго меньше</span> <span class="tex-span">100</span>, то эти навыки забываются (персонаж больше ими не владеет). После этого новый персонаж дополнительно получает все навыки, которые характерны для класса нового персонажа, но которыми персонаж сейчас не владеет. Степень владения этими дополнительными навыками устанавливается в <span class="tex-span">0</span>.</p><p>Таким образом, с помощью трансмиграций можно создать персонажа, обладающего навыками, которые характерны для совершенно различных классов персонажей. Например, можно создать стрелка-мага или воина-вора.</p><p>Вам, в качестве упражнения, предлагается определить, какие навыки получит персонаж после трансмиграции, а также степень владения этими навыками.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находятся три числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>k</i></span> — количество навыков у текущего персонажа, количество навыков, характерных для класса, в который происходит трансмиграция и коэффициент уменьшения соответственно, <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> — целые числа, а <span class="tex-span"><i>k</i></span> — вещественное, заданное с точностью ровно два знака после десятичной точки (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 20</span>, <span class="tex-span">0.01 ≤ <i>k</i> ≤ 0.99</span>).</p><p>Далее идут <span class="tex-span"><i>n</i></span> строк, в каждой из которых описан навык персонажа в формате «<span class="tex-span"><i>name</i></span> <span class="tex-span"><i>exp</i></span>» — название навыка и степень владения им персонажем: <span class="tex-span"><i>name</i></span> — это строка, а <span class="tex-span"><i>exp</i></span> — целое число в диапазоне от <span class="tex-span">0</span> до <span class="tex-span">9999</span> включительно.</p><p>После этого идут <span class="tex-span"><i>m</i></span> строк, в каждой из которых находится названия навыков, характерных для класса, в который идет трансмиграция.</p><p>Все названия навыков состоят из малых латинских букв и имеют длину от <span class="tex-span">1</span> до <span class="tex-span">20</span> символов включительно. Все названия навыков, которыми обладает персонаж, различны. Также различны все названия навыков, характерных для класса, в который идет трансмиграция.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите число <span class="tex-span"><i>z</i></span> — количество навыков, которыми будет владеть персонаж после трансмиграции. Далее выведите <span class="tex-span"><i>z</i></span> строк, в каждой из которых выведите название навыка и степень владения им, разделенные одиночным пробелом. Навыки должны быть приведены в лексикографическом порядке.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 4 0.75<br />axe 350<br />impaler 300<br />ionize 80<br />megafire 120<br />magicboost 220<br />heal<br />megafire<br />shield<br />magicboost<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br />axe 262<br />heal 0<br />impaler 225<br />magicboost 165<br />megafire 0<br />shield 0<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Темная Ассамблея</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Темная Ассамблея — это такой орган управления в Преисподней. Здесь заседают сенаторы, которые принимают самые важные для игрока решения. Например, для расширения ассортимента магазина или для улучшения некоторых характеристик персонажа необходимо одобрение Темной Ассамблеи.</p><p>В Темную Ассамблею входит <span class="tex-span"><i>n</i></span> сенаторов. Каждый из них характеризуется <span class="tex-font-style-it">уровнем</span> и <span class="tex-font-style-it">лояльностью</span> к игроку. Уровень — это некоторое целое положительное число, которое отражает силу сенатора. Лояльность — это вероятность принятия положительного решения при голосовании, которая измеряется в процентах с точностью до <span class="tex-span">10%</span>.</p><p>Сенаторы принимают решения посредством голосования. Каждый из них принимает положительное или отрицательное решение в соответствии со своей лояльностью. Если <span class="tex-font-style-bf">строго больше</span> половины сенаторов принимают положительное решение, то предложение игрока утверждается.</p><p>Если после голосования предложение игрока не утверждается, то игрок может опротестовать решение Темной Ассамблеи. Для этого нужно убить всех сенаторов, что проголосовали против (в убийстве сенаторов нет ничего страшного, они потом воскреснут и будут еще хуже относиться к игроку). Вероятность того, что игроку удастся убить некоторую группу сенаторов, равна <span class="tex-span"><i>A</i> / (<i>A</i> + <i>B</i>)</span>, где <span class="tex-span"><i>A</i></span> — сумма уровней всех персонажей игрока, а <span class="tex-span"><i>B</i></span> — сумма уровней всех сенаторов в этой группе. Если игрок убивает всех неугодных сенаторов, то предложение игрока утверждается.</p><p>Сенаторы очень любят конфеты. Их можно подкупить, раздав им конфеты. За каждую полученную конфету сенатор увеличивает свою лояльность к игроку на <span class="tex-span">10%</span>. Стоит учесть, что выше <span class="tex-span">100%</span> лояльность подняться не может. Игрок может взять с собой в зал заседания не более <span class="tex-span"><i>k</i></span> конфет. Конфеты следует раздать <span class="tex-font-style-bf">до начала</span> голосования.</p><p>Определите вероятность того, что Темная Ассамблея одобрит предложение игрока при оптимальном распределении конфет между сенаторами.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находятся три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>k</i></span> и <span class="tex-span"><i>A</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>k</i> ≤ 8</span>, <span class="tex-span">1 ≤ <i>A</i> ≤ 9999</span>).</p><p>Далее идут <span class="tex-span"><i>n</i></span> строк. <span class="tex-span"><i>i</i></span>-ая из них содержит два числа — <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> — уровень <span class="tex-span"><i>i</i></span>-го сенатора и его лояльность.</p><p>Уровни всех сенаторов — целые числа в диапазоне от <span class="tex-span">1</span> до <span class="tex-span">9999</span> (включительно). Лояльности всех сенаторов — целые числа в диапазоне от <span class="tex-span">0</span> до <span class="tex-span">100</span> (включительно), все они делятся нацело на <span class="tex-span">10</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно вещественное число с точностью <span class="tex-span">10<sup class="upper-index"> - 6</sup></span> — максимальная возможная вероятность того, что Темная Ассамблея одобрит предложение игрока при оптимальном распределении конфет между сенаторами.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 6 100<br />11 80<br />14 90<br />23 70<br />80 30<br />153 70<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.0000000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 3 100<br />11 80<br />14 90<br />23 70<br />80 30<br />153 70<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.9628442962<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1 3 20<br />20 20<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.7500000000<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере выгоднее всего раздать все конфеты первым трем сенаторам — это дает гарантированное большинство голосов.</p><p>Во втором примере выгоднее всего отдать все три конфеты последнему сенатору.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Мир Вещей</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Каждый предмет в игре имеет уровень. Чем выше уровень — тем более высокие базовые параметры имеет вещь. Мы будем рассматривать только следующие базовые параметры: атака (<span class="tex-font-style-tt">atk</span>), защита (<span class="tex-font-style-tt">def</span>) и сопротивления к различным воздействиям (<span class="tex-font-style-tt">res</span>).</p><p>Каждая вещь принадлежит одному из классов. В данной задаче мы будем рассматривать только три таких класса: оружие (<span class="tex-font-style-tt">weapon</span>), броня (<span class="tex-font-style-tt">armor</span>), защитные сферы (<span class="tex-font-style-tt">orb</span>).</p><p>Кроме того, внутри каждого предмета скрыт целый мир. С помощью путешествий в мир данного предмета можно повышать его уровень. Также в Мире Вещей можно захватывать так называемых резидентов.</p><p>Резиденты — это существа, которые живут внутри предметов. Каждый резидент дает некоторый бонус предмету, в котором он на данный момент находится. Мы будем рассматривать только резидентов типов: гладиатор (<span class="tex-font-style-tt">gladiator</span>, увеличивает параметр <span class="tex-font-style-tt">atk</span> предмета), часовой (<span class="tex-font-style-tt">sentry</span>, увеличивает <span class="tex-font-style-tt">def</span>) и целитель (<span class="tex-font-style-tt">physician</span>, увеличивает <span class="tex-font-style-tt">res</span>).</p><p>Каждый предмет имеет параметр вместимости. Он означает максимальное количество резидентов, которые могут жить внутри предмета. Резидентов можно перемещать между предметами. За один момент времени можно взять любого резидента в любом предмете, и переместить его в какой-либо другой предмет, если там есть место для нового жителя. При этом вынимать резидентов из предметов наружу не разрешается — каждый резидент обязательно должен быть в каком-либо предмете в любой момент времени.</p><p>У Лахарла есть некоторое количество предметов. Он хочет перераспределить резидентов между предметами таким образом, чтобы затем выбрать себе оружие, броню и защитную сферу для экипировки. При этом параметр оружия <span class="tex-font-style-tt">atk</span> должен получиться максимально возможным. Из всех экипировок с максимальным параметром оружия <span class="tex-font-style-tt">atk</span> параметр брони <span class="tex-font-style-tt">def</span> должен быть максимальным. Из всех таких экипировок следует выбрать ту, в которой параметр защитной сферы <span class="tex-font-style-tt">res</span> максимален. Значения параметров <span class="tex-font-style-tt">def</span> и <span class="tex-font-style-tt">res</span> у оружия, <span class="tex-font-style-tt">atk</span> и <span class="tex-font-style-tt">res</span> у брони и <span class="tex-font-style-tt">atk</span> и <span class="tex-font-style-tt">def</span> у защитной сферы Лахарлу безразличны.</p><p>Найдите оптимальную экипировку, которую Лахарл может получить.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находится число <span class="tex-span"><i>n</i></span> (<span class="tex-span">3 ≤ <i>n</i> ≤ 100</span>) — количество предметов у Лахарла.</p><p>Далее идут <span class="tex-span"><i>n</i></span> строк, в каждой из которых описывается один предмет. Описание предмета имеет вид: «<span class="tex-span"><i>name</i></span> <span class="tex-span"><i>class</i></span> <span class="tex-span"><i>atk</i></span> <span class="tex-span"><i>def</i></span> <span class="tex-span"><i>res</i></span> <span class="tex-span"><i>size</i></span>» — имя предмета, его класс, базовые параметры атаки, защиты, сопротивления и вместимость соответственно. <ul> <li> <span class="tex-span"><i>name</i></span> и <span class="tex-span"><i>class</i></span> — строки, а <span class="tex-span"><i>atk</i></span>, <span class="tex-span"><i>def</i></span>, <span class="tex-span"><i>res</i></span> и <span class="tex-span"><i>size</i></span> — целые числа. </li><li> <span class="tex-span"><i>name</i></span> состоит из малых латинских букв и имеет длину от <span class="tex-span">1</span> до <span class="tex-span">10</span>. </li><li> <span class="tex-span"><i>class</i></span> может быть &quot;<span class="tex-font-style-tt">weapon</span>&quot;, &quot;<span class="tex-font-style-tt">armor</span>&quot; или &quot;<span class="tex-font-style-tt">orb</span>&quot;. </li><li> <span class="tex-span">0 ≤ <i>atk</i>, <i>def</i>, <i>res</i> ≤ 1000</span>. </li><li> <span class="tex-span">1 ≤ <i>size</i> ≤ 10</span>. </li></ul></p><p>Гарантируется, что среди всех предметов имеется хотя бы один предмет каждого из трех классов.</p><p>В следующей строке находится целое число <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ 1000</span>) — количество резидентов.</p><p>Далее идут <span class="tex-span"><i>k</i></span> строк, в каждой из которых описывается один резидент. Описание резидента имеет вид: «<span class="tex-span"><i>name</i></span> <span class="tex-span"><i>type</i></span> <span class="tex-span"><i>bonus</i></span> <span class="tex-span"><i>home</i></span>» — имя резидента, его тип, количество очков, на которые увеличивает данный резидент соответствующий типу резидента параметр предмета и имя предмета, в котором резидент сейчас находится. <ul> <li> <span class="tex-span"><i>name</i></span>, <span class="tex-span"><i>type</i></span> и <span class="tex-span"><i>home</i></span> — строки, а <span class="tex-span"><i>bonus</i></span> — целое число. </li><li> <span class="tex-span"><i>name</i></span> состоит из малых латинских букв и имеет длину от <span class="tex-span">1</span> до <span class="tex-span">10</span>. </li><li> <span class="tex-span"><i>type</i></span> может быть &quot;<span class="tex-font-style-tt">gladiator</span>&quot;, &quot;<span class="tex-font-style-tt">sentry</span>&quot; или &quot;<span class="tex-font-style-tt">physician</span>&quot;. </li><li> <span class="tex-span">1 ≤ <i>bonus</i> ≤ 100</span>. </li></ul></p><p>Гарантируется, что количество резидентов в каждом предмете не превосходит вместимости предмета.</p><p>Имена всех предметов и резидентов попарно различны.</p><p>Все слова и числа во входных данных разделены одиночными пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите имя оружия в оптимальной экипировке, затем количество резидентов в этом оружии, после чего выведите список имен резидентов.</p><p>Во второй и третьей строке в аналогичном формате выведите имена брони и защитной сферы, а так же имена резидентов, находящихся в них.</p><p>В качестве разделителей используйте одиночные пробелы.</p><p>Если возможных решений несколько — выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />sword weapon 10 2 3 2<br />pagstarmor armor 0 15 3 1<br />iceorb orb 3 2 13 2<br />longbow weapon 9 1 2 1<br />5<br />mike gladiator 5 longbow<br />bobby sentry 6 pagstarmor<br />petr gladiator 7 iceorb<br />teddy physician 6 sword<br />blackjack sentry 8 sword<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>sword 2 petr mike <br />pagstarmor 1 blackjack <br />iceorb 2 teddy bobby <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />sword weapon 10 2 3 2<br />pagstarmor armor 0 15 3 1<br />iceorb orb 3 2 13 2<br />longbow weapon 9 1 2 1<br />6<br />mike gladiator 5 longbow<br />bobby sentry 6 pagstarmor<br />petr gladiator 7 iceorb<br />teddy physician 6 sword<br />blackjack sentry 8 sword<br />joe physician 6 iceorb<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>longbow 1 mike <br />pagstarmor 1 bobby <br />iceorb 2 petr joe <br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Во втором примере свободного места в предметах нет, поэтому перемещать резидентов нельзя.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Занимательная Геодезия</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Карты в игре разбиты на квадратные ячейки, которые называются гео-панелями. Некоторые из этих панелей окрашены. Будем считать, что гео-панели, которые не имеют цвета, покрашены в прозрачный цвет.</p><p>Еще на карте есть так называемые гео-символы. Они имеют вид цветных пирамидок (в том числе существуют гео-символы прозрачного цвета). Каждый гео-символ расположен на одной гео-панели, а на каждой гео-панели может находиться не более одного гео-символа.</p><p>Гео-символы можно уничтожать. Чтобы лучше понять что происходит при уничтожении гео-символов, заведем некую очередь, в которую будем складывать только что уничтоженные гео-символы.</p><p>В самом начале поместим в очередь только что уничтоженный гео-символ. Далее будем повторять следующую операцию:</p><p>Извлечем из начала очереди гео-символ. Посмотрим на цвет панели, на которой находился данный гео-символ. Если он <span class="tex-font-style-bf">отличен от прозрачного</span> и отличен от цвета данного гео-символа, то происходит перекрашивание всех гео-панелей этого цвета в цвет данного гео-символ (в том числе, прозрачные гео-символы перекрашивают гео-панели в прозрачный цвет). Перекрашивание происходит по бесконечной спирали строго в следующем порядке, начиная от панели, на которой стоял гео-символ:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/00faa8a119f84adddad8e7b746b0017b60853202.png" /> </center></p><p>Другими словами, мы выбираем все панели, которые нужно перекрасить и находим их номера в бесконечной спирали, центр которой помещен в позицию данного гео-символа. После этого перекрашиваем их в порядке возрастания номеров.</p><p>Если в момент перекрашивания панели на ней находится еще один гео-символ, то он удаляется с карты и помещается в конец очереди.</p><p>После перекрашивания гео-символ уничтожается окончательно и из начала очереди извлекается следующий гео-символ (если он есть) и процесс повторяется. Процесс заканчивается если очередь оказалась пуста.</p><p>Чтобы лучше понять этот процесс — смотрите разбор примера.</p><p>Вам известны цвета всех гео-панелей и расположение всех гео-символов. Определите количество перекрашиваний, которое случится, если уничтожить один из гео-символов.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находятся два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 300</span>) — высота и ширина карты (в клетках).</p><p>Далее идут <span class="tex-span"><i>n</i></span> строк по <span class="tex-span"><i>m</i></span> чисел в каждой — цвета гео-панелей.</p><p>После этого идут еще <span class="tex-span"><i>n</i></span> строк по <span class="tex-span"><i>m</i></span> чисел в каждой — описание гео-символов. -1 означает, что в данной позиции нет гео-символа, иначе число означает цвет гео-символа в данной позиции.</p><p>Все цвета — целые числа в диапазоне от <span class="tex-span">0</span> до <span class="tex-span">10<sup class="upper-index">9</sup></span>. <span class="tex-span">0</span> обозначает прозрачный цвет.</p><p>В последней строке находятся два целых числа <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> (<span class="tex-span">1 ≤ <i>x</i> ≤ <i>n</i></span>, <span class="tex-span">1 ≤ <i>y</i> ≤ <i>m</i></span>) — номер строки и номер столбца, где находится гео-символ, который уничтожается первым. Строки нумеруются начиная с единицы сверху вниз, столбцы нумеруются начиная с единицы слева направо. Гарантируется, что в позиции с координатами <span class="tex-span">(<i>x</i>, <i>y</i>)</span> находится гео-символ.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — общее количество перекрашиваний после уничтожения гео-символа.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 5<br />9 0 1 1 0<br />0 0 3 2 0<br />1 1 1 3 0<br />1 1 1 3 0<br />0 1 2 0 3<br />-1 1 -1 3 -1<br />-1 -1 -1 0 -1<br />-1 -1 -1 -1 -1<br />-1 2 3 -1 -1<br />-1 -1 -1 -1 2<br />4 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>35</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Все действия, происходящие в примере можно видеть на следующей картинке: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/7c7f7c047d2705882eb2c90aa91dbbf79bad460b.png" /> </center> Если ваш браузер не поддерживает APNG, и вы видите только статичную картинку, то вы можете посмотреть GIF версию этой картинки по следующей ссылке:</p><p>http://212.193.37.254/codeforces/images/geo_slow.gif</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Поднять и бросить</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Имеется числовой луч, разделенный на отрезки единичной длины, которые мы будем называть позициями. Позиции пронумерованы последовательными натуральными числами, начиная с единицы, т. е. <span class="tex-span">1</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span> и так далее. Расстояние между позициями — это модуль разности соответствующих чисел.</p><p>Лахарл, Этна и Флонн находятся на некоторых позициях числового луча и хотят добраться до позиции с как можно большим номером. Изначально они располагаются в различных позициях.</p><p>Каждый из персонажей может выполнить <span class="tex-font-style-bf">не более одного раза</span> каждое из следующих действий:</p><p><ul></ul></p><p><li> Сходить на некоторое расстояние.</li></p><p><li> Взять другого персонажа и поднять его над головой.</li></p><p><li> Бросить поднятого персонажа на некоторое расстояние.</li></p><p>Для каждого персонажа имеется параметр <span class="tex-font-style-it">дальность хода</span>. Можно ходить только в свободные позиции, расстояние до которых не превышает дальности хода.</p><p>Один персонаж может поднять другого, если того другого никто не держит, и расстояние до него равно <span class="tex-span">1</span>. Можно считать, что поднятый персонаж перемещается в ту же позицию, что и персонаж, который его поднял, а позиция, в которой он стоял, становится свободной. Поднятый персонаж не может делать никаких действий, а персонаж, который его держит, не может ходить.</p><p>Также каждый персонаж имеет параметр <span class="tex-font-style-it">дальность броска</span> — расстояние, на которое этот персонаж может бросить поднятого над головой. Бросать можно только в свободные позиции и только тогда, когда имеется поднятый персонаж.</p><p>Допустима ситуация когда один персонаж поднимает другого, а тот уже держит третьего. При этом образуется «столбик» из трех персонажей. Например, Лахарл может держать над головой Этну, при этом Этна держит над головой Флонн. В данном случае Этна и Флонн не могут выполнять никаких действий, а Лахарл может только бросить Этну (вместе с Флонн) на некоторое расстояние.</p><p>Лахарл, Этна и Флонн делают действия в любом порядке. Действия совершаются по очереди, то есть никакие два персонажа не могут выполнять действия одновременно.</p><p>Определите максимальный номер позиции, до которой может добраться хотя бы один из персонажей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке имеются три целых числа — позиция Лахарла, его дальность хода и дальность броска. Во второй и третьей строках в том же формате заданы параметры Этны и Флонн соответственно. Гарантируется, что позиции всех трех персонажей различны. Все числа во входных данных от <span class="tex-span">1</span> до <span class="tex-span">10</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — наибольший номер позиции, до которой могут добраться Лахарл, Этна или Флонн.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>9 3 3<br />4 3 1<br />2 3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>15</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Поясним, как можно достигнуть позиции <span class="tex-span">15</span> в примере.</p><p>Изначально Лахарл находится в позиции <span class="tex-span">9</span>, Этна — в позиции <span class="tex-span">4</span>, а Флонн в позиции <span class="tex-span">2</span>.</p><p>Сначала Лахарл ходит в позицию <span class="tex-span">6</span>.</p><p>Затем Флонн ходит в позицию <span class="tex-span">5</span> и поднимает Этну над головой.</p><p>Лахарл поднимает Флонн и кидает в позицию <span class="tex-span">9</span>.</p><p>Флонн кидает Этну в позицию <span class="tex-span">12</span>.</p><p>Этна ходит в позицию <span class="tex-span">15</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

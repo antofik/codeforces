@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="053h5g49dh9h22ec021fcc71506271a2"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="qfeka690tb6e"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='053h5g49dh9h22ec021fcc71506271a2'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #59 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Кораблекрушение</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Корабль наткнулся на риф и сейчас терпит крушение. Теперь весь экипаж должен быть срочно эвакуирован. Все <span class="tex-span"><i>n</i></span> членов экипажа уже выстроились в один ряд (для удобства пронумеруем их всех слева направо натуральными числами от 1 до <span class="tex-span"><i>n</i></span>) и ждут дальнейших указаний. Однако эвакуировать экипаж полагается не абы как, а в строгом порядке. А именно:</p><p>Сначала корабль покидают те члены экипажа, которые являются крысами. Затем корабль покидают женщины и дети (и те, и другие имеют одинаковый приоритет). После этого с корабля эвакуируются все мужчины. Последним тонущий корабль покидает капитан.</p><p>Если для каких-либо двух членов экипажа нельзя точно установить, кто должен покинуть корабль раньше по правилам из предыдущего абзаца, то раньше корабль покидает тот, который стоит левее в ряду (или, другими словами, тот, у которого номер в ряду меньше).</p><p>Для каждого члена экипажа известно, кем он является, а так же его имя. Все члены экипажа имеют различные имена. Определите порядок эвакуации экипажа.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находится целое число <span class="tex-span"><i>n</i></span> — количество людей в экипаже (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>). Далее идут <span class="tex-span"><i>n</i></span> строчек. В <span class="tex-span"><i>i</i></span>-ой из этих строк находятся два слова — имя <span class="tex-span"><i>i</i></span>-го члена экипажа в ряду и его статус на корабле. Слова разделяются ровно одним пробелом, других пробелов в строке нет. Имена состоят из латинских букв, первая буква заглавная, остальные — прописные. Длина любого имени от 1 до 10 символов. Статус может иметь следующие значения: <span class="tex-font-style-tt">rat</span> — крыса, <span class="tex-font-style-tt">woman</span> — женщина, <span class="tex-font-style-tt">child</span> — ребенок, <span class="tex-font-style-tt">man</span> — мужчина, <span class="tex-font-style-tt">captain</span> — капитан. В экипаже ровно один капитан. </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i></span> строк. <span class="tex-span"><i>i</i></span>-ая из них должна содержать имя члена экипажа, который должен покинуть корабль <span class="tex-span"><i>i</i></span>-ым по счету.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6<br />Jack captain<br />Alice woman<br />Charlie man<br />Teddy rat<br />Bob child<br />Julia woman<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Teddy<br />Alice<br />Bob<br />Julia<br />Charlie<br />Jack<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Тренировки у поселенцев</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В стратегической компьютерной игре «Settlers II» для расширения и охраны своей территории необходимо строить защитные сооружения. Рассмотрим одно из таких сооружений. В текущий момент данное защитное сооружение вмещает в себя ровно <span class="tex-span"><i>n</i></span> солдат. В рамках данной задачи можно считать, что количество солдат в этом защитном сооружении не будет ни увеличиваться, ни уменьшаться.</p><p>Каждый солдат имеет звание — некоторое натуральное число от <span class="tex-span">1</span> до <span class="tex-span"><i>k</i></span>. <span class="tex-span">1</span> — рядовой, <span class="tex-span"><i>k</i></span> — генерал. Чем выше звание у солдата, тем лучше он сражается. Поэтому для игрока выгодно иметь солдат как можно более высокого звания.</p><p>Для повышения званий солдат нужно тренировать. Просто так солдаты тренироваться не будут, и для каждой тренировки нужна одна золотая монета. На каждой тренировке присутствуют все <span class="tex-span"><i>n</i></span> солдат.</p><p>В конце каждой из тренировок звания солдат повышаются следующим образом. Сначала все солдаты разбиваются на группы с одинаковым званием так, чтобы получилось наименьшее возможное количество групп. Затем в каждой из таких групп, где находятся солдаты звания ниже <span class="tex-span"><i>k</i></span>, ровно один из солдат повышает свое звание на единицу.</p><p>Вам известны звания всех <span class="tex-span"><i>n</i></span> солдат на текущий момент. Определите количество золотых монет, нужных для повышения званий всех солдат до звания <span class="tex-span"><i>k</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>k</i> ≤ 100</span>) — количество солдат и количество различных званий соответственно. Во второй строке <span class="tex-font-style-bf">в неубывающем порядке</span> находятся <span class="tex-span"><i>n</i></span> чисел. <span class="tex-span"><i>i</i></span>-е из них — <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — означает звание <span class="tex-span"><i>i</i></span>-го солдата в защитном сооружении (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>, <span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>k</i></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — количество золотых монет, требуемых для повышения званий всех солдат до максимума.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 4<br />1 2 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4</pre></div><div class="input"><div class="title">Входные данные</div><pre>4 3<br />1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере повышение званий солдат будет происходить следующим образом:</p><p><span class="tex-font-style-tt">1 2 2 3</span> <span class="tex-span"> → </span> <span class="tex-font-style-tt">2 2 3 4</span> <span class="tex-span"> → </span> <span class="tex-font-style-tt">2 3 4 4</span> <span class="tex-span"> → </span> <span class="tex-font-style-tt">3 4 4 4</span> <span class="tex-span"> → </span> <span class="tex-font-style-tt">4 4 4 4</span></p><p>Итого 4 тренировки, на которые требуется 4 золотые монеты.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Быки и коровы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В игру «Быки и коровы» играют двое: ведущий и отгадывающий.</p><p>Ведущий загадывает четырехзначное число в десятичной системе счисления, в котором все цифры различны, и может быть ведущий нуль. Оно не может иметь больше одного лидирующего нуля, так как все цифры должны быть различны. Отгадывающий должен отгадать загаданное число. Он делает серию попыток, пробуя числа, на что получает ответы ведущего в формате «<span class="tex-span"><i>x</i></span> быков <span class="tex-span"><i>y</i></span> коров», где <span class="tex-span"><i>x</i></span> — количество цифр пробного числа, стоящих на тех же местах, что и в загаданном числе, а <span class="tex-span"><i>y</i></span> — количество цифр пробного числа, которые присутствуют в в загаданном числе, но стоят на других местах. Разумеется, пробные числа, так же как и загаданное число, являются четырехзначными числами, в которых все цифры различны, и может быть ведущий нуль.</p><p>Например, предположим, что ведущий загадал число <span class="tex-font-style-tt">0123</span>. Тогда на пробное число <span class="tex-font-style-tt">1263</span> отгадывающий получит ответ «1 бык 2 коровы» (3 стоит в обоих числах на одном и том же месте, а 1 и 2 есть и там, и там, но они стоят на разных позициях), а на число <span class="tex-font-style-tt">8103</span> — «2 быка 1 корова» (аналогично — 1 и 3 стоят на тех же местах, а 0 стоит в другом месте).</p><p>Когда отгадывающий получает ответ «4 быка 0 коров», игра заканчивается.</p><p>Сейчас отгадывающий уже сделал некоторое количество попыток и хочет узнать, а не может ли его следующий ход оказаться последним.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10</span>) — количество уже сделанных попыток. Далее идут <span class="tex-span"><i>n</i></span> строк вида «<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span>», где <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — <span class="tex-span"><i>i</i></span>-е пробное число, <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> — количество быков, <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> — количество коров (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>, <span class="tex-span">0 ≤ <i>b</i><sub class="lower-index"><i>i</i></sub>, <i>c</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> + <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ 4</span>). Пробные числа корректны — то есть каждое из них содержит ровно 4 цифры, в каждом из них все цифры различны, и может быть лидирующий нуль. Все пробные числа различны. Так как отгадывающий еще не отгадал числа, ответа «4 быка 0 коров» не встречается.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если входных данных достаточно для определения загаданного числа — в единственной строке выведите это число с четырьмя цифрами. Если в числе меньше четырех цифр, добавьте лидирующий ноль. Если данных недостаточно — выведите «<span class="tex-font-style-tt">Need more data</span>» без кавычек. Если же вдруг окажется, что ведущий где-то ошибся при ответе — выведите «<span class="tex-font-style-tt">Incorrect data</span>» без кавычек.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />1263 1 2<br />8103 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Need more data</pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />1234 2 2<br />1256 0 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2134</pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />0123 1 1<br />4567 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Incorrect data</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Раздел острова</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>На острове Бука произошла революция. На место старого правительства пришло новое. Новое правительство включает в себя <span class="tex-span"><i>n</i></span> партий, каждой из них положена некоторая доля острова в соответствии с их вкладом в становление революции. Вот только разделить остров у них не получается.</p><p>Остров условно можно представить как два прямоугольника размерами <span class="tex-span"><i>a</i> × <i>b</i></span> и <span class="tex-span"><i>c</i> × <i>d</i></span> единичных клеток соответственно, которые располагаются вплотную друг к другу. При этом одна из сторон длины <span class="tex-span"><i>a</i></span> и одна из сторон длины <span class="tex-span"><i>c</i></span> лежат на одной прямой. Более подробно это можно видеть на рисунке.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/9ebbfb0128b63027b1e9c7bb5f968171f77edb51.png" /> </center></p><p><span class="tex-span"><i>i</i></span>-ой партии полагается доля острова в <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> единичных клеток. Каждая такая доля должна целиком покрывать некоторые клетки острова (частично покрывать клетки не допускается) и быть связной фигурой. Связность подразумевает, что из любой клетки партии можно добраться до любой другой клетки этой же партии, передвигаясь через смежные по ребрам клетки, которые также принадлежат данной партии.</p><p>От Вас требуется разделить остров между партиями.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится 5 целых чисел, разделенных пробелом — <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span>, <span class="tex-span"><i>c</i></span>, <span class="tex-span"><i>d</i></span> и <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i> ≤ 50</span>, <span class="tex-span"><i>b</i> ≠ <i>d</i></span>, <span class="tex-span">1 ≤ <i>n</i> ≤ 26</span>). Во второй строке находится <span class="tex-span"><i>n</i></span> чисел, разделенных пробелом. <span class="tex-span"><i>i</i></span>-е из них равно числу <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>a</i> × <i>b</i> + <i>c</i> × <i>d</i></span>). Гарантируется, что <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/35d7a672005b7ad5e3d4935e2cb8334465a0bee4.png" />.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если разделить остров между партиями требуемым образом невозможно — выведите «<span class="tex-font-style-tt">NO</span>» (без кавычек). Иначе выведите «<span class="tex-font-style-tt">YES</span>» (тоже без кавычек), а, начиная со следующей строки, выведите <span class="tex-span"><i>max</i>(<i>b</i>, <i>d</i>)</span> строк, по <span class="tex-span"><i>a</i> + <i>c</i></span> символов в каждой. Для обозначения, какой партии какую клетку острова отнести, используйте маленькие латинские буквы. Для первой по порядку партии из входных данных используйте «<span class="tex-font-style-tt">a</span>», для второй — «<span class="tex-font-style-tt">b</span>» и так далее. Для клеток, принадлежащих морю, используйте «<span class="tex-font-style-tt">.</span>». Первый символ второй строки выходных данных должен соответствовать клетке, принадлежащей прямоугольнику <span class="tex-span"><i>a</i> × <i>b</i></span>, последний символ второй строки — клетке, принадлежащей прямоугольнику <span class="tex-span"><i>c</i> × <i>d</i></span>.</p><p>Если решений несколько, выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 4 2 2 3<br />5 8 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br />aaabb<br />aabbb<br />cbb..<br />ccb..<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2 1 4 4<br />1 2 3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br />abbd<br />cccd<br />...d<br />...d<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Игра с конфетами</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Карлсон опять прилетел в гости к Малышу. Дома у Малыша они нашли коробку конфет и большой торт со взбитыми сливками. Карлсон сразу же предложил Малышу честно поделить найденное. А именно — сыграть с ним в игру с конфетами, которую он придумал только что. Победитель в качестве приза получит торт.</p><p>Коробка конфет имеет форму шестиугольника, внутри нее имеется 19 ячеек для конфет, в некоторых из них находятся конфеты. Игроки ходят по очереди. За ход разрешается съесть одну или несколько конфет, лежащих в соседних ячейках на одной линии, параллельной одной из сторон коробки. На картинке ниже показаны примеры допустимых и недопустимого ходов. Проигрывает игрок, который не может сделать ход.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/e23e60721c06d6d1659fb14f6da335f63e6bfd5e.png" /> </center></p><p>Карлсон ходит первым — ведь это он в гостях у Малыша, а не наоборот. Игроки играют оптимальным образом. Определите, кому достанется торт.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные содержат 5 строк, которые содержат 19 слов, состоящих из одного символа. Слово «<span class="tex-font-style-tt">O</span>» означает, что в данной ячейке находится конфета, «<span class="tex-font-style-tt">.</span>» — что данная ячейка пуста. Гарантируется, что в коробке имеется хотя бы одна конфета. Смотрите примеры для более точного понимания.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если торт достанется Карлсону — выведите «<span class="tex-font-style-tt">Karlsson</span>» (без кавычек), иначе выведите «<span class="tex-font-style-tt">Lillebror</span>» (опять же без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>  . . .<br /> . . O .<br />. . O O .<br /> . . . .<br />  . . .<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Lillebror</pre></div><div class="input"><div class="title">Входные данные</div><pre>  . . .<br /> . . . O<br />. . . O .<br /> O . O .<br />  . O .<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Karlsson</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="6312c60824c6ag0ed5512e11d31fgb77"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="baxihe1lpsf4"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='6312c60824c6ag0ed5512e11d31fgb77'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #123 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Посмотрим футбол</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Валерик и Валерко пропустили последний матч чемпионата Европы по футболу и решили посмотреть основные моменты этого матча в интернете. Им хочется побыстрее начать смотреть, но низкая скорость соединения не позволяет этого сделать. Если сразу включить видео, то оно будет «тормозить» из-за того, что размер данных, необходимых для просмотра одной секунды видео, превышает размер данных, которые можно получить за одну секунду.</p><p>Ребята хотят посмотреть все видео целиком без задержек, поэтому они должны подождать некоторое <span class="tex-font-style-bf">целое</span> количество секунд, пока загрузится часть видео, а потом начинать смотреть. При этом не обязательно чтобы видео загрузилось полностью, оно может продолжать загружаться после включения.</p><p>Предположим видео идет <span class="tex-span"><i>c</i></span> секунд, а Валерик и Валерко подождут перед просмотром <span class="tex-span"><i>t</i></span> секунд. Тогда необходимо, чтобы для любого момента времени <span class="tex-span"><i>t</i><sub class="lower-index">0</sub></span>, <span class="tex-span"><i>t</i> ≤ <i>t</i><sub class="lower-index">0</sub> ≤ <i>c</i> + <i>t</i></span>, выполнялось условие, что количество данных, полученных за <span class="tex-span"><i>t</i><sub class="lower-index">0</sub></span> секунд, не меньше, чем количество данных, необходимых для просмотра <span class="tex-span"><i>t</i><sub class="lower-index">0</sub> - <i>t</i></span> секунд видео.</p><p>Конечно же, ребята хотят ждать как можно меньше, поэтому вам предстоит найти минимальное целое количество секунд, которое необходимо подождать перед включением видео, чтобы можно было посмотреть его без задержек.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны через пробел три целых числа <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> и <span class="tex-span"><i>c</i></span> <span class="tex-span">(1 ≤ <i>a</i>, <i>b</i>, <i>c</i> ≤ 1000, <i>a</i> &gt; <i>b</i>)</span>. Первое число (<span class="tex-span"><i>a</i></span>) обозначает количество данных, необходимое для просмотра одной секунды видео, второе (<span class="tex-span"><i>b</i></span>) — количество данных, которое Валерик и Валерко могут загрузить из интернета за одну секунду, третье (<span class="tex-span"><i>c</i></span>) — длину видео в секундах.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — минимальное целое количество секунд, которое Валерик и Валерко должны подождать, чтобы посмотреть футбол без задержек.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>10 3 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>13 12 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере длина видео 1 секунда, чтобы посмотреть 1 секунду видео необходимо загрузить 4 единицы данных, таким образом всего ребятам нужно загрузить 4 <span class="tex-span">·</span> 1 = 4 единиц данных для просмотра всего видео. Наиболее оптимально будет подождать 3 секунды пока загрузится 3 единицы данных, а затем начать смотреть. Пока ребята будут смотреть видео, за одну секунду загрузится еще одна единица данных и к моменту окончания просмотра Валерик и Валерко будут иметь необходимые 4 единицы. При этом в любой момент времени до окончания видео у ребят будет загружено данных больше, чем нужно для просмотра.</p><p>Во втором примере ребятам нужно загрузить 2 <span class="tex-span">·</span> 10 = 20 единиц данных, поэтому им нужно подождать 5 секунд, и тогда у них загрузятся необходимые 20 единиц еще до окончания второй секунды. Однако если ребята подождут 4 секунды, то они смогут посмотреть первую секунду видео без задержек, но к концу второй секунды у них загрузится всего 18 единиц, что меньше, чем необходимо.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. После тренировки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>После тренировки одной из команд на чемпионате Европы по футболу Валерику поручили собрать мячи и разложить по корзинам. Всего на стадионе имеется <span class="tex-span"><i>n</i></span> мячей и <span class="tex-span"><i>m</i></span> корзин. Корзины расположены в ряд слева направо и пронумерованы, соответственно, числами от <span class="tex-span">1</span> до <span class="tex-span"><i>m</i></span>. Мячи пронумерованы числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>.</p><p>Валерик решил раскладывать мячи в порядке увеличения их номеров по следующей схеме. Каждый новый мяч он будет класть в ту корзину, где меньше всего мячей. При этом если у него есть несколько вариантов, то Валерик выбирает корзину, которая ближе всего к середине. Это означает, что он выбирает ту корзину, для которой <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/f9d0b92b5db1d7995ab93882f3948ffd8b213597.png" /> минимально, где <span class="tex-span"><i>i</i></span> — номер корзины. Если при этом также есть несколько вариантов, тогда он выбирает корзину с минимальным номером.</p><p>Выведите для каждого мяча номер корзины, в которую он отправится в соответствии со схемой Валерика.</p><p>Обратите внимание, что мячи раскладываются по корзинам в порядке увеличения номеров мячей, то есть сначала первый мяч, потом второй мяч и так далее.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел записаны два целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество мячей и корзин, соответственно.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i></span> чисел, по одному на каждой строке. В <span class="tex-span"><i>i</i></span>-ой строке должен содержаться номер корзины, в которую попадет <span class="tex-span"><i>i</i></span>-ый мяч.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />1<br />3<br />2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />1<br />1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Попробуй поймай</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася разрабатывает свой язык программирования VPL (Vasya Programming Language). Сейчас он занят созданием системы исключений. В его представлении система исключений должна функционировать следующим образом.</p><p>Для обработки исключений используются try-catch-блоки. Работа с блоками осуществляется при помощи двух операторов:</p><p><ol></ol></p><p><li> Оператор <span class="tex-font-style-tt">try</span>. Открывает новый try-catch-блок. </li></p><p><li> Оператор <span class="tex-font-style-tt">catch(&lt;тип_исключения&gt;, &lt;сообщение&gt;)</span>. Закрывает еще не закрытый try-catch-блок, который был начат последним. Данный блок может быть активирован только исключением типа &lt;тип_исключения&gt;. При активации этого блока, на экран выводится &lt;сообщение&gt;. Если в данный момент не открыто ни одного try-catch-блока, то оператор catch использовать нельзя.</li></p><p>Исключения могут возникать в программе только в одном случае: при использовании оператора <span class="tex-font-style-tt">throw</span>. Оператор <span class="tex-font-style-tt">throw(&lt;тип_исключения&gt;)</span> создает исключение указанного типа.</p><p>Пусть в результате вызова какого-то оператора <span class="tex-font-style-tt">throw</span> в программе возникло исключение типа <span class="tex-span"><i>a</i></span>. В этом случае активируется try-catch-блок такой, что оператор <span class="tex-font-style-tt">try</span> этого блока описан в программе раньше, чем вызванный оператор <span class="tex-font-style-tt">throw</span>, при этом оператору <span class="tex-font-style-tt">catch</span> этого блока в качестве параметра передан тип исключения <span class="tex-span"><i>a</i></span>, и оператор <span class="tex-font-style-tt">catch</span> этого блока описан позже, чем вызванный оператор <span class="tex-font-style-tt">throw</span>. Если таких try-catch-блоков несколько, активируется тот блок, описание оператора <span class="tex-font-style-tt">catch</span> которого встречается раньше всех. Если ни один try-catch-блок не был активирован, то на экран выводится сообщение «<span class="tex-font-style-tt">Unhandled Exception</span>».</p><p>Для тестирования системы, Вася составил программу, в которой содержатся только операторы <span class="tex-font-style-tt">try</span>, <span class="tex-font-style-tt">catch</span> и <span class="tex-font-style-tt">throw</span>, в одной строке находится не более одного оператора, во всей программе присутствует ровно один оператор <span class="tex-font-style-tt">throw</span>.</p><p>Ваша задача в том, чтобы по программе на VPL определить, какое сообщение будет выведено на экран.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано одно целое число: <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество строк в программе. В следующих <span class="tex-span"><i>n</i></span> строках записана программа на языке VPL. В каждой строке содержится не более одного оператора. Это означает, что во входных данных могут встречаться пустые строки или строки, состоящие только из пробелов.</p><p>В программе присутствуют только операторы <span class="tex-font-style-tt">try</span>, <span class="tex-font-style-tt">catch</span> и <span class="tex-font-style-tt">throw</span>. Гарантируется, что программа корректна. Это означает, что каждый начатый try-catch-блок был закрыт, операторы <span class="tex-font-style-tt">catch</span> не используются, если нет открытого try-catch-блока. В программе присутствует ровно один оператор <span class="tex-font-style-tt">throw</span>. В программе могут присутствовать пробелы в начале строки, в конце строки, перед и после скобок, запятых и кавычек.</p><p>Тип исключения — это непустая строка, состоящая только из прописных и строчных букв латинского алфавита. Длина типа исключения не превосходит 20 символов. Сообщение — это непустая строка, состоящая только из прописных и строчных букв латинского алфавита, цифр и пробелов, заключенная в кавычки. Кавычки выводить не надо. Длина сообщения не превосходит 20 символов. Длина любой строки входного файла не превосходит 50 символов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите сообщение, которое будет написано на экране после выполнения заданной программы.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>8<br />try<br />    try<br />        throw ( AE ) <br />    catch ( BE, &quot;BE in line 3&quot;)<br /><br />    try<br />    catch(AE, &quot;AE in line 5&quot;) <br />catch(AE,&quot;AE somewhere&quot;)<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>AE somewhere<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8<br />try<br />    try<br />        throw ( AE ) <br />    catch ( AE, &quot;AE in line 3&quot;)<br /><br />    try<br />    catch(BE, &quot;BE in line 5&quot;) <br />catch(AE,&quot;AE somewhere&quot;)<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>AE in line 3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8<br />try<br />    try<br />        throw ( CE ) <br />    catch ( BE, &quot;BE in line 3&quot;)<br /><br />    try<br />    catch(AE, &quot;AE in line 5&quot;) <br />catch(AE,&quot;AE somewhere&quot;)<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Unhandled Exception<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере существует 2 try-catch блока, для которых оператор <span class="tex-font-style-tt">try</span> описан раньше оператора <span class="tex-font-style-tt">throw</span>, а оператор <span class="tex-font-style-tt">catch</span> описан позже оператора <span class="tex-font-style-tt">throw</span>: <span class="tex-font-style-tt">try-catch(BE,&quot;BE in line 3&quot;)</span> и <span class="tex-font-style-tt">try-catch(AE,&quot;AE somewhere&quot;)</span>. Тип исключения AE, а значит будет активирован второй блок, так как в операторе <span class="tex-font-style-tt">catch(AE,&quot;AE somewhere&quot;)</span> указан тип исключения AE, а в операторе <span class="tex-font-style-tt">catch(BE,&quot;BE in line 3&quot;)</span> указан тип BE.</p><p>Во втором примере существует 2 try-catch блока, для которых оператор <span class="tex-font-style-tt">try</span> описан раньше оператора <span class="tex-font-style-tt">throw</span>, а оператор <span class="tex-font-style-tt">catch</span> описан позже оператора <span class="tex-font-style-tt">throw</span>: <span class="tex-font-style-tt">try-catch(AE,&quot;AE in line 3&quot;)</span> и <span class="tex-font-style-tt">try-catch(AE,&quot;AE somewhere&quot;)</span>. В данном случае оба блока могут быть активированы исключением типа AE, но будет активирован только блок <span class="tex-font-style-tt">try-catch(AE,&quot;AE in line 3&quot;)</span>, так как оператор <span class="tex-font-style-tt">catch(AE,&quot;AE in line 3&quot;)</span> описан раньше, чем <span class="tex-font-style-tt">catch(AE,&quot;AE somewhere&quot;)</span>.</p><p>В третьем примере не существует блоков, способных обработать исключение типа CE.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Исследование ломаной</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>При просмотре одного из последних матчей чемпионата Европы Валерик и Валерко разбили в спорт-баре кружку. Конечно, они за нее расплатились, но бармен сказал, что разрешит им теперь смотреть футбол у него в баре, только если они помогут его сыну выполнить задание по программированию. Задание состоит в следующем.</p><p>Рассмотрим множество функций вида: <center class="tex-equation"><img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/f9076b969181be2c8c036a0aee8f7fd3959dab5b.png" /></center> Суммой <span class="tex-span"><i>n</i></span> функций <span class="tex-span"><i>y</i><sub class="lower-index">1</sub>(<i>x</i>), ..., <i>y</i><sub class="lower-index"><i>n</i></sub>(<i>x</i>)</span> указанного вида назовем функцию <span class="tex-span"><i>s</i>(<i>x</i>) = <i>y</i><sub class="lower-index">1</sub>(<i>x</i>) + ... + <i>y</i><sub class="lower-index"><i>n</i></sub>(<i>x</i>)</span> для любых <span class="tex-span"><i>x</i></span>. Нетрудно показать, что в этом случае график <span class="tex-span"><i>s</i>(<i>x</i>)</span> является ломаной. Вам задано <span class="tex-span"><i>n</i></span> функций указанного вида, необходимо найти количество углов, не равных 180 градусам, в графике функции <span class="tex-span"><i>s</i>(<i>x</i>)</span>, являющейся суммой заданных функций.</p><p>Валерик и Валерко очень хотят посмотреть следующий матч чемпионата Европы, поэтому обратились к вам за помощью.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество функций. Далее в <span class="tex-span"><i>n</i></span> строках через пробел записано по два целых числа <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">( - 10<sup class="upper-index">9</sup> ≤ <i>k</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup>)</span>, определяющих <span class="tex-span"><i>i</i></span>-ую функцию.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — количество углов, не равных 180 градусам, в графике ломаной, равной сумме заданных функций.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br />1 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />1 0<br />0 2<br />-1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />-2 -4<br />1 7<br />-5 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Построение леса</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p><span class="tex-font-style-it">Ориентированным взвешенным лесом</span> называется взвешенный ациклический орграф, в котором из каждой вершины выходит не более одного ребра.</p><p><span class="tex-font-style-it">Корнем</span> вершины <span class="tex-span"><i>v</i></span> ориентированного взвешенного леса назовем вершину, из которой не выходит ребра, и до которой можно дойти из вершины <span class="tex-span"><i>v</i></span>, двигаясь по ребрам ориентированного взвешенного леса. Обозначим корень вершины <span class="tex-span"><i>v</i></span> как <span class="tex-span"><i>root</i>(<i>v</i>)</span>.</p><p><span class="tex-font-style-it">Глубиной</span> вершины <span class="tex-span"><i>v</i></span> назовем сумму весов пути проходящего от вершины <span class="tex-span"><i>v</i></span> до ее корня. Обозначим глубину вершины <span class="tex-span"><i>v</i></span> как <span class="tex-span"><i>depth</i>(<i>v</i>)</span>.</p><p>Рассмотрим процесс построения ориентированного взвешенного леса. Изначально лес не содержит вершин. Вершины последовательно добавляются по одной. Всего выполняется <span class="tex-span"><i>n</i></span> операций добавления. <span class="tex-span"><i>i</i></span>-я <span class="tex-span">(<i>i</i> &gt; 0)</span> операция добавления описывается набором чисел <span class="tex-span">(<i>k</i>,  <i>v</i><sub class="lower-index">1</sub>,  <i>x</i><sub class="lower-index">1</sub>,  <i>v</i><sub class="lower-index">2</sub>,  <i>x</i><sub class="lower-index">2</sub>,  ... ,  <i>v</i><sub class="lower-index"><i>k</i></sub>,  <i>x</i><sub class="lower-index"><i>k</i></sub>)</span> и означает, что в граф нужно добавить вершину номер <span class="tex-span"><i>i</i></span> и <span class="tex-span"><i>k</i></span> ребер: ребро из вершины <span class="tex-span"><i>root</i>(<i>v</i><sub class="lower-index">1</sub>)</span> в вершину <span class="tex-span"><i>i</i></span> весом <span class="tex-span"><i>depth</i>(<i>v</i><sub class="lower-index">1</sub>) + <i>x</i><sub class="lower-index">1</sub></span>, ребро из вершины <span class="tex-span"><i>root</i>(<i>v</i><sub class="lower-index">2</sub>)</span> в вершину <span class="tex-span"><i>i</i></span> весом <span class="tex-span"><i>depth</i>(<i>v</i><sub class="lower-index">2</sub>) + <i>x</i><sub class="lower-index">2</sub></span> и так далее. В случае, если <span class="tex-span"><i>k</i> = 0</span>, в граф добавляется только вершина <span class="tex-span"><i>i</i></span> и не добавляется никаких ребер.</p><p>Ваша задача состоит в том, чтобы по заданным операциям добавления вершин вычислить остаток от деления суммы весов всех ребер леса, получившихся после применения всех заданных операций, на <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число: <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество операций добавления вершины.</p><p>Следующие <span class="tex-span"><i>n</i></span> строк содержат описание операций, <span class="tex-span"><i>i</i></span>-я из них содержит описание операции добавления <span class="tex-span"><i>i</i></span>-ой вершины в следующем формате: первый числом строки является целое <span class="tex-span"><i>k</i></span> <span class="tex-span">(0 ≤ <i>k</i> ≤ <i>i</i> - 1)</span>, далее следует <span class="tex-span">2<i>k</i></span> целых чисел, разделенных пробелами: <span class="tex-span"><i>v</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">1</sub>, <i>v</i><sub class="lower-index">2</sub>, <i>x</i><sub class="lower-index">2</sub>, ... , <i>v</i><sub class="lower-index"><i>k</i></sub>, <i>x</i><sub class="lower-index"><i>k</i></sub></span> <span class="tex-span">(1 ≤ <i>v</i><sub class="lower-index"><i>j</i></sub> ≤ <i>i</i> - 1, |<i>x</i><sub class="lower-index"><i>j</i></sub>| ≤ 10<sup class="upper-index">9</sup>)</span>. </p><p>Операции заданы в том порядке, в котором их следует применять к графу. Гарантируется, что сумма <span class="tex-span"><i>k</i></span> по всем операциям не превосходит <span class="tex-span">10<sup class="upper-index">5</sup></span>, а также что в результате применения операций добавления вершин не образуется петель и кратных ребер. </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — сумму весов всех ребер получившегося графа по модулю <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6<br />0<br />0<br />1 2 1<br />2 1 5 2 2<br />1 1 2<br />1 3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>30<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />0<br />1 1 5<br />0<br />0<br />2 3 1 4 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Рассмотрим первый пример:</p><p><ol></ol></p><p><li> Добавляется вершина <span class="tex-span">1</span>. Так как <span class="tex-span"><i>k</i> = 0</span>, то ребер не добавляется.</li></p><p><li> Добавляется вершина <span class="tex-span">2</span>. Так как <span class="tex-span"><i>k</i> = 0</span>, то ребер не добавляется.</li></p><p><li> Добавляется вершина <span class="tex-span">3</span>. <span class="tex-span"><i>k</i> = 1</span>. <span class="tex-span"><i>v</i><sub class="lower-index">1</sub> = 2</span>, <span class="tex-span"><i>x</i><sub class="lower-index">1</sub> = 1</span>. Добавляется ребро из вершины <span class="tex-span"><i>root</i>(2) = 2</span> в вершину <span class="tex-span">3</span> веса <span class="tex-span"><i>depth</i>(2) + <i>x</i><sub class="lower-index">1</sub> = 0 + 1 = 1</span>. </li></p><p><li> Добавляется вершина <span class="tex-span">4</span>. <span class="tex-span"><i>k</i> = 2</span>. <span class="tex-span"><i>v</i><sub class="lower-index">1</sub> = 1</span>, <span class="tex-span"><i>x</i><sub class="lower-index">1</sub> = 5</span>. Добавляется ребро из вершины <span class="tex-span"><i>root</i>(1) = 1</span> в вершину <span class="tex-span">4</span> веса <span class="tex-span"><i>depth</i>(1) + <i>x</i><sub class="lower-index">1</sub> = 0 + 5 = 5</span>. <span class="tex-span"><i>v</i><sub class="lower-index">2</sub> = 2</span>, <span class="tex-span"><i>x</i><sub class="lower-index">2</sub> = 2</span>. Добавляется ребро из вершины <span class="tex-span"><i>root</i>(2) = 3</span> в вершину <span class="tex-span">4</span> веса <span class="tex-span"><i>depth</i>(2) + <i>x</i><sub class="lower-index">1</sub> = 1 + 2 = 3</span>.</li></p><p><li> Добавляется вершина <span class="tex-span">5</span>. <span class="tex-span"><i>k</i> = 1</span>. <span class="tex-span"><i>v</i><sub class="lower-index">1</sub> = 1</span>, <span class="tex-span"><i>x</i><sub class="lower-index">1</sub> = 2</span>. Добавляется ребро из вершины <span class="tex-span"><i>root</i>(1) = 4</span> в вершину <span class="tex-span">5</span> веса <span class="tex-span"><i>depth</i>(1) + <i>x</i><sub class="lower-index">1</sub> = 5 + 2 = 7</span>.</li></p><p><li> Добавляется вершина <span class="tex-span">6</span>. <span class="tex-span"><i>k</i> = 1</span>. <span class="tex-span"><i>v</i><sub class="lower-index">1</sub> = 3</span>, <span class="tex-span"><i>x</i><sub class="lower-index">1</sub> = 4</span>. Добавляется ребро из вершины <span class="tex-span"><i>root</i>(3) = 5</span> в вершину <span class="tex-span">6</span> веса <span class="tex-span"><i>depth</i>(3) + <i>x</i><sub class="lower-index">1</sub> = 10 + 4 = 14</span>.</li></p><p>Получившийся граф показан на иллюстрации ниже: <img class="tex-graphics" src="http://codeforces.ru/renderer/70dc89bcada17b30819ea9e880d692e82f45164f.png" /></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

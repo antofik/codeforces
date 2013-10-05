@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="90a1a57aadge7cg60c12bah7ce58d1d9"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="uth0d6lgwxj6"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='90a1a57aadge7cg60c12bah7ce58d1d9'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #120 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Вася и автобусы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды Васе рассказывали историю: «В городе Верхнеберляндске отъезжал от конечной остановки автобус номер 62. В нем было <span class="tex-span"><i>n</i></span> взрослых и <span class="tex-span"><i>m</i></span> детей...»</p><p>Что было дальше, нам, собственно, и не важно. Вася — бухгалтер и любит считать деньги. Поэтому он захотел узнать, какую максимальную и минимальную сумму денег могли заплатить пассажиры этого автобуса за проезд.</p><p>Цена проезда в автобусах Верхнеберляндска — один берляндский рубль. Однако, не все так просто — каждый взрослый пассажир имеет право провезти бесплатно <span class="tex-font-style-bf">не более одного</span> ребенка. Это значит, что взрослый пассажир, который провозит с собой <span class="tex-span"><i>k</i></span> <span class="tex-span">(<i>k</i> &gt; 0)</span> детей, платит всего <span class="tex-span"><i>k</i></span> рублей: за один билет для себя и за <span class="tex-span">(<i>k</i> - 1)</span> билетов для своих детей. Также взрослый может ехать без детей, в этом случае он платит всего один рубль.</p><p>Известно, что в Верхнеберляндске дети не могут проезжать в автобусе без сопровождения взрослых.</p><p>Помогите Васе посчитать минимальную и максимальную сумму в берляндских рублях, которую могли заплатить пассажиры этого автобуса суммарно.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные состоят из одной строки, в которой через пробел заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> <span class="tex-span">(0 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество взрослых и количество детей в автобусе, соответственно.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если в автобусе могли ехать <span class="tex-span"><i>n</i></span> взрослых и <span class="tex-span"><i>m</i></span> детей в единственной строке выведите через пробел два числа — минимальную и максимальную возможную стоимость проезда этих людей, соответственно. </p><p>В противном случае выведите «<span class="tex-font-style-tt">Impossible</span>» (без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 2</pre></div><div class="input"><div class="title">Входные данные</div><pre>0 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Impossible</pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 3</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере один взрослый едет с двумя детьми и платит два рубля.</p><p>Во втором примере в автобусе только дети, чего случиться не могло.</p><p><ul> В третьем примере могло быть два случая: <li> Каждый из двух пассажиров провозил одного ребенка и заплатил по одному рублю. В этом случае суммарная стоимость проезда — два рубля. </li><li> Один из пассажиров вез двоих детей и заплатил два рубля, а другой ехал один и заплатил один рубль. Суммарная стоимость — три рубля. </li></ul></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Окружение</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вот началась, точнее возобновилась, война Берляндии с вечным врагом Флатландией, и бухгалтер Вася был призван отдать долг Родине. </p><p>Пока что дела у берляндцев идут ужасно — оба их города окружены! Строи флатландцев стоят на границах окружностей с центрами в окружаемых городах. В любой момент все точки одного из колец могут начать стремительно двигаться в сторону города — так привыкли флатландцы захватывать города.</p><p>Берляндцы уверены, что смогут отразить атаку врага, если будут знать точное время наступления. Для этого должен быть изготовлен радар, регистрирующий любое движение на расстоянии не больше <span class="tex-span"><i>r</i></span> от себя. Таким образом, если радар будет установлен в такой точке, что хотя бы одна точка вражеского кольца будет в зоне его видимости (то есть, на расстоянии не больше чем <span class="tex-span"><i>r</i></span>), то радар сможет сообщить о начале нападения мгновенно. </p><p>Благодаря новейшим технологиям, радар может быть без проблем помещен в любой требуемой точке. Проблема же заключается в том, что берляндцы успеют изготовить лишь один радар, кроме того, чем больше радиус действия устройства <span class="tex-span">(<i>r</i>)</span>, тем оно дороже.</p><p>Поэтому задание Васи (а, значит, и Ваше) — найти минимальный возможный радиус действия радара. Другими словами, требуется найти минимальный радиус <span class="tex-span"><i>r</i></span> <span class="tex-span">(<i>r</i> ≥ 0)</span> такой, что радар с радиусом <span class="tex-span"><i>r</i></span> можно установить в какой-нибудь точке, в которой он сможет зарегистрировать <span class="tex-font-style-bf">начало движения</span> обоих колец флатландцев. </p><p>В рамках данной задачи города можно считать материальными точками, кольца атакующих войск — окружностями с центрами в городах, а зону видимости радара — кругом (включая границу) с центром в точке, в которой радар стоит.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные состоят из двух строк. Каждая строка представляет собой описание города и кольца флатландцев вокруг него в виде трех целых чисел, записанных через пробел, <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(|<i>x</i><sub class="lower-index"><i>i</i></sub>|, |<i>y</i><sub class="lower-index"><i>i</i></sub>| ≤ 10<sup class="upper-index">4</sup>; 1 ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">4</sup>)</span> — координаты города и расстояние от города до флатландцев, соответственно.</p><p>Гарантируется, что города расположены в разных точках.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное вещественное число — минимальный радиус действия описываемого устройства. Ответ считается правильным, если абсолютная или относительная погрешность не превосходит <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>0 0 1<br />6 0 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.000000000000000</pre></div><div class="input"><div class="title">Входные данные</div><pre>-10 10 3<br />10 -10 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>11.142135623730951</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>На рисунке ниже показан ответ для первого примера. В этом примере выгоднее всего установить радар в точку с координатами <span class="tex-span">(2, 0)</span>. </p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/d7342850e1b66d1f15d6c5f2afa2a71048e0ce19.png" /> </center></p><p>На рисунке ниже показан ответ для второго примера. В этом примере выгоднее всего установить радар в точку с координатами <span class="tex-span">(0, 0)</span>. </p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/14d66c54c1f13d75211a5e13686186c12af4a7bf.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. STL</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>До войны Вася был бухгалтером, он один из немногих, кто умеет пользоваться компьютером, и поэтому программистом назначили именно его.</p><p>Все мы знаем, что в программах часто приходится хранить наборы целых чисел. Например, ребро в задаче про взвешенный ориентированный граф может характеризоваться тремя числами: номер вершины-начала, номер вершины-конца и вес ребра. Вот и Вася столкнулся с такой проблемой, пытаясь представить в своей программе характеристки недавно разработанного робота.</p><p>Вася — не программист, поэтому он спросил у своего друга Гены, как удобнее хранить <span class="tex-span"><i>n</i></span> целых чисел. Раньше Гена писал на языке X-<span class="tex-font-style-it"></span>- и поэтому умеет пользоваться только типами из этого языка. Определим понятие типа в языке X-<span class="tex-font-style-it"></span>-:</p><p><ul> <li> Во-первых, типом является строка «<span class="tex-font-style-tt">int</span>». </li><li> Во-вторых, типом является строка начинающаяся с «<span class="tex-font-style-tt">pair</span>», после которой в треугольных скобках через запятую указаны <span class="tex-font-style-bf">ровно два</span> других типа языка X-<span class="tex-font-style-it"></span>-. В этой записи нет пробелов. </li><li> Никакие другие строки типом не являются. </li></ul></p><p>Более формально: <span class="tex-font-style-tt">type</span> := <span class="tex-font-style-tt">int</span> | <span class="tex-font-style-tt">pair&lt;type,type&gt;</span>. Например, для ребер графа Гена использует тип <span class="tex-font-style-tt">pair&lt;int,pair&lt;int,int&gt;<span class="tex-font-style-it"></span>&gt;</span>.</p><p>Гена с радостью помог Васе, он продиктовал ему тип языка X-<span class="tex-font-style-it"></span>-, который хранит <span class="tex-span"><i>n</i></span> целых чисел. К сожалению, Гена торопился и не произносил знаков препинания. Теперь Гена уже ушел, а Вася все никак не может расставить знаки препинания, чтобы получить тип языка X-<span class="tex-font-style-it"></span>-.</p><p>Помогите Васе, расставьте знаки препинания так, чтобы получился корректный тип языка X-<span class="tex-font-style-it"></span>-, или сообщите, что сделать это невозможно.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество чисел, которое хранит тип продиктованный Геной.</p><p>Во второй строке через пробел записаны слова, сказанные Геной. Каждое из них — «<span class="tex-font-style-tt">pair</span>» или «<span class="tex-font-style-tt">int</span>» (без кавычек).</p><p>Гарантируется, что общее количество слов не превосходит <span class="tex-span">10<sup class="upper-index">5</sup></span> и что среди произнесенных слов будет ровно <span class="tex-span"><i>n</i></span> слов «<span class="tex-font-style-tt">int</span>».</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если можно расставить знаки препинания так, чтобы получился корректный тип языка X-<span class="tex-font-style-it"></span>-, выведите единственную строку обозначающую полученный тип. Иначе выведите «<span class="tex-font-style-tt">Error occurred</span>» (без кавычек). <span class="tex-font-style-bf">Запись типа не должна содержать внутри себя лишних пробелов и других символов</span>. </p><p>Гарантируется, что если такой тип существует, то он единственен.</p><p>Обратите внимание, что нужно вывести тип, произнесенный Геной (если такой существует), а не любой, в котором помещается <span class="tex-span"><i>n</i></span> значений.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />pair pair int int int<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>pair&lt;pair&lt;int,int&gt;,int&gt;</pre></div><div class="input"><div class="title">Входные данные</div><pre>1<br />pair int<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Error occurred</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Несекретный шифр</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Берляндия в ходе войны с Флатландией начинает перехватывать инициативу. Чтобы изгнать противника с родной земли, берляндцам нужно точно знать, сколько еще флатландских солдат осталось в резерве врага. К счастью, утром разведчики взяли «языка», у которого было секретное зашифрованное сообщение с нужной берляндцам информацией. </p><p>У пойманного нашли массив целых положительных чисел. Берляндская разведка уже давно знает шифр флатландцев: чтобы передать сообщение, в котором фигурирует число <span class="tex-span"><i>m</i></span>, враги используют такой массив чисел <span class="tex-span"><i>a</i></span>, что количество его подмассивов, в которых есть хотя бы <span class="tex-span"><i>k</i></span> одинаковых чисел, равно <span class="tex-span"><i>m</i></span>. Число <span class="tex-span"><i>k</i></span> давно известно всей берляндской армии, поэтому генерал Туристов снова попросил ефрейтора Васю выполнить несложное задание: расшифровать сообщение флатландцев. </p><p>Помогите Васе, по заданному массиву чисел <span class="tex-span"><i>a</i></span> и числу <span class="tex-span"><i>k</i></span>, найдите количество подмассивов массива чисел <span class="tex-span"><i>a</i></span>, в которых есть хотя бы <span class="tex-span"><i>k</i></span> одинаковых чисел.</p><p><span class="tex-font-style-it">Подмассивом</span> <span class="tex-span"><i>a</i>[<i>i</i>... <i>j</i>] (1 ≤ <i>i</i> ≤ <i>j</i> ≤ <i>n</i>)</span> массива <span class="tex-span"><i>a</i> = (<i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub>)</span> называется массив, составленный из последовательных его элементов, начиная с <span class="tex-span"><i>i</i></span>-го и заканчивая <span class="tex-span"><i>j</i></span>-м: <span class="tex-span"><i>a</i>[<i>i</i>... <i>j</i>] = (<i>a</i><sub class="lower-index"><i>i</i></sub>, <i>a</i><sub class="lower-index"><i>i</i> + 1</sub>, ..., <i>a</i><sub class="lower-index"><i>j</i></sub>)</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел записаны два целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>k</i></span> <span class="tex-span">(1 ≤ <i>k</i> ≤ <i>n</i> ≤ 4·10<sup class="upper-index">5</sup>)</span> — количество чисел в массиве и требуемое количество одинаковых чисел в подмассивах, соответственно. </p><p>Во второй строке через пробел записаны <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>) — элементы массива.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — количество подмассивов массива <span class="tex-span"><i>a</i></span> таких, что в них есть как минимум <span class="tex-span"><i>k</i></span> одинаковых чисел.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 2<br />1 2 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3</pre></div><div class="input"><div class="title">Входные данные</div><pre>5 3<br />1 2 1 1 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2</pre></div><div class="input"><div class="title">Входные данные</div><pre>3 1<br />1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере существует три подмассива, содержащих хотя бы два одинаковых числа: (1,2,1), (2,1,2) и (1,2,1,2).</p><p>Во втором примере существует два подмассива, содержащих три одинаковых числа: (1,2,1,1,3) и (1,2,1,1).</p><p>В третьем примере любой подмассив содержит хотя бы 1 число. Всего их 6: (1), (1), (1), (1,1), (1,1) и (1,1,1).</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Контрнаступление</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Берляндия смогла отразить удар флатландцев и теперь переходит в наступление.</p><p>Во Флатландии <span class="tex-span"><i>n</i></span> городов, пронумерованных от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, и некоторые пары из них соединены двухсторонними дорогами. Флатландцы (то ли это их военная хитрость, а может, они просто экономят чернила) на своих картах соединяют дорогой те и только те города, между которыми на самом деле нет дороги. Другими словами, если на карте флатландцев два города соединены дорогой, значит на самом деле между ними дороги нет. Обратное тоже верно: если на карте флатландцев два города не соединены дорогой, значит на самом деле дорога между ними есть.</p><p>В руки берляндцев попала флатландская карта. Теперь ефрейтор Вася по заданию генерала Туристова хочет найти все такие группы флатландских городов, что в каждой группе из каждого города можно попасть в каждый, двигаясь по <span class="tex-font-style-bf">настоящим</span> дорогам, при этом города из разных групп недостижимы по <span class="tex-font-style-bf">настоящим</span> дорогам. Действительно, разгромить такие группы по отдельности значительно легче, чем окружать сразу всю Флатландию! </p><p>Помогите ефрейтору выполнить это задание и получить-таки звание сержанта! Не забудьте, что на флатландской карте города, соединены дорогой тогда и только тогда, когда на самом деле между ними нет дороги.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано два целых числа через пробел <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 5·10<sup class="upper-index">5</sup>, 0 ≤ <i>m</i> ≤ 10<sup class="upper-index">6</sup>)</span> — количество городов и количество дорог, обозначенных на флатландской карте, соответственно.</p><p>В следующих <span class="tex-span"><i>m</i></span> строках записаны описания дорог на карте. В <span class="tex-span"><i>i</i></span>-ой строке записано два целых числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, <i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub>)</span> — номера городов, которые соединяет <span class="tex-span"><i>i</i></span>-я дорога на карте флатландцев.</p><p>Гарантируется, что каждая пара городов встречается во входных данных не больше одного раза.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите в первой строке число <span class="tex-span"><i>k</i></span> — количество групп городов во Флатландии таких, что в каждой группе из каждого города можно добраться до каждого по дорогам Флатландии, а города разных групп недостижимы по флатландским дорогам.</p><p>В каждой из следующих <span class="tex-span"><i>k</i></span> строк выведите сначала <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span> — количество вершин в <span class="tex-span"><i>i</i></span>-й группе. Далее через пробел выведите номера городов <span class="tex-span"><i>i</i></span>-й группы.</p><p>Порядок вывода групп и порядок вывода номеров в группах значения не имеет. Сумма <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> по всем <span class="tex-span"><i>k</i></span> группам должна быть равна <span class="tex-span"><i>n</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 4<br />1 2<br />1 3<br />4 2<br />4 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />2 1 4 <br />2 2 3 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />3 1 2 3 <br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере есть только дороги между парами городов 1-4 и 2-3.</p><p>Во втором примере между городами 1 и 2 нет дороги, но все равно можно добраться из одного до другого через город номер 3.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

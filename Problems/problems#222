@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="hc43630g8ag08a9ec3b8fd94gg34hh80"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="19pzu4kv4e33c"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='hc43630g8ag08a9ec3b8fd94gg34hh80'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #137 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Шушанчики и последовательность</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды шушанчики нашли последовательность из <span class="tex-span"><i>n</i></span> целых чисел, записанную на доске. Шушанчики умеют выполнять с ней одну операцию, которая состоит из двух шагов:</p><p><ol> <li> Дописать в конец последовательности число, равное <span class="tex-span"><i>k</i></span>-му от начала числу в текущей последовательности; </li><li> Стереть первое число текущей последовательности. </li></ol></p><p>Шушанчиков очень заинтересовал вопрос: через сколько операций все числа на доске станут одинаковыми, и станут ли они одинаковыми когда-нибудь вообще.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа через пробел <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>).</p><p>Во второй строке записаны <span class="tex-span"><i>n</i></span> целых чисел через пробел: <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>) — найденная последовательность.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите минимальное число операций, требуемых, чтобы все числа на доске стали одинаковыми, или -1, если этого невозможно добиться.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2<br />3 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 1<br />3 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере после первой операции на доске будет записана последовательность <span class="tex-font-style-tt">[1, 1, 1]</span>. Значит одной операции достаточно, чтобы все числа стали одинаковые. Таким образом ответ равен единице.</p><p>Во втором тестовом примере последовательность никогда не будет состоять из одинаковых чисел. В ней всегда будут содержаться как минимум два различных числа 3 и 1. Таким образом ответ равен -1.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Космические таблицы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Ассоциации Свободных Метеоров (АСМ) возникла проблема: поскольку метеоры движутся, во Вселенско-Космическую Описательную Шуточную Программу (ВКОШП) необходимо добавить специальный модуль, обрабатывающий это движение. </p><p>ВКОШП хранит некоторую секретную информацию о метеорах в виде таблицы <span class="tex-span"><i>n</i> × <i>m</i></span>, в ячейках которой находятся целые числа. В связи со сменой порядка метеоров во Вселенной в главный модуль ВКОШП поступают следующие запросы:</p><p><ul> <li> Запрос на обмен местами двух строк таблицы; </li><li> Запрос на обмен местами двух столбцов таблицы; </li><li> Запрос на получение секретного числа в определенной клетке таблицы. </li></ul></p><p>Поскольку главный модуль ВКОШП является критичным, то написание функционала работы с таблицей решили поручить вам.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел записаны три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 1000</span>, <span class="tex-span">1 ≤ <i>k</i> ≤ 500000</span>) — количество строк, столбцов таблицы и количество запросов соответственно.</p><p>В следующих <span class="tex-span"><i>n</i></span> строках записаны по <span class="tex-span"><i>m</i></span> чисел через пробел — изначальное состояние таблицы. Каждое число <span class="tex-span"><i>p</i></span> в таблице целое и удовлетворяет неравенству <span class="tex-span">0 ≤ <i>p</i> ≤ 10<sup class="upper-index">6</sup></span>.</p><p>В следующих <span class="tex-span"><i>k</i></span> строках записаны запросы в формате «<span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>», где <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> — один из символов «<span class="tex-font-style-tt">с</span>», «<span class="tex-font-style-tt">r</span>» или «<span class="tex-font-style-tt">g</span>», а <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> — два целых числа.</p><p><ul> <li> Если <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> = «<span class="tex-font-style-tt">c</span>», то текущий запрос — запрос на обмен столбцов с номерами <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> местами (<span class="tex-span">1 ≤ <i>x</i>, <i>y</i> ≤ <i>m</i>, <i>x</i> ≠ <i>y</i></span>); </li><li> Если <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> = «<span class="tex-font-style-tt">r</span>», то текущий запрос — запрос на обмен строк с номерами <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> местами (<span class="tex-span">1 ≤ <i>x</i>, <i>y</i> ≤ <i>n</i>, <i>x</i> ≠ <i>y</i></span>); </li><li> Если <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> = «<span class="tex-font-style-tt">g</span>», то текущий запрос — запрос на получение числа, стоящего в <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>-ой строке в <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>-ом столбце (<span class="tex-span">1 ≤ <i>x</i> ≤ <i>n</i>, 1 ≤ <i>y</i> ≤ <i>m</i></span>). </li></ul></p><p>Считайте, что строки таблицы нумеруются сверху вниз от 1 до <span class="tex-span"><i>n</i></span>, а столбцы слева направо от 1 до <span class="tex-span"><i>m</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого запроса на получение числа (<span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> = «<span class="tex-font-style-tt">g</span>») выведите требуемое число. Ответы на запросы выводите в том порядке, в котором запросы заданы во входных данных.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3 5<br />1 2 3<br />4 5 6<br />7 8 9<br />g 3 2<br />r 3 2<br />c 2 3<br />g 2 2<br />g 3 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>8<br />9<br />6<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 3 3<br />1 2 4<br />3 1 5<br />c 2 1<br />r 1 2<br />g 1 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Давайте посмотрим, как изменяется таблица во втором тестовом примере.</p><p>После выполнения первой операции таблица примет следующий вид:</p><p>2 1 4</p><p>1 3 5</p><p>После выполнения второй операции она примет такой вид:</p><p>1 3 5</p><p>2 1 4</p><p>На третий запрос (какое число стоит в первом ряду в третьем столбце) ответом будет 5.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Сокращение дробей</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Для запутывания противников Галактическая Империя использует особый формат представления дробей. Дроби представлены как два набора целых чисел. Произведение чисел из первого набора дает числитель дроби, из второго — знаменатель дроби. Однако, обнаружилось, что программы для работы с дробями в таком представлении неполны, в них отсутствует поддержка операции сокращения дробей. Реализуйте эту операцию, и Империя не забудет вас.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входного файла через пробел записаны два целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество чисел в первом наборе (числитель) и во втором наборе (знаменатель) соответственно.</p><p>Во второй строке записаны <span class="tex-span"><i>n</i></span> целых чисел через пробел: <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">7</sup></span>) — числа, произведение которых дает числитель.</p><p>В третьей строке записаны <span class="tex-span"><i>m</i></span> целых чисел через пробел: <span class="tex-span"><i>b</i><sub class="lower-index">1</sub>, <i>b</i><sub class="lower-index">2</sub>, ..., <i>b</i><sub class="lower-index"><i>m</i></sub></span> (<span class="tex-span">1 ≤ <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">7</sup></span>) — числа, произведение которых дает знаменатель.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите ответ на задачу в формате аналогичном формату входных данных. Количества чисел в выводимых наборах <span class="tex-span"><i>n</i><sub class="lower-index"><i>out</i></sub>, <i>m</i><sub class="lower-index"><i>out</i></sub></span> должны удовлетворять неравенству <span class="tex-span">1 ≤ <i>n</i><sub class="lower-index"><i>out</i></sub>, <i>m</i><sub class="lower-index"><i>out</i></sub> ≤ 10<sup class="upper-index">5</sup></span>, а сами числа в наборах <span class="tex-span"><i>a</i><sub class="lower-index"><i>out</i>, <i>i</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>out</i>, <i>i</i></sub></span> — неравенству <span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>out</i>, <i>i</i></sub>, <i>b</i><sub class="lower-index"><i>out</i>, <i>i</i></sub> ≤ 10<sup class="upper-index">7</sup></span>. </p><p>Числа в строках разделяйте пробельными символами. Выведенная дробь должна быть сокращена, то есть не должно существовать такого целого <span class="tex-span"><i>x</i></span> (<span class="tex-span"><i>x</i> &gt; 1</span>), что числитель и знаменатель выведенной дроби делятся на <span class="tex-span"><i>x</i></span>. Если подходящих ответов несколько — выведите любой. </p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2<br />100 5 2<br />50 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 3<br />2 1<br />1 1 1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 3<br />2 5 10 20<br />100 1 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 1<br />20<br />3<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере числитель равен 1000, знаменатель — 500. Если сократить дробь 1000/500 на наибольший общий делитель числителя и знаменателя (на 500), получается дробь 2/1.</p><p>Во втором тестовом примере числитель равен 2000, знаменатель — 300. Если сократить дробь 2000/300 на наибольший общий делитель числителя и знаменателя (на 100), получается дробь 20/3.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Олимпиада</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Мальчик Вася участвовал в олимпиаде. Учитель мальчика знает, что Вася получил за оба тура олимпиады в сумме не меньше, чем <span class="tex-span"><i>x</i></span> баллов. У учителя есть результаты первого тура и результаты второго тура олимпиады, но вот беда — в результатах указаны лишь баллы, без фамилий. Учителю необходимо знать, на что Вася может рассчитывать. </p><p>Помогите учителю Васи, найдите два числа — наилучшее и наихудшее место, которое мог занять Вася. Учтите, что в итоговой таблице участники сортируются по сумме баллов за оба тура (у участника на первом месте больше всего баллов). Если два (или более) участника получили одинаковое количество баллов, жюри может им назначить места по своему усмотрению. Гарантируется, что каждый участник олимпиады участвовал в обоих турах олимпиады.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны через пробел два целых числа <span class="tex-span"><i>n</i>, <i>x</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>; 0 ≤ <i>x</i> ≤ 2·10<sup class="upper-index">5</sup></span>) — количество участников олимпиады и минимальное количество набранных Васей баллов.</p><p>Во второй строке записаны <span class="tex-span"><i>n</i></span> целых чисел через пробел: <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>) — баллы участников в первом туре.</p><p>В третьей строке записаны <span class="tex-span"><i>n</i></span> целых чисел через пробел: <span class="tex-span"><i>b</i><sub class="lower-index">1</sub>, <i>b</i><sub class="lower-index">2</sub>, ..., <i>b</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>) — баллы участников во втором туре.</p><p>Баллы участников заданы в произвольном порядке. Гарантируется, что Вася присутствовал на олимпиаде — существуют два целых числа <span class="tex-span"><i>i</i>, <i>j</i></span> <span class="tex-span">(1 ≤ <i>i</i>, <i>j</i> ≤ <i>n</i>)</span> такие, что <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> + <i>b</i><sub class="lower-index"><i>j</i></sub> ≥ <i>x</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите через пробел два целых числа — наилучшее и наихудшее место из тех, что мог занять Вася на олимпиаде.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 2<br />1 1 1 1 1<br />1 1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 7<br />4 3 5 6 4 4<br />8 6 0 4 3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 5<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере в любом случае все 5 участников набирают по 2 балла. В зависимости от решения жюри, Васе могут присудить как первое (наилучшее) место, так и последнее (наихудшее), пятое.</p><p>Во втором тестовом примере в лучшем для Васи случае он снова выигрывает: он может набрать 12 баллов и стать абсолютным победителем, если итоговая таблица будет выглядеть так — {4:8, 6:4, 3:6, 4:4, 4:3, 5:0}.</p><p>В этой таблице все участники расположены по убыванию количества баллов, и для участника показано, сколько баллов он набрал в первом и во втором туре.</p><p>В худшем случае, он может занять пятое место, если таблица выглядит так — {4:8, 4:6, 6:4, 5:4, 4:3, 3:0}, а он набрал в первом и втором турах 4 и 3 балла соответственно.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Расшифровка генома</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Недавно был осуществлен совершенно секретный полет на Марс, в результате которого удалось получить некоторые сведения относительно марсианской ДНК. Стало известно, что любая марсианская цепочка ДНК содержит не более <span class="tex-span"><i>m</i></span> различных нуклеотидов, пронумерованных от <span class="tex-span">1</span> до <span class="tex-span"><i>m</i></span>. Из-за особенностей марсианской ДНК некоторые пары нуклеотидов не могут идти подряд в этой цепочке. Например, если нуклеотид номер 1 и нуклеотид номер 2 не могут встречаться подряд в марсианской ДНК, значит цепочка нуклеотидов [1, 2] не является корректной цепочкой марсианской ДНК, при этом цепочка нуклеотидов [2, 1] может быть корректной (если нет соответствующего ограничения). Количество пар нуклеотидов, которые не могут содержаться в цепочке ДНК подряд, равно <span class="tex-span"><i>k</i></span>. </p><p>Для нужд генных исследований понадобилась информация о количестве корректных цепочек марсианской ДНК длины <span class="tex-span"><i>n</i></span>. Вам поручено написать программу, которая вычислит это значение.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны три целых числа через пробел <span class="tex-span"><i>n</i>, <i>m</i>, <i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">15</sup></span>, <span class="tex-span">1 ≤ <i>m</i> ≤ 52</span>, <span class="tex-span">0 ≤ <i>k</i> ≤ <i>m</i><sup class="upper-index">2</sup></span>).</p><p>В следующих <span class="tex-span"><i>k</i></span> строках записаны по два символа, без пробела между ними, обозначающие запрещенную пару нуклеотидов. Первый символ обозначает первый нуклеотид в запрещенной паре, второй символ — второй нуклеотид.</p><p>Нуклеотиды, которым присвоены номера от 1 до 26 обозначаются буквами латинского алфавита от «<span class="tex-font-style-tt">a</span>» до «<span class="tex-font-style-tt">z</span>» (1 — «<span class="tex-font-style-tt">a</span>», 2 — «<span class="tex-font-style-tt">b</span>», <span class="tex-span">...</span>, 26 — «<span class="tex-font-style-tt">z</span>»). Нуклеотиды, которым присвоены номера от 27 до 52 обозначаются буквами латинского алфавита от «<span class="tex-font-style-tt">A</span>» до «<span class="tex-font-style-tt">Z</span>» (27 — «<span class="tex-font-style-tt">A</span>», 28 — «<span class="tex-font-style-tt">B</span>», <span class="tex-span">...</span>, 52 — «<span class="tex-font-style-tt">Z</span>»).</p><p>Гарантируется, что каждая запрещенная пара задана во входных данных не более одного раза. Гарантируется, что номера нуклеотидов в запрещенных парах не превосходят <span class="tex-span"><i>m</i></span>. Обратите внимание, что в парах нуклеотидов важен порядок.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — остаток от деления искомого количества на <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3 2<br />ab<br />ba<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>17<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>27<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 1 1<br />aa<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Во втором тестовом примере допустимы все возможные ДНК из трех нуклеотидов. Каждый нуклеотид может принимать одно из трех значений, поэтому всего существует 27 различных ДНК из трех нуклеотидов.</p><p>В третьем тестовом примере нельзя сделать ни одного ДНК из двух нуклеотидов — единственный возможный нуклеотид «<span class="tex-font-style-tt">a</span>» не может встречаться два раза подряд.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

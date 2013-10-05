@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="fgb3gdg8gch9fbe02eb8h6487c7b6ggh"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1v95kkvk5h7ne"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='fgb3gdg8gch9fbe02eb8h6487c7b6ggh'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #80 (Div. 2 Only)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Блэкджек</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Дождливым пасмурным вечером, когда все модули попрятались по ближайшим кафетериям, попивая горячие энергококтейли, вирус Хексадесимал решила пролететь над Мэйнфреймом в поисках Гениальной Идеи. И Гениальная Идея нашлась!</p><p>Почему бы не создать свой Codeforces, с блэкджеком и другими развлекательными мероприятиями? Наверняка найдется много желающих посетить это прекрасное высококультурное заведение.</p><p>В Мэйнфрейме в блэкджек играют стандартной колодой из <span class="tex-span">52</span>-х карт, содержащей <span class="tex-span">13</span> значений — <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">4</span>, <span class="tex-span">5</span>, <span class="tex-span">6</span>, <span class="tex-span">7</span>, <span class="tex-span">8</span>, <span class="tex-span">9</span>, <span class="tex-span">10</span>, валеты, дамы, короли, тузы — каждой из четырех мастей — черви, бубны, трефы и пики. Значения очков каждой карты: от двойки до десятки — соответственно от <span class="tex-span">2</span> до <span class="tex-span">10</span>, у туза — <span class="tex-span">1</span> или <span class="tex-span">11</span> по желанию игрока, у картинок (король, дама, валет) — <span class="tex-span">10</span>. Значение очков карты не зависит от масти. Правила игры предельно просты. Игрок получает две карты, если сумма очков этих карт равна <span class="tex-span"><i>n</i></span>, то игрок победил, иначе — проиграл. </p><p>Игрок уже получил первую карту — это дама пик. Чтобы оценить шансы на победу, нужно определить, сколько существует способов получить вторую карту так, чтобы сумма очков была равна именно <span class="tex-span"><i>n</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке дано <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 25</span>) — требуемая сумма очков.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите, сколько способов существует получить вторую карту требуемым образом, если первая карта — дама пик.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>12<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4</pre></div><div class="input"><div class="title">Входные данные</div><pre>20<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>15</pre></div><div class="input"><div class="title">Входные данные</div><pre>10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере для получения требуемой суммы подходят только четыре двойки разных мастей.</p><p>Во втором примере подходят все десятки, валеты, дамы и короли — всего <span class="tex-span">15</span> карт, поскольку дама пик (равно как и любая другая карта) существует в колоде в единственном экземпляре, и она уже используется.</p><p>В третьем примере не существует карт, добавляющих ноль очков к текущим десяти.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Проверка штанов на унылость</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><div><div class="epigraph-text"><span class="tex-font-style-it">Реквестирую набор задач про штаны шахтера.</span></div><div class="epigraph-source">freopen</div></div><p>Обычный среднестатистический шахтер Ваганыч проходит курсы повышения квалификации. По завершении этих курсов все шахтеры должны сдать экзамены, самый сложный из которых — компьютерный тест «Проверка штанов на унылость». </p><p>Тест состоит из <span class="tex-span"><i>n</i></span> вопросов, отвечать на них необходимо строго по порядку: с <span class="tex-span">1</span>-го до <span class="tex-span"><i>n</i></span>-го. В <span class="tex-span"><i>i</i></span>-ом вопросе <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> вариантов ответа, ровно один из которых является верным. </p><p>Кликом считается выбор любого ответа в любом вопросе. Задача Ваганыча — выбрать верный ответ на каждый вопрос. Если на какой-то вопрос дан неверный ответ, то все выбранные ответы сбрасываются, и тест начинается с самого начала, с первого вопроса. Но при этом шахтер запоминает все свои действия. Порядок ответов, сами ответы в пределах одного вопроса и порядок самих вопросов не меняются.</p><p>Ваганыч очень умен и обладает отличной памятью, но он крайне невезуч и совершенно ничего не знает по теме теста. Сколько кликов ему придется сделать в худшем случае?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>) — количество вопросов в тесте. Во второй строке записаны через пробел <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>) — количество вариантов ответа на <span class="tex-span"><i>i</i></span>-ый вопрос.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — минимальное количество кликов, требуемое для прохождения теста в худшем случае.</p><p>Пожалуйста, не используйте спецификатор %lld для чтения или записи 64-битных чисел на С++. Рекомендуется использовать потоки cin, cout или спецификатор %I64d.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2</pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5</pre></div><div class="input"><div class="title">Входные данные</div><pre>1<br />10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>10</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Пояснение ко второму примеру. В худшем случае потребуется пять кликов: <ul> <li> первым кликом выбираем первый вариант ответа на первый вопрос, он оказывается неправильным; </li><li> вторым кликом выбираем второй вариант ответа на первый вопрос, он оказывается правильным, переходим ко второму вопросу; </li><li> третьим кликом выбираем первый вариант ответа на второй вопрос, он оказывается неправильным, возвращаемся к первому вопросу; </li><li> четвертым кликом выбираем второй вариант ответа на первый вопрос, он оказывается правильным, как и прежде, переходим ко второму вопросу; </li><li> пятым кликом выбираем второй вариант ответа на второй вопрос, он оказывается правильным, тест окончен. </li></ul></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Ктулху</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>...И пошел старик к синему морю; видит, на море черная буря. Стал он кликать золотую рыбку, но, увы, появился лишь Ктулху...</p><p>А на другом конце земного шара Пентагон уже вовсю собирает данные, прогнозирует поведение монстра и готовит сверхсекретное супероружие. Из-за высокой сейсмической активности и плохих погодных условий до сих пор не удалось сделать качественные фотоснимки со спутников. Результатом первичного анализа объекта оказался неориентированный граф c <span class="tex-span"><i>n</i></span> вершинами и <span class="tex-span"><i>m</i></span> ребрами. Теперь лучшим умам мира предстоит определить, можно ли считать этот граф Ктулху или нет.</p><p>Для простоты предположим, что Ктулху из космоса выглядит как некоторое сферическое тело, к которому прикреплены отростки-щупальца. Формально, Ктулху назовем такой неориентированный граф, который может быть представлен как набор из трех или более корневых деревьев, корни которых соединены простым циклом.</p><p>Гарантируется, что граф не содержит кратных ребер и петель.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/08e583bc1738656048cc5c96f758dec844c18eef.png" /> </center></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке даны два целых числа — количество вершин <span class="tex-span"><i>n</i></span> и количество ребер <span class="tex-span"><i>m</i></span> графа (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>, <span class="tex-span">0 ≤ <i>m</i> ≤ </span><img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/b6fbba87a6e66854e5728f67cc384b75c4bcf131.png" />).</p><p>В каждой из последующих <span class="tex-span"><i>m</i></span> строк записаны пары целых чисел <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span>, которые обозначают существование ребра между вершинами <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> в графе (<span class="tex-span">1 ≤ <i>x</i>, <i>y</i> ≤ <i>n</i>, <i>x</i> ≠ <i>y</i></span>). Гарантируется, что граф не содержит кратных ребер и петель.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">NO</span>», если граф не является Ктулху, и «<span class="tex-font-style-tt">FHTAGN!</span>» в противном случае.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 6<br />6 3<br />6 4<br />5 1<br />2 5<br />1 4<br />5 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>FHTAGN!</pre></div><div class="input"><div class="title">Входные данные</div><pre>6 5<br />5 6<br />4 6<br />3 1<br />5 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Простым циклом назовем множество из <span class="tex-span"><i>v</i></span> вершин, которые можно пронумеровать так, что будут существовать ребра только между вершинами с номерами <span class="tex-span">1</span> и <span class="tex-span">2</span>, <span class="tex-span">2</span> и <span class="tex-span">3</span>, ..., <span class="tex-span"><i>v</i> - 1</span> и <span class="tex-span"><i>v</i></span>, <span class="tex-span"><i>v</i></span> и <span class="tex-span">1</span>.</p><p>Дерево — связный неориентированный граф из <span class="tex-span"><i>n</i></span> вершин и <span class="tex-span"><i>n</i> - 1</span> ребер (<span class="tex-span"><i>n</i> &gt; 0</span>).</p><p>Корневое дерево — дерево, в котором выделена одна вершина, корень.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Русская рулетка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>После всем известных событий в Орландо, Саша и Рома решили определить между собой, кто же всё-таки является самым слабым звеном в команде. Спасибо Маше, которая где-то нашла револьвер с крутящимся барабаном на <span class="tex-span"><i>n</i></span> зарядов и <span class="tex-span"><i>k</i></span> патронов к нему, теперь у ребят появился отличный способ разобраться раз и навсегда.</p><p>Саша выбирает <span class="tex-span"><i>k</i></span> из <span class="tex-span"><i>n</i></span> слотов по своему желанию и кладёт в них патроны. Рома раскручивает барабан так, что любой из <span class="tex-span"><i>n</i></span> циклических сдвигов положения барабана равновероятен. Потом начинается игра, играют поочередно, первым делает ход Саша: он приставляет револьвер к виску и делает выстрел. Если напротив курка не было патрона, то барабан сдвигается на одну позицию, а оружие передается Роме для такого же хода. Игра продолжается до тех пор, пока кто-нибудь не застрелится, выживший считается победителем.</p><p>Саша очень не хочет проигрывать, поэтому он должен выбрать слоты для патронов таким образом, чтобы минимизировать вероятность собственного поражения. Из всех существующих вариантов он готов выбрать только лексикографически минимальный, при этом пустой слот считается лексикографически меньше заряженного. </p><p>Более формально барабан на <span class="tex-span"><i>n</i></span> зарядов, заряженный <span class="tex-span"><i>k</i></span> патронами, можно представить в виде строки из <span class="tex-span"><i>n</i></span> символов, ровно <span class="tex-span"><i>k</i></span> из которых — «<span class="tex-font-style-tt">X</span>» (заряженные слоты), а остальные — «<span class="tex-font-style-tt">.</span>» (незаряженные слоты). </p><p>Опишем подробнее выстрел из револьвера. Предположим, что курок расположен напротив первого символа строки (первого слота барабана). Если выстрел никого не убивает, и барабан сдвигается на одну позицию, то строка сдвигается влево. То есть первый символ становится последним, второй — первым, и так далее. Курок при этом остается на месте — напротив первого символа получившейся строки. </p><p>Среди всех строк, обеспечивающих минимальную вероятность проигрыша, Саша выбирает лексикографически наименьшую. Ваша задача — помочь Саше зарядить револьвер. Для этого на каждый запрос <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> нужно ответить: есть ли пуля на позиции <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>k</i></span> и <span class="tex-span"><i>p</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">18</sup>, 0 ≤ <i>k</i> ≤ <i>n</i>, 1 ≤ <i>p</i> ≤ 1000</span>) — количество слотов в барабане, количество патронов и количество запросов. Далее следует <span class="tex-span"><i>p</i></span> строк — запросы. Каждая строка содержит одно целое число <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>) — номер слота, содержимое которого необходимо вывести.</p><p>Пожалуйста, не используйте спецификатор %lld для чтения или записи 64-битных чисел на С++. Рекомендуется использовать потоки cin, cout или спецификатор %I64d.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>На каждый из запросов выведите «<span class="tex-font-style-tt">.</span>», если слот должен быть пустым и «<span class="tex-font-style-tt">X</span>», если слот должен быть заряжен.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 1 3<br />1<br />2<br />3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>..X</pre></div><div class="input"><div class="title">Входные данные</div><pre>6 3 6<br />1<br />2<br />3<br />4<br />5<br />6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>.X.X.X</pre></div><div class="input"><div class="title">Входные данные</div><pre>5 2 5<br />1<br />2<br />3<br />4<br />5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>...XX</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Лексикографическое сравнение реализует оператор &lt; в современных языках программирования. Строка <span class="tex-span"><i>a</i></span> лексикографически меньше строки <span class="tex-span"><i>b</i></span>, если существует такое <span class="tex-span"><i>i</i></span> (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>), что <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> &lt; <i>b</i><sub class="lower-index"><i>i</i></sub></span>, а для любого <span class="tex-span"><i>j</i></span> (<span class="tex-span">1 ≤ <i>j</i> &lt; <i>i</i></span>) <span class="tex-span"><i>a</i><sub class="lower-index"><i>j</i></sub> = <i>b</i><sub class="lower-index"><i>j</i></sub></span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Время грабить корованы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>70 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><div><div class="epigraph-text"><span class="tex-font-style-it">Я джва года хочу такую задачу.</span></div><div class="epigraph-source">Alex_KPR</div></div><p>Как известно, самые умные существа на планете Земля — это, конечно, коровы. К этому выводу давно пришли марсианские инопланетяне, а также целый ряд других разумных цивилизаций из дальнего космоса.</p><p>Иногда коровы собираются в <span class="tex-font-style-it">корованы</span>. Это, кажется, у них сезонное. Но именно в это время коровы становятся пассивными и слабо реагируют на внешние раздражители. Корован — идеальная мишень для марсианской исследовательской тарелки, самое время для крупномасштабных похищений, или, как говорят марсиане, ограблений. Говоря простым языком, корован — это множество коров, расположенных в ряд. </p><p>Если пронумеровать всех коров в короване натуральными числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, то можно формализовать популярную модель похищения, известную как <span class="tex-font-style-it"><span class="tex-span">(<i>a</i>, <i>b</i>)</span>-ограбление корована</span>: сперва похищается корова с номером <span class="tex-span"><i>a</i></span>, затем — с номером <span class="tex-span"><i>a</i> + <i>b</i></span>, затем — с номером <span class="tex-span"><i>a</i> + 2·<i>b</i></span>, и так далее, пока номер похищаемой коровы не превысит <span class="tex-span"><i>n</i></span>. В процессе одного ограбления коровы не перенумеровываются.</p><p>Инопланетяне с радостью бы расположили всех коров на борту своего гостеприимного судна, но, к сожалению, размер грузового отсека весьма и весьма ограничен. Исследователи, зная массу каждой коровы в короване, составили <span class="tex-span"><i>p</i></span> сценариев <span class="tex-span">(<i>a</i>, <i>b</i>)</span>-ограбления. Теперь они хотят определить для каждого сценария в отдельности какая суммарная масса чистой говядины попадет на борт корабля. Все сценарии независимы, в процессе выполнения расчетов похищение коров не осуществляется.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/933a4581ff5b7b500182081b804fa25ceebe497d.png" /> </center></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано единственное натуральное число <span class="tex-span"><i>n</i></span> — количество коров в короване (<span class="tex-span">1 ≤ <i>n</i> ≤ 3·10<sup class="upper-index">5</sup></span>).</p><p>Во второй строке содержится <span class="tex-span"><i>n</i></span> натуральных чисел <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span>, разделенных пробелами, где <span class="tex-span"><i>i</i></span>-ое число определяет массу <span class="tex-span"><i>i</i></span>-ой коровы в короване (<span class="tex-span">1 ≤ <i>w</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>).</p><p>В третьей строке дано единственное натуральное число <span class="tex-span"><i>p</i></span> — количество сценариев <span class="tex-span">(<i>a</i>, <i>b</i>)</span>-ограблений (<span class="tex-span">1 ≤ <i>p</i> ≤ 3·10<sup class="upper-index">5</sup></span>).</p><p>Каждая последующая строка содержит параметры <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> очередного сценария (<span class="tex-span">1 ≤ <i>a</i>, <i>b</i> ≤ <i>n</i></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>На каждый сценарий <span class="tex-span">(<i>a</i>, <i>b</i>)</span>-ограбления выведите суммарную массу коров, которые могут быть похищены в результате ограбления по этому сценарию.</p><p>Пожалуйста, не используйте спецификатор %lld для чтения или записи 64-битных чисел на С++. Рекомендуется использовать потоки cin, cout или спецификатор %I64d.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2 3<br />2<br />1 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br />4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />2 3 5 7<br />3<br />1 3<br />2 3<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9<br />3<br />10<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

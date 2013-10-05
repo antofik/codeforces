@@ -1,0 +1,353 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="4hc29ebgc72g6944hehh4ac167h7f677"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="13mn1r38vczjn"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='4hc29ebgc72g6944hehh4ac167h7f677'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+            <div style="padding-top:1em;">
+<a href="http://codeforces.ru/vkcup2012"><img src="http://stat.codeforces.ru/images/vkcup2012-2.png"/>
+</a>
+</div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">VK Cup 2012 &#1050;&#1074;&#1072;&#1083;&#1080;&#1092;&#1080;&#1082;&#1072;&#1094;&#1080;&#1086;&#1085;&#1085;&#1099;&#1081; &#1088;&#1072;&#1091;&#1085;&#1076; 1</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Следующий раунд</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>«Участник выходит в следующий раунд соревнований, если он набрал не меньше баллов, чем участник, занявший <span class="tex-span"><i>k</i></span>-е место, при условии, что набранное им число баллов строго положительно...» — выдержка из правил соревнований.</p><p>Всего в соревновании было <span class="tex-span"><i>n</i></span> участников (<span class="tex-span"><i>n</i> ≥ <i>k</i></span>), и вам уже известны их баллы. Определите, сколько участников выйдет в следующий раунд.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ <i>n</i> ≤ 50</span>), разделенных единичным пробелом.</p><p>Во второй строке записаны <span class="tex-span"><i>n</i></span> целых чисел, разделенных единичными пробелами, <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>), где <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — количество баллов, набранных участником на <span class="tex-span"><i>i</i></span>-ом месте. Числа в заданной последовательности не возрастают (то есть для всех <span class="tex-span"><i>i</i></span> от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i> - 1</span> выполняется <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> ≥ <i>a</i><sub class="lower-index"><i>i</i> + 1</sub></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — искомое количество участников, в соответствии с правилами.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>8 5<br />10 9 8 7 7 7 5 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 2<br />0 0 0 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере участник на 5ом месте набрал 7 баллов. Так как участник на 6ом месте тоже набрал 7 баллов, то в следующий раунд выходят 6 участников.</p><p>Во втором примере никто не набрал положительного количества баллов.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Такси</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>После окончания уроков <span class="tex-span"><i>n</i></span> групп школьников вышли на улицу и собрались ехать домой к Поликарпу на празднование его дня рождения. Известно, что <span class="tex-span"><i>i</i></span>-ая группа состоит из <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> друзей (<span class="tex-span">1 ≤ <i>s</i><sub class="lower-index"><i>i</i></sub> ≤ 4</span>), которые не хотят расставаться по пути к Поликарпу. Решено ехать на такси. Каждая машина может вместить не более четырех пассажиров. Какое минимальное количество машин потребуется школьникам, если каждая группа должна целиком находиться в одной из машин такси (но одна машина может вмещать более чем одну группу)?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество групп школьников. Вторая строка содержит последовательность целых чисел <span class="tex-span"><i>s</i><sub class="lower-index">1</sub>, <i>s</i><sub class="lower-index">2</sub>, ..., <i>s</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>s</i><sub class="lower-index"><i>i</i></sub> ≤ 4</span>). Числа записаны через пробел, <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> — количество ребят в <span class="tex-span"><i>i</i></span>-ой группе.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — минимальное необходимое количество такси, чтобы отвезти всех ребят к Поликарпу.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2 4 3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8<br />2 3 4 4 2 1 3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте возможно следующее распределение по четырем машинам:</p><p><ul> <li> третья группа (из четырех школьников), </li><li> четвертая группа (из трех школьников), </li><li> пятая группа (из трех школьников), </li><li> первая и вторая группы (из одного и двух школьников соответственно). </li></ul></p><p>Существуют и другие способы расположиться в четырех машинах.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Команды cd и pwd</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася пишет оболочку для своей операционной системы. В ней непременно должны присутствовать команды для работы с директориями. Для начала он решил обойтись всего двумя командами: <span class="tex-font-style-tt">cd</span> (смена текущей директории) и <span class="tex-font-style-tt">pwd</span> (вывод на экран текущей директории).</p><p>Директории в операционной системе Васи образуют традиционную иерархическую древовидную структуру. Существует единственная корневая директория, обозначаемая символом слеш «<span class="tex-font-style-tt">/</span>». У всех остальных директорий есть названия — непустые строки из строчных латинских букв. У каждой некорневой директории есть родительская директория — та, внутри которой она расположена. Эта директория обозначается как «<span class="tex-font-style-tt">..</span>».</p><p>Команда <span class="tex-font-style-tt">cd</span> принимает один параметр, являющийся путем в файловой системе. Команда меняет текущую директорию на директорию, расположенную по заданному пути. Путь состоит из названий директорий, разделённых слешами. В качестве названия директории может использоваться «<span class="tex-font-style-tt">..</span>», что обозначает переход в родительскую директорию. «<span class="tex-font-style-tt">..</span>» может встретиться вместо названия директории в любом месте пути, возможно, несколько раз. Если путь начинается со слеша, он считается абсолютным путём, то есть директория меняется на указанную, считая от корневой. Если параметр начинается с имени директории (или «<span class="tex-font-style-tt">..</span>»), он считается относительным путём, то есть директория меняется на указанную, считая от текущей.</p><p>Команда <span class="tex-font-style-tt">pwd</span> должна выводить абсолютный путь до текущей директории. Этот путь не должен содержать «<span class="tex-font-style-tt">..</span>». </p><p>Изначально текущей директорией является корневая. Все директории, явно упоминаемые или проходимые косвенно внутри одной команды <span class="tex-font-style-tt">cd</span>, считаются существующими. Гарантируется отсутствие попыток перехода в родительскую директорию корневой директории.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 50</span>) — количество команд.</p><p>Далее следуют <span class="tex-span"><i>n</i></span> строк по одной команде в каждой строке. В каждой из этих строк записана либо команда <span class="tex-font-style-tt">pwd</span>, либо команда <span class="tex-font-style-tt">cd</span>, после которой идёт отделённый пробелом непустой параметр.</p><p>В параметре команды <span class="tex-font-style-tt">cd</span> используются только строчные латинские буквы, слеши и точки, не может идти два слеша подряд, точки встречаются только как название родительской псевдо-директории. Параметр команды <span class="tex-font-style-tt">cd</span> не завершается слешем, кроме случая, когда это единственный символ, указывающий на корневую директорию. Параметр команды имеет длину от 1 до 200 символов включительно.</p><p>Директории в файловой системе могут иметь одинаковые имена.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждой команды <span class="tex-font-style-tt">pwd</span> требуется вывести полный абсолютный путь текущей директории, завершённый слешем. Он должен начинаться со слеша и содержать список директорий в порядке вложенности от корневой до текущей, разделённый слешами. Этот путь не должен содержать точек. </p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>7<br />pwd<br />cd /home/vasya<br />pwd<br />cd ..<br />pwd<br />cd vasya/../petya<br />pwd<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>/<br />/home/vasya/<br />/home/<br />/home/petya/<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />cd /a/b<br />pwd<br />cd ../a/b<br />pwd<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>/a/b/<br />/a/a/b/<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Ледяные скульптуры</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Берляндский университет готовится встретить юбилей — ему исполняется 256 лет! Специально назначенный проректор по празднованию готовится украсить университетский городок. В центре городка были воздвигнуты <span class="tex-span"><i>n</i></span> ледяных скульптур. Скульптуры расположены по кругу на равном расстоянии друг от друга, то есть образуют правильный <span class="tex-span"><i>n</i></span>-угольник. Они пронумерованы по порядку по часовой стрелке числами от 1 до <span class="tex-span"><i>n</i></span>.</p><p>На сайте университета уже успело состояться голосование, по результатам которого каждая скульптура получила характеристику <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> — степень своей привлекательности. Величины <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> могут быть положительными, нулевыми или отрицательными.</p><p>Пришедший оценить работу ректор университета отметил, что, возможно, работа выполнена не идеально. Он предложил растопить некоторые скульптуры так, что: <ul> <li> оставшиеся скульптуры будут образовывать правильный многоугольник (с количеством вершин от 3 до <span class="tex-span"><i>n</i></span>), </li><li> сумма величин <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> для оставшихся скульптур будет максимальна. </li></ul></p><p>Помогите проректору по празднованию произвести анализ замечания — найдите максимальное значение суммы <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>, которое может быть получено таким способом. Разрешается не растапливать скульптуры вообще. Передвигать скульптуры нельзя.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">3 ≤ <i>n</i> ≤ 20000</span>) — первоначальное количество скульптур. Вторая строка содержит последовательность целых чисел <span class="tex-span"><i>t</i><sub class="lower-index">1</sub>, <i>t</i><sub class="lower-index">2</sub>, ..., <i>t</i><sub class="lower-index"><i>n</i></sub></span>, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> — степень привлекательности <span class="tex-span"><i>i</i></span>-ой скульптуры (<span class="tex-span"> - 1000 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>). Числа в строке разделяются пробелами.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите искомую максимальную сумму привлекательностей скульптур.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>8<br />1 2 -3 4 -5 5 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>14<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6<br />1 -2 3 -4 5 -6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6<br />1 2 3 4 5 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>21<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере наиболее оптимально оставить скульптуры через одну, то есть оставить скульптуры с привлекательностями: 2, 4, 5 и 3.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Телефонные разговоры</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Недавно Сережа стал бизнесменом Сергеем Петровичем, и теперь ему приходится много разговаривать по телефону. На сегодня у него запланировано <span class="tex-span"><i>n</i></span> звонков. Для каждого звонка известен запланированный момент его начала <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> (в секундах от начала дня) и его продолжительность <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> (в секундах). Все <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> различны. Сергей Петрович — очень важный человек, сам он никому не звонит, и все его звонки будут входящими. </p><p>Сергей Петрович не Цезарь, сразу несколько дел делать не умеет. Поэтому, если ему звонят, пока он еще не закончил предыдущий разговор, то он ставит новый звонок в очередь на удержание. В таком случае немедленно после окончания текущего разговора он берет из очереди самый ранний входящий звонок и начинает этот разговор. Если Сергей Петрович начал разговор в секунду <span class="tex-span"><i>t</i></span>, а звонок продолжается <span class="tex-span"><i>d</i></span> секунд, то он занят в секунды <span class="tex-span"><i>t</i>, <i>t</i> + 1, ..., <i>t</i> + <i>d</i> - 1</span>, а в секунду <span class="tex-span"><i>t</i> + <i>d</i></span> он может начать новый звонок. Если Сергей Петрович не занят разговором в момент поступления очередного звонка, он не может отправить его в очередь.</p><p>Кроме того, Сергей Петрович не Наполеон, он любит поспать. Поэтому иногда он позволяет себе проигнорировать звонок, как будто его вовсе не было. Так он может поступить не более <span class="tex-span"><i>k</i></span> раз. Звонок, поступающий во время разговора, тоже можно проигнорировать.</p><p>Какое наибольшее время в секундах сможет сегодня поспать Сергей Петрович, если он может выделить на сон любой непрерывный отрезок времени текущих суток (то есть с секундами от 1-ой до 86400-ой включительно), не занятый разговорами?</p><p>Заметим, что некоторые разговоры могут продолжаться или даже быть отложены до следующих суток или позже. Но интервал для сна надо выделить именно в пределах текущих суток.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записана пара целых чисел <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>k</i></span> (<span class="tex-span">0 ≤ <i>k</i> ≤ <i>n</i> ≤ 4000</span>), разделенных единичным пробелом. Далее в <span class="tex-span"><i>n</i></span> строках содержатся описания звонков на сегодня. Описание каждого звонка содержится в отдельной строке и состоит из двух целых чисел <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span>, записанных через пробел (<span class="tex-span">1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub>, <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ 86400</span>). Все <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> различны, звонки заданы в порядке строгого возрастания <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>.</p><p>Запланированные времена звонков [<span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> + <i>d</i><sub class="lower-index"><i>i</i></sub> - 1</span>] могут произвольным образом пересекаться.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите число от 0 до 86400 включительно — наибольшее возможное количество секунд для сна Сергея Петровича на сегодня.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2<br />30000 15000<br />40000 15000<br />50000 15000<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>49999<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 1<br />1 20000<br />10000 10000<br />20000 20000<br />25000 10000<br />80000 60000<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>39999<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере лучше всего проигнорировать первые два звонка.</p><p>Во втором примере лучше всего проигнорировать третий звонок. В этом случае Сергей Петрович будет разговаривать:</p><p><ul> <li> первый звонок: с 1 по 20000-ую секунду, </li><li> второй звонок: с 20001 по 30000-ую секунду, </li><li> четвертый звонок: с 30001 по 40000-ую секунду (третий звонок полностью игнорируется), </li><li> пятый звонок: с 80000 по 139999-ую секунду. </li></ul></p><p>Таким образом, самый длинный период свободного времени — с 40001-ой секунды по 79999-ую.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

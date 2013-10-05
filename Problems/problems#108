@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="2e2d4ha3d145a4h27g898c5hcheh87a1"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="jyie0x547yvw"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='2e2d4ha3d145a4h27g898c5hcheh87a1'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #83 (Div. 2 Only)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Время-палиндром</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p><span class="tex-font-style-it">Таттах спит тогда и только тогда, когда он на лекции.</span> Эта шутка популярна среди его однокурсников.</p><p>В среду утром Таттах был на лекции у профессора NN. В <span class="tex-font-style-tt">12:21</span>, как раз перед сном, он созерцал часы на запястье Захира. Таттах обратил внимание, что цифры на часах обозначали одно и то же время будучи прочитанными как справа налево (*), так и слева направо. Иными словами, время на часах было палиндромом.</p><p>Во сне Таттаху снились те редкие моменты, когда время, показываемое на электронных часах, является палиндромом. Когда он проснулся, он решил во что бы то ни стало написать программу, которая найдет следующий ближайший момент времени, обладающий таким свойством.</p><p>К сожалению, Таттах пока еще не силен в программировании, и вы должны помочь ему.</p><p>(*) Как и все египтяне, Таттах читает справа налево.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке в формате «<span class="tex-font-style-tt">HH:MM</span>» записано текущее время. «<span class="tex-font-style-tt">HH</span>» задает часы в диапазоне от «<span class="tex-font-style-tt">00</span>» до «<span class="tex-font-style-tt">23</span>» и «<span class="tex-font-style-tt">MM</span>» задает минуты в диапазоне от «<span class="tex-font-style-tt">00</span>» до «<span class="tex-font-style-tt">59</span>». Части «<span class="tex-font-style-tt">HH</span>» и «<span class="tex-font-style-tt">MM</span>» состоят ровно из двух цифр каждая.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите ближайшее (в будущем по отношению к текущему времени) время-палиндром, которое будут показывать электронные часы. Если введенное на входе время является палиндромом, выведите ближайшее следующее время-палиндром.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>12:21<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>13:31<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>23:59<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>00:00<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Типы данных</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Туфтуф, младший брат Таттаха, недавно начал изучать программирование. Его старший брат — очень хороший программист, и заветная мечта Туфтуфа — перегнать его. Будучи студентом в GUC Туфтуф учится писать программы на языке Gava. Сегодня Туфтуф познакомился с беззнаковыми целыми типами данных.</p><p>В языке Gava есть <span class="tex-span"><i>n</i></span> беззнаковых целых типов данных. Их размеры (в битах): <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ... <i>a</i><sub class="lower-index"><i>n</i></sub></span>. Тип данных номер <span class="tex-span"><i>i</i></span> имеет размер <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> бит, то есть в него помещается любое число от <span class="tex-span">0</span> до <span class="tex-span">2<sup class="upper-index"><i>a</i><sub class="lower-index"><i>i</i></sub></sup> - 1</span> включительно.</p><p>Туфтуф думает начать изучать другой язык программирования вместо Gava. Он решил, что бросит Gava, если выяснится, что существует такое целое число <span class="tex-span"><i>x</i></span>, что <span class="tex-span"><i>x</i></span> помещается в тип <span class="tex-span"><i>i</i></span> (в <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> бит), но при этом <span class="tex-span"><i>x</i>·<i>x</i></span> не помещается в другой тип <span class="tex-span"><i>j</i></span> (в <span class="tex-span"><i>a</i><sub class="lower-index"><i>j</i></sub></span> бит), такой что <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> &lt; <i>a</i><sub class="lower-index"><i>j</i></sub></span>.</p><p>Зная все <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> определите, бросит ли Туфтуф изучать Gava.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество беззнаковых целых типов в языке Gava. На второй строке через пробел записано <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>) — размеры типов в битах. Размеры некоторых типов данных могут совпадать.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">YES</span>» если Туфтуф бросит Gava и «<span class="tex-font-style-tt">NO</span>» в противном случае.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />64 16 32<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />4 2 1 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Во втором примере <span class="tex-span"><i>x</i> = 7</span> <span class="tex-span">(111<sub class="lower-index">2</sub>)</span> помещается в <span class="tex-span">3</span> бита, но <span class="tex-span"><i>x</i><sup class="upper-index">2</sup> = 49</span> <span class="tex-span">(110001<sub class="lower-index">2</sub>)</span> не помещается в <span class="tex-span">4</span> бита.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Водоснабжение</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Корпуса общежития German University in Cairo (GUC) пронумерованы числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Для обеспечения водоснабжения под землей корпуса соединены трубами. Все трубы — направленные, то есть вода может течь только в определенном направлении, и не может течь в обратном. Также для каждой трубы известен ее диаметр, он обозначает объем воды, который может выдержать эта труба. Для каждого корпуса имеется не более, чем одна входящая в него труба, и не более, чем одна исходящая из него труба.</p><p>С началом нового семестра, студент Лулу, проживающий в общежитии, хочет установить баки с запасами воды и краны для экстренного слива воды. Бак нужно установить в каждый корпус, который имеет выходящую из него трубу и не имеет входящей. Кран нужно установить во всех корпусах, где есть входящая труба, но нет выходящей. Таким образом получится, что вода из любого корпуса с баком сможет дойти до корпуса с краном.</p><p>Чтобы трубы не лопнули на вторую неделю, как это произошло в прошлом семестре, Лулу должен принять во внимание диаметр труб. Объем воды, которая протекает от корпуса с баком до корпуса с краном, не должен превосходить того, что могут выдержать трубы. Однако, выбрав пару корпусов, где будут установлены бак и кран, Лулу хочет, чтобы объем воды, протекающей между этими двумя корпусами, был максимально возможным.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел записано два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>p</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 1000, 0 ≤ <i>p</i> ≤ <i>n</i></span>) — количество корпусов и количество труб.</p><p>Затем следуют <span class="tex-span"><i>p</i></span> строк — описание <span class="tex-span"><i>p</i></span> труб, <span class="tex-span"><i>i</i></span>-ая строка содержит три целых числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span>. Она задает трубу диаметра <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> выходящую из корпуса <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и ведущую в корпус <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>    (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, <i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub>, 1 ≤ <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup></span>). </p><p>Гарантируется, что для каждого корпуса имеется не более одной входящей трубы, и не более одной исходящей трубы.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>На первой строке выведите <span class="tex-span"><i>t</i></span> — количество пар корпусов, где нужно установить бак и слив.</p><p>На следующих <span class="tex-span"><i>t</i></span> строках выведите по три числа: <span class="tex-span"><i>tank</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>tap</i><sub class="lower-index"><i>i</i></sub></span>, и <span class="tex-span"><i>diameter</i><sub class="lower-index"><i>i</i></sub></span>, где <span class="tex-span"><i>tank</i><sub class="lower-index"><i>i</i></sub> ≠ <i>tap</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>t</i></span>). Здесь <span class="tex-span"><i>tank</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>tap</i><sub class="lower-index"><i>i</i></sub></span> — номера корпусов, где будут установлены бак и слив, соответственно, а <span class="tex-span"><i>diameter</i><sub class="lower-index"><i>i</i></sub></span> — максимально возможный объем воды, который можно пропустить. Все эти <span class="tex-span"><i>t</i></span> строк должны быть упорядочены в порядке возрастания <span class="tex-span"><i>tank</i><sub class="lower-index"><i>i</i></sub></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2<br />1 2 10<br />2 3 20<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />1 3 10<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 2 20<br />2 3 10<br />3 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 2<br />1 2 60<br />3 4 50<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />1 2 60<br />3 4 50<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Баскетбольная команда</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Мистер Вафа учится в German University in Cairo (GUC) и любит играть в баскетбол. Он был приятно удивлен, когда узнал, что GUC планирует принять участие в Ежегодном Соревновании по Баскетболу (Annual Basketball Competition, ABC).</p><p>Для соревнования будет собрана команда из <span class="tex-span"><i>n</i></span> игроков — студентов GUC. Игроки будут случайным образом выбраны среди студентов играющих в баскетбол. Однако, в команде могут быть игроки с разных факультетов. Всего в GUC <span class="tex-span"><i>m</i></span> факультетов, пронумерованных числами от <span class="tex-span">1</span> до <span class="tex-span"><i>m</i></span>. Мистер Вафа учится на факультете номер <span class="tex-span"><i>h</i></span>. Для каждого факультета <span class="tex-span"><i>i</i></span> Мистер Вафа знает число <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> — сколько студентов с него играют в баскетбол, и соответственно могут оказаться членами команды GUC.</p><p>Благодаря своим паранормальным способностям, Мистер Вафа знает, что он точно попадет в команду GUC. Теперь он хочет вычислить вероятность того, что вместе с ним в команде окажется хотя бы один студент с его факультета. Так как он очень не любит вычисления с дробными числами, эта задача поручается вам.</p><p>Учтите, что все составы команды, в которых есть Мистер Вафа, могут быть выбраны с равной вероятностью. Считайте, что все студенты отличаются друг от друга.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>h</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100, 1 ≤ <i>m</i> ≤ 1000, 1 ≤ <i>h</i> ≤ <i>m</i></span>) — число игроков в команде GUC, число факультетов в GUC, и номер факультета на котором учится Мистер Вафа, соответственно.</p><p>На следующей строке записано <span class="tex-span"><i>m</i></span> целых чисел <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>s</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>), разделенных пробелами: количества играющих в баскетбол студентов на каждом факультете соответственно. Учтите, что число <span class="tex-span"><i>s</i><sub class="lower-index"><i>h</i></sub></span> включает самого Мистера Вафу.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите вероятность того, что кроме Мистера Вафы в команде GUC будет хотя бы один студент с его факультета. Если в GUC не хватит игроков чтобы выставить команду на ABC, выведите -1. Ответ считается верным, если абсолютная или относительная погрешность не превосходит <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2 1<br />2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2 1<br />1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1.0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2 1<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.6666666666666667<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере все три игрока в баскетбол — два с факультета 1 и один с факультета 2 — будут членами команды GUC. Так как оба игрока с первого факультета будут членами команды, у Вафы гарантированно будет партнер по команде с его факультета.</p><p>Во втором примере в GUC недостаточно игроков для того, чтобы выставить команду на ABC.</p><p>В третьем примере команда, в состав которой входит Мистер Вафа, может быть составлена тремя способами, два состава из этих трех включают в себя второго игрока с факультета Мистера Вафы.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Размещение</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В 2500-ом году ежегодная церемония вручения дипломов в German University in Cairo (GUC) приближается к своему 500-летнему юбилею.</p><p>Важной частью церемонии является размещение профессоров в зале, где происходит вручение дипломов.</p><p>В GUC есть <span class="tex-span"><i>n</i></span> профессоров. У каждого профессора свой уровень старшинства, и все уровни старшинства разные. Для простоты обозначим профессоров номерами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, где <span class="tex-span">1</span> соответствует самому старшему, а <span class="tex-span"><i>n</i></span> — самому младшему профессору.</p><p>В зале, где проходит вручение дипломов, имеется <span class="tex-span"><i>n</i></span> мест, по одному месту для каждого профессора. Некоторые места в этом зале предназначены для более старших профессоров. Конкретно, про <span class="tex-span"><i>m</i></span> пар мест известно, что для пары мест <span class="tex-span">(<i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub>)</span> профессор, занимающий место <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> должен быть старше профессора, занимающего место <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>.</p><p>Начиная с 2001 года в GUC ответственно подходят к соблюдению традиции размещения профессоров. Традиция гласит, что: <ul> <li> Порядок размещения меняется каждый год. </li><li> В 2001 году было использовано лексикографически первое размещение. </li><li> Каждый последующий год используется лексикографически следующее размещение. </li></ul></p><p>Под размещением профессоров понимается список из <span class="tex-span"><i>n</i></span> чисел, где первое число соответствует уровню старшинства профессора, занимающего место номер один, второе число соответствует уровню старшинства профессора, занимающего место номер два и так далее.</p><p>Зная <span class="tex-span"><i>n</i></span>, количество профессоров в GUC, текущий год <span class="tex-span"><i>y</i></span>, и <span class="tex-span"><i>m</i></span> пар ограничений на размещение, выведите порядок, в котором будет размещены профессора GUC на церемонии награждения в этом году.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>y</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 16, 2001 ≤ <i>y</i> ≤ 10<sup class="upper-index">18</sup>, 0 ≤ <i>m</i> ≤ 100</span>) — соответственно, количество профессоров, год, для которого следует вывести порядок размещения профессоров и количество пар мест, про которые известно, что отношение старшинства профессоров должно соблюдаться.</p><p>Далее в <span class="tex-span"><i>m</i></span> строках записаны <span class="tex-span"><i>m</i></span> пар целых чисел «<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>», для которых должно выполняться требование, что профессор, занимающий место <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, старше профессора, занимающего место <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, <i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub></span>). Некоторые пары могут быть перечислены более одного раза.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cin</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите порядок размещения профессоров в году <span class="tex-span"><i>y</i></span>.</p><p>Если к этому году размещения, удовлетворяющие вышеописанным требованиям, закончатся, или заданные отношения старшинства противоречивы, выведите «<span class="tex-font-style-tt">The times have changed</span>» (без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2001 2<br />1 2<br />2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 2 3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>7 2020 6<br />1 2<br />1 3<br />2 4<br />2 5<br />3 6<br />3 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 2 3 7 4 6 5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>10 3630801 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>The times have changed<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2001 3<br />1 2<br />2 3<br />3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>The times have changed<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере лексикографически первым является порядок «1 2 3».</p><p>В третьем примере после 3630800-го года допустимые порядки размещения закончатся.</p><p>В четвертом примере не существует ни одного размещения удовлетворяющего всем ограничениям.</p><p>Лексикографическое сравнение размещений реализует оператор &lt; в современных языках программирования. Размещение <span class="tex-span"><i>a</i></span> лексикографически меньше размещения <span class="tex-span"><i>b</i></span>, если существует такое <span class="tex-span"><i>i</i></span> (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>), что <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> &lt; <i>b</i><sub class="lower-index"><i>i</i></sub></span>, а для любого <span class="tex-span"><i>j</i></span> (<span class="tex-span">1 ≤ <i>j</i> &lt; <i>i</i></span>) <span class="tex-span"><i>a</i><sub class="lower-index"><i>j</i></sub> = <i>b</i><sub class="lower-index"><i>j</i></sub></span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

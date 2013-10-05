@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="4b91bg501bc7agg4h0ad222he2bfcagb"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="o2timr2oewsx"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='4b91bg501bc7agg4h0ad222he2bfcagb'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #158 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Добавление цифр</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Васи есть два числа: <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span>. Однако, число <span class="tex-span"><i>a</i></span> кажется Васе слишком коротким. По этой причине он решил <span class="tex-span"><i>n</i></span> раз повторить операцию удлинения числа <span class="tex-span"><i>a</i></span>.</p><p>Одна операция удлинения числа состоит в дописывании к числу ровно одной цифры (в десятичной системе счисления) справа таким образом, чтобы полученное число делилось на Васино число <span class="tex-span"><i>b</i></span>. Если невозможно получить число, которое делится на <span class="tex-span"><i>b</i></span>, то операцию удлинения применять нельзя.</p><p>Ваша задача состоит в том, чтобы помочь Васе и вывести число, которое может получиться у Васи при применении к числу <span class="tex-span"><i>a</i></span> операции удлинения <span class="tex-span"><i>n</i></span> раз.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных содержится три целых числа: <span class="tex-span"><i>a</i>, <i>b</i>, <i>n</i> (1 ≤ <i>a</i>, <i>b</i>, <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите целое число без лидирующих нулей, которое может получиться у Васи при применении к числу <span class="tex-span"><i>a</i></span> операции удлинения <span class="tex-span"><i>n</i></span> раз. Если такого числа не существует, то выведите число -1. Если возможных ответов несколько выведите любой.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 4 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>524848<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>12 11 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>121<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>260 150 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Древнее пророчество</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Древнее Пророчество, найденное недавно, по мнению ученых содержит в себе точную дату Конца Света. Пророчество представляет собой строку, состоящую только из цифр и символов «<span class="tex-font-style-tt">-</span>».</p><p>Будем говорить, что какая-либо дата упоминается в Пророчестве, если существует подстрока Пророчества, представляющая собой запись этой даты в формате «<span class="tex-font-style-tt">dd-mm-yyyy</span>». Количеством упоминаний даты будем называть количество таких подстрок в Пророчестве. Например, в Пророчестве «<span class="tex-font-style-tt">0012-10-2012-10-2012</span>» дата <span class="tex-font-style-tt">12-10-2012</span> упоминается два раза (первый раз — «<span class="tex-font-style-tt">00<span class="tex-font-style-bf">12-10-2012</span>-10-2012</span>», второй — «<span class="tex-font-style-tt">0012-10-20<span class="tex-font-style-bf">12-10-2012</span></span>»).</p><p>Дата Конца Света — это такая корректная дата, что количество ее упоминаний в Пророчестве строго больше, чем у любой другой корректной даты.</p><p>Дата называется корректной, если год лежит в диапазоне от <span class="tex-span">2013</span> до <span class="tex-span">2015</span>, месяц — от <span class="tex-span">1</span> до <span class="tex-span">12</span>, а номер дня строго больше нуля и не превышает количество дней в текущем месяце. Обратите внимание, что дата записывается в формате «<span class="tex-font-style-tt">dd-mm-yyyy</span>», это значит, что, при необходимости, к числу месяцев или дней дописываются лидирующие нули. Другими словами дата «<span class="tex-font-style-tt">1-1-2013</span>» не записана в формате «<span class="tex-font-style-tt">dd-mm-yyyy</span>», а дата «<span class="tex-font-style-tt">01-01-2013</span>» — записана в нем.</p><p>Обратите внимание, что между 2013 и 2015 годами нет ни одного високосного года.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится Пророчество: непустая строка, состоящая только из цифр и символов «<span class="tex-font-style-tt">-</span>». Длина Пророчества не превышает <span class="tex-span">10<sup class="upper-index">5</sup></span> символов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственной строке выведите дату Конца Света. Гарантируется, что такая дата существует и единственна.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>777-444---21-12-2013-12-2013-12-2013---444-777<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>13-12-2013</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Коробки и шарики</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У маленького мальчика Васи в комнате стояло <span class="tex-span"><i>n</i></span> коробок с шариками. Коробки стояли в ряд и были пронумерованы числами от 1 до <span class="tex-span"><i>n</i></span> слева направо.</p><p>Однажды Вася выбрал одну из коробок, пусть она имеет номер <span class="tex-span"><i>i</i></span>, вынул из нее все шарики (гарантируется, что в этой коробке изначально был хотя бы один шарик) и начал класть по одному шарику в коробки с номерами <span class="tex-span"><i>i</i> + 1</span>, <span class="tex-span"><i>i</i> + 2</span>, <span class="tex-span"><i>i</i> + 3</span> и так далее. Если Вася кладет шарик в коробку номер <span class="tex-span"><i>n</i></span>, то следующий шарик он положит в коробку <span class="tex-span">1</span>, затем в коробку <span class="tex-span">2</span> и так далее. Так он действовал пока в его руках не осталось ни одного шарика. Возможно, что Вася положит несколько шариков в одну и ту же коробку, а также возможно, что один или несколько шариков попадут в коробку номер <span class="tex-span"><i>i</i></span>. В случае <span class="tex-span"><i>i</i> = <i>n</i></span> первый шарик Вася положит в коробку <span class="tex-span">1</span>, затем в коробку <span class="tex-span">2</span> и так далее.</p><p>Например, пусть изначально у Васи было четыре коробки, и в первой коробке лежало <span class="tex-span">3</span> шарика, во второй — <span class="tex-span">2</span>, в третьей — <span class="tex-span">5</span>, в четвертой — <span class="tex-span">4</span> шарика. Тогда если <span class="tex-span"><i>i</i> = 3</span>, то Вася вынет все пять шариков из третьей коробки и разложит их в коробки с номерами: <span class="tex-span">4, 1, 2, 3, 4</span>. После всех действий Васи шарики будут лежать в коробках таким образом: в первой коробке — <span class="tex-span">4</span>, во второй — <span class="tex-span">3</span>, в третьей — <span class="tex-span">1</span>, в четвертой — <span class="tex-span">6</span>.</p><p>На данный момент Вася совсем забыл, как изначально располагались шарики в коробках, но он знает, как они лежат сейчас, и число <span class="tex-span"><i>x</i></span> — номер коробки, куда он положил последний из вынутых шариков.</p><p>Он просит Вас помочь найти начальное расположение шариков в коробках.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных находятся два целых числа — <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>x</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>, <span class="tex-span">1 ≤ <i>x</i> ≤ <i>n</i></span>), означающие количество коробок и номер коробки, куда Вася положил последний шарик, соответственно. Во второй строке через пробел записаны <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>, где число <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>, <span class="tex-span"><i>a</i><sub class="lower-index"><i>x</i></sub> ≠ 0</span>) означает количество шариков в коробке номер <span class="tex-span"><i>i</i></span> после того, как Вася выполнил все действия.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-битных чисел на С++. Рекомендуется использовать потоки cin, cout или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i></span> целых чисел, где <span class="tex-span"><i>i</i></span>-ое означает количество шариков в коробке номер <span class="tex-span"><i>i</i></span> до начала действий Васи. Числа при выводе разделяйте пробелами. Если существует несколько правильных решений, то разрешается вывести любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 4<br />4 3 1 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 2 5 4 </pre></div><div class="input"><div class="title">Входные данные</div><pre>5 2<br />3 2 0 2 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 1 4 1 6 </pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />2 3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 2 3 </pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Черно-белое дерево</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>На доске нарисован граф-дерево из <span class="tex-span"><i>n</i></span> вершин. Напомним, что неориентированный граф называется деревом, если он связен и не содержит циклов.</p><p>Каждая вершина графа покрашена в черный или белый цвет таким образом, что не существует двух вершин одного цвета, соединенных ребром. На каждом ребре записана его стоимость — неотрицательное целое число.</p><p>Плохой мальчик Вася подошел к доске и написал около каждой вершины <span class="tex-span"><i>v</i></span> число <span class="tex-span"><i>s</i><sub class="lower-index"><i>v</i></sub></span> — сумму стоимостей всех инцидентных этой вершине ребер, после чего он стер ребра и их стоимости с доски.</p><p>Ваша задача — восстановить исходное дерево по цветам вершин и числам <span class="tex-span"><i>s</i><sub class="lower-index"><i>v</i></sub></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество вершин в дереве. Далее в <span class="tex-span"><i>n</i></span> строках записаны пары разделенных пробелом целых чисел <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ 1</span>, <span class="tex-span">0 ≤ <i>s</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>), где <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> означает цвет <span class="tex-span"><i>i</i></span>-ой вершины (0 — белый, 1 — черный), а <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> означает сумму стоимостей инцидентных <span class="tex-span"><i>i</i></span>-ой вершине ребер в нарисованном на доске дереве.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите описание <span class="tex-span"><i>n</i> - 1</span> ребер графа-дерева. Каждое описание — это тройка чисел <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>u</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>v</i><sub class="lower-index"><i>i</i></sub>, <i>u</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub> ≠ <i>u</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span">0 ≤ <i>w</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>), где <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>u</i><sub class="lower-index"><i>i</i></sub></span> — номера вершин, которые соединяет <span class="tex-span"><i>i</i></span>-ое ребро, а <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span> — его стоимость. Обратите внимание, что должно выполняться условие <span class="tex-span"><i>c</i><sub class="lower-index"><i>v</i><sub class="lower-index"><i>i</i></sub></sub> ≠ <i>c</i><sub class="lower-index"><i>u</i><sub class="lower-index"><i>i</i></sub></sub></span>.</p><p>Гарантируется, что для любых входных данных существует по крайней мере один соответствующий этим данным граф. Если существует несколько решений, то выведите любое. Ребра разрешается выводить в любом порядке. Числа при выводе разделяйте пробелами.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1 3<br />1 2<br />0 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 1 3<br />3 2 2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6<br />1 0<br />0 3<br />1 8<br />0 2<br />0 3<br />0 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 3 3<br />5 3 3<br />4 3 2<br />1 6 0<br />6 3 0<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Разделение королевства</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Государство Флатландия представляет собой бесконечную двумерную плоскость. Во Флатландии есть <span class="tex-span"><i>n</i></span> городов, каждый из которых является точкой на плоскости.</p><p>Правит Флатландией Король Круг IV. У Круга IV есть 9 сыновей. Каждому из своих сыновей Круг хочет отдать во владение часть Флатландии. Для этого он хочет провести четыре <span class="tex-font-style-bf">различные</span> прямые, так, что две из них параллельны оси <span class="tex-span"><i>Ox</i></span>, а другие две параллельны оси <span class="tex-span"><i>Oy</i></span>. При этом ни одна прямая не должна проходить через какой-либо город. Таким образом Флатландия будет разделена на 9 частей, а каждому сыну будет отдана ровно одна из этих частей. Немного подумав и оценив послушность сыновей, Круг IV решил, что <span class="tex-span"><i>i</i></span>-тому сыну должна достаться часть Флатландии, на которой находится ровно <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> городов.</p><p>Помогите Кругу найти такие четыре прямые, что если разделить этими прямыми Флатландию на 9 частей, то получившиеся части можно будет раздать сыновьям так, чтобы сыну с номером <span class="tex-span"><i>i</i></span> досталась часть Флатландии, на которой находится <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> городов.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находится целое число <span class="tex-span"><i>n</i> (9 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество городов во Флатландии. В следующих <span class="tex-span"><i>n</i></span> строках находятся по два целых числа, разделенных пробелом: <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ( - 10<sup class="upper-index">9</sup> ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup>)</span> — координаты <span class="tex-span"><i>i</i></span>-того города. Никакие два города не находятся в одной точке. В последней строке находится девять чисел, разделенных пробелами: <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/a4c0900fb71a0f0f0f80a8652d749ef20176aa49.png" />.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если решения не существует, то выведите единственное целое число -1.</p><p>Иначе, в первой строке выведите два различных вещественных числа, разделенных пробелом: <span class="tex-span"><i>x</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub></span> — абсциссы прямых, параллельных оси <span class="tex-span"><i>Oy</i></span>, а во второй строке выведите два различных вещественных числа, разделенных пробелом: <span class="tex-span"><i>y</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">2</sub></span> — ординаты прямых, параллельных оси <span class="tex-span"><i>Ox</i></span>. Если решений несколько выведите любое. </p><p>При проверке ответа, считается, что город лежит на прямой, если расстояние от города до прямой не превышает <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>. Две прямые считаются одинаковыми, если расстояние между ними не превышает <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>9<br />1 1<br />1 2<br />1 3<br />2 1<br />2 2<br />2 3<br />3 1<br />3 2<br />3 3<br />1 1 1 1 1 1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.5000000000 2.5000000000<br />1.5000000000 2.5000000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>15<br />4 4<br />-1 -3<br />1 5<br />3 -4<br />-4 4<br />-1 1<br />3 -3<br />-4 -5<br />-3 3<br />3 2<br />4 1<br />-4 2<br />-2 -5<br />-3 4<br />-1 4<br />2 1 2 1 2 1 3 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-3.5000000000 2.0000000000<br />3.5000000000 -1.0000000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>10<br />-2 10<br />6 0<br />-16 -6<br />-4 13<br />-4 -2<br />-17 -10<br />9 15<br />18 16<br />-5 2<br />10 -5<br />2 1 1 1 1 1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Решение для первого теста показано ниже:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/ea4d3e865ed447d0c570768e7989fa6e1ebff32b.png" /> </center></p><p>Решение для второго теста показано ниже:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/2e61332ef78f58244dcf82d458352f17dc822b52.png" /> </center></p><p>Для третьего теста решения не существует.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

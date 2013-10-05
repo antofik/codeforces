@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="ga7298ehbh65afd90b209179aegd2bb4"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="18kagjce10zqr"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='ga7298ehbh65afd90b209179aegd2bb4'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #58</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Сон Студента</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Как утверждает статистика, студенты спят не более трёх часов в сутки. Но даже в мире грёз, мерно посапывая, они не всегда могут избавиться от чувства нависшей угрозы.</p><p>Спит Бедный Студент и снится ему, как сидит он на экзамене по математическому анализу у самого страшного преподавателя современности, трёхкратного героя Советского Союза, лауреата нобелевской премии по отчислению студентов, многоуважаемого профессора Петра Палыча.</p><p>Ни на один вопрос не смог ответить Бедный Студент. Значит, вместо большого просторного офиса придётся ему идти работать на ториевые шахты. Но подождите! Пётр Палыч решил дать Студенту последний шанс! Да, такое может быть только во сне.</p><p>И профессор начал: «Встретились венерянская девочка и марсианский мальчик на Земле и захотели прогуляться, держась за руки. Но вот беда: у девочки на левой руке <span class="tex-span"><i>a</i><sub class="lower-index"><i>l</i></sub></span> пальцев, а на правой - <span class="tex-span"><i>a</i><sub class="lower-index"><i>r</i></sub></span> пальцев. У мальчика, соответственно, <span class="tex-span"><i>b</i><sub class="lower-index"><i>l</i></sub></span> и <span class="tex-span"><i>b</i><sub class="lower-index"><i>r</i></sub></span>. Им будет удобно держаться за руки только тогда, когда никакая пара пальцев девочки не будет соприкасаться между собой, то есть между любыми двумя пальцами девочки есть палец мальчика. И вместе с этим, никакая тройка пальцев мальчика не должна соприкасаться между собой. Определите, можно ли им взяться за руки так, чтобы обоим было удобно?»</p><p>Мальчику и девочке всё равно, кто пойдёт слева, а кто справа. Разница лишь в том, что если мальчик пойдёт слева от девочки, то он возьмёт своей правой рукой её левую руку, а если он пойдёт справа — то наоборот.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке даны два натуральных числа, не превышающие <span class="tex-span">100</span>: количество пальцев на левой и правой руках венерянской девочки, соответственно. Во второй строке даны два натуральных числа, не превышающие <span class="tex-span">100</span>: количество пальцев на левой и правой руках марсианского мальчика, соответственно.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-font-style-tt">YES</span> или <span class="tex-font-style-tt">NO</span>: ответ на вопрос Петра Палыча.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 1<br />10 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES</pre></div><div class="input"><div class="title">Входные данные</div><pre>4 5<br />3 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES</pre></div><div class="input"><div class="title">Входные данные</div><pre>1 2<br />11 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Мальчику и девочке не принципиально, кто пойдёт слева, а кто справа.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Тындекс.Бром</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>И снова Тындекс догоняет и перегоняет своих конкурентов! В ответ на выход Жужль Хром явился новый браузер — Тындекс.Бром!</p><p>С каждым днём растёт популярность нового браузера. И дело даже не в том, что в него встроен Тындекс.Бар, который, после покупки Тындекс.Бутылки и подключения её к USB-порту, автоматически наполняет тару прекрасным коньяком 1664 года; а благодаря продуманному взаимодействию с пользователем.</p><p>Возьмём, например, систему автоматического исправления адреса. Вы ввели <span class="tex-font-style-tt">codehorses</span> вместо <span class="tex-font-style-tt">codeforces</span>? Унылый Жужль Хром уныло скажет, мол, нет такого адреса. В то же время Тындекс.Бром автоматически подберёт ближайший адрес и отправит вас именно туда. Гениально!</p><p>Как же работает эта замечательная система? Очень просто! Для каждого потенциального адреса вычисляется функция ошибки <span class="tex-span"><i>F</i></span> по следующим правилам:</p><p><ul> <li> для каждой буквы <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> из потенциального адреса <span class="tex-span"><i>c</i></span> находится ближайшая позиция <span class="tex-span"><i>j</i></span> этой же буквы во введенном пользователем адресе <span class="tex-span"><i>s</i></span>. К <span class="tex-span"><i>F</i></span> прибавляется модуль разности этих позиций <span class="tex-span">|<i>i</i> - <i>j</i>|</span>. То есть для каждого <span class="tex-span"><i>i</i></span> (<span class="tex-span">1 ≤ <i>i</i> ≤ |<i>c</i>|</span>) позиция <span class="tex-span"><i>j</i></span> выбирается таким образом, что <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub> = <i>s</i><sub class="lower-index"><i>j</i></sub></span>, а <span class="tex-span">|<i>i</i> - <i>j</i>|</span> минимально. </li><li> если такой буквы <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> во введенном пользователем адресе нет, то к <span class="tex-span"><i>F</i></span> прибавляется длина потенциального адреса <span class="tex-span">|<i>c</i>|</span> </li></ul></p><p>После вычисления значений функции ошибки для всех потенциальных адресов выбирается наиболее подходящий.</p><p>Для того чтобы лучше разобраться в особенностях описанного выше способа, рекомендуется реализовать алгоритм вычисления функции <span class="tex-span"><i>F</i></span> для заданного пользователем адреса и некоторого набора потенциальных адресов. Дерзайте!</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>, 1 ≤ <i>k</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество потенциальных адресов и длина введённого пользователем адреса. В следующей строке записано <span class="tex-span"><i>k</i></span> строчных латинских букв — введённый пользователем адрес <span class="tex-span"><i>s</i></span>. В каждой последующей <span class="tex-span"><i>i</i></span>-ой (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>) строке дана непустая последовательность из строчных латинских букв — собственно потенциальный адрес. Гарантируется, что суммарная длина всех строк не превышает <span class="tex-span">2·10<sup class="upper-index">5</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В каждой из <span class="tex-span"><i>n</i></span> строк выходного файла выведите одно число: значение функции ошибки при выборе текущего потенциального адреса.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 10<br />codeforces<br />codeforces<br />codehorses<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br />12<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>9 9<br />vkontakte<br />vcontacte<br />vkontrakte<br />vkollapse<br />vkrokodile<br />vtopke<br />vkapuste<br />vpechke<br />vk<br />vcodeforcese<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>18<br />14<br />36<br />47<br />14<br />29<br />30<br />0<br />84<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Инквизиция</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В средние века хорошей традицией было сжигать ведьм на костре вместе с их подопечными — чёрными кошками. К концу 15-го века популяция чёрных кошек оказалась исчерпана. В связи со сложившейся тяжёлой ситуацией была созвана ЧИК — Чрезвычайная Инквизиционная Комиссия.</p><p>В постановлении №666 указано, что белая кошка является чёрной тогда и только тогда, когда периметр её чёрных пятен превышает допустимую норму. Чему же равна допустимая норма? Каждый инквизитор выберет её сам в зависимости от ситуации. Ваша же задача — найти периметр чёрных пятен на шкуре кошки.</p><p>В том же постановлении указано, что шкура кошки представляет собой белый квадрат длины <span class="tex-span">10<sup class="upper-index">5</sup></span>. В процессе измерения пятен принято левый нижний угол шкуры помещать в начало координат <span class="tex-span">(0;0)</span>, а правый верхний — в точку с координатами <span class="tex-span">(10<sup class="upper-index">5</sup>;10<sup class="upper-index">5</sup>)</span>. Пятна кошек являются невырожденными треугольниками. Пятна кошек могут пересекаться и накладываться друг на друга, но гарантируется, что каждая пара сторон треугольных пятен имеет не более одной общей точки.</p><p>Периметром в данной задаче будем считать суммарную длину границ, на которых происходит смена цвета шкуры кошки.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входного файла записано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 100</span>) — количество пятен на шкуре кошки. В <span class="tex-span"><i>i</i></span>-ой из последующих <span class="tex-span"><i>n</i></span> строк дано <span class="tex-span">6</span> целых чисел: <span class="tex-span"><i>x</i><sub class="lower-index">1<i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index">1<i>i</i></sub></span>, <span class="tex-span"><i>x</i><sub class="lower-index">2<i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index">2<i>i</i></sub></span>, <span class="tex-span"><i>x</i><sub class="lower-index">3<i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index">3<i>i</i></sub></span> — координаты <span class="tex-span"><i>i</i></span>-го треугольного пятна <span class="tex-span">(0 &lt; <i>x</i><sub class="lower-index"><i>ji</i></sub>, <i>y</i><sub class="lower-index"><i>ji</i></sub> &lt; 10<sup class="upper-index">5</sup>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — ответ на задачу, периметр объединения треугольников. Ваш ответ должен отличаться от правильного не более чем на <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br />1 1 2 1 1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3.4142135624<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />3 3 10 3 3 10<br />1 1 9 4 5 6<br />2 2 11 7 6 11<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>37.7044021497<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Дом для червя</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Червь по имени Арни уже в который раз догрыз свой дом-яблоко и решил переехать. Он уже давно для себя определил план расположения комнат и коридоров, их соединяющих; пронумеровал все комнаты от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Все коридоры двусторонние.</p><p>Арни хочет, чтобы новый дом выглядел абсолютно также как и предыдущий, то есть в нём должно быть ровно <span class="tex-span"><i>n</i></span> комнат и, если в старом доме существовал коридор из комнаты <span class="tex-span"><i>i</i></span> в комнату <span class="tex-span"><i>j</i></span>, то этот коридор обязательно должен быть построен и в новом доме.</p><p>Известно, что во время постройки своего дома Арни начинает грызть яблоко из некоторой комнаты и остановится лишь тогда, когда прогрызёт все коридоры и вернётся в начальную комнату. Также известно, Арни грызёт, не прерываясь, то есть пока он не закончит строительство, в каждый момент времени он занят прогрызанием нового коридора, по уже построенным коридорам Арни не ходит.</p><p>Однако прогрызать коридоры в одном и том же порядке при каждом переезде — занятие скучное. Поэтому он, зная порядок построения коридоров в предыдущем доме, хочет прогрызть коридоры в другом порядке. Этот порядок представляет собой список комнат в процессе их посещения. Новый список должен быть лексикографически наименьший, но строго больше предыдущего. Помогите червю.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">3 ≤ <i>n</i> ≤ 100, 3 ≤ <i>m</i> ≤ 2000</span>) — количество комнат и коридоров в доме Арни соответственно. В следующей строке записано <span class="tex-span"><i>m</i> + 1</span> натуральных чисел, не превышающих <span class="tex-span"><i>n</i></span>: описание старого маршрута Арни в виде списка комнат, которые он посещал во время прогрызания. Гарантируется, что последнее число в этом списке совпадает с первым.</p><p>Первая комната, описанная во второй строке входного файла — это главный вход, поэтому Арни всегда должен начинать грызть именно с неё.</p><p>Вы можете предполагать, что ни одна комната не соединена сама с собой коридором, и если существует коридор между некоторой парой комнат, то только один. В то же время, могут существовать изолированные комнаты, не соединённые коридорами вообще.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>m</i> + 1</span> натуральных чисел, не превышающих <span class="tex-span"><i>n</i></span>: описание нового маршрута Арни, в соответствии с которым он должен прогрызать свой новый дом. Если такого маршрута не существует, выведите <span class="tex-font-style-tt">No solution</span>. В вашем ответе первое число должно совпадать с <span class="tex-span"><i>m</i> + 1</span>-ым и являться главным входом.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 2 3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 3 2 1 </pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 3 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>No solution</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Вселенское Зло</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>5 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В результате таинственных экспериментов Пинки и Брейна в Большом Адронном Коллайдере открылись порталы — чёрные дыры — в параллельное измерение, откуда сразу же Вселенское Зло протянуло свои зловещие щупальца. Брейн быстро оценил ситуацию и понял, что, чем больше щупалец выберется на свободу, тем выше его шансы повелевать миром.</p><p>Конструкция Коллайдера представляет собой квадратную сетку, свёрнутую в цилиндр, и состоящую из <span class="tex-span"><i>n</i></span> строк и <span class="tex-span"><i>m</i></span> столбцов такую, какая показана на рисунке ниже:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/e40cf1b5dc87bb1d32f4722a59ce32ceb1f8e446.png" /> </center></p><p>В данном примере <span class="tex-span"><i>n</i> = 4</span>, <span class="tex-span"><i>m</i> = 5</span>. Пунктирными линиями обозначены коридоры, которые замыкают каждый столбец в кольцо, то есть соединяют <span class="tex-span"><i>n</i></span>-ную и <span class="tex-span">1</span>-ую строки сетки.</p><p>В самом левом столбце этой сетки находятся порталы, из которых готовы вылезти щупальца Вселенского Зла. В самом правом столбце расположены выходы из сооружения. Щупальца могут выбраться только через эти выходы. Отрезки, соединяющие узлы этой сетки — это коридоры.</p><p>Брейн рад бы выпустить все щупальца, но вот незадача: из порталов может вылезти бесконечное количество щупалец, каждое щупальце обладает бесконечной длиной и некоторой толщиной, а объёмы коридоров, увы, весьма ограничены. Брейн навскидку смог оценить максимальное количество щупалец, которое может пролезть через каждый коридор.</p><p>Теперь помогите мышкам определить, какое максимальное количество щупалец Вселенского Зла выберется из Большого Адронного Коллайдера.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входного файла дано два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 5</span>, <span class="tex-span">2 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>) — размеры сетки Большого Адронного Колайдера. В последующих <span class="tex-span"><i>m</i> - 1</span> строках записано по <span class="tex-span"><i>n</i></span> чисел: пропускные способности горизонтально расположенных коридоров. В последующих <span class="tex-span"><i>m</i></span> строках записано по <span class="tex-span"><i>n</i></span> чисел: пропускные способности вертикально расположенных коридоров. Коридоры описываются слева направо, сверху вниз. Каждый <span class="tex-span"><i>n</i></span>-ый вертикальный коридор соединяет узлы <span class="tex-span"><i>n</i></span>-ой и <span class="tex-span">1</span>-ой строк. Пропускная способность коридора — неотрицательное целое число, не превосходящее <span class="tex-span">10<sup class="upper-index">9</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — количество щупалец Вселенского Зла, которыми будут повелевать Пинки и Брейн.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 4<br />4 4 4<br />1 1 5<br />5 5 3<br />4 1 2<br />1 3 1<br />3 5 4<br />1 4 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>7<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br />9 2<br />2 3<br />6 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>11<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

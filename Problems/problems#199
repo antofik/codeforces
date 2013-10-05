@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="ba7dfa15hehbag6hg2eeh555hd7b098e"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1ff2jro0qqb9z"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='ba7dfa15hehbag6hg2eeh555hd7b098e'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #125 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Теорема Хексадесимал</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Недавно вирус Хексадесимал выдвинула теорему о том, что любое число Фибоначчи представимо в виде суммы трёх не обязательно различных чисел Фибоначчи. Эта теорема должна потрясти Вселенную!</p><p>Напомним, что числа Фибоначчи определяются следующим образом: <span class="tex-span"><i>F</i><sub class="lower-index">0</sub> = 0</span>, <span class="tex-span"><i>F</i><sub class="lower-index">1</sub> = 1</span>, а все остальные вычисляются по формуле <span class="tex-span"><i>F</i><sub class="lower-index"><i>i</i></sub> = <i>F</i><sub class="lower-index"><i>i</i> - 2</sub> + <i>F</i><sub class="lower-index"><i>i</i> - 1</sub></span>.</p><p>Таким образом, числа Фибоначчи образуют последовательность: <span class="tex-span">0</span>, <span class="tex-span">1</span>, <span class="tex-span">1</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">5</span>, <span class="tex-span">8</span>, <span class="tex-span">13</span>, ...</p><p>Если вы ещё не убежали в ужасе от компьютера, то помогите вирусу подтвердить или опровергнуть её теорему. Разложите заданное число Фибоначчи <span class="tex-span"><i>n</i></span> на сумму трёх не обязательно различных чисел Фибоначчи, или сообщите, что это невозможно.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные содержат единственное число <span class="tex-span"><i>n</i></span> <span class="tex-span">(0 ≤ <i>n</i> &lt; 10<sup class="upper-index">9</sup>)</span> — число, которое необходимо разложить на искомую сумму. Гарантируется, что <span class="tex-span"><i>n</i></span> является числом Фибоначчи.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите три числа: <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> и <span class="tex-span"><i>c</i></span> — искомое разложение, если оно существует. В противном случае выведите «<span class="tex-font-style-tt">I'm too stupid to solve this problem</span>» без кавычек. </p><p>Если решений несколько разрешается выводить любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 1 1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>13<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 3 8<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Специальная Олимпиада</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Известный художник-абстракционист Саша, влекомый вдохновением из ниоткуда, решил написать картину под названием «Специальная Олимпиада». Он справедливо рассудил, что, поскольку на обычной Олимпиаде изображено пять колец, то для Специальной достаточно ровно двух.</p><p>Напомним, что кольцо — это область, расположенная между двумя концентрическими окружностями радиусов <span class="tex-span"><i>r</i></span> и <span class="tex-span"><i>R</i></span> <span class="tex-span">(<i>r</i> &lt; <i>R</i>)</span>. Радиусы эти называются внутренним и внешним соответственно. Концентрические окружности — это окружности, центры которых находятся в одной точке.</p><p>Вскоре на белом холсте, который можно рассматривать как бесконечную декартову плоскость, появились два идеальных кольца, нарисованные сплошной чёрной краской. Поскольку Саша весьма импульсивен, то кольца могли оказаться разных радиусов и размеров, пересекаться и накладываться как угодно друг на друга. Одно лишь известно наверняка: центры пары колец не совпадают.</p><p>Когда утомлённый Саша провалился в глубокий сон, в комнату зашла девочка Илона и захотела вырезать себе кружочек на память. Чтобы кружочек получился красивым, она решила резать по контуру.</p><p>Контуром назовём непрерывную замкнутую линию, через которую происходит переход от одного цвета к другому (для лучшего понимания смотрите пояснения к тестовым примерам). Если контур принимает форму окружности, значит результатом вырезания по этому контуру окажется кружочек, что и хочет получить Илона.</p><p>Но пытливый математический ум не даёт девочке покоя: сколькими способами можно вырезать кружочек из холста?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные содержат две строки.</p><p>В каждой из строк содержится четыре разделённых пробелом целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>R</i><sub class="lower-index"><i>i</i></sub></span>, которые описывают <span class="tex-span"><i>i</i></span>-ое кольцо; <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> — координаты центра кольца, <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>R</i><sub class="lower-index"><i>i</i></sub></span> — внутренний и внешний радиусы кольца соответственно <span class="tex-span">( - 100 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 100; 1 ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> &lt; <i>R</i><sub class="lower-index"><i>i</i></sub> ≤ 100)</span>. </p><p>Гарантируется, что центры колец не совпадают.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Единственное целое число — количество способов вырезать кружочек из холста.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>60 60 45 55<br />80 80 8 32<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1</pre></div><div class="input"><div class="title">Входные данные</div><pre>60 60 45 55<br />80 60 15 25<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4</pre></div><div class="input"><div class="title">Входные данные</div><pre>50 50 35 45<br />90 50 35 45<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Ниже изображены рисунки тестовых примеров. Красным пунктиром изображены возможные разрезы. <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/dd940a8eb90632e1736c77f97714e8ae64e26df1.png" /> <img class="tex-graphics" src="http://codeforces.ru/renderer/5583fc5d1c41279a1e11a19b82ff735391e84d4b.png" /> <img class="tex-graphics" src="http://codeforces.ru/renderer/e3ffc79e9dcf18bf460949a700b1efa692eb2457.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. О микробах</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Взявшись за очередное правительственное задание, рейнджер Йцукен прибыл на планету Марс. В стенах секретной лаборатории рейнджеру нужно провести несколько опытов над бактериями, обладающими странными аномальными свойствами. Работа несложная, но за нее обещали хорошо заплатить.</p><p>В начале первого опыта в пробирке находится одна бактерия. Каждую секунду каждая из бактерий в пробирке делится на <span class="tex-span"><i>k</i></span> бактерий, после чего, в силу аномальных эффектов, в пробирке материализуются еще <span class="tex-span"><i>b</i></span> бактерий. Таким образом, если в начале какой-либо секунды было <span class="tex-span"><i>x</i></span> бактерий, то к концу этой секунды становится <span class="tex-span"><i>kx</i> + <i>b</i></span> бактерий.</p><p>Как показал опыт, через <span class="tex-span"><i>n</i></span> секунд бактерий стало ровно <span class="tex-span"><i>z</i></span>, и на этом эксперимент завершился.</p><p>В ходе второго опыта пробирка будет продезинфицирована, после чего туда будет помещено <span class="tex-span"><i>t</i></span> бактерий. Йцукен еще не начал проводить опыт, но ему уже интересно, через сколько секунд бактерий станет не меньше, чем <span class="tex-span"><i>z</i></span>? Рейнджер считает, что бактерии будут делиться по такому же правилу, как и в первом опыте. </p><p>Помогите Йцукену, найдите наименьшее количество секунд, через которое количество бактерий во втором опыте станет не меньше, чем <span class="tex-span"><i>z</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке через пробел записаны четыре целых числа <span class="tex-span"><i>k</i></span>, <span class="tex-span"><i>b</i></span>, <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>t</i></span> <span class="tex-span">(1 ≤ <i>k</i>, <i>b</i>, <i>n</i>, <i>t</i> ≤ 10<sup class="upper-index">6</sup>)</span> — параметры размножения бактерий, время, через которое в пробирке оказалось <span class="tex-span"><i>z</i></span> бактерий в первом опыте, и начальное количество бактерий во втором опыте, соответственно.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — наименьшее количество секунд, через которое бактерий станет не меньше, чем <span class="tex-span"><i>z</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 1 3 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2</pre></div><div class="input"><div class="title">Входные данные</div><pre>1 4 4 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3</pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2 4 100<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Прыжки по стенам</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася играет в компьютерную игру про ниндзя. На данном уровне игры ниндзя, за которого играет Вася, нужно выбраться из глубокого ущелья.</p><p>Ущелье представляет из себя две отвесные параллельные стены высотой <span class="tex-span"><i>n</i></span> метров. Мысленно разобьем эти стены на участки длины <span class="tex-span">1</span> метр и пронумеруем их натуральными числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> снизу вверх. Некоторые участки обычные — по ним ниндзя может карабкаться. Другие же покрыты шипами и ниндзя не может на них находиться. Назовем такие участки <span class="tex-font-style-it">опасными</span>.</p><p>Изначально нинздя находится на нижнем участке левой стены. Каждую секунду он может сделать одно из действий: <ul> <li> подняться на один участок вверх; </li><li> спуститься на один участок вниз; </li><li> перепрыгнуть на противоположную стену, при этом ниндзя оказывается на участке, который ровно на <span class="tex-span"><i>k</i></span> метров выше того участка, с которого производился прыжок. Более формально, если до прыжка ниндзя находился на участке номер <span class="tex-span"><i>x</i></span> одной стены, то после прыжка, он будет находиться на участке номер <span class="tex-span"><i>x</i> + <i>k</i></span> другой стены. </li></ul></p><p>Если в какой-то момент времени, ниндзя пытается переместиться на участок с номером большим <span class="tex-span"><i>n</i></span>, то считается, что ниндзя выбрался из ущелья.</p><p>Ущелье затапливает, и уровень воды каждую секунду поднимается на один метр. Изначально уровень воды находится на нижней границе первого участка. Ниндзя не может находиться на участках, покрытых водой. Можно считать, что нинздя и вода «ходят» по очереди — сначала ниндзя делает какое-либо действие, затем вода поднимается на один метр, затем ниндзя опять делает действие и так далее.</p><p>Уровень считается пройденным, если ниндзя удалось выбраться из ущелья.</p><p>После нескольких неудачных попыток, Вася начал сомневаться: возможно ли вообще пройти данный уровень или нет? Помогите ему ответить на этот вопрос.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>k</i> ≤ 10<sup class="upper-index">5</sup></span>) — высота ущелья и высота прыжка ниндзя соответственно.</p><p>Во второй строке задано описание левой стены — строка длиной <span class="tex-span"><i>n</i></span> символов. <span class="tex-span"><i>i</i></span>-ый символ обозначает состояние <span class="tex-span"><i>i</i></span>-го участка стены: символ «<span class="tex-font-style-tt">X</span>» обозначает, что участок опасен, символ «<span class="tex-font-style-tt">-</span>» — что нет.</p><p>В третьей строке задано описание правой стены в аналогичном формате.</p><p>Гарантируется, что первый участок левой стены не опасен.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">YES</span>» (без кавычек) если ниндзя может выбраться из ущелья или «<span class="tex-font-style-tt">NO</span>» (без кавычек) в противном случае.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>7 3<br />---X--X<br />-X--XX-<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 2<br />--X-X-<br />X--XX-<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере сначала ниндзя должен перепрыгнуть на правую стену, потом спуститься вниз на один метр по правой стене, потом перепрыгнуть на левую стену. Следующим прыжком ниндзя может выпрыгнуть из ущелья.</p><p>Во втором примере ниндзя никак не может выбраться из ущелья.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Доставка канцерогена</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Рейнджер Йцукен прибыл в систему Диатар с очень важным поручением. Он должен доставить на планету Персефона особый канцероген для научных исследований. Дело очень срочное, поэтому Йцукен должен долететь до планеты как можно раньше. Сутки задержки и работа не будет оплачена — просроченный канцероген никому не нужен.</p><p>Можно считать, что корабль Йцукена, планета Персефона и звезда Диатар являются точками на плоскости. Диатар находится в центре координат — в точке <span class="tex-span">(0, 0)</span>. Персефона вращается вокруг Диатар по круговой орбите радиусом <span class="tex-span"><i>R</i></span> против часовой стрелки с постоянной линейной скоростью <span class="tex-span"><i>v</i><sub class="lower-index"><i>p</i></sub></span> (так, например, полный оборот вокруг звезды занимает время <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/d6e148f5854d1671a9c65876c849623c94d511d4.png" />). В начальный момент времени Персефона находится в точке <span class="tex-span">(<i>x</i><sub class="lower-index"><i>p</i></sub>, <i>y</i><sub class="lower-index"><i>p</i></sub>)</span>.</p><p>В начальный момент времени корабль Йцукена находится в точке <span class="tex-span">(<i>x</i>, <i>y</i>)</span>. Йцукен может двигаться в любом направлении со скоростью, не превышающей <span class="tex-span"><i>v</i></span> (<span class="tex-span"><i>v</i> &gt; <i>v</i><sub class="lower-index"><i>p</i></sub></span>). Звезда Диатар горячая (как и все звезды), поэтому Йцукен не может приближаться к ней слишком близко. Обшивка корабля плавится уже на расстоянии <span class="tex-span"><i>r</i></span> (<span class="tex-span"><i>r</i> &lt; <i>R</i></span>) от звезды.</p><p>Определите наименьшее время, за которое Йцукен сможет доставить канцероген на планету Персефона.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны через пробел целые числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>p</i></sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index"><i>p</i></sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>p</i></sub></span> (<span class="tex-span"> - 10<sup class="upper-index">4</sup> ≤ <i>x</i><sub class="lower-index"><i>p</i></sub>, <i>y</i><sub class="lower-index"><i>p</i></sub> ≤ 10<sup class="upper-index">4</sup></span>, <span class="tex-span">1 ≤ <i>v</i><sub class="lower-index"><i>p</i></sub> &lt; 10<sup class="upper-index">4</sup></span>) — начальное положение Персефоны и скорость ее вращения вокруг Диатар.</p><p>Во второй строке записаны через пробел целые числа <span class="tex-span"><i>x</i></span>, <span class="tex-span"><i>y</i></span>, <span class="tex-span"><i>v</i></span> и <span class="tex-span"><i>r</i></span> (<span class="tex-span"> - 10<sup class="upper-index">4</sup> ≤ <i>x</i>, <i>y</i> ≤ 10<sup class="upper-index">4</sup></span>, <span class="tex-span">1 &lt; <i>v</i> ≤ 10<sup class="upper-index">4</sup></span>, <span class="tex-span">1 ≤ <i>r</i> ≤ 10<sup class="upper-index">4</sup></span>) — начальное положение корабля Йцукена, максимальная скорость его движения и минимальное безопасное расстояние до звезды Диатар.</p><p>Гарантируется, что <span class="tex-span"><i>r</i><sup class="upper-index">2</sup> &lt; <i>x</i><sup class="upper-index">2</sup> + <i>y</i><sup class="upper-index">2</sup></span>, <span class="tex-span"><i>r</i><sup class="upper-index">2</sup> &lt; <i>x</i><sub class="lower-index"><i>p</i></sub><sup class="upper-index">2</sup> + <i>y</i><sub class="lower-index"><i>p</i></sub><sup class="upper-index">2</sup></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>p</i></sub> &lt; <i>v</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно вещественное число — наименьшее возможное время доставки. Ответ будет считаться правильным, если его относительная или абсолютная погрешность не будет превышать <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>10 0 1<br />-10 0 2 8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9.584544103</pre></div><div class="input"><div class="title">Входные данные</div><pre>50 60 10<br />50 60 20 40<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.000000000</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

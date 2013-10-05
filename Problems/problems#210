@@ -1,0 +1,3710 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="0c68g320g6717e602ceef564fc19bda9"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='0c68g320g6717e602ceef564fc19bda9'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+
+<div id="header" style="position:relative;">
+    <div style="float:left;">
+            <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+            <div style="position:absolute;left:97px;top:40px;">
+                <a href="http://vk.com" class="logo-href">При поддержке <img style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+            </div>
+    </div>
+    <div class="lang-chooser">
+        <div style="text-align: right;">
+            <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+            <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+        </div>
+        <div>
+                <a href="/enter">Войти</a>
+                 | 
+                <a href="/register">Зарегистрироваться</a>
+                
+        </div>
+    </div>
+    <div style="font-size:0.8em;margin-top:0.25em;position:absolute;right:0;top:4.25em;">
+    </div>
+    <br style="clear: both;"/>
+</div>
+    <div class="roundbox menu-box" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+            <div class="menu-list-container">
+
+<ul class="menu-list main-menu-list">
+        <li class="current"><a href="/">Главная</a></li>
+        <li class=""><a href="/contests">Соревнования</a></li>
+        <li class=""><a href="/gyms">Тренировки</a></li>
+        <li class=""><a href="/problemset">Архив</a></li>
+        <li class=""><a href="/ratings">Рейтинг</a></li>
+        <li class=""><a href="/help">Помощь</a></li>
+        <li class=""><a href="/abbyycup30">ABBYY Cup 3.0 <img class="icon" src="http://stat.codeforces.ru/images/icons/cup.png"/></a></li>
+        <li class=""><a href="/icpc2013">ACM-ICPC WF-2013 <img class="icon" src="http://stat.codeforces.ru/images/icons/cup.png"/></a></li>
+        <li class=""><a href="/ya2013">Яндекс.Алгоритм 2013 <img class="icon" src="http://stat.codeforces.ru/images/icons/cup.png"/></a></li>
+</ul>
+                <form method="post" action="/search"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+                    <input class="search" name="query" data-isPlaceholder="true" value="Искать по тегу"/>
+                </form>
+                <br style="clear: both;"/>
+            </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("input.search").focus(function() {
+                if ($(this).attr("data-isPlaceholder") === "true") {
+                    $(this).val("");
+                    $(this).removeAttr("data-isPlaceholder");
+                }
+            });
+        });
+    </script>
+        <br style="height:3em; clear: both;"/>
+                <div style="margin:1em;text-align: center;" class="alert alert-info" data-textHashCode="1544236388">
+                    <i class="icon-info"></i> Временно, для поддержки более быстрых тестирующих серверов <a href="/blog/entry/8457">используется режим совместимости</a>.
+                    <span class="index-label-close" style="float: right; cursor: pointer; font-size: 1.4em;">&times;</span>
+                </div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+                $(".index-label-close").click(function() {
+                    $(this).parent().fadeOut();
+                    $.post("/data/indexLabel", {textHashCode: $(this).parent().attr("data-textHashCode")}, function (response) {
+                        // No operations.
+                    }, "json");
+                });
+        });
+    </script>
+        <div style="position: relative;">
+                <div id="sidebar">
+
+    <div class="roundbox sidebox" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+        <div class="caption titled">&rarr; Обратите внимание
+            <div class="top-links">
+            </div>
+        </div>
+<div style="padding: 0.5em;">
+        <div style="text-align:center;border-bottom: 1px solid rgb(185, 185, 185);margin:0 -0.5em 0.5em -0.5em;padding-bottom:0.5em;">
+            <span class='contest-state-phase'>Соревнование идет</span><br/><a href="/contest/351/standings">Codeforces Round #204 (Div. 1)</a><br/><span class='countdown' noRedirection='true' home='http://worker.codeforces.ru/static' textBeforeRedirect='Соревнование завершилось'>01:25:31</span>
+        </div>
+        <div style="text-align:center;border-bottom: 1px solid rgb(185, 185, 185);margin:0 -0.5em 0.5em -0.5em;padding-bottom:0.5em;">
+            <span class='contest-state-phase'>Соревнование идет</span><br/><a href="/contest/352/standings">Codeforces Round #204 (Div. 2)</a><br/><span class='countdown' noRedirection='true' home='http://worker.codeforces.ru/static' textBeforeRedirect='Соревнование завершилось'>01:25:31</span>
+        </div>
+        <div style="text-align:center;">
+            <div class="socials" style="text-align: left;">
+<div id="vk_like" style="margin-top: 0.85em;"></div>
+<script type="text/javascript">
+    VK.Widgets.Like("vk_like", {width: "256", pageUrl: "http://codeforces.ru/contests/351,352", pageTitle: "Codeforces Round #204", text: "Codeforces Round #204", pageImage: "http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"}, 417993485);
+    //TODO: Need to be done better!
+</script>
+<div style="margin-top: 0.85em;padding-top:0.85em;border-top: 1px solid rgb(185, 185, 185);position: relative;">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "http://connect.facebook.net/ru_RU/all.js#appId=554666954583323&xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="http://codeforces.com/contests/351,352" data-send="false" data-width="256" data-show-faces="false" data-font="arial" data-ref='417993485'></div>
+</div>
+</div>
+        </div>
+</div>
+    </div>
+
+<div class="roundbox sidebox top-contributed" style="">
+<div class="roundbox-lt">&nbsp;</div>
+<div class="roundbox-rt">&nbsp;</div>
+<div class="caption titled">&rarr; Лидеры (рейтинг)
+<div class="top-links">
+</div>
+</div>
+<table class="rtable ">
+<tbody>
+<tr>
+<th class="left" style="width:2.25em;">№</th>
+<th class="">Пользователь</th>
+<th class="" style="width:5em;">Рейтинг</th>
+</tr>
+<tr>
+<td class="left dark">1</td>
+<td class=" dark"><a href="/profile/tourist" title="Международный гроссмейстер tourist" class="rated-user user-red">tourist</a></td>
+<td class=" dark">3210</td>
+</tr>
+<tr>
+<td class="left ">2</td>
+<td class=""><a href="/profile/rng_58" title="Международный гроссмейстер rng_58" class="rated-user user-red">rng_58</a></td>
+<td class="">2877</td>
+</tr>
+<tr>
+<td class="left dark">3</td>
+<td class=" dark"><a href="/profile/Petr" title="Международный гроссмейстер Petr" class="rated-user user-red">Petr</a></td>
+<td class=" dark">2729</td>
+</tr>
+<tr>
+<td class="left ">4</td>
+<td class=""><a href="/profile/peter50216" title="Международный гроссмейстер peter50216" class="rated-user user-red">peter50216</a></td>
+<td class="">2718</td>
+</tr>
+<tr>
+<td class="left dark">5</td>
+<td class=" dark"><a href="/profile/RAVEman" title="Международный гроссмейстер RAVEman" class="rated-user user-red">RAVEman</a></td>
+<td class=" dark">2685</td>
+</tr>
+<tr>
+<td class="left ">5</td>
+<td class=""><a href="/profile/yeputons" title="Международный гроссмейстер yeputons" class="rated-user user-red">yeputons</a></td>
+<td class="">2685</td>
+</tr>
+<tr>
+<td class="left dark">7</td>
+<td class=" dark"><a href="/profile/WJMZBMR" title="Международный гроссмейстер WJMZBMR" class="rated-user user-red">WJMZBMR</a></td>
+<td class=" dark">2673</td>
+</tr>
+<tr>
+<td class="left ">8</td>
+<td class=""><a href="/profile/PavelKunyavskiy" title="Международный гроссмейстер PavelKunyavskiy" class="rated-user user-red">PavelKunyavskiy</a></td>
+<td class="">2670</td>
+</tr>
+<tr>
+<td class="left dark">9</td>
+<td class=" dark"><a href="/profile/meret" title="Международный гроссмейстер meret" class="rated-user user-red">meret</a></td>
+<td class=" dark">2655</td>
+</tr>
+<tr>
+<td class="left bottom">10</td>
+<td class="bottom"><a href="/profile/scott_wu" title="Международный гроссмейстер scott_wu" class="rated-user user-red">scott_wu</a></td>
+<td class="bottom">2643</td>
+</tr>
+</tbody>
+</table>
+<div class="bottom-links">
+<table style="width:100%;">
+<tbody>
+<tr>
+<td style="text-align:left;">
+<a href="/ratings/countries">Страны</a> |
+<a href="/ratings/cities">Города</a> |
+<a href="/ratings/organizations">Организации</a>
+</td>
+<td style="text-align:right;">
+<a href="/ratings">Всё &rarr;</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+    <div class="roundbox sidebox top-contributed" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+        <div class="caption titled">&rarr; Лидеры (вклад)
+            <div class="top-links">
+            </div>
+        </div>
+        <table class="rtable ">
+            <tbody>
+                <tr>
+                            <th class="left" style="width:2.25em;">№</th>
+                            <th class="">Пользователь</th>
+                            <th class="" style="width:5em;">Вклад</th>
+                </tr>
+                    <tr>
+                                <td class="left ">1</td>
+                                <td class=""><a href="/profile/Egor" title="Гроссмейстер Egor" class="rated-user user-red">Egor</a></td>
+                                <td class="">145</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">2</td>
+                                <td class=" dark"><a href="/profile/Sereja" title="Гроссмейстер Sereja" class="rated-user user-red">Sereja</a></td>
+                                <td class=" dark">134</td>
+                    </tr>
+                    <tr>
+                                <td class="left ">3</td>
+                                <td class=""><a href="/profile/Fefer_Ivan" title="Гроссмейстер Fefer_Ivan" class="rated-user user-red">Fefer_Ivan</a></td>
+                                <td class="">127</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">4</td>
+                                <td class=" dark"><a href="/profile/Petr" title="Международный гроссмейстер Petr" class="rated-user user-red">Petr</a></td>
+                                <td class=" dark">124</td>
+                    </tr>
+                    <tr>
+                                <td class="left ">5</td>
+                                <td class=""><a href="/profile/I_love_ilona" title="Гроссмейстер I_love_ilona" class="rated-user user-red">I_love_ilona</a></td>
+                                <td class="">123</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">6</td>
+                                <td class=" dark"><a href="/profile/dalex" title="Мастер dalex" class="rated-user user-orange">dalex</a></td>
+                                <td class=" dark">120</td>
+                    </tr>
+                    <tr>
+                                <td class="left ">7</td>
+                                <td class=""><a href="/profile/ruzana.miniakhmetova" title="Не в рейтинге, ruzana.miniakhmetova" class="rated-user user-black">ruzana.miniakhmetova</a></td>
+                                <td class="">119</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">8</td>
+                                <td class=" dark"><a href="/profile/PavelKunyavskiy" title="Международный гроссмейстер PavelKunyavskiy" class="rated-user user-red">PavelKunyavskiy</a></td>
+                                <td class=" dark">118</td>
+                    </tr>
+                    <tr>
+                                <td class="left ">8</td>
+                                <td class=""><a href="/profile/havaliza" title="Гроссмейстер havaliza" class="rated-user user-red">havaliza</a></td>
+                                <td class="">118</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">10</td>
+                                <td class=" dark"><a href="/profile/SkidanovAlex" title="Гроссмейстер SkidanovAlex" class="rated-user user-red">SkidanovAlex</a></td>
+                                <td class=" dark">117</td>
+                    </tr>
+                    <tr>
+                                <td class="left bottom">10</td>
+                                <td class="bottom"><a href="/profile/ilyakor" title="Гроссмейстер ilyakor" class="rated-user user-red">ilyakor</a></td>
+                                <td class="bottom">117</td>
+                    </tr>
+            </tbody>
+        </table>
+            <div class="bottom-links">
+                <table style="width:100%;">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:left;">
+                            </td>
+                            <td style="text-align:right;">
+                                    <a href="/top-contributed">Всё &rarr;</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+        });
+    </script>
+
+
+    <div class="roundbox sidebox" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+        <div class="caption titled">&rarr; Найти пользователя
+            <div class="top-links">
+            </div>
+        </div>
+        <form class="handleForm" action="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+            <div style="padding:1em;text-align:right;">
+                <label style="padding-right:1em;">Хэндл:</label>
+                <input style="width:12em;" type="text" class="handleBox"/>
+            </div>
+            <div style="padding: 0 1em 1em 1em;text-align:right;">
+                <input style="height:1.65em;padding:0 0.75em;" type="submit" value="Найти"/>
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".handleBox").autocomplete("/data/handles", {
+        delay: 200,
+        width: 200,
+        selectFirst: false,
+        matchContains: true
+    });
+    $(".handleForm").attr("autocomplete", "off").submit(function() {
+        var link = "/profile/userHandle".replace(
+            "userHandle", $(this).find(".handleBox").val()
+        );
+        window.location = link;
+        return false;
+    });
+        });
+    </script>
+
+
+    <div class="roundbox sidebox" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+        <div class="caption titled">&rarr; Прямой эфир
+            <div class="top-links">
+            </div>
+        </div>
+    <div class="recent-actions">
+        <ul>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/Sereja" title="Гроссмейстер Sereja" class="rated-user user-red">Sereja</a> &rarr;
+        <a href="/blog/entry/9056">Codeforces Round #204</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/guliashvili" title="Мастер guliashvili" class="rated-user user-orange">guliashvili</a> &rarr;
+        <a href="/blog/entry/7882">Croc champ 2013 round 2 t-shirts!</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/Xellos" title="Мастер Xellos" class="rated-user user-orange">Xellos</a> &rarr;
+        <a href="/blog/entry/9060">Codeforces Trainings Season 1 Episode 4: Editorial</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/gridnevvvit" title="Кандидат в мастера gridnevvvit" class="rated-user user-violet">gridnevvvit</a> &rarr;
+        <a href="/blog/entry/9003">Codeforces Round #203 (Div. 2)</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/kursatba144" title="Ученик kursatba144" class="rated-user user-green">kursatba144</a> &rarr;
+        <a href="/blog/entry/9069">Who remembers the anime "POKEMON"?</a>
+&nbsp;&nbsp;<img alt="Текст создан или обновлен" title="Текст создан или обновлен" src="http://worker.codeforces.ru/static/images/icons/x-update-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/gridnevvvit" title="Кандидат в мастера gridnevvvit" class="rated-user user-violet">gridnevvvit</a> &rarr;
+        <a href="/blog/entry/9042">Разбор Codeforces Round #203 (Div. 2) </a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/lukasP" title="Кандидат в мастера lukasP" class="rated-user user-violet">lukasP</a> &rarr;
+        <a href="/blog/entry/9004">NCPC and UKIEPC 2013 online contest</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/anup.kalbalia" title="Не в рейтинге, anup.kalbalia" class="rated-user user-black">anup.kalbalia</a> &rarr;
+        <a href="/blog/entry/9068">Invitation to the October 2013 Long Challenge on CodeChef</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/Sereja" title="Гроссмейстер Sereja" class="rated-user user-red">Sereja</a> &rarr;
+        <a href="/blog/entry/4982">Разбор задач Codeforces Round #131</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/Joshik" title="Мастер Joshik" class="rated-user user-orange">Joshik</a> &rarr;
+        <a href="/blog/entry/9039">Kotlin Challenge — новая олимпиада по новому языку: открываем регистрацию!</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/sylap" title="Эксперт sylap" class="rated-user user-blue">sylap</a> &rarr;
+        <a href="/blog/entry/9067">All about stack memory and heap memory</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/Shuaib" title="Эксперт Shuaib" class="rated-user user-blue">Shuaib</a> &rarr;
+        <a href="/blog/entry/7230">What is solution to problem B of CR177</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/witua" title="Гроссмейстер witua" class="rated-user user-red">witua</a> &rarr;
+        <a href="/blog/entry/7241">Codeforces Round #177, разбор задач</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov" class="rated-user user-admin">MikeMirzayanov</a> &rarr;
+        <a href="/blog/entry/9044">2013-2014 CT S01E04: Codeforces Trainings Season 1 Episode 4</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/oleg_mm" title="Мастер oleg_mm" class="rated-user user-orange">oleg_mm</a> &rarr;
+        <a href="/blog/entry/9051">Небольшой контест от компании 3DiVi</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/KADR" title="Международный гроссмейстер KADR" class="rated-user user-red">KADR</a> &rarr;
+        <a href="/blog/entry/6054">Разбор задач Codeforces Round #153</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/caustique" title="Мастер caustique" class="rated-user user-orange">caustique</a> &rarr;
+        <a href="/blog/entry/9031">Разбор задач Codeforces Round #202</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/Vlad_Yermak0v" title="Кандидат в мастера Vlad_Yermak0v" class="rated-user user-violet">Vlad_Yermak0v</a> &rarr;
+        <a href="/blog/entry/9062">Вторая командная интернет-олимпиада</a>
+&nbsp;&nbsp;<img alt="Текст создан или обновлен" title="Текст создан или обновлен" src="http://worker.codeforces.ru/static/images/icons/x-update-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/Omelyanenko" title="Кандидат в мастера Omelyanenko" class="rated-user user-violet">Omelyanenko</a> &rarr;
+        <a href="/blog/entry/9065">Topcoder SRM 593</a>
+&nbsp;&nbsp;<img alt="Текст создан или обновлен" title="Текст создан или обновлен" src="http://worker.codeforces.ru/static/images/icons/x-update-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov" class="rated-user user-admin">MikeMirzayanov</a> &rarr;
+        <a href="/blog/entry/8788">Testlib 0.9.4</a>
+&nbsp;&nbsp;<img alt="Текст создан или обновлен" title="Текст создан или обновлен" src="http://worker.codeforces.ru/static/images/icons/x-update-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/shamir14" title="Кандидат в мастера shamir14" class="rated-user user-violet">shamir14</a> &rarr;
+        <a href="/blog/entry/9064">Which compiler should we use?</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/SAKT" title="Эксперт SAKT" class="rated-user user-blue">SAKT</a> &rarr;
+        <a href="/blog/entry/8981">Registering on Codeforces</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/aropan" title="Гроссмейстер aropan" class="rated-user user-red">aropan</a> &rarr;
+        <a href="/blog/entry/4041">Ресурс clist.x10.mx переехал на clist.by</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/I_love_natalia" title="Гроссмейстер I_love_natalia" class="rated-user user-red">I_love_natalia</a> &rarr;
+        <a href="/blog/entry/4876">Почему не надо использовать Java.HashSet/HashMap для целых чисел.</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+                    <li>
+<div style="font-size:0.9em;padding:0.5em 0;">
+    <a href="/profile/andrewzta" title="Гроссмейстер andrewzta" class="rated-user user-red">andrewzta</a> &rarr;
+        <a href="/blog/entry/8935">Трансляция Russian Code Cup</a>
+&nbsp;&nbsp;<img alt="Новый комментарий" title="Новый комментарий" src="http://worker.codeforces.ru/static/images/icons/comment-12x12.png" style="vertical-align:middle;"/>
+</div>
+</li>
+        </ul>
+    </div>
+            <div class="bottom-links">
+                <table style="width:100%;">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:left;">
+                            </td>
+                            <td style="text-align:right;">
+                                    <a href="/recent-actions">Детальнее &rarr;</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+    </div>
+                </div>
+                <div id="content" class="content-with-sidebar">
+
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="9111">
+    <div class="title">
+            <a href="/blog/entry/9056"><p>Codeforces Round #204</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/Sereja" title="Гроссмейстер Sereja" class="rated-user user-red">Sereja</a>,&nbsp;<span title="03.10.2013 00:58">43 часа назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-9056-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-9056-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-9056-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-9056-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-9056-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-9056-blogId-error blogEntry-9056-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9056-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-9056-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-9056-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-9056-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-9056-contestId-error blogEntry-9056-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9056-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-9056-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-9056-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-9056-resourceType-error blogEntry-9056-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9056-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-9056-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-9056-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-9056-error").hide();
+
+        $(".attach-blogEntry-9056-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-9056-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-9056-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-9056-error").hide();
+                    $("#facebox #blogEntry-9056-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-9056-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"1981", contestId:$("#facebox #blogEntry-9056-contestId").val(),
+                        blogEntryId:"9056",
+                        resourceType:$("#facebox #blogEntry-9056-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-9056-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-9056-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-9056-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-9056-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-9056-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-9056-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-9056-contestId-loading-indicator").hide();
+                        $("#blogEntry-9056-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-9056-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-9056-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p>Всем привет!</p><p>Совсем скоро, <a href="http://www.timeanddate.com/worldclock/fixedtime.html?day=4&amp;month=10&amp;year=2013&amp;hour=19&amp;min=30&amp;sec=0&amp;p1=166">4 октября в 19:30 MSK</a> состоится Codeforces Round #204, автором которого являюсь я. Это мой восьмой раунд на Codeforces и я надеюсь, что не последний.</p><p>Спасибо Геральду Агапову (<a class="rated-user user-red" href="/profile/Gerald" title="Гроссмейстер Gerald">Gerald</a>), Евгену Василиву(<a class="rated-user user-orange" href="/profile/yvasyliv" title="Мастер yvasyliv">yvasyliv</a>), Максиму Бевзе(<a class="rated-user user-orange" href="/profile/Cenadar" title="Международный мастер Cenadar">Cenadar</a>) и Максиму Ахмедову(<a class="rated-user user-red" href="/profile/Zlobober" title="Гроссмейстер Zlobober">Zlobober</a>) за помощь в подготовке раунда и Марии Беловой (<a class="rated-user user-black" href="/profile/delinur" title="Не в рейтинге, delinur">delinur</a>) за перевод условий на английский.</p><p>Настоятельно рекомендую прочитать условия ВСЕХ задач.</p><p>Разбалловка в первом дивизионе: <strong>1000-1000-1500-2000-2000</strong>.<br />Разбалловка во втором дивизионе: <strong>стандарт</strong>. </p><p>Gl &amp; hf ! :)</p></div><p><a href="/blog/entry/9056">Полный текст &raquo;</a></p>
+    </div>
+
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=codeforces%20round%20%23204" class="tag notice" style="text-decoration: none;">codeforces round #204</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-9111"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-9111">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+172</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-9111"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-9111">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/9056"
+             data-yashareTitle="Codeforces: Codeforces Round #204"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/Sereja"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/Sereja">
+        Sereja
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="03.10.2013 00:58">43 часа назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/9056#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/9056#comments">
+        51
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-9111").click(function() {
+        $.post("/data/topic/vote", {topicId: 9111, _tta: Codeforces.tta(), topicRevisionId: 32308, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-9111").click(function() {
+        $.post("/data/topic/vote", {topicId: 9111, _tta: Codeforces.tta(), topicRevisionId: 32308, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="9099">
+    <div class="title">
+            <a href="/blog/entry/9044"><p>2013-2014 CT S01E04: Codeforces Trainings Season 1 Episode 4</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov" class="rated-user user-admin">MikeMirzayanov</a>,&nbsp;<span title="02.10.2013 01:50">3 дня назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-9044-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-9044-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-9044-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-9044-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-9044-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-9044-blogId-error blogEntry-9044-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9044-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-9044-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-9044-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-9044-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-9044-contestId-error blogEntry-9044-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9044-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-9044-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-9044-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-9044-resourceType-error blogEntry-9044-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9044-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-9044-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-9044-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-9044-error").hide();
+
+        $(".attach-blogEntry-9044-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-9044-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-9044-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-9044-error").hide();
+                    $("#facebox #blogEntry-9044-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-9044-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"1", contestId:$("#facebox #blogEntry-9044-contestId").val(),
+                        blogEntryId:"9044",
+                        resourceType:$("#facebox #blogEntry-9044-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-9044-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-9044-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-9044-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-9044-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-9044-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-9044-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-9044-contestId-loading-indicator").hide();
+                        $("#blogEntry-9044-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-9044-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-9044-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p><img src="http://212.193.37.254/codeforces/images/training-sign.jpg" style="float: right;margin: 0.25em 0.5em 0.5em 0.5em;" /></p><p>Добро пожаловать на <a href="/gym/100236" title="2013-2014 CT S01E04: Codeforces Trainings Season 1 Episode 4">2013-2014 CT S01E04: Codeforces Trainings Season 1 Episode 4</a>. Продолжительность тренировки — 5 часов. Тренировка открыта как для команд, так и для индивидуальных участников. После ее окончания вы можете дорешивать задачи тренировки или поучаствовать в ней виртуально, если не смогли принять участие одновременно со всеми. Пожалуйста, участвуйте в тренировке честно.</p><p>Так как это тренировка, то возможно набор задач будет расширен, если для значительного количества участников он окажется простым.</p><p>Регистрация на тренировку будет доступна со страницы <a href="/gyms">Тренировки</a> и будет открыта до окончания тренировки. Регистрируя команду, выберите именно тех её членов, кто будет писать тренировку.</p><p>Основной набор задач на тренировку предоставил <a class="rated-user user-violet" href="/profile/mohammadrdeh" title="Кандидат в мастера mohammadrdeh">mohammadrdeh</a>. Спасибо, большая помощь! Берите пример.</p><p>Удачи!</p></div><p><a href="/blog/entry/9044">Полный текст &raquo;</a></p>
+    </div>
+
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=codeforces" class="tag notice" style="text-decoration: none;">codeforces</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8" class="tag notice" style="text-decoration: none;">тренировки</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-9099"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-9099">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+48</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-9099"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-9099">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/9044"
+             data-yashareTitle="Codeforces: 2013-2014 CT S01E04: Codeforces Trainings Season 1 Episode 4"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/MikeMirzayanov"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/MikeMirzayanov">
+        MikeMirzayanov
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="02.10.2013 01:50">3 дня назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/9044#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/9044#comments">
+        43
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-9099").click(function() {
+        $.post("/data/topic/vote", {topicId: 9099, _tta: Codeforces.tta(), topicRevisionId: 32176, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-9099").click(function() {
+        $.post("/data/topic/vote", {topicId: 9099, _tta: Codeforces.tta(), topicRevisionId: 32176, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="9058">
+    <div class="title">
+            <a href="/blog/entry/9003"><p>Codeforces Round #203 (Div. 2)</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/gridnevvvit" title="Кандидат в мастера gridnevvvit" class="rated-user user-violet">gridnevvvit</a>,&nbsp;<span title="28.09.2013 01:02">7 дней назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-9003-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-9003-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-9003-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-9003-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-9003-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-9003-blogId-error blogEntry-9003-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9003-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-9003-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-9003-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-9003-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-9003-contestId-error blogEntry-9003-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9003-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-9003-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-9003-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-9003-resourceType-error blogEntry-9003-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9003-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-9003-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-9003-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-9003-error").hide();
+
+        $(".attach-blogEntry-9003-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-9003-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-9003-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-9003-error").hide();
+                    $("#facebox #blogEntry-9003-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-9003-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"6883", contestId:$("#facebox #blogEntry-9003-contestId").val(),
+                        blogEntryId:"9003",
+                        resourceType:$("#facebox #blogEntry-9003-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-9003-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-9003-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-9003-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-9003-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-9003-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-9003-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-9003-contestId-loading-indicator").hide();
+                        $("#blogEntry-9003-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-9003-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-9003-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p>Всем привет! </p><p>Скоро (<a href="http://www.timeanddate.com/worldclock/fixedtime.html?day=1&amp;month=10&amp;year=2013&amp;hour=19&amp;min=30&amp;sec=0&amp;p1=166">1 октября, 19:30 MSK</a>) состоится очередной Codeforces Round #203 для участников Div. 2. Как обычно, Div. 1 участники смогут поучаствовать в этом раунде вне конкурса.</p><p>Автором раунда являюсь я. Хочется сказать большое спасибо Гере Агапову (<a class="rated-user user-red" href="/profile/Gerald" title="Гроссмейстер Gerald">Gerald</a>) за помощь в подготовке и за хорошие предложения по задачам. Спасибо Лось Илье (<a class="rated-user user-orange" href="/profile/IlyaLos" title="Мастер IlyaLos">IlyaLos</a>) за тестирование задач, Марии Беловой (<a class="rated-user user-black" href="/profile/Delinur" title="Не в рейтинге, Delinur">Delinur</a>) за переводы на английский, Михаилу Мирзаянову (<a class="rated-user user-admin" href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov">MikeMirzayanov</a>) за замечательные системы Codeforces и Polygon. Также спасибо Игнатьеву Александру (<a class="rated-user user-blue" href="/profile/dudkamaster" title="Эксперт dudkamaster">dudkamaster</a>) за тестирование задач и идею одной из них.</p><p>Удачи!</p><p><strong>UPD</strong>: Будет использоваться динамическое распределение баллов. Задачи расположены в порядке увеличения сложности (по мнению авторов).</p><p><strong>UPD</strong>: Поздравляем победителей!</p> <ol>   <li><a class="rated-user user-black" href="/profile/fanhqme" title="Не в рейтинге, fanhqme">fanhqme</a></li>   <li><a class="rated-user user-black" href="/profile/FAU.COACH" title="Не в рейтинге, FAU.COACH">FAU.COACH</a></li>   <li><a class="rated-user user-blue" href="/profile/Witalia" title="Эксперт Witalia">Witalia</a></li>   <li><a class="rated-user user-blue" href="/profile/sokian" title="Эксперт sokian">sokian</a></li> </ol><p><strong>UPD:</strong> <a href="http://codeforces.ru/blog/entry/9042">Разбор</a></p></div><p><a href="/blog/entry/9003">Полный текст &raquo;</a></p>
+    </div>
+
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/contest/350" class="notice" style="text-decoration: none;">Codeforces Round #203 (Div. 2)</a></span>
+    </div>
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=codeforces" class="tag notice" style="text-decoration: none;">codeforces</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=round" class="tag notice" style="text-decoration: none;">round</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=203" class="tag notice" style="text-decoration: none;">203</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-9058"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-9058">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+140</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-9058"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-9058">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/9003"
+             data-yashareTitle="Codeforces: Codeforces Round #203 (Div. 2)"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/gridnevvvit"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/gridnevvvit">
+        gridnevvvit
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="28.09.2013 01:02">7 дней назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/9003#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/9003#comments">
+        104
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-9058").click(function() {
+        $.post("/data/topic/vote", {topicId: 9058, _tta: Codeforces.tta(), topicRevisionId: 32186, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-9058").click(function() {
+        $.post("/data/topic/vote", {topicId: 9058, _tta: Codeforces.tta(), topicRevisionId: 32186, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="9089">
+    <div class="title">
+            <a href="/blog/entry/9034"><p>Расширение функциональности скриптов генерации тестов в Polygon</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/Fefer_Ivan" title="Гроссмейстер Fefer_Ivan" class="rated-user user-red">Fefer_Ivan</a>,&nbsp;<span title="30.09.2013 19:57">4 дня назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-9034-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-9034-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-9034-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-9034-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-9034-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-9034-blogId-error blogEntry-9034-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9034-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-9034-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-9034-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-9034-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-9034-contestId-error blogEntry-9034-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9034-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-9034-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-9034-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-9034-resourceType-error blogEntry-9034-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-9034-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-9034-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-9034-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-9034-error").hide();
+
+        $(".attach-blogEntry-9034-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-9034-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-9034-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-9034-error").hide();
+                    $("#facebox #blogEntry-9034-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-9034-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"119", contestId:$("#facebox #blogEntry-9034-contestId").val(),
+                        blogEntryId:"9034",
+                        resourceType:$("#facebox #blogEntry-9034-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-9034-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-9034-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-9034-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-9034-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-9034-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-9034-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-9034-contestId-loading-indicator").hide();
+                        $("#blogEntry-9034-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-9034-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-9034-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p>Доброй ночи/рассвета/утра/дня/заката/вечера/ночи, Codeforces!</p><p>Сегодня я рад представить вам последнее обновление в функциональности <a href="https://polygon.codeforces.ru">Polygon</a> — системы подготовки олимпиадных задач по программированию. В системе Polygon создаются все раунды Codeforces. </p><p>Это обновление сосредоточено вокруг скриптов для генерации тестов.</p><p><img alt="Окно ввода скрипта" src="https://dl.dropboxusercontent.com/u/28090424/ScriptField.png" /></p></div><p><a href="/blog/entry/9034">Полный текст &raquo;</a></p>
+    </div>
+
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=polygon" class="tag notice" style="text-decoration: none;">polygon</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=freemarker" class="tag notice" style="text-decoration: none;">freemarker</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-9089"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-9089">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+127</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-9089"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-9089">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/9034"
+             data-yashareTitle="Codeforces: Расширение функциональности скриптов генерации тестов в Polygon"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/Fefer_Ivan"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/Fefer_Ivan">
+        Fefer_Ivan
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="30.09.2013 19:57">4 дня назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/9034#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/9034#comments">
+        2
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-9089").click(function() {
+        $.post("/data/topic/vote", {topicId: 9089, _tta: Codeforces.tta(), topicRevisionId: 32146, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-9089").click(function() {
+        $.post("/data/topic/vote", {topicId: 9089, _tta: Codeforces.tta(), topicRevisionId: 32146, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="9040">
+    <div class="title">
+            <a href="/blog/entry/8985"><p>Codeforces Round #202</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/caustique" title="Мастер caustique" class="rated-user user-orange">caustique</a>,&nbsp;<span title="27.09.2013 01:40">8 дней назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-8985-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-8985-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-8985-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-8985-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-8985-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-8985-blogId-error blogEntry-8985-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8985-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8985-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-8985-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-8985-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-8985-contestId-error blogEntry-8985-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8985-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8985-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-8985-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-8985-resourceType-error blogEntry-8985-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8985-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-8985-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-8985-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-8985-error").hide();
+
+        $(".attach-blogEntry-8985-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-8985-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-8985-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-8985-error").hide();
+                    $("#facebox #blogEntry-8985-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-8985-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"784", contestId:$("#facebox #blogEntry-8985-contestId").val(),
+                        blogEntryId:"8985",
+                        resourceType:$("#facebox #blogEntry-8985-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-8985-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-8985-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-8985-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-8985-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-8985-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-8985-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-8985-contestId-loading-indicator").hide();
+                        $("#blogEntry-8985-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-8985-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-8985-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p>Привет, Codeforces!</p><p>Сегодня, <a href="http://www.timeanddate.com/worldclock/fixedtime.html?day=27&amp;month=9&amp;year=2013&amp;hour=19&amp;min=30&amp;sec=0&amp;p1=166">27 сентября в 19:30 МСК</a>, состоится Codeforces Round #202.</p><p>Идея раунда зародилась у меня и моих друзей, когда мы стажировались в Facebook этим летом. Возможно, у этого раунда рекордное для Codeforces количество авторов. Авторами задач стали Азизхан Алмахан <a class="rated-user user-red" href="/profile/azizkhan" title="Гроссмейстер azizkhan">azizkhan</a>, Михаил Колупаев <a class="rated-user user-red" href="/profile/al13n" title="Гроссмейстер al13n">al13n</a>, Филип Хласек <a class="rated-user user-red" href="/profile/fhlasek" title="Гроссмейстер fhlasek">fhlasek</a>, Иван Мандура <a class="rated-user user-blue" href="/profile/budabudimir" title="Эксперт budabudimir">budabudimir</a> и я, Игорь Демидов <a class="rated-user user-orange" href="/profile/caustique" title="Мастер caustique">caustique</a>.</p><p>В подготовке раунда нам помогали Максим Корыстов <a class="rated-user user-violet" href="/profile/dark_ai" title="Кандидат в мастера dark_ai">dark_ai</a>, Александр Федулин <a class="rated-user user-orange" href="/profile/Jughead" title="Мастер Jughead">Jughead</a>, Ибрагим Исмаилов <a class="rated-user user-violet" href="/profile/ibra" title="Кандидат в мастера ibra">ibra</a>, Владимир Чалышев <a class="rated-user user-red" href="/profile/cmd" title="Гроссмейстер cmd">cmd</a> и Сергей Скляниченко <a class="rated-user user-violet" href="/profile/Sklyack" title="Кандидат в мастера Sklyack">Sklyack</a>.</p><p>Идеи 2 задач мне подали Антон Ермилов <a class="rated-user user-violet" href="/profile/ant.ermilov" title="Кандидат в мастера ant.ermilov">ant.ermilov</a> и Дмитрий Краснов <a class="rated-user user-blue" href="/profile/navi-spb" title="Эксперт navi-spb">navi-spb</a>.</p><p>Тестировали раунд Алексей Сафронов <a class="rated-user user-red" href="/profile/yarrr" title="Гроссмейстер yarrr">yarrr</a> и Алексей Шмелев <a class="rated-user user-red" href="/profile/ashmelev" title="Гроссмейстер ashmelev">ashmelev</a>.</p><p>Также я хотел бы поблагодарить Геральда Агапова <a class="rated-user user-red" href="/profile/Gerald" title="Гроссмейстер Gerald">Gerald</a> за помощь в подготовке контеста.</p><p>Надеюсь, задачи Вам покажутся разнообразными и интересными. Уверен, что каждый найдет себе задачу по вкусу.</p><p>Разбалловка стандартная 500-1000-1500-2000-2500.</p><p>Желаю удачи и удовольствия от решения задач!</p><p>Поздравляем победителей!</p><p>Div. 1</p> <ol>   <li><a class="rated-user user-red" href="/profile/ilyakor" title="Гроссмейстер ilyakor">ilyakor</a></li>   <li><a class="rated-user user-red" href="/profile/rng_58" title="Международный гроссмейстер rng_58">rng_58</a></li>   <li><a class="rated-user user-orange" href="/profile/tozangezan" title="Мастер tozangezan">tozangezan</a></li>   <li><a class="rated-user user-red" href="/profile/ftiasch" title="Гроссмейстер ftiasch">ftiasch</a></li>   <li><a class="rated-user user-orange" href="/profile/phtniit" title="Международный мастер phtniit">phtniit</a></li>   <li><a class="rated-user user-orange" href="/profile/SillyHook06" title="Международный мастер SillyHook06">SillyHook06</a></li>   <li><a class="rated-user user-red" href="/profile/niyaznigmatul" title="Гроссмейстер niyaznigmatul">niyaznigmatul</a></li> </ol><p>Div. 2</p> <ol>   <li><a class="rated-user user-blue" href="/profile/zhk" title="Эксперт zhk">zhk</a></li>   <li><a class="rated-user user-blue" href="/profile/love_kd" title="Эксперт love_kd">love_kd</a></li>   <li><a class="rated-user user-blue" href="/profile/alex_k" title="Эксперт alex_k">alex_k</a></li>   <li><a class="rated-user user-blue" href="/profile/arpit11293" title="Эксперт arpit11293">arpit11293</a></li> </ol><p><strong>Внимание! Появился <a href="http://codeforces.ru/blog/entry/9031">разбор всех задач</a> на обоих языках!</strong></p></div><p><a href="/blog/entry/8985">Полный текст &raquo;</a></p>
+    </div>
+
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/contest/348" class="notice" style="text-decoration: none;">Codeforces Round #202 (Div. 1)</a></span>
+    </div>
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/contest/349" class="notice" style="text-decoration: none;">Codeforces Round #202 (Div. 2)</a></span>
+    </div>
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=codeforces%20round%20%23202" class="tag notice" style="text-decoration: none;">codeforces round #202</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=round" class="tag notice" style="text-decoration: none;">round</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=202" class="tag notice" style="text-decoration: none;">202</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-9040"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-9040">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+272</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-9040"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-9040">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/8985"
+             data-yashareTitle="Codeforces: Codeforces Round #202"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/caustique"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/caustique">
+        caustique
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="27.09.2013 01:40">8 дней назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/8985#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/8985#comments">
+        176
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-9040").click(function() {
+        $.post("/data/topic/vote", {topicId: 9040, _tta: Codeforces.tta(), topicRevisionId: 32142, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-9040").click(function() {
+        $.post("/data/topic/vote", {topicId: 9040, _tta: Codeforces.tta(), topicRevisionId: 32142, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="9018">
+    <div class="title">
+            <a href="/blog/entry/8963"><p>Изменения в подсчете вклада</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov" class="rated-user user-admin">MikeMirzayanov</a>,&nbsp;<span title="26.09.2013 03:08">9 дней назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-8963-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-8963-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-8963-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-8963-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-8963-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-8963-blogId-error blogEntry-8963-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8963-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8963-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-8963-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-8963-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-8963-contestId-error blogEntry-8963-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8963-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8963-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-8963-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-8963-resourceType-error blogEntry-8963-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8963-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-8963-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-8963-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-8963-error").hide();
+
+        $(".attach-blogEntry-8963-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-8963-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-8963-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-8963-error").hide();
+                    $("#facebox #blogEntry-8963-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-8963-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"1", contestId:$("#facebox #blogEntry-8963-contestId").val(),
+                        blogEntryId:"8963",
+                        resourceType:$("#facebox #blogEntry-8963-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-8963-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-8963-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-8963-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-8963-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-8963-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-8963-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-8963-contestId-loading-indicator").hide();
+                        $("#blogEntry-8963-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-8963-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-8963-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p>Смотрю на часы и говорю вам &quot;доброй ночи&quot;.</p><p>Всегда был уверен, что ездить на сбора важно и полезно — даже если ты уже лет 10 как тренер. Этим летом на Петрозаводских сборах с удовольствием пообщался сразу с несколькими неравнодушными пользователями Codeforces, кто накидал мне ряд хороших идей. Спасибо!</p><p>Внедренная сегодня идея давно крутилась у меня в голове, но сразу несколько человек недавно независимо намекнули мне, что так логично сделать. <em>Теперь оценки за комментарии и посты не просто суммируются, но теряют свой вес со временем.</em> Таким образом, теперь вклад в большей степень отражает оценки за деятельность на текущий момент. То есть, если вас поплюсовали (заминусовали) за какую-то деятельность, то через некоторое время этот факт начнет оказывать меньшее влияние на вклад (а потом еще меньшее и так далее).</p><p>Хотите подробностей? Их есть у меня. Каждые 180 дней оценки начинают фактически делиться пополам. Например, когда пройдет полгода от финала ACM-ICPC есть все основания полагать, что <a class="rated-user user-red" href="/profile/Egor" title="Гроссмейстер Egor">Egor</a> опустится в статистике по вкладу. Теперь топ вклада в большей степени отражает активных на текущий момент членов сообщества.</p><p>Заодно были сделаны и другие небольшие изменения:</p> <ol>   <li>по мотивам <a href="/blog/entry/8954">обсуждения</a> и старых размышлений было внедрено сокрытие актуальной оценки комментария, если это значение лежит в диапазоне [-5,-1],</li>   <li>в ленте комментариев теперь визуализируется факт голосования,</li>   <li>формулы для пересчета суммы оценок во вклад чуток поменялись, чтобы не было такого, что вам поставили пару плюсов, а вклад уже +50 — теперь всё более гладко,</li>   <li>теперь комментарий становится менее заметным, если оценка меньше -10 (было -5),</li>   <li>теперь комментарий скрывается сообщением о низкой оценке, если оценка меньше -25 (было -10).</li> </ol><p>Полагаю, что скоро сделаем синхронные изменения к 1-2 и для голосования по топикам.</p></div><p><a href="/blog/entry/8963">Полный текст &raquo;</a></p>
+    </div>
+
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=codeforces" class="tag notice" style="text-decoration: none;">codeforces</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" class="tag notice" style="text-decoration: none;">вклад</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-9018"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-9018">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+190</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-9018"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-9018">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/8963"
+             data-yashareTitle="Codeforces: Изменения в подсчете вклада"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/MikeMirzayanov"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/MikeMirzayanov">
+        MikeMirzayanov
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="26.09.2013 03:08">9 дней назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/8963#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/8963#comments">
+        43
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-9018").click(function() {
+        $.post("/data/topic/vote", {topicId: 9018, _tta: Codeforces.tta(), topicRevisionId: 31893, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-9018").click(function() {
+        $.post("/data/topic/vote", {topicId: 9018, _tta: Codeforces.tta(), topicRevisionId: 31893, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="9008">
+    <div class="title">
+            <a href="/blog/entry/8953"><p>2013-2014 CT S01E03: Codeforces Trainings Season 1 Episode 3</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov" class="rated-user user-admin">MikeMirzayanov</a>,&nbsp;<span title="25.09.2013 01:07">10 дней назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-8953-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-8953-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-8953-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-8953-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-8953-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-8953-blogId-error blogEntry-8953-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8953-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8953-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-8953-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-8953-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-8953-contestId-error blogEntry-8953-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8953-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8953-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-8953-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-8953-resourceType-error blogEntry-8953-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8953-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-8953-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-8953-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-8953-error").hide();
+
+        $(".attach-blogEntry-8953-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-8953-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-8953-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-8953-error").hide();
+                    $("#facebox #blogEntry-8953-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-8953-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"1", contestId:$("#facebox #blogEntry-8953-contestId").val(),
+                        blogEntryId:"8953",
+                        resourceType:$("#facebox #blogEntry-8953-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-8953-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-8953-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-8953-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-8953-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-8953-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-8953-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-8953-contestId-loading-indicator").hide();
+                        $("#blogEntry-8953-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-8953-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-8953-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p><img src="http://212.193.37.254/codeforces/images/gym.jpg" style="float: right;margin: 0.25em 0.5em 0.5em 0.5em;" /></p><p>Добро пожаловать на <a href="/gym/100231">2013-2014 CT S01E03: selected problems from 2002 Central European (CEPC 2002) + 2010 Southeast USA Region</a>. Продолжительность тренировки — 5 часов. Тренировка открыта как для команд, так и для индивидуальных участников. После ее окончания вы можете дорешивать задачи тренировки или поучаствовать в ней виртуально, если не смогли принять участие одновременно со всеми. Пожалуйста, участвуйте в тренировке честно.</p><p>Так как это тренировка, то возможно набор задач будет расширен, если для значительного количества участников он окажется простым.</p><p>Регистрация на тренировку будет доступна со страницы <a href="/gyms">Тренировки</a> и будет открыта до окончания тренировки. Регистрируя команду, выберите именно тех её членов, кто будет писать тренировку.</p><p>Удачи!</p></div><p><a href="/blog/entry/8953">Полный текст &raquo;</a></p>
+    </div>
+
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/gym/100231" class="notice" style="text-decoration: none;">2013-2014 CT S01E03: selected problems from 2002 Central European (CEPC 2002) + 2010 Southeast USA Region</a></span>
+    </div>
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=codeforces" class="tag notice" style="text-decoration: none;">codeforces</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8" class="tag notice" style="text-decoration: none;">тренировки</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-9008"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-9008">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+62</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-9008"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-9008">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/8953"
+             data-yashareTitle="Codeforces: 2013-2014 CT S01E03: Codeforces Trainings Season 1 Episode 3"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/MikeMirzayanov"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/MikeMirzayanov">
+        MikeMirzayanov
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="25.09.2013 01:07">10 дней назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/8953#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/8953#comments">
+        46
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-9008").click(function() {
+        $.post("/data/topic/vote", {topicId: 9008, _tta: Codeforces.tta(), topicRevisionId: 31847, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-9008").click(function() {
+        $.post("/data/topic/vote", {topicId: 9008, _tta: Codeforces.tta(), topicRevisionId: 31847, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="8951">
+    <div class="title">
+            <a href="/blog/entry/8896"><p>Codeforces Round #201</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/UESTC_Nocturne" title="Гроссмейстер UESTC_Nocturne" class="rated-user user-red">UESTC_Nocturne</a>,&nbsp;<span title="19.09.2013 15:37">2 недели назад</span>,
+        перевод,
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-8896-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-8896-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-8896-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-8896-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-8896-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-8896-blogId-error blogEntry-8896-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8896-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8896-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-8896-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-8896-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-8896-contestId-error blogEntry-8896-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8896-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8896-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-8896-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-8896-resourceType-error blogEntry-8896-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8896-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-8896-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-8896-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-8896-error").hide();
+
+        $(".attach-blogEntry-8896-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-8896-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-8896-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-8896-error").hide();
+                    $("#facebox #blogEntry-8896-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-8896-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"6668", contestId:$("#facebox #blogEntry-8896-contestId").val(),
+                        blogEntryId:"8896",
+                        resourceType:$("#facebox #blogEntry-8896-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-8896-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-8896-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-8896-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-8896-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-8896-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-8896-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-8896-contestId-loading-indicator").hide();
+                        $("#blogEntry-8896-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-8896-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-8896-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p>Всем привет!</p><p>Codeforces Round #201 пройдет в пятницу, 20-го сентября в <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Codeforces+Round+%23201&amp;day=20&amp;month=9&amp;year=2013&amp;hour=19&amp;min=30&amp;sec=0&amp;p1=166">пятницу, 20-го сентября в 19:30 MSK(23:30 CST)</a></p><p>Авторы задач: <a class="rated-user user-orange" href="/profile/CMHJT" title="Мастер CMHJT">CMHJT</a> и я.</p><p>Тестеры: <a class="rated-user user-orange" href="/profile/error202" title="Международный мастер error202">error202</a>, <a class="rated-user user-red" href="/profile/havaliza" title="Гроссмейстер havaliza">havaliza</a> и <a class="rated-user user-red" href="/profile/tourist" title="Международный гроссмейстер tourist">tourist</a>.</p><p>Мы хотим сказать спасибо <a class="rated-user user-red" href="/profile/xiaodao" title="Гроссмейстер xiaodao">xiaodao</a> за обработку условий, <strong>Delinur</strong> за перевод условий задач на русский язык, и <a class="rated-user user-admin" href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov">MikeMirzayanov</a> за разработку мощной платформы для подготовки контестов.</p><p>Особая благодарность пользователям <a class="rated-user user-red" href="/profile/tourist" title="Международный гроссмейстер tourist">tourist</a> и <a class="rated-user user-red" href="/profile/Gerald" title="Гроссмейстер Gerald">Gerald</a> за их советы по задачам, теперь задачи расположены в наиболее правильном порядке.</p> <hr /><p>500 — 1000 — 1500 — 2000 — 2500.</p><p>Будет использоваться стандартная разбалловка в обоих дивизионах. Задачи будут не очень сложными, но вам потребуется думать гораздо больше нежели писать код.</p><p>Удачи!</p></div><p><a href="/blog/entry/8896">Полный текст &raquo;</a></p>
+    </div>
+
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/contest/346" class="notice" style="text-decoration: none;">Codeforces Round #201 (Div. 1)</a></span>
+    </div>
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/contest/347" class="notice" style="text-decoration: none;">Codeforces Round #201 (Div. 2)</a></span>
+    </div>
+
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-8951"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-8951">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+283</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-8951"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-8951">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/8896"
+             data-yashareTitle="Codeforces: Codeforces Round #201"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/UESTC_Nocturne"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/UESTC_Nocturne">
+        UESTC_Nocturne
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="19.09.2013 15:37">2 недели назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/8896#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/8896#comments">
+        115
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-8951").click(function() {
+        $.post("/data/topic/vote", {topicId: 8951, _tta: Codeforces.tta(), topicRevisionId: 31601, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-8951").click(function() {
+        $.post("/data/topic/vote", {topicId: 8951, _tta: Codeforces.tta(), topicRevisionId: 31601, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="8944">
+    <div class="title">
+            <a href="/blog/entry/8889"><p>2013-2014 CT S01E02: Codeforces Trainings Season 1 Episode 2</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov" class="rated-user user-admin">MikeMirzayanov</a>,&nbsp;<span title="18.09.2013 12:45">2 недели назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-8889-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-8889-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-8889-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-8889-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-8889-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-8889-blogId-error blogEntry-8889-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8889-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8889-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-8889-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-8889-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-8889-contestId-error blogEntry-8889-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8889-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8889-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-8889-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-8889-resourceType-error blogEntry-8889-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8889-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-8889-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-8889-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-8889-error").hide();
+
+        $(".attach-blogEntry-8889-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-8889-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-8889-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-8889-error").hide();
+                    $("#facebox #blogEntry-8889-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-8889-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"1", contestId:$("#facebox #blogEntry-8889-contestId").val(),
+                        blogEntryId:"8889",
+                        resourceType:$("#facebox #blogEntry-8889-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-8889-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-8889-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-8889-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-8889-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-8889-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-8889-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-8889-contestId-loading-indicator").hide();
+                        $("#blogEntry-8889-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-8889-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-8889-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p>Добро пожаловать на <a href="/gym/100228" title="2013-2014 CT S01E02: Extended 2003 ACM-ICPC East Central North America Regional Contest (ECNA 2003)">2013-2014 CT S01E02: Extended 2003 ACM-ICPC East Central North America Regional Contest (ECNA 2003)</a>. Продолжительность тренировки — 5 часов. Тренировка открыта как для команд, так и для индивидуальных участников. После ее окончания вы можете дорешивать задачи тренировки или поучаствовать в ней виртуально, если не смогли принять участие одновременно со всеми. Пожалуйста, участвуйте в тренировке честно.</p><p>Так как это тренировка, то возможно набор задач будет расширен, если для значительного количества участников он окажется простым.</p><p>Регистрация на тренировку доступна со страницы <a href="/gyms">Тренировки</a> и будет открыта до окончания тренировки. Регистрируя команду, выберите именно тех её членов, кто будет писать тренировку.</p><p>Удачи!</p></div><p><a href="/blog/entry/8889">Полный текст &raquo;</a></p>
+    </div>
+
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/gym/100228" class="notice" style="text-decoration: none;">2013-2014 CT S01E02: Extended 2003 ACM-ICPC East Central North America Regional Contest (ECNA 2003)</a></span>
+    </div>
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=codeforces" class="tag notice" style="text-decoration: none;">codeforces</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8" class="tag notice" style="text-decoration: none;">тренировки</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-8944"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-8944">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+67</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-8944"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-8944">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/8889"
+             data-yashareTitle="Codeforces: 2013-2014 CT S01E02: Codeforces Trainings Season 1 Episode 2"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/MikeMirzayanov"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/MikeMirzayanov">
+        MikeMirzayanov
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="18.09.2013 12:45">2 недели назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/8889#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/8889#comments">
+        48
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-8944").click(function() {
+        $.post("/data/topic/vote", {topicId: 8944, _tta: Codeforces.tta(), topicRevisionId: 31568, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-8944").click(function() {
+        $.post("/data/topic/vote", {topicId: 8944, _tta: Codeforces.tta(), topicRevisionId: 31568, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+<div style="margin-bottom:2em;">
+
+
+<div class="topic" topicId="8906">
+    <div class="title">
+            <a href="/blog/entry/8851"><p>Codeforces Round #200</p></a>
+    </div>
+
+    <div class="info" style="position:relative;">
+        Автор&nbsp;<a href="/profile/gen" title="Мастер gen" class="rated-user user-orange">gen</a>,&nbsp;<span title="14.09.2013 11:51">3 недели назад</span>,
+        
+        <img style="position: relative;top: 5px;" src="http://worker.codeforces.ru/static/images/flags/24/ru.png" alt="По-русски" title="По-русски"/>,
+
+<a class="attach-blogEntry-8851-to-contest-link" href="#"><img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" title="Прикрепить данный блог к какому-либо соревнованию"/></a>
+
+<style type="text/css">
+    .attach-blogEntry-8851-to-contest-form tr:not(:last-of-type) td {
+        padding-bottom: 1em;
+    }
+
+    .blogEntry-8851-error {
+        font-size: 11px;
+    }
+</style>
+
+<div class="attach-blogEntry-8851-to-contest-form-holder" style="display: none;padding: 1em;margin: 1em;">
+    <form class="attach-blogEntry-8851-to-contest-form" method="post"><input type='hidden' name='csrf_token' value='0c68g320g6717e602ceef564fc19bda9'/>
+        <table style="width: 100%;">
+            <thead>
+            </thead>
+            <tbody>
+        <tr class="subscription-row blogEntry-8851-blogId-error blogEntry-8851-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8851-blogId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8851-contestId">Соревнование:</label></td>
+                <td>
+                    <select id="blogEntry-8851-contestId" name="contestId" style="width: 100%;float: left;" disabled>
+                        <option value=""></option>
+                    </select>
+                </td>
+                <td>
+                    <img id="blogEntry-8851-contestId-loading-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"/>
+                </td>
+            </tr>
+        <tr class="subscription-row blogEntry-8851-contestId-error blogEntry-8851-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8851-contestId">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td style="width: 30%;"><label for="blogEntry-8851-resourceType">Тип:</label></td>
+                <td>
+                    <select id="blogEntry-8851-resourceType" name="resourceType" style="width: 100%;">
+                        <option value="" selected></option>
+                        <option value="STATEMENT">условия задач</option>
+                        <option value="TUTORIAL">разбор задач</option>
+                        <option value="ANNOUNCEMENT">анонс</option>
+                        <option value="DISCUSSION">обсуждение</option>
+                    </select>
+                </td>
+                <td></td>
+            </tr>
+        <tr class="subscription-row blogEntry-8851-resourceType-error blogEntry-8851-error">
+        <td>&nbsp;</td>
+        <td colspan="2"><div class="shiftUp">        <span class="error for__blogEntry-8851-resourceType">-</span>
+</div></td>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" id="blogEntry-8851-resource-submit" value="Прикрепить" disabled
+                           style="padding: 0.25em 0.5em;margin: 1em;width: 8em;"/>
+                </td>
+                <td>
+                    <img id="blogEntry-8851-resource-submitting-indicator" src="http://worker.codeforces.ru/static/images/indicator.gif"
+                         style="display: none;"/>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".blogEntry-8851-error").hide();
+
+        $(".attach-blogEntry-8851-to-contest-link").click(function () {
+            Codeforces.facebox(".attach-blogEntry-8851-to-contest-form-holder", "http://worker.codeforces.ru/static");
+
+            $("#facebox .attach-blogEntry-8851-to-contest-form").submit(function () {
+                if ($(this).find(":disabled").length === 0) {
+                    $("#facebox .blogEntry-8851-error").hide();
+                    $("#facebox #blogEntry-8851-resource-submitting-indicator").show();
+                    $("#facebox #blogEntry-8851-resource-submit").attr("disabled", "disabled");
+
+                    //noinspection JSUnusedGlobalSymbols
+                    $.post("/data/blogAndContest?action=attachBlogToContest", {
+                        blogId:"426", contestId:$("#facebox #blogEntry-8851-contestId").val(),
+                        blogEntryId:"8851",
+                        resourceType:$("#facebox #blogEntry-8851-resourceType").val()
+                    }, function (json) {
+                        var validated = true;
+
+                        for (var key in json) {
+                            if (json.hasOwnProperty(key) && key.indexOf("error__") === 0) {
+                                validated = false;
+                                $("#facebox .blogEntry-8851-" + key.substring("error__".length) + "-error").show();
+                                $("#facebox .for__blogEntry-8851-" + key.substring("error__".length)).text(json[key]);
+                            }
+                        }
+
+                        $("#facebox #blogEntry-8851-resource-submitting-indicator").hide();
+                        $("#facebox #blogEntry-8851-resource-submit").removeAttr("disabled");
+
+                        if (validated) {
+                            $.facebox.close();
+                            if (json["success"] === "true") {
+                                Codeforces.showMessage("Блог был успешно прикреплён к выбранному соревнованию");
+                            } else {
+                                Codeforces.showMessage("Во время прикрепления блога к соревнованию произошла непредвиденная ошибка");
+                            }
+                        }
+                    }, "json");
+                }
+
+                return false;
+            });
+
+            var contestSelect = $("#blogEntry-8851-contestId");
+            var popupContestSelect = $("#facebox #blogEntry-8851-contestId");
+
+            if (popupContestSelect.is(":disabled")) {
+                $.post("/data/contests?action=getContestListWithEditableResources", function (data) {
+                    if (data["result"] === "success") {
+                        var contests = data["contests"];
+
+                        for (var i = 0, contestCount = contests.length; i < contestCount; ++i) {
+                            //noinspection StringLiteralBreaksHTMLJS
+                            var contestOptionHtml = "<option value=\"" + contests[i]["id"] + "\">"
+                                    + contests[i]["id"] + " - " + contests[i]["name"] + "</option>";
+                            contestSelect.append(contestOptionHtml);
+                            popupContestSelect.append(contestOptionHtml);
+                        }
+
+                        contestSelect.removeAttr("disabled");
+                        $("#blogEntry-8851-contestId-loading-indicator").hide();
+                        $("#blogEntry-8851-resource-submit").removeAttr("disabled");
+
+                        popupContestSelect.removeAttr("disabled");
+                        $("#facebox #blogEntry-8851-contestId-loading-indicator").hide();
+                        $("#facebox #blogEntry-8851-resource-submit").removeAttr("disabled");
+                    } else {
+                        alert("Не удалось получить список соревнований");
+                    }
+                }, "json");
+            }
+
+            return false;
+        });
+    });
+</script>
+
+
+        <span style="position:absolute;right:0;top:0.25em;margin-right:1em;display:inline;font-size:0.75em;">
+            <div style="margin-top:0.25em;">
+            </div>
+        </span>
+    </div>
+
+    <div class="content">
+        <div class="ttypography"><p>Привет всем!</p><p>Сегодня в <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Codeforces+Round+%23200&amp;iso=20130914T1930&amp;p1=166&amp;ah=2">19:30 по Московскому времени</a> состоится юбилейный Codeforces Round #200. Раунд будет проведен в обоих дивизионах и будет рейтинговым.</p><p>Задачи раунда подготовили Евгений Вихров (<a class="rated-user user-orange" href="/profile/gen" title="Мастер gen">gen</a>), Андрей Вихров (<a class="rated-user user-violet" href="/profile/andreyv" title="Кандидат в мастера andreyv">andreyv</a>) и Геральд Агапов (<a class="rated-user user-red" href="/profile/Gerald" title="Гроссмейстер Gerald">Gerald</a>). Как всегда, выражаем благодарность Михаилу Мирзаянову (<a class="rated-user user-admin" href="/profile/MikeMirzayanov" title="Штаб, MikeMirzayanov">MikeMirzayanov</a>) за системы Codeforces и Polygon. Отдельное спасибо Марии Беловой (<a class="rated-user user-black" href="/profile/Delinur" title="Не в рейтинге, Delinur">Delinur</a>) за перевод условий задач. </p><p>В этом раунде вы поможете безумному учёному Майку реализовать его причудливые затеи и поставить необычные опыты. По мнению авторов, в задачах поддерживается хороший баланс математики и программирования. Также мы старались сделать условия задач по возможности короткими и понятными :] Как всегда, мы считаем, что каждый участник найдёт себе задачу по вкусу.</p><p>Желаем всем участникам удачи и интересного раунда!</p><p><strong>UPD1:</strong> Разбалловка задач стандартная:</p><p>DivI: 500 1000 1500 2000 2500</p><p>DivII: 500 1000 1500 2000 2500</p><p><strong>UPD2:</strong> Поздравляем две лучших пятёрки победителей!</p><h4>DivI</h4> <ol>   <li><a class="rated-user user-red" href="/profile/tourist" title="Международный гроссмейстер tourist">tourist</a></li>   <li><a class="rated-user user-red" href="/profile/KADR" title="Международный гроссмейстер KADR">KADR</a></li>   <li><a class="rated-user user-orange" href="/profile/SillyHook06" title="Мастер SillyHook06">SillyHook06</a></li>   <li><a class="rated-user user-red" href="/profile/niyaznigmatul" title="Гроссмейстер niyaznigmatul">niyaznigmatul</a></li>   <li><a class="rated-user user-red" href="/profile/KudryashovIA" title="Гроссмейстер KudryashovIA">KudryashovIA</a></li> </ol><h4>DivII</h4> <ol>   <li><a class="rated-user user-violet" href="/profile/green_coder" title="Кандидат в мастера green_coder">green_coder</a></li>   <li><a class="rated-user user-violet" href="/profile/jzc" title="Кандидат в мастера jzc">jzc</a></li>   <li><a class="rated-user user-violet" href="/profile/Mark_SamLIT" title="Кандидат в мастера Mark_SamLIT">Mark_SamLIT</a></li>   <li><a class="rated-user user-violet" href="/profile/Kamilot" title="Кандидат в мастера Kamilot">Kamilot</a></li>   <li><a class="rated-user user-violet" href="/profile/API" title="Кандидат в мастера API">API</a></li> </ol></div><p><a href="/blog/entry/8851">Полный текст &raquo;</a></p>
+    </div>
+
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/contest/343" class="notice" style="text-decoration: none;">Codeforces Round #200 (Div. 1)</a></span>
+    </div>
+    <div style="font-size: 11px;line-height: 11px;padding-bottom: 0.5em;">
+    <img src="http://worker.codeforces.ru/static/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/> <span style="padding: 0 0.35em;">Анонс <a href="/contest/344" class="notice" style="text-decoration: none;">Codeforces Round #200 (Div. 2)</a></span>
+    </div>
+
+        <div style="font-size: 11px;line-height: 11px;">
+            <img style="vertical-align: middle;" src="http://worker.codeforces.ru/static/images/blog/tags.png" title="Теги" alt="Теги"/>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=round" class="tag notice" style="text-decoration: none;">round</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=200" class="tag notice" style="text-decoration: none;">200</a>,
+                </span>
+                <span style="padding: 0 0.35em;">
+    <a href="/search?query=%D0%B2%D1%81%D0%B5%20%D1%87%D0%B8%D1%82%D0%B0%D1%8E%D1%82%20%D1%82%D0%B5%D0%B3%D0%B8" class="tag notice" style="text-decoration: none;">все читают теги</a>
+                </span>
+        </div>
+
+    <div class="roundbox meta" style="">
+            <div class="roundbox-lt">&nbsp;</div>
+            <div class="roundbox-rt">&nbsp;</div>
+            <div class="roundbox-lb">&nbsp;</div>
+            <div class="roundbox-rb">&nbsp;</div>
+        <div class="left-meta">
+            <ul>
+                    <li>        <a href="#" class="topic-vote-up-8906"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/voteup.png"
+            alt="Проголосовать: нравится" title="Проголосовать: нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-up-8906">
+        
+        </a>
+</li>
+                    <li>
+
+        
+        <span title="Рейтинг текста" style='font-size:larger;font-weight:bold;color:green';>+204</span>
+        
+</li>
+                    <li>        <a href="#" class="topic-vote-down-8906"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/actions/votedown.png"
+            alt="Проголосовать: не нравится" title="Проголосовать: не нравится"
+        /></a>
+        &nbsp;
+
+
+        <a href="#" class="topic-vote-down-8906">
+        
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <div class="yashare-auto-init" style="display: inline; position: relative; top: 5px; left: 0;"
+             data-yashareL10n="ru"
+             data-yashareType="none"
+               data-yashareLink="http://codeforces.ru//blog/entry/8851"
+             data-yashareTitle="Codeforces: Codeforces Round #200"
+             data-yashareQuickServices="vkontakte,facebook,twitter,lj">
+        </div>
+
+        <span style="position: relative; top: 7px; left: 0.8em;">
+        </span>
+
+        <div class="right-meta">
+            <ul>
+                    <li>        <a href="/profile/gen"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/user_16x16.png"
+            alt="Отправитель" title="Отправитель"
+        /></a>
+        &nbsp;
+
+
+        <a href="/profile/gen">
+        gen
+        </a>
+</li>
+                    <li>        <img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/date_16x16.png"
+            alt="Дата публикации" title="Дата публикации"
+        />
+        &nbsp;
+
+
+        
+        <span title="14.09.2013 11:51">3 недели назад</span>
+        
+</li>
+                    <li>        <a href="/blog/entry/8851#comments"><img style="vertical-align:middle;position:relative;top:-0.2em;" src="http://worker.codeforces.ru/static/images/blog/comments_16x16.png"
+            alt="Комментарии" title="Комментарии"
+        /></a>
+        &nbsp;
+
+
+        <a href="/blog/entry/8851#comments">
+        142
+        </a>
+</li>
+            </ul>
+        </div>
+
+        <br style="clear:both;"/>
+    </div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $(".topic-vote-up-8906").click(function() {
+        $.post("/data/topic/vote", {topicId: 8906, _tta: Codeforces.tta(), topicRevisionId: 31506, vote: +1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+    $(".topic-vote-down-8906").click(function() {
+        $.post("/data/topic/vote", {topicId: 8906, _tta: Codeforces.tta(), topicRevisionId: 31506, vote: -1}, function(data) {
+            Codeforces.showMessage(data);
+        }, "json");
+        return false;
+    });
+        });
+    </script>
+</div>
+</div>
+
+<div class="pagination">
+    <ul>
+            <span class="inactive">&larr;</span>
+        <li>
+                <span class="page-index active" pageIndex="1"><a href="/page/1">1</a></span>
+        </li>
+        <li>
+                <span class="page-index" pageIndex="2"><a href="/page/2">2</a></span>
+        </li>
+        <li>
+                <span class="page-index" pageIndex="3"><a href="/page/3">3</a></span>
+        </li>
+        <li>
+                ...
+        </li>
+        <li>
+                <span class="page-index" pageIndex="44"><a href="/page/44">44</a></span>
+        </li>
+        <li>
+                <span class="page-index" pageIndex="45"><a href="/page/45">45</a></span>
+        </li>
+            <li><a href="/page/2" class="arrow">&rarr;</a></li>
+    </ul>
+</div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+function handlePaginationKeyboardEvent(right) {
+    var pageIndex = parseInt($(".pagination").find("span.active").attr("pageIndex"));
+    if (right) {
+        pageIndex++;
+    } else {
+        pageIndex--;
+    }
+    $(".pagination").find("span[pageIndex=" + pageIndex + "]").each(function() {
+        Codeforces.redirect($(this).find("a").attr("href"));
+    });
+}
+$(document).keydown(function (e) {
+     var code = (e.keyCode ? e.keyCode : e.which);
+     if (e.ctrlKey) {
+        if (code == 37 || code == 39) {
+            handlePaginationKeyboardEvent(code == 39);
+        }
+     }
+});
+        });
+    </script>
+            </div>
+        </div>
+          <br style="clear:both;"/> 
+          <div id="footer">
+               <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+               <div>Соревнования по программированию 2.0</div>
+               
+               <div>Время на сервере: 04.10.2013 20:04.</div>
+          </div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            Codeforces.focusOnError();
+        });
+    </script>
+</div>
+</body>
+</html>                                       

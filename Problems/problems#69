@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="7g47bbc52a50851f0c1cgeg06bdae6f5"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="9kfz53hvuj7n"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='7g47bbc52a50851f0c1cgeg06bdae6f5'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #63 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Юный физик</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В одной школе в 11 классе учится мальчик Вася. Как-то раз Вася решил посмотреть матч своей любимой хоккейной команды. А поскольку мальчик очень любит хоккей, даже больше, чем физику, он забыл сделать уроки. В частности, забыл сделать задачки по физике. На следующий день учитель очень разозлился на Васю, и решил его проучить. Он дал нерадивому ученику, казалось бы, простую задачку: дано покоящееся тело в пространстве, и даны силы, действующие на него. Тело можно считать материальной точкой с координатами (0; 0; 0). Васе нужно было ответить, находится ли оно в равновесии. «Ерунда!» — подумал Вася, нужно лишь проверить, что сумма всех векторов равна 0, и принялся решать задачу. Но впоследствии оказалось, что этих сил может быть очень-очень много, и Вася не справится без вашей помощи. Помогите ему. Напишите программу, которая определяет по заданным векторам сил, покоится тело или движется.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано натуральное число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>), далее следует <span class="tex-span"><i>n</i></span> строк по три целых числа в каждой: координата <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span>, координата <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> и координата <span class="tex-span"><i>z</i><sub class="lower-index"><i>i</i></sub></span> вектора силы, приложенной к телу (<span class="tex-span"> - 100 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>, <i>z</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите слово &quot;<span class="tex-font-style-tt">YES</span>&quot; если тело находится в равновесии, или слово &quot;<span class="tex-font-style-tt">NO</span>&quot; если не находится.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />4 1 7<br />-2 4 -1<br />1 -5 -3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO</pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />3 -1 7<br />-5 2 -4<br />2 -1 -3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Ставки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Челябинске живет очень уважаемый бизнесмен Никита со странным прозвищем &quot;БОСС&quot;. Как-то раз Никита решил съездить с его другом Алексеем на чемпионат мира по летнему биатлону. Никита, как особо важная персона, получил жетон, позволяющий ставить на каждом участке не более чем на одного спортсмена. </p><p>Для начала друзья узнали правила: в гонке <span class="tex-span"><i>n</i></span> участков равной длины и <span class="tex-span"><i>m</i></span> участников. Участники пронумерованы от <span class="tex-span">1</span> до <span class="tex-span"><i>m</i></span>. Про каждого участника известно:</p><p><ul></ul></p><p><li> <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> — номер участка, с которого биатлонист начинает бежать,</li></p><p><li> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> — номер участка, на котором биатлонист заканчивает бежать,</li></p><p><li> <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> — время, которое требуется биатлонисту чтобы преодолеть один участок пути,</li></p><p><li> <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> — прибыль в рублях, которую получит поставивший на него человек, в случае победы <span class="tex-span"><i>i</i></span>-ого спортсмена на одном из участков.</li></p><p> </p><p><span class="tex-span"><i>i</i></span>-ый биатлонист проезжает участки с <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> по <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> включительно. Весь путь участник пробегает за <span class="tex-span">(<i>r</i><sub class="lower-index"><i>i</i></sub> - <i>l</i><sub class="lower-index"><i>i</i></sub> + 1)·<i>t</i><sub class="lower-index"><i>i</i></sub></span> единиц времени. Одну секцию участник пробегает ровно за <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> единиц времени. В случае победы спортсмена на <span class="tex-span"><i>k</i></span> участках поставивший на него получит <span class="tex-span"><i>k</i>·<i>c</i><sub class="lower-index"><i>i</i></sub></span> рублей. </p><p>На каждом участке победитель определяется <span class="tex-font-style-bf">независимо</span> следующим образом: если есть хотя бы один биатлонист, бегущий данный участок, то из всех них победителем является тот, кто пробежал этот участок за минимальное время (преодолел участок за меньшее время, чем другие). В случае равенства времени побеждает спортсмен с меньшим порядковым номером. Если же участников этапа нет, то победитель на этом этапе неопределен. Стоит добавить, что в летнем биатлоне все участники движутся с постоянной скоростью.</p><p>Также стоит добавить, что Никита может ставить на каждом участке на любого участника, бегущего данный участок.</p><p>Помогите друзьям определить максимальную возможную прибыль.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находится два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 100</span>). Далее следуют <span class="tex-span"><i>m</i></span> строк, в каждой из которых записано 4 целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span">1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub>, <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число — максимальную прибыль в рублях, которую могут получить друзья. На каждом из <span class="tex-span"><i>n</i></span> участков разрешается поставить деньги не более чем на одного спортсмена.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 4<br />1 4 20 5<br />1 3 21 10<br />3 3 4 30<br />3 4 4 20<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>60</pre></div><div class="input"><div class="title">Входные данные</div><pre>8 4<br />1 5 24 10<br />2 4 6 15<br />4 6 30 50<br />6 7 4 20<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>105</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте оптимально ставить: на 1-2 участках на 1 биатлониста, на 3 участке на 3 биатлониста, на 4 участке на 4 биатлониста. Итого: прибыль 5 рублей за 1 участок,прибыль 5 рублей за 2 участок, прибыль 30 рублей за 3 участок, прибыль 20 рублей за 4 участок. Суммарная прибыль 60 рублей.</p><p>Во втором тесте оптимально ставить: на 1 и 5 участках на 1 биатлониста, на 2-4 участке на 2 биатлониста, на 6-7 участках на 4 спортсмена. На 8 участке нет победителя. На 1 участке прибыль 10 рублей, на 2,3,4 по 15 рублей, на 5 участке прибыль 10 рублей, на 6,7 участках прибыль 20 рублей. Суммарная прибыль 105 рублей. </p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Игра</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В одной школе с Васей учится мальчик Костя. Костя не любит физику, он любит разные онлайн игры. Каждый день, приходя домой, Костя бросает свою сумку в самый дальний угол и садится за свой любимый компьютер. Костя даже ест не отрываясь от игры. На днях Костик купил новую RPG игру «ЗайцButtle», которая отличается от всех своих конкурентов в этом жанре огромным количеством артефактов. Как известно, артефакты делятся на базовые и составные. В продаже доступны только базовые артефакты. Более мощные составные артефакты собираются из некоторого количества базовых артефактов. </p><p>После сборки составного артефакта, все его компоненты изчезают.</p><p>Костя является главой альянса, поэтому он обязательно должен помнить, какие артефакты есть не только у него, но и у его союзников. Вы должны определить по последовательности купленных Костей и его союзниками артефактов, сколько и каких артефактов собрал каждый из них. Считается, что изначально ни у кого нет артефактов.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находится 4 натуральных числа: <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ 100</span>) — количество союзников Кости, <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 50</span>) — количество базовых артефактов, <span class="tex-span"><i>m</i></span> (<span class="tex-span">0 ≤ <i>m</i> ≤ 50</span>) — количество составных артефактов, <span class="tex-span"><i>q</i></span> (<span class="tex-span">1 ≤ <i>q</i> ≤ 500</span>) — количество покупок его друзей. Следующие <span class="tex-span"><i>n</i></span> строк содержат названия базовых артефактов. После них в <span class="tex-span"><i>m</i></span> строках содержатся описания составных артефактов в следующем формате:</p><p><span class="tex-font-style-tt">&lt;Название арт.&gt;: &lt;Арт. №1&gt; &lt;Количество aрт. №1&gt;, &lt;Арт. №2&gt; &lt;Количество aрт. №2&gt;, ... &lt;Арт. №X&gt; &lt;Количество aрт. №Х&gt;</span></p><p>Все количества — натуральные числа, не большие 100 (<span class="tex-span">1 ≤ <i>X</i> ≤ <i>n</i></span>).</p><p>Названия всех артефактов различны, состоят из строчных букв латинского алфавита, длина каждого названия — от 1 до 100 символов включительно. Все слова в формате описания составного артефакта разделены ровно одним пробелом. Гарантируется, что все составляющие нового артефакта различны и уже встречались во входных данных в качестве названий базовых артефактов. </p><p>Дальше каждая из последующих <span class="tex-span"><i>q</i></span> строчек характеризуется числом <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, номером друга, купившего артефакт (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>k</i></span>), и наименованием купленного базового артефакта. Будем считать, что рюкзаки у героев бездонные и любой последующий купленный артефакт влезает. </p><p>Гарантируется, что после очередной покупки появляется не более одной возможности собрать составной артефакт. Если такая возможность появилась, герой ей обязательно воспользуется.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выходной файл должен состоять из <span class="tex-span"><i>k</i></span> блоков. В первой строке должно находиться число <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> — количество различных артефактов у <span class="tex-span"><i>i</i></span>-ого союзника. Далее в блоке должно располагаться <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> строк с наименованиями этих артефактов и количеством этих артефактов, причем строки должны быть выведены в соответствии с лексикографическим порядком названий артефактов. В каждом блоке все артефакты должны быть различны, а все числа кроме <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> положительны.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 3 2 5<br />desolator<br />refresher<br />perseverance<br />vanguard: desolator 1, refresher 1<br />maelstorm: perseverance 2<br />1 desolator<br />2 perseverance<br />1 refresher<br />2 desolator<br />2 perseverance<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />vanguard 1<br />2<br />desolator 1<br />maelstorm 1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Точка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Антон и Даша на переменах любят играть в различные игры на клетчатой бумаге. К 11 классу они успели поиграть во все игры такого типа и попросили программиста Вову придумать им новую игру. Вова предложил им игру под кодовым названием &quot;Точка&quot; со следующими правилами:</p><p><ul></ul></p><p><li> На клетчатой бумаге рисуется система координат. В позицию <span class="tex-span">(<i>x</i>, <i>y</i>)</span> ставится точка.</li></p><p><li> Ходом является перемещение точки на один из заранее выбранных векторов. Также каждый игрок может один раз за игру симметрично отобразить точку относительно прямой <span class="tex-span"><i>y</i> = <i>x</i></span>. </li></p><p><li> Антон и Даша ходят по очереди. Первым ходит Антон.</li></p><p><li> Проигрывает тот, после чьего хода расстояние от точки до начала координат превышает <span class="tex-span"><i>d</i></span>. </li></p><p>Помогите им определить победителя.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входного файла находится 4 целых числа <span class="tex-span"><i>x</i></span>, <span class="tex-span"><i>y</i></span>, <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>d</i></span> (<span class="tex-span"> - 200 ≤ <i>x</i>, <i>y</i> ≤ 200, 1 ≤ <i>d</i> ≤ 200, 1 ≤ <i>n</i> ≤ 20</span>) — начальные координаты точки, расстояние <span class="tex-span"><i>d</i></span> и количество векторов. Гарантируется, что изначально точка находится на расстоянии меньшем <span class="tex-span"><i>d</i></span> от начала координат. В следующих <span class="tex-span"><i>n</i></span> строках записано по 2 неотрицательных числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 200</span>) — координаты i-ого вектора. Гарантируется, что все векторы ненулевые и различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Cледует вывести &quot;<span class="tex-font-style-tt">Anton</span>&quot;, если при оптимальной игре обоих игроков выигрывает Антон, и &quot;<span class="tex-font-style-tt">Dasha</span>&quot; в противном случае.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>0 0 2 3<br />1 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Anton</pre></div><div class="input"><div class="title">Входные данные</div><pre>0 0 2 4<br />1 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Dasha</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте Антон ходит на вектор (1;2), и Даша проигрывает. Во втором тесте Даша своим первым ходом перемещает точку так, чтобы ее координаты стали (2;3), и Антон проигрывает, та как у него остается единственный возможный ход — отражение относительно прямой <span class="tex-span"><i>y</i> = <i>x</i></span>, на который Даша ответит аналогичным ходом и вернет точку в позицию (2;3).</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Подотрезки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Программист Саша недавно начал изучать структуры данных. Его тренер Стас сказал ему решить задачу о нахождении минимума на отрезке массива за <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/9040a33098f83986b0de64475c66584fbfdf0e22.png" />, с которой Саша справился. Чтобы Саша не думал, что все изучил, Стас задал ему новую задачу. Для каждого отрезка фиксированной длины Саша должен найти максимальный элемент из тех, что встречаются на данном отрезке ровно один раз. Помогите Саше решить эту задачу.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находится два натуральных числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>, 1 ≤ <i>k</i> ≤ <i>n</i></span>) — количество элементов массива и длина отрезка.</p><p>Далее следует <span class="tex-span"><i>n</i></span> строк: в <span class="tex-span"><i>i</i></span>-ой находится одно число <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span"> - 10<sup class="upper-index">9</sup> ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>). </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i>–<i>k</i> + 1</span> чисел, по одному в строке: в <span class="tex-span"><i>i</i></span>-ой строке выведите максимальное из тех чисел подмассива <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i> + 1</sub></span> … <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i> + <i>k</i> - 1</sub></span>, что встречается на этом подмассиве ровно 1 раз. Если таких чисел в данном подмассиве нет, выводите &quot;<span class="tex-font-style-tt">Nothing</span>&quot;.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 3<br />1<br />2<br />2<br />3<br />3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />3<br />2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 4<br />3<br />3<br />3<br />4<br />4<br />2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br />Nothing<br />3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

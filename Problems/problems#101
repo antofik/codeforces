@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="7f446f04b5dg7ch8fb41g6847b25839g"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="kgsijt84ssx6"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='7f446f04b5dg7ch8fb41g6847b25839g'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #79 (Div. 1 Only)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Домашнее задание</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды, когда Геральд учился в первом классе, учительница задала им домашнее задание в следующей форме. Она выдала ученикам строку, состоящую из <span class="tex-span"><i>n</i></span> маленьких букв латинского алфавита, и задала выучить, как пишутся все буквы, которые встречаются в этой строке. Но так как Геральд слишком ленив, ему совсем не хочется учить все эти буквы. Поэтому он решил потерять какую-то часть этой строки (не обязательно связную). Потерянная часть может состоять из любого количества кусков любой длины, на любом расстоянии друг от друга. Однако Геральд знает, что если он потеряет более <span class="tex-span"><i>k</i></span> символов, это будет очень подозрительно.</p><p>Найдите наименьшее количество различных символов, которые могут остаться в строке после удаления не более <span class="tex-span"><i>k</i></span> символов. Также требуется найти любой из возможных способов удалить символы.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных дана строка длины <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>), состоящая из строчных букв латинского алфавита. Во второй строке дано число <span class="tex-span"><i>k</i></span> (<span class="tex-span">0 ≤ <i>k</i> ≤ 10<sup class="upper-index">5</sup></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите одно число <span class="tex-span"><i>m</i></span> — минимальное количество различных символов, которые могли остаться в данной строке после потери из нее не более, чем <span class="tex-span"><i>k</i></span> символов.</p><p>Во второй строке выведите строку, которую может получить Геральд после потери символов. В выведенной строке должно быть ровно <span class="tex-span"><i>m</i></span> различных символов. Полученная строка должна быть подпоследовательностью исходной строчки. Если Геральд может получить несколько различных строк с ровно <span class="tex-span"><i>m</i></span> различными символами, выведите любую из них.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>aaaaa<br />4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />aaaaa<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>abacaba<br />4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />aaaa<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>abcdefgh<br />10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /><br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере строка состоит из пяти одинаковых букв, но удалить разрешается только <span class="tex-span">4</span>, так что хотя бы одна буква останется. Таким образом, правильный ответ — <span class="tex-span">1</span> и любая строка из симолов «a» длины от <span class="tex-span">1</span> до <span class="tex-span">5</span>.</p><p>Во втором примере разрешается удалить <span class="tex-span">4</span> символа. Все символы удалить не получится, потому что строка имеет длину <span class="tex-span">7</span>. Но можно удалить все символы, кроме «a». Соответственно, можно, например, удалить все символы, кроме «a», благо их не больше четырех, и получить строку «aaaa».</p><p>В третьем примере дана строка длины <span class="tex-span">8</span>, а <span class="tex-span"><i>k</i> = 10</span>, так что можно удалить всю строку. Правильный ответ — <span class="tex-span">0</span> и пустая строка.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Автобусы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>265 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Мальчик Геральд учится в школе, и она находится довольно далеко от его дома. Поэтому ему приходится ежедневно ездить туда на автобусах. Путь от дома до школы представляет собой отрезок прямой, на котором расположено ровно <span class="tex-span"><i>n</i> + 1</span> остановок. Все они пронумерованы целыми числами от <span class="tex-span">0</span> до <span class="tex-span"><i>n</i></span> в порядке их следования начиная от дома Геральда. Остановка у дома имеет номер <span class="tex-span">0</span>, а остановка у школы — номер <span class="tex-span"><i>n</i></span>. </p><p>Между домом и школой ездят <span class="tex-span"><i>m</i></span> автобусов: <span class="tex-span"><i>i</i></span>-ый автобус ездит от остановки <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> до остановки <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub> &lt; <i>t</i><sub class="lower-index"><i>i</i></sub></span>), проезжая через все промежуточные остановки в порядке их следования. При этом Геральд не дурак, и не будет выходить из автобуса, пока на нем еще можно ехать в сторону школы — очевидно, что это не имеет смысла. То есть Геральд может сесть на <span class="tex-span"><i>i</i></span>-ый автобус на любой остановке с номером от <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> до <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub> - 1</span> включительно, а выйти из <span class="tex-span"><i>i</i></span>-го автобуса он может только на остановке <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span>.</p><p>Геральд не может идти между остановками пешком, а также не может перемещаться в сторону от школы к дому.</p><p>Геральд хочет узнать, сколько у него способов доехать от дома до школы. Сообщите ему это число. Два способа считаются различными, если какой-то участок между остановками Геральд едет на разных автобусах. Поскольку число способов может быть слишком большим, сообщите остаток этого числа от деления на <span class="tex-span">1000000007</span> (<span class="tex-span">10<sup class="upper-index">9</sup> + 7</span>).</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке даны два целых числа через пробел: <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">9</sup>, 0 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>). Далее следует <span class="tex-span"><i>m</i></span> строк по два целых числа <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub>, <i>t</i><sub class="lower-index"><i>i</i></sub></span> в каждой — номера стартовых и конечных остановок автобусов (<span class="tex-span">0 ≤ <i>s</i><sub class="lower-index"><i>i</i></sub> &lt; <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — количество способов доехать до школы по модулю <span class="tex-span">1000000007</span> (<span class="tex-span">10<sup class="upper-index">9</sup> + 7</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 2<br />0 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2<br />0 1<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 5<br />0 1<br />0 2<br />0 3<br />0 4<br />0 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>16<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте есть единственный вариант доехать до школы: сначала на первом автобусе до первой остановки, а потом на втором автобусе до второй остановки.</p><p>Во втором тесте никакой автобус не идет до третьей остановки, на которой расположена школа, поэтому правильный ответ — <span class="tex-span">0</span>.</p><p>В третьем тесте Геральд может воспользоваться или не воспользоваться каждым из первых четырех автобусов, чтобы подъехать поближе к школе. Поэтому правильный ответ <span class="tex-span">2<sup class="upper-index">4</sup> = 16</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Вектора</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 second</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>На уроке геометрии Геральду дали задание: из вектора <span class="tex-span"><i>A</i></span> получить вектор <span class="tex-span"><i>B</i></span>. При этом учитель разрешил ему делать с вектором <span class="tex-span"><i>А</i></span> следующие операции:</p><p><ul></ul></p><p><li> Повернуть вектор на <span class="tex-span">90</span> градусов по часовой стрелке.</li></p><p><li> Прибавить к вектору определенный вектор <span class="tex-span"><i>С</i></span>.</li></p><p>Операции можно производить в произвольной последовательности любое количество раз.</p><p>Сможет ли Геральд справиться с заданием?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке даны целые числа <span class="tex-span"><i>x</i><sub class="lower-index">1</sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index">1</sub></span> — координаты вектора <span class="tex-span"><i>A</i></span> (<span class="tex-span"> - 10<sup class="upper-index">8</sup> ≤ <i>x</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">1</sub> ≤ 10<sup class="upper-index">8</sup></span>). Во второй и третьей строках в аналогичном виде даны вектора <span class="tex-span"><i>B</i></span> и <span class="tex-span"><i>C</i></span> (их координаты — целые числа, по модулю не превосходящие <span class="tex-span">10<sup class="upper-index">8</sup></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите «<span class="tex-font-style-tt">YES</span>» (без кавычек), если с помощью описанных операций возможно получить вектор <span class="tex-span"><i>B</i></span>. Иначе выведите «<span class="tex-font-style-tt">NO</span>» (без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>0 0<br />1 1<br />0 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>0 0<br />1 1<br />1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>0 0<br />1 1<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Замок</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Геральд находится в старинном замке из <span class="tex-span"><i>n</i></span> залов, соединенных <span class="tex-span"><i>n</i> - 1</span> переходами. Из любого зала можно добраться до любого другого единственным способом, то есть граф представляет собой дерево. Изначально, в момент времени <span class="tex-span">0</span>, Геральд находится в зале номер <span class="tex-span">1</span>. Также в некотором другом зале этого замка находится клад, который Геральд хочет найти. Где именно находится клад неизвестно, он может быть с одинаковой вероятностью в любом из остальных <span class="tex-span"><i>n</i> - 1</span> залов. Узнать о местонахождении клада Геральд может только тогда, когда придет непосредственно в тот зал. Тогда Геральд сразу же видит клад, и этот момент считается моментом достижения его цели.</p><p>Переходы между залами имеют различные длины. При этом, переходы считаются длинными, а залы — маленькими и хорошо освещенными, так что временем, которое Геральд находится в залах, можно пренебречь. <span class="tex-font-style-bf">Замок очень старый, поэтому переходы обваливаются сразу после того, как по ним пройдут два раза, неважно в какую сторону.</span></p><p>Геральд может ходить по замку, пользуясь переходами, и будет ходить до тех пор, пока не найдет клад. Естественно, Геральд хочет найти его как можно быстрее. Иными словами, он хочет действовать так, чтобы среднее время нахождения клада было как можно меньше. <span class="tex-font-style-bf">Каждый переход можно использовать не более двух раз. Поэтому Геральд заранее выбирает такую стратегию, которая позволяет обойти все залы.</span></p><p>Более формально, если клад окажется во втором зале, то Геральд найдет его в тот момент, когда первый раз окажется во втором зале — пусть это будет в момент <span class="tex-span"><i>t</i><sub class="lower-index">2</sub></span>. Если в третьем, то Геральд найдет его тогда, когда первый раз окажется в третьем зале. Пусть это произойдет в момент времени <span class="tex-span"><i>t</i><sub class="lower-index">3</sub></span>. И так далее. Таким образом, среднее время нахождения клада окажется равным <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/f1ecbc2e03c53bfe7e69af6066c9787f30e54638.png" />.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество залов в замке. В следующих <span class="tex-span"><i>n</i> - 1</span> строках даны по три целых числа. В <span class="tex-span"><i>i</i></span>-ой из этих строк расположены числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>t</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span">1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>) — номера залов, которые соединяет <span class="tex-span"><i>i</i></span>-ый переход и время, которое требуется, чтобы пройти по этому переходу. Геральд изначально находится в зале номер <span class="tex-span">1</span>. Гарантируется, что из любого зала можно дойти по переходам до любого другого зала.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно вещественное число: искомое матожидание времени поиска клада. Ответ должен отличаться от правильного не более чем на <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />1 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />1 3 2<br />4 2 1<br />3 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4.333333333333334<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2 1<br />1 3 1<br />1 4 1<br />1 5 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4.0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первой тесте в замке всего два зала, значит, клад находится во втором зале. Геральду потребуется одна минута, чтобы перейти из первого зала во второй.</p><p>Во втором тесте из первого зала Геральд может перейти только в третий. Из третьего он может перейти в первый или второй, но в первом он уже был, и из него он не может никуда попасть. Значит, ему нужно пойти во второй зал. Оттуда ему надо идти в 4 зал, потому что остальные залы уже посещены. Если клад окажется в третьем зале, Геральд найдет его через минуту, если во втором — через две, если в четвертом — через три. Среднее время — <span class="tex-span">2</span> минуты.</p><p>В третьем тесте Геральду нужно посетить <span class="tex-span">4</span> зала: второй, третий, четвертый и пятый. В них всех можно попасть только из первого зала. Значит, ему нужно поочередно заходить в эти <span class="tex-span">4</span> зала в один за другим и возвращаться обратно. В первом из этих залов Геральд окажется через минуту, во втором — через три, в третьем — через <span class="tex-span">5</span>, в четвертом — через <span class="tex-span">7</span>. Среднее время — <span class="tex-span">4</span> минуты.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Конфеты и Камни</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>15 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>45 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Мальчик Геральд и его тренер Миша играют в интересную игру. В начале игры имеются куча из <span class="tex-span"><i>n</i></span> конфет и куча из <span class="tex-span"><i>m</i></span> камней. Геральд и Миша ходят по очереди, первым ходит Миша. Миша на своем ходу проверят, сколько на данный момент Геральд съел конфет и камней. Пусть Геральд съел <span class="tex-span"><i>a</i></span> конфет и <span class="tex-span"><i>b</i></span> камней. Тогда Миша начисляет Геральду <span class="tex-span"><i>f</i>(<i>a</i>, <i>b</i>)</span> призовых очков. Геральд же на своем ходу съедает либо одну конфету из кучи с конфетами, либо один камень из кучи с камнями. Когда Миша обнаруживает, что Геральд съел все, кроме одной конфеты и одного камня, он последний раз начисляет очки и игра заканчивается. Опустошать ни ту, ни другую кучку Геральд не имеет права. Расскажите Геральду, как ему играть, чтобы получить наибольшее количество очков: требуется найти один из возможных оптимальных вариантов игры для Геральда.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержатся три целых числа <span class="tex-span"><i>n</i>, <i>m</i>, <i>p</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 20000</span>, <span class="tex-span">1 ≤ <i>p</i> ≤ 10<sup class="upper-index">9</sup></span>). Во второй строке находятся <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>x</i><sub class="lower-index">0</sub></span>, <span class="tex-span"><i>x</i><sub class="lower-index">1</sub></span>, ..., <span class="tex-span"><i>x</i><sub class="lower-index"><i>n</i> - 1</sub></span> (<span class="tex-span">0 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ 20000</span>). В третьей строке находятся <span class="tex-span"><i>m</i></span> целых чисел <span class="tex-span"><i>y</i><sub class="lower-index">0</sub></span>, <span class="tex-span"><i>y</i><sub class="lower-index">1</sub></span>, ..., <span class="tex-span"><i>y</i><sub class="lower-index"><i>m</i> - 1</sub></span> (<span class="tex-span">0 ≤ <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 20000</span>). Величина <span class="tex-span"><i>f</i>(<i>a</i>, <i>b</i>)</span> вычисляется, как остаток от деления суммы <span class="tex-span"><i>x</i><sub class="lower-index"><i>a</i></sub> + <i>y</i><sub class="lower-index"><i>b</i></sub></span> на число <span class="tex-span"><i>p</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выведите единственное число: максимальное количество призовых очков, которое может заработать Геральд. Во второй строке выведите строку из <span class="tex-span"><i>n</i> + <i>m</i> - 2</span> символов, каждый из которых — это «<span class="tex-font-style-tt">C</span>» или «<span class="tex-font-style-tt">S</span>», <span class="tex-span"><i>i</i></span>-ый символ должен быть «<span class="tex-font-style-tt">C</span>», если на своем <span class="tex-span"><i>i</i></span>-ом ходу Геральд должен съесть конфету, и «<span class="tex-font-style-tt">S</span>», если камень.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 2 10<br />0 0<br />0 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br />SC<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3 10<br />0 2 0<br />0 0 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>10<br />CSSC<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3 2<br />0 1 1<br />1 1 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br />SCSC<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте, если на первом ходу Геральд съест камень, то после него он получит одно очко, а если конфету — то ноль. Перед первым своим ходом Геральд получит в любом случае <span class="tex-span">0</span> очков, а после второго — в любом случае <span class="tex-span">1</span>. Таким образом, максимальное количество очков, которое может получить Геральд равно <span class="tex-span">2</span>, и для этого надо съесть сначала камень, потом конфету.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

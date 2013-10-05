@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="ag72g66fabccgg1297af9abgeb5334hd"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1aogqw0ow7qjd"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='ag72g66fabccgg1297af9abgeb5334hd'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #54 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Чат</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Совсем недавно Вася научился печатать на клавиатуре и выходить в интернет. Он сразу же зашел в чат и решил поздороваться со всеми. Вася напечатал слово <span class="tex-span"><i>s</i></span>. Считается, что у Васи получилось поздороваться, если из напечатанного слова можно удалить некоторые буквы так, чтобы получилось слово &quot;<span class="tex-font-style-tt">hello</span>&quot;. Например, если Вася напечатал слово &quot;<span class="tex-font-style-tt">ahhellllloou</span>&quot;, считается, что он поздоровался, а если он напечатал &quot;<span class="tex-font-style-tt">hlelo</span>&quot;, считается, что Васю не поняли, и ему не удалось поздороваться. По заданному слову <span class="tex-span"><i>s</i></span> определите, удалось ли Васе поздороваться.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой и единственной строке записано слово <span class="tex-span"><i>s</i></span>, которое напечатал Вася. Это слово состоит из маленьких букв латинского алфавита, его длина не меньше 1 и не больше 100 букв.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если Васе удалось поздороваться, выведите &quot;<span class="tex-font-style-tt">YES</span>&quot;, иначе выведите &quot;<span class="tex-font-style-tt">NO</span>&quot;.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>ahhellllloou<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>hlelo<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Монеты</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Берляндии готовится денежная реформа — вводятся в обращение новые монеты. После долгих экономических расчетов было решено, что самая дорогая монета должна иметь стоимость ровно <span class="tex-span"><i>n</i></span> бурлей. Так же для удобства было введено следующее ограничение: стоимость каждой монеты <span class="tex-font-style-bf">должна делиться</span> на стоимость любой более дешевой монеты. Известно, что среди всех возможных вариантов будет выбран вариант с наибольшим количеством новых монет. Найдите этот вариант — выведите в порядке убывания стоимости всех монет.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой и единственной строке записано одно целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">6</sup></span>) — стоимость самой дорогой монеты.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите стоимости всех монет в порядке убывания. Количество монет должно быть наибольшим возможным (с заданной стоимостью <span class="tex-span"><i>n</i></span> самой дорогой монеты), а так же стоимость каждой монеты должна делиться на стоимость любой более дешевой монеты. Естественно, стоимости всех монет должны быть различны. Если решений несколько, выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>10 5 1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4 2 1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Деревья</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>На главной улице Бертауна растет <span class="tex-span"><i>n</i></span> деревьев, дерево номер <span class="tex-span"><i>i</i></span> имеет высоту <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> метров (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>). К приезду президента Берлядии эти деревья решили изменить так, чтобы их высоты образовывали <span class="tex-font-style-it">красивую</span> последовательность. Это значит, что высоты крайних деревьев (<span class="tex-span">1</span>-го и <span class="tex-span"><i>n</i></span>-го) должны быть равны между собой, высоты <span class="tex-span">2</span>-го и <span class="tex-span">(<i>n</i> - 1)</span>-го дерева тоже должны быть равны между собой, причем высота <span class="tex-span">2</span>-го должна быть на <span class="tex-span">1</span> больше, чем высота первого, и так далее. Другими словами, высоты деревьев, стоящих на одинаковом расстоянии от края (одного из концов последовательности), должны быть равны между собой, причем с увеличением расстояния от края на <span class="tex-span">1</span> высота деревьев тоже должна увеличиваться на <span class="tex-span">1</span>. Например, последовательности &quot;<span class="tex-font-style-tt">2 3 4 5 5 4 3 2</span>&quot; и &quot;<span class="tex-font-style-tt">1 2 3 2 1</span>&quot; являются красивыми, а &quot;<span class="tex-font-style-tt">1 3 3 1</span>&quot; и &quot;<span class="tex-font-style-tt">1 2 3 1</span>&quot; не являются.</p><p>Изменение высоты одного дерева — очень дорогая операция, использующая передовые разработки берляндских ученых. За одну операцию вы можете выбрать любое дерево и изменить его высоту на любое число, как уменьшить, так и увеличить. Учтите, что даже после изменения, высота должна оставаться целым положительным числом, т. е. она не может быть меньше или равна нулю. Определите, какое наименьшее количество изменений высоты деревьев потребуется, чтобы последовательность их высот стала красивой.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество деревьев. Во второй строке записаны целые числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>) — высоты деревьев.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — минимальное количество деревьев, высоты которых придется изменить, чтобы последовательность стала красивой.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />2 2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />1 2 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Календарь</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>БерНефтьГазАлмазБанк имеет филиалы в <span class="tex-span"><i>n</i></span> городах, причем <span class="tex-span"><i>n</i></span> четно. Руководство банка хочет издать календарь с названиями всех этих городов, записанными в два столбца: календарь должен состоять из <span class="tex-span"><i>n</i> / 2</span> строк одинаковой длины, каждая из которых содержит ровно два названия и ровно один разделитель между ними. При этом название каждого города нужно использовать в календаре ровно один раз. По историческим причинам в качестве разделителя слов в календаре используется символ <span class="tex-span"><i>d</i></span>.</p><p>Руководство БерНефтьГазАлмазБанка хочет показать, что для него одинаково важны все филиалы, поэтому порядок их следования в календаре должен быть беспрестрастным: если «склеить» все <span class="tex-span"><i>n</i> / 2</span> строк словаря в одну так, чтобы между двумя словами из одной строки были разделители, а между разными строками календаря разделителей не было, получается лексикографически наименьшая возможная строка. Это равносильно тому, что нужно найти лексикографически наименьший календарь, причем сравнение календарей происходит построчно.</p><p>Помогите БерНефтьГазАлмазБанку — составьте искомый календарь.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">4</sup></span>, <span class="tex-span"><i>n</i></span> четное) — количество филиалов. Далее следует <span class="tex-span"><i>n</i></span> строк — названия городов. Все названия состоят из маленьких латинских букв, их длины не меньше 1 и не больше 10 символов. В следующей строке содержится один символ <span class="tex-span"><i>d</i></span> (<span class="tex-span"><i>d</i></span> имеет ASCII-код от 33 до 126 включительно, исключая маленькие латинские буквы) — разделитель между словами в строках календаря. Гарантируется, что составить календарь возможно, и все названия различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i> / 2</span> строк одинаковой длины — искомый календарь. Каждая строка должна содержать ровно 2 слова и ровно 1 разделитель между ними. Если решений несколько, выведите лексикографически минимальное. Лексикографическое сравнение строк реализует оператор &lt; в современных языках программирования.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />b<br />aa<br />hg<br />c<br />.<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>aa.b<br />c.hg<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />aa<br />a<br />!<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>a!aa<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />aa<br />a<br />|<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>aa|a<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Выражение</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды Вася решал арифметические примеры. Он записал в тетради выражение <span class="tex-span"><i>a</i> + <i>b</i> = <i>c</i></span>. Когда учитель проверил Васину тетрадь, выяснилось, что этот пример он решил неправильно. Теперь Вася оправдывается, что он просто забыл записать несколько цифр в числах <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> и <span class="tex-span"><i>c</i></span>, но вспомнить, какие же тогда на самом деле были числа, у него не получается. Помогите Васе — найдите такие числа <span class="tex-span"><i>x</i></span>, <span class="tex-span"><i>y</i></span> и <span class="tex-span"><i>z</i></span>, что: <ul> <li> <span class="tex-span"><i>x</i> + <i>y</i> = <i>z</i></span>, </li><li> из выражения <span class="tex-span"><i>x</i> + <i>y</i> = <i>z</i></span> можно вычеркиванием некоторых цифр получить <span class="tex-span"><i>a</i> + <i>b</i> = <i>c</i></span>, </li><li> выражение <span class="tex-span"><i>x</i> + <i>y</i> = <i>z</i></span> должно иметь минимальную длину. </li></ul></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой и единственной строке записано выражение <span class="tex-span"><i>a</i> + <i>b</i> = <i>c</i></span> (<span class="tex-span">1 ≤ <i>a</i>, <i>b</i>, <i>c</i> ≤ 10<sup class="upper-index">6</sup></span>, <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> и <span class="tex-span"><i>c</i></span> не содержат лидирующие нули) — выражение, которое было записано у Васи.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите корректное выражение <span class="tex-span"><i>x</i> + <i>y</i> = <i>z</i></span> (<span class="tex-span"><i>x</i></span>, <span class="tex-span"><i>y</i></span> и <span class="tex-span"><i>z</i></span> — неотрицательные числа без лидирующих нулей). Выражение <span class="tex-span"><i>a</i> + <i>b</i> = <i>c</i></span> должно встречаться в <span class="tex-span"><i>x</i> + <i>y</i> = <i>z</i></span> как подпоследовательность. Выводимое решение должно иметь наименьшее возможное число символов; если же таких решений несколько, можно вывести любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2+4=5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>21+4=25<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1+1=3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1+31=32<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1+1=2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1+1=2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

@@ -1,0 +1,408 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="5haab8f0g40062304343949a6d39052b"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="9d4ox4dwox4k"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='5haab8f0g40062304343949a6d39052b'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Bayan 2012-2013 Elimination Round (ACM ICPC Rules, English statements)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Old Peykan</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file"><div class="property-title">input</div>стандартный ввод</div><div class="output-file"><div class="property-title">output</div>стандартный вывод</div></div><div><p>There are <span class="tex-span"><i>n</i></span> cities in the country where the Old Peykan lives. These cities are located on a straight line, we'll denote them from left to right as <span class="tex-span"><i>c</i><sub class="lower-index">1</sub>, <i>c</i><sub class="lower-index">2</sub>, ..., <i>c</i><sub class="lower-index"><i>n</i></sub></span>. The Old Peykan wants to travel from city <span class="tex-span"><i>c</i><sub class="lower-index">1</sub></span> to <span class="tex-span"><i>c</i><sub class="lower-index"><i>n</i></sub></span> using roads. There are <span class="tex-span">(<i>n</i> - 1)</span> <span class="tex-font-style-bf">one way</span> roads, the <span class="tex-span"><i>i</i></span>-th road goes from city <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> to city <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i> + 1</sub></span> and is <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span> kilometers long.</p><p>The Old Peykan travels 1 kilometer in 1 hour and consumes 1 liter of fuel during this time.</p><p>Each city <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> (except for the last city <span class="tex-span"><i>c</i><sub class="lower-index"><i>n</i></sub></span>) has a supply of <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> liters of fuel which immediately transfers to the Old Peykan if it passes the city or stays in it. This supply refreshes instantly <span class="tex-span"><i>k</i></span> hours after it transfers. The Old Peykan can stay in a city for a while and fill its fuel tank many times. </p><p>Initially (at time zero) the Old Peykan is at city <span class="tex-span"><i>c</i><sub class="lower-index">1</sub></span> and <span class="tex-span"><i>s</i><sub class="lower-index">1</sub></span> liters of fuel is transferred to it's empty tank from <span class="tex-span"><i>c</i><sub class="lower-index">1</sub></span>'s supply. The Old Peykan's fuel tank capacity is unlimited. Old Peykan can not continue its travel if its tank is emptied strictly between two cities.</p><p>Find the minimum time the Old Peykan needs to reach city <span class="tex-span"><i>c</i><sub class="lower-index"><i>n</i></sub></span>.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains two space-separated integers <span class="tex-span"><i>m</i></span> and <span class="tex-span"><i>k</i></span> <span class="tex-span">(1 ≤ <i>m</i>, <i>k</i> ≤ 1000)</span>. The value <span class="tex-span"><i>m</i></span> specifies the number of roads between cities which is equal to <span class="tex-span"><i>n</i> - 1</span>.</p><p>The next line contains <span class="tex-span"><i>m</i></span> space-separated integers <span class="tex-span"><i>d</i><sub class="lower-index">1</sub>, <i>d</i><sub class="lower-index">2</sub>, ..., <i>d</i><sub class="lower-index"><i>m</i></sub></span> <span class="tex-span">(1 ≤ <i>d</i><sub class="lower-index"><i>i</i></sub> ≤ 1000)</span> and the following line contains <span class="tex-span"><i>m</i></span> space-separated integers <span class="tex-span"><i>s</i><sub class="lower-index">1</sub>, <i>s</i><sub class="lower-index">2</sub>, ..., <i>s</i><sub class="lower-index"><i>m</i></sub></span> <span class="tex-span">(1 ≤ <i>s</i><sub class="lower-index"><i>i</i></sub> ≤ 1000)</span>.</p></div><div class="output-specification"><div class="section-title">Output</div><p>In the only line of the output print a single integer — the minimum time required for The Old Peykan to reach city <span class="tex-span"><i>c</i><sub class="lower-index"><i>n</i></sub></span> from city <span class="tex-span"><i>c</i><sub class="lower-index">1</sub></span>.</p></div><div class="sample-tests"><div class="section-title">Sample test(s)</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre>4 6<br />1 2 5 2<br />2 3 3 4<br /></pre></div><div class="output"><div class="title">Output</div><pre>10<br /></pre></div><div class="input"><div class="title">Input</div><pre>2 3<br />5 6<br />5 5<br /></pre></div><div class="output"><div class="title">Output</div><pre>14<br /></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the second sample above, the Old Peykan stays in <span class="tex-span"><i>c</i><sub class="lower-index">1</sub></span> for 3 hours.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Friends</div><div class="time-limit"><div class="property-title">time limit per test</div>6 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file"><div class="property-title">input</div>стандартный ввод</div><div class="output-file"><div class="property-title">output</div>стандартный вывод</div></div><div><p>You have <span class="tex-span"><i>n</i></span> friends and you want to take <span class="tex-span"><i>m</i></span> pictures of them. Exactly two of your friends should appear in each picture and no two pictures should contain the same pair of your friends. So if you have <span class="tex-span"><i>n</i> = 3</span> friends you can take <span class="tex-span">3</span> different pictures, each containing a pair of your friends.</p><p>Each of your friends has an attractiveness level which is specified by the integer number <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> for the <span class="tex-span"><i>i</i></span>-th friend. You know that the attractiveness of a picture containing the <span class="tex-span"><i>i</i></span>-th and the <span class="tex-span"><i>j</i></span>-th friends is equal to the exclusive-or (<span class="tex-span"><i>xor</i></span> operation) of integers <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> and <span class="tex-span"><i>a</i><sub class="lower-index"><i>j</i></sub></span>.</p><p>You want to take pictures in a way that the total sum of attractiveness of your pictures is maximized. You have to calculate this value. Since the result may not fit in a 32-bit integer number, print it modulo <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input contains two integers <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>m</i></span> <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/5ed658819150aa010aa64e83d8b715a8fd224263.png" /> — the number of friends and the number of pictures that you want to take. </p><p>Next line contains <span class="tex-span"><i>n</i></span> space-separated integers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>) — the values of attractiveness of the friends.</p></div><div class="output-specification"><div class="section-title">Output</div><p>The only line of output should contain an integer — the optimal total sum of attractiveness of your pictures.</p></div><div class="sample-tests"><div class="section-title">Sample test(s)</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre>3 1<br />1 2 3<br /></pre></div><div class="output"><div class="title">Output</div><pre>3<br /></pre></div><div class="input"><div class="title">Input</div><pre>3 2<br />1 2 3<br /></pre></div><div class="output"><div class="title">Output</div><pre>5<br /></pre></div><div class="input"><div class="title">Input</div><pre>3 3<br />1 2 3<br /></pre></div><div class="output"><div class="title">Output</div><pre>6<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Mirror Box</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file"><div class="property-title">input</div>стандартный ввод</div><div class="output-file"><div class="property-title">output</div>стандартный вывод</div></div><div><p>Mirror Box is a name of a popular game in the Iranian National Amusement Park (INAP). There is a wooden box, <span class="tex-span">10<sup class="upper-index">5</sup></span> cm long and <span class="tex-span">100</span> cm high in this game. Some parts of the box's ceiling and floor are covered by mirrors. There are two negligibly small holes in the opposite sides of the box at heights <span class="tex-span"><i>h</i><sub class="lower-index"><i>l</i></sub></span> and <span class="tex-span"><i>h</i><sub class="lower-index"><i>r</i></sub></span> centimeters above the floor. The picture below shows what the box looks like.</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/2da558b583fc7afd37aca418be913baa0332b258.png" /> </center></p><p>In the game, you will be given a laser gun to shoot once. The laser beam must enter from one hole and exit from the other one. Each mirror has a preset number <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span>, which shows the number of points players gain if their laser beam hits that mirror. Also — to make things even funnier — the beam must <span class="tex-font-style-bf">not</span> hit any mirror more than once.</p><p>Given the information about the box, your task is to find the maximum score a player may gain. Please note that the reflection obeys the law &quot;the angle of incidence equals the angle of reflection&quot;.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains three space-separated integers <span class="tex-span"><i>h</i><sub class="lower-index"><i>l</i></sub>, <i>h</i><sub class="lower-index"><i>r</i></sub>, <i>n</i></span> (<span class="tex-span">0 &lt; <i>h</i><sub class="lower-index"><i>l</i></sub>, <i>h</i><sub class="lower-index"><i>r</i></sub> &lt; 100</span>, <span class="tex-span">0 ≤ <i>n</i> ≤ 100</span>) — the heights of the holes and the number of the mirrors.</p><p>Next <span class="tex-span"><i>n</i></span> lines contain the descriptions of the mirrors. The <span class="tex-span"><i>i</i></span>-th line contains space-separated <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub>, <i>c</i><sub class="lower-index"><i>i</i></sub>, <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub></span>; the integer <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>v</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>) is the score for the <span class="tex-span"><i>i</i></span>-th mirror; the character <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> denotes <span class="tex-span"><i>i</i></span>-th mirror's position — the mirror is on the ceiling if <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> equals &quot;<span class="tex-font-style-tt">T</span>&quot; and on the floor if <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> equals &quot;<span class="tex-font-style-tt">F</span>&quot;; integers <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> and <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> &lt; <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>) represent the <span class="tex-span"><i>x</i></span>-coordinates of the beginning and the end of the mirror.</p><p>No two mirrors will share a common point. Consider that the <span class="tex-span"><i>x</i></span> coordinate increases in the direction from left to right, so the border with the hole at height <span class="tex-span"><i>h</i><sub class="lower-index"><i>l</i></sub></span> has the <span class="tex-span"><i>x</i></span> coordinate equal to 0 and the border with the hole at height <span class="tex-span"><i>h</i><sub class="lower-index"><i>r</i></sub></span> has the <span class="tex-span"><i>x</i></span> coordinate equal to <span class="tex-span">10<sup class="upper-index">5</sup></span>.</p></div><div class="output-specification"><div class="section-title">Output</div><p>The only line of output should contain a single integer — the maximum possible score a player could gain.</p></div><div class="sample-tests"><div class="section-title">Sample test(s)</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre>50 50 7<br />10 F 1 80000<br />20 T 1 80000<br />30 T 81000 82000<br />40 T 83000 84000<br />50 T 85000 86000<br />60 T 87000 88000<br />70 F 81000 89000<br /></pre></div><div class="output"><div class="title">Output</div><pre>100<br /></pre></div><div class="input"><div class="title">Input</div><pre>80 72 9<br />15 T 8210 15679<br />10 F 11940 22399<br />50 T 30600 44789<br />50 F 32090 36579<br />5 F 45520 48519<br />120 F 49250 55229<br />8 F 59700 80609<br />35 T 61940 64939<br />2 T 92540 97769<br /></pre></div><div class="output"><div class="title">Output</div><pre>120<br /></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>The second sample is depicted above. The red beam gets <span class="tex-span">10 + 50 + 5 + 35 + 8 + 2 = 110</span> points and the blue one gets <span class="tex-span">120</span>.</p><p><span class="tex-font-style-bf">The red beam on the picture given in the statement shows how the laser beam can go approximately, this is just illustration how the laser beam can gain score. So for the second sample there is no such beam that gain score 110.</span></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Numbers</div><div class="time-limit"><div class="property-title">time limit per test</div>6 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file"><div class="property-title">input</div>стандартный ввод</div><div class="output-file"><div class="property-title">output</div>стандартный вывод</div></div><div><p>You have a sequence of <span class="tex-span"><i>n</i></span> distinct integers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span>. You want to remove some integers in such a way that the resulting sequence of integers satisfies the following three conditions:</p><p><ol> <li> the resulting sequence is not empty; </li><li> the exclusive or (<span class="tex-span"><i>xor</i></span> operation) of all the integers in the resulting sequence equals <span class="tex-span">0</span>; </li><li> if you write all the integers of the resulting sequence (from beginning to the end) in a row in the decimal numeral system and without any spaces, the written number is divisible by <span class="tex-span"><i>p</i></span>. </li></ol></p><p>You are given the sequence of <span class="tex-span"><i>n</i></span> integers <span class="tex-span"><i>a</i></span> and a prime number <span class="tex-span"><i>p</i></span>, find a way to satisfy the described conditions.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains two integers <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>p</i></span> <span class="tex-span">(1 ≤ <i>n</i>, <i>p</i> ≤ 50000)</span>. Next line contains <span class="tex-span"><i>n</i></span> space-separated distinct integers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span>.</p><p>It is guaranteed that <span class="tex-span"><i>p</i></span> is a prime number.</p></div><div class="output-specification"><div class="section-title">Output</div><p>If there is no solution for the given input, print &quot;<span class="tex-font-style-tt">No</span>&quot; (without quotes) in the only line of the output.</p><p>Otherwise print &quot;<span class="tex-font-style-tt">Yes</span>&quot; in the first line of output. The second line should contain an integer <span class="tex-span"><i>k</i></span> <span class="tex-span">(<i>k</i> &gt; 0)</span> specifying the number of remaining elements and the third line should contain <span class="tex-span"><i>k</i></span> distinct integers <span class="tex-span"><i>x</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub>, ..., <i>x</i><sub class="lower-index"><i>k</i></sub></span> <span class="tex-span">(1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span>. These integers mean that you should remove all integers from the sequence except integers <span class="tex-span"><i>a</i><sub class="lower-index"><i>x</i><sub class="lower-index">1</sub></sub>, <i>a</i><sub class="lower-index"><i>x</i><sub class="lower-index">2</sub></sub>, ..., <i>a</i><sub class="lower-index"><i>x</i><sub class="lower-index"><i>k</i></sub></sub></span> to satisfy the described conditions.</p><p>If there are multiple solutions, any of them will be accepted.</p></div><div class="sample-tests"><div class="section-title">Sample test(s)</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre>3 3<br />1 2 3<br /></pre></div><div class="output"><div class="title">Output</div><pre>Yes<br />3<br />1 2 3 <br /></pre></div><div class="input"><div class="title">Input</div><pre>3 5<br />1 2 3<br /></pre></div><div class="output"><div class="title">Output</div><pre>No<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Flights</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file"><div class="property-title">input</div>стандартный ввод</div><div class="output-file"><div class="property-title">output</div>стандартный вывод</div></div><div><p>LiLand is a country, consisting of <span class="tex-span"><i>n</i></span> cities. The cities are numbered from 1 to <span class="tex-span"><i>n</i></span>. The country is well known because it has a very strange transportation system. There are many one-way flights that make it possible to travel between the cities, but the flights are arranged in a way that once you leave a city you will never be able to return to that city again.</p><p>Previously each flight took exactly one hour, but recently Lily has become the new manager of transportation system and she wants to change the duration of some flights. Specifically, she wants to change the duration of some flights to exactly 2 hours in such a way that all trips from city 1 to city <span class="tex-span"><i>n</i></span> take the same time regardless of their path.</p><p>Your task is to help Lily to change the duration of flights.</p></div><div class="input-specification"><div class="section-title">Input</div><p>First line of the input contains two integer numbers <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>m</i></span> <span class="tex-span">(2 ≤ <i>n</i> ≤ 1000; 1 ≤ <i>m</i> ≤ 5000)</span> specifying the number of cities and the number of flights.</p><p>Each of the next <span class="tex-span"><i>m</i></span> lines contains two integers <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> and <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> &lt; <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>)</span> specifying a one-directional flight from city <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> to city <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>. It is guaranteed that there exists a way to travel from city number 1 to city number <span class="tex-span"><i>n</i></span> using the given flights. It is guaranteed that there is no sequence of flights that forms a cyclical path and no two flights are between the same pair of cities.</p></div><div class="output-specification"><div class="section-title">Output</div><p>If it is impossible for Lily to do her task, print &quot;<span class="tex-font-style-tt">No</span>&quot; (without quotes) on the only line of the output. </p><p>Otherwise print &quot;<span class="tex-font-style-tt">Yes</span>&quot; (without quotes) on the first line of output, then print an integer <span class="tex-span"><i>ans</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(1 ≤ <i>ans</i><sub class="lower-index"><i>i</i></sub> ≤ 2)</span> to each of the next <span class="tex-span"><i>m</i></span> lines being the duration of flights in new transportation system. You should print these numbers in the order that flights are given in the input.</p><p>If there are multiple solutions for the input, output any of them.</p></div><div class="sample-tests"><div class="section-title">Sample test(s)</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre>3 3<br />1 2<br />2 3<br />1 3<br /></pre></div><div class="output"><div class="title">Output</div><pre>Yes<br />1<br />1<br />2<br /></pre></div><div class="input"><div class="title">Input</div><pre>4 4<br />1 2<br />2 3<br />3 4<br />1 4<br /></pre></div><div class="output"><div class="title">Output</div><pre>No<br /></pre></div><div class="input"><div class="title">Input</div><pre>5 6<br />1 2<br />2 3<br />3 5<br />1 4<br />4 5<br />1 3<br /></pre></div><div class="output"><div class="title">Output</div><pre>Yes<br />1<br />1<br />1<br />2<br />1<br />2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F. Race</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file"><div class="property-title">input</div>стандартный ввод</div><div class="output-file"><div class="property-title">output</div>стандартный вывод</div></div><div><p>The Old City is a rectangular city represented as an <span class="tex-span"><i>m</i> × <i>n</i></span> grid of blocks. This city contains many buildings, straight two-way streets and junctions. Each junction and each building is exactly one block. All the streets have width of one block and are either vertical or horizontal. There is a junction on both sides of each street. We call two blocks adjacent if and only if they share a common side. No two blocks of different streets are adjacent and no two junctions are adjacent. </p><p>There is an annual festival and as a part of it, The Old Peykan follows a special path in the city. This path starts from a block in a street, continues with many junctions and ends in a block of some street. For each street block, we know how much time it takes for the Old Peykan to go from this block to an adjacent block. Also the Old Peykan can go from each junction to its adjacent street blocks in one minute. Of course Old Peykan can't go to building blocks.</p><p>We know the initial position of the Old Peykan and the sequence of junctions that it passes to reach its destination. After passing all the junctions and reaching the destination, it will stay there forever. Your task is to find out where will the Old Peykan be <span class="tex-span"><i>k</i></span> minutes after it starts moving. Consider that The Old Peykan always follows the shortest path that passes through the given sequence of junctions and reaches the destination.</p><p>Note that the Old Peykan may visit some blocks more than once.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input contains three integers <span class="tex-span"><i>m</i></span>, <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>k</i></span> <span class="tex-span">(3 ≤ <i>m</i>, <i>n</i> ≤ 100, 1 ≤ <i>k</i> ≤ 100000)</span>. Next <span class="tex-span"><i>m</i></span> lines are representing the city's map. Each of them containts <span class="tex-span"><i>n</i></span> characters, each character is a block:</p><p><ul> <li> Character &quot;<span class="tex-font-style-tt">#</span>&quot; represents a building. </li><li> Digits &quot;<span class="tex-font-style-tt">1</span>&quot;, &quot;<span class="tex-font-style-tt">2</span>&quot;, <span class="tex-span">...</span>, &quot;<span class="tex-font-style-tt">9</span>&quot; represent a block of an street and this digit means the number of minutes it takes for the Old Peykan to pass this block. </li><li> Characters &quot;<span class="tex-font-style-tt">a</span>&quot;, &quot;<span class="tex-font-style-tt">b</span>&quot;, <span class="tex-span">...</span>, &quot;<span class="tex-font-style-tt">z</span>&quot; means that this block is a junction and this character is it's name. All the junction names are unique. </li></ul></p><p>Consider that all blocks have the coordinates: the <span class="tex-span"><i>j</i></span>-th in the <span class="tex-span"><i>i</i></span>-th line have coordinates <span class="tex-span">(<i>i</i>, <i>j</i>)</span> <span class="tex-span">(1 ≤ <i>i</i> ≤ <i>m</i>, 1 ≤ <i>j</i> ≤ <i>n</i>)</span>.</p><p>The <span class="tex-span">(<i>m</i> + 2)</span>th line contains two integers <span class="tex-span"><i>r</i><sub class="lower-index"><i>s</i></sub></span> and <span class="tex-span"><i>c</i><sub class="lower-index"><i>s</i></sub></span> <span class="tex-span">(1 ≤ <i>r</i><sub class="lower-index"><i>s</i></sub> ≤ <i>m</i>, 1 ≤ <i>c</i><sub class="lower-index"><i>s</i></sub> ≤ <i>n</i>)</span>, string <span class="tex-span"><i>s</i></span> and another two integers <span class="tex-span"><i>r</i><sub class="lower-index"><i>e</i></sub></span> and <span class="tex-span"><i>c</i><sub class="lower-index"><i>e</i></sub></span> <span class="tex-span">(1 ≤ <i>r</i><sub class="lower-index"><i>e</i></sub> ≤ <i>m</i>, 1 ≤ <i>c</i><sub class="lower-index"><i>e</i></sub> ≤ <i>n</i>)</span>. The path starts from block <span class="tex-span">(<i>r</i><sub class="lower-index"><i>s</i></sub>, <i>c</i><sub class="lower-index"><i>s</i></sub>)</span>, continues through junctions in the order that is specified by <span class="tex-span"><i>s</i></span> and will end in block <span class="tex-span">(<i>r</i><sub class="lower-index"><i>e</i></sub>, <i>c</i><sub class="lower-index"><i>e</i></sub>)</span>. Length of <span class="tex-span"><i>s</i></span> is between <span class="tex-span">1</span> and <span class="tex-span">1000</span>.</p><p>It's guaranteed that string <span class="tex-span"><i>s</i></span> denotes a correct path from the start position to the end position and string <span class="tex-span"><i>s</i></span> doesn't contain two consecutive equal letters. Also start position <span class="tex-span">(<i>r</i><sub class="lower-index"><i>s</i></sub>, <i>c</i><sub class="lower-index"><i>s</i></sub>)</span> and the end position <span class="tex-span">(<i>r</i><sub class="lower-index"><i>e</i></sub>, <i>c</i><sub class="lower-index"><i>e</i></sub>)</span> are street blocks.</p></div><div class="output-specification"><div class="section-title">Output</div><p>In a single line print two integers <span class="tex-span"><i>r</i><sub class="lower-index"><i>f</i></sub></span> and <span class="tex-span"><i>c</i><sub class="lower-index"><i>f</i></sub></span> — (<span class="tex-span"><i>r</i><sub class="lower-index"><i>f</i></sub>, <i>c</i><sub class="lower-index"><i>f</i></sub></span>) being the position of the Old Peykan after exactly <span class="tex-span"><i>k</i></span> minutes.</p></div><div class="sample-tests"><div class="section-title">Sample test(s)</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre>3 10 12<br />##########<br />#z1a1111b#<br />##########<br />2 3 ab 2 8<br /></pre></div><div class="output"><div class="title">Output</div><pre>2 8<br /></pre></div><div class="input"><div class="title">Input</div><pre>10 3 5<br />###<br />#w#<br />#1#<br />#a#<br />#1#<br />#1#<br />#1#<br />#1#<br />#b#<br />###<br />3 2 abababababababab 6 2<br /></pre></div><div class="output"><div class="title">Output</div><pre>8 2<br /></pre></div><div class="input"><div class="title">Input</div><pre>3 10 6<br />##########<br />#z1a1311b#<br />##########<br />2 3 ab 2 8<br /></pre></div><div class="output"><div class="title">Output</div><pre>2 7<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">G. Challenging Balloons</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file"><div class="property-title">input</div>стандартный ввод</div><div class="output-file"><div class="property-title">output</div>стандартный вывод</div></div><div><p>Martha — as a professional problemsetter — proposed a problem for a world-class contest. This is the problem statement:</p><p><span class="tex-font-style-it">Tomorrow is Nadia's birthday, and Bardia (her brother) is assigned to make the balloons ready!</span></p><p><span class="tex-font-style-it">There are <span class="tex-span"><i>n</i></span> balloons (initially empty) that are tied to a straight line on certain positions <span class="tex-span"><i>x</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub>, ..., <i>x</i><sub class="lower-index"><i>n</i></sub></span>. Bardia inflates the balloons from left to right. As a result, <span class="tex-span"><i>i</i></span>-th balloon gets bigger and bigger until its radius reaches the pressure endurance <span class="tex-span"><i>p</i><sub class="lower-index"><i>i</i></sub></span> or it touches another previously-inflated balloon.</span></p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/bdf88a8bfbbea294ddeb38a4808a7571f4bf46a0.png" /> </center></p><p><span class="tex-font-style-it">While Bardia was busy with the balloons, he wondered &quot;What will be the sum of radius of balloons after all of the balloons are inflated?&quot;. Being a nerdy type of guy, he is now thinking about the problem instead of preparing his sister's birthday. Calculate the answer to Bardia's problem so that Nadia's birthday won't be balloon-less.</span></p><p>Artha — Martha's student — claimed his solution got accepted. Martha (being his teacher for a long time!) knew he couldn't have solved the problem for <span class="tex-font-style-bf">real</span> and thus thinks there is something wrong with the testcases. Artha isn't anyhow logical, which means there is no way for Martha to explain the wrong point in his algorithm. So, the only way is to find a testcase to prove him wrong!</p><p>Artha's pseudo-code is shown below:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/4fbf259820180ee86e16a50da81d40e37abc9b65.png" /> </center></p><p>You should output a small testcase for the problem such that Artha's algorithm is incorrect. The algorithm's output is considered correct if it differs from the correct value by no more than 1.</p></div><div class="input-specification"><div class="section-title">Input</div><p><span class="tex-font-style-bf">Please pay attention!</span> No input will be given to your program for this problem. So you do not have to read from the input anything.</p></div><div class="output-specification"><div class="section-title">Output</div><p>You should output the generated small testcase (which Artha's solution doesn't get it right). It should be in the following format:</p><p><ul> <li> First line must contain the only number <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 500</span>). </li><li> The <span class="tex-span"><i>i</i></span>-th of the next <span class="tex-span"><i>n</i></span> lines should contain the description of the <span class="tex-span"><i>i</i></span>-th balloon — two space-separated integers <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub>, <i>p</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>p</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup></span>, <span class="tex-span">0 ≤ <i>x</i><sub class="lower-index">1</sub> &lt; <i>x</i><sub class="lower-index">2</sub> &lt; ... &lt; <i>x</i><sub class="lower-index"><i>n</i></sub> ≤ 10<sup class="upper-index">6</sup></span>). </li></ul></p></div><div class="sample-tests"><div class="section-title">Sample test(s)</div><div class="sample-test"></div></div><div class="note"><div class="section-title">Note</div><p>The testcase depicted in the figure above (just showing how output should be formatted):</p><p><pre><br />4<br />0 9<br />6 3<br />12 7<br />17 1<br /></pre></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

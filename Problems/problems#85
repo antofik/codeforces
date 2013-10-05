@@ -1,0 +1,350 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="37d57c258e2a1d77dab875fe37g1h2cd"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="bgwu8vxm0kss"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='37d57c258e2a1d77dab875fe37g1h2cd'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+            <a href="http://www.yandex.ru/" style="text-decoration:none;"><img src="http://212.193.37.254/codeforces/images/yandex-algorithm-ru-logo.png" style="margin-top:5px;"/></a>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">&#1071;&#1085;&#1076;&#1077;&#1082;&#1089;.&#1040;&#1083;&#1075;&#1086;&#1088;&#1080;&#1090;&#1084; 2011&lt;br&gt;&#1056;&#1072;&#1091;&#1085;&#1076; 1</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Домино</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 second</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Широко известна задача о количестве замощений доминошками размера <span class="tex-span">1 × 2</span> поля размера <span class="tex-span">2 × <i>n</i></span>. Возможно, вы помните, что она сводится к числам Фибоначчи. Ниже речь пойдет о другой задаче, в которой вам тоже предстоит иметь дело с замощениями доминошками прямоугольного поля.</p><p>Задано прямоугольное поле размера <span class="tex-span">4 × <i>n</i></span>, то есть такое, которое содержит четыре строки и <span class="tex-span"><i>n</i></span> столбцов. Требуется найти любое такое его замощение доминошками <span class="tex-span">1 × 2</span>, что каждый из <span class="tex-span"><i>n</i> - 1</span> возможных вертикальных разрезов по линиям сетки пересекает хотя бы одну доминошку, разделяя ее пополам. Никакие две доминошки в искомом замощении не должны накладываться, каждая клетка поля должна быть покрыта ровно одной доминошкой. Доминошки разрешается поворачивать, то есть можно использовать как доминошки <span class="tex-span">2 × 1</span>, так и <span class="tex-span">1 × 2</span>.</p><p>Напишите программу, которая находит произвольное искомое замощение.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано одно натуральное число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>) — количество столбцов поля.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если решения не существует, выведите «-1» (без кавычек). Иначе выведите четыре строки по <span class="tex-span"><i>n</i></span> символов в каждой — описание замощения, в котором каждый вертикальный разрез пересекает хотя бы одну доминошку. Замощение следует выводить, раскрасив поле в не более чем <span class="tex-span">26</span> цветов. Каждую доминошку нужно покрасить в один цвет. Разные доминошки могут быть покрашены в один и тот же цвет, но доминошки одного цвета не должны касаться по стороне. Для обозначения цветов нужно использовать строчные буквы латинского алфавита. Выведите любой из допустимых способов замощения.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>yyzz<br />bccd<br />bxxd<br />yyaa<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Очередь в посольстве</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В посольстве одного немалоизвестного королевства организована электронная очередь. Каждому человеку, пришедшему в посольство, необходимо выполнить следующие три действия: подать документы, заплатить деньги в кассу и сдать отпечатки пальцев. <span class="tex-font-style-bf">При этом действия должны выполняться именно в указанном порядке.</span></p><p>Для каждого действия отведено несколько отдельных окон: <span class="tex-span"><i>k</i><sub class="lower-index">1</sub></span> различных окон для первого действия, <span class="tex-span"><i>k</i><sub class="lower-index">2</sub></span> для второго, и <span class="tex-span"><i>k</i><sub class="lower-index">3</sub></span> для третьего. Время обслуживания одного человека в окне каждом из <span class="tex-span"><i>k</i><sub class="lower-index">1</sub></span> окон для первого действия равно <span class="tex-span"><i>t</i><sub class="lower-index">1</sub></span>. Аналогично, время обслуживания одного человека в каждом из <span class="tex-span"><i>k</i><sub class="lower-index">2</sub></span> окон для второго действия равно <span class="tex-span"><i>t</i><sub class="lower-index">2</sub></span>, а время обслуживания одного человека в каждом из <span class="tex-span"><i>k</i><sub class="lower-index">3</sub></span> окон для третьего действия равно <span class="tex-span"><i>t</i><sub class="lower-index">3</sub></span>. Таким образом, время обслуживания зависит только от типа окна и никак не зависит от человека, подающего документы.</p><p>В некоторые моменты времени в посольство приходят <span class="tex-span"><i>n</i></span> человек, <span class="tex-span"><i>i</i></span>-ый человек приходит в момент времени <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span>. Человек регистрируется под некоторым номером, после чего сидит в зале и ожидает, пока его номер не высветится на специальном табло. На этом табло он видит номер окна, к которому ему нужно подойти и сразу же идет к нему. Будем считать, что время подхода включено во время обслуживания. Табло одновременно может показывать информацию более чем для одного человека. Электронная очередь работает таким образом, что подошедшего к окну человека немедленно начинают обслуживать, так как перед окном нет других людей.</p><p>Сотрудники инспекции по качеству обслуживания клиентов заметили, что некоторые люди проводят в посольстве слишком много времени (что при отсутствии там сигнала сотовой связи и 3G довольно удручает). Было принято решение, что система должна быть организована так, что наибольшее время проведенное человеком в посольстве оказалось минимально. Помогите сотрудникам инспекции организовать очередь. Считайте, что все действия, кроме обслуживания в окне, происходят мгновенно.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано три целых числа <span class="tex-span"><i>k</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>k</i><sub class="lower-index">2</sub></span>, <span class="tex-span"><i>k</i><sub class="lower-index">3</sub></span> (<span class="tex-span">1 ≤ <i>k</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>), разделенные пробелами — количество окон первого, второго и третьего типа соответственно.</p><p>Во второй строке записано три целых числа <span class="tex-span"><i>t</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>t</i><sub class="lower-index">2</sub></span>, <span class="tex-span"><i>t</i><sub class="lower-index">3</sub></span> (<span class="tex-span">1 ≤ <i>t</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>), разделенные пробелами — время обслуживания одного человека в окне первого, второго и третьего типа соответственно.</p><p>В третьей строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество человек.</p><p>В четвертой строке записано <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>) в неубывающем порядке, разделенных пробелами; <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> — время прихода в посольство человека с номером <span class="tex-span"><i>i</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — наибольшее время, которое проведет человек в посольстве, при оптимальной организации очереди.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 1 1<br />1 1 1<br />5<br />1 1 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>7<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 1 1<br />5 1 1<br />5<br />1 2 3 3 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>13<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте 5 человек приходят одновременно в момент времени 1. Каждого типа по одному окну, каждое окно обслуживает 1 единицу времени. Поэтому максимальное время нахождения в посольстве — это время обслуживания в окнах (3 единицы времени) плюс время простоя человека, вызванного к первому окну последним (4 единицы времени).</p><p> Во втором тесте окна работают следующим образом:</p><p>Первое окно первого действия: <span class="tex-span">[1, 6)</span> — первый человек, <span class="tex-span">[6, 11)</span> — третий человек, <span class="tex-span">[11, 16)</span> — пятый человек</p><p>Второе окно первого действия: <span class="tex-span">[2, 7)</span> — второй человек, <span class="tex-font-style-bf"><span class="tex-span">[7, 12)</span></span> — четвертый человек</p><p>Окно второго действия: <span class="tex-span">[6, 7)</span> — первый, <span class="tex-span">[7, 8)</span> — второй, <span class="tex-span">[11, 12)</span> — третий, <span class="tex-span">[12, 13)</span> — четвертый, <span class="tex-span">[16, 17)</span> — пятый</p><p>Окно третьего действия: <span class="tex-span">[7, 8)</span> — первый, <span class="tex-span">[8, 9)</span> — второй, <span class="tex-span">[12, 13)</span> — третий, <span class="tex-span">[13, 14)</span> — четвертый, <span class="tex-span">[17, 18)</span> — пятый</p><p>Видно, что дольше всех обслуживается пятый человек.</p></div></div><p> </p></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Петя и дерево</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды после тяжелого рабочего дня Пете приснился страшный сон. И было в том сне большое бинарное дерево поиска. Но не дерево пугало Петю, а то, что не получалось у Пети искать в этом дереве элементы. Сколько ни пробовал Петя загадывать ключ и искать его в дереве, каждый раз приходил куда-то не туда. Долго мучился Петя, много загадывал ключей, и все одно и то же. Отчание стало охватывать Петю, как вдруг на него снизошло озарение: каждый раз, когда он искал ключ, этого ключа не было в дереве, и при этом случалась ровно одна ошибка. &quot;Не беда!&quot; — подумал Петя, — &quot;А посчитаю-ка я матожидание значения элемента, который находится при поиске данного ключа.&quot; Только он собрался это сделать, как, вдруг, проснулся.</p><p>Итак, вам дано <span class="tex-font-style-it">бинарное дерево поиска</span>, то есть дерево, у которого в каждой вершине записано некоторое число, называемое <span class="tex-font-style-it">ключом вершины</span>. Количество сыновей у каждой вершины дерева равно либо <span class="tex-span">0</span>, либо <span class="tex-span">2</span>. Вершины, имеющие <span class="tex-span">0</span> сыновей, называются <span class="tex-font-style-it">листьями</span>, а вершины, имеющие <span class="tex-span">2</span> сыновей, называются <span class="tex-font-style-it">внутренними</span>. У внутренней вершины есть <span class="tex-font-style-it">левый сын</span>, то есть сын, у которого ключ меньше ключа текущей вершины, и <span class="tex-font-style-it">правый сын</span>, у которого ключ больше ключа текущей вершины. <span class="tex-font-style-it">Потомками</span> некоторой вершины называются все вершины, достижимые из нее. То есть это непосредственные сыновья вершины, сыновья сыновей, и так далее. <span class="tex-font-style-it">Левые потомки</span> вершины — потомки ее левого сына. Аналогично, <span class="tex-font-style-it">правые потомки</span> вершины — потомки ее правого сына. По свойству дерева поиска, ключ любой вершины строго больше всех ключей левых потомков вершины и строго меньше всех ключей правых потомков вершины.</p><p>Так же вам задан набор <span class="tex-font-style-it">ключей поиска</span>, все из которых различны и отличаются от ключей вершин, имеющихся в дереве. Для каждого ключа из набора выполняется его поиск в дереве. Поиск устроен следующим образом: изначально мы находимся в корне дерева, если ключ текущей вершины больше нашего ключа поиска, то мы переходим в левого сына вершины, иначе переходим в правого сына вершины, и процесс повторяется. Так как ключ поиска гарантированно не содержится в дереве, поиск всегда будет останавливаться в листьях дерева. Ключ, лежащий в листе, объявляется <span class="tex-font-style-it">результатом поиска</span>.</p><p>Достоверно известно, что в ходе этого поиска мы ровно один раз ошибемся в сравнении, то есть пойдем не туда куда надо, а дальше ошибаться не будем. Все возможные ошибки равновероятны, то есть рассматриваются все такие поиски, в которых происходит ровно одна ошибка. Ваша задача — для каждого ключа поиска найти математическое ожидание (среднее значение) результата поиска, при условии что в этом поиске происходит ровно одна ошибка. То есть, надо для набора путей, в которых содержится ровно одна ошибка поиска заданного ключа, посчитать среднее значение ключей, находящихся в листьях этих путей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано нечетное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">3 ≤ <i>n</i> &lt; 10<sup class="upper-index">5</sup></span>) — количество вершин в дереве. В следущих <span class="tex-span"><i>n</i></span> строках заданы описания вершин. На <span class="tex-span">(<i>i</i> + 1)</span>-ой строке записано два целых числа, разделенных пробелами. Первое число — это номер родителя <span class="tex-span"><i>i</i></span>-ой вершины, второе — это ключ, лежащий в <span class="tex-span"><i>i</i></span>-ой вершине. В следующей строке записано целое число <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество ключей, для которых надо посчитать среднее значение результатов поиска с одной ошибкой. В следующих <span class="tex-span"><i>k</i></span> строках записаны сами ключи, по одному в каждой строке. </p><p>Все ключи вершин и все ключи поиска — это целые положительные числа, не превосходящие <span class="tex-span">10<sup class="upper-index">9</sup></span>. Все <span class="tex-span"><i>n</i> + <i>k</i></span> ключей различны.</p><p>Все вершины нумеруются от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Для корня дерева вместо номера вершины родителя будет задано число «-1» (без кавычек). Гарантируется, что задано корректное бинарное дерево поиска. Для каждой вершины, кроме корня, согласно её ключу может быть установлено, является она левым или правым сыном.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>k</i></span> действительных чисел, являющихся матожиданиями ответов для ключей, заданных во входе. Ответ должен отличаться от правильного с относительной или абсолютной погрешностью не более <span class="tex-span">10<sup class="upper-index"> - 9</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>7<br />-1 8<br />1 4<br />1 12<br />2 2<br />2 6<br />3 10<br />3 14<br />1<br />1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>8.0000000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />-1 5<br />1 3<br />1 7<br />6<br />1<br />2<br />4<br />6<br />8<br />9<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>7.0000000000<br />7.0000000000<br />7.0000000000<br />3.0000000000<br />3.0000000000<br />3.0000000000<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом сэмпле поиск ключа 1 с одной ошибкой порождает в дереве два пути: (1, 2, 5) и (1, 3, 6), в скобках перечислены номера вершин от корня к листу. Ключи в листьях этих путей равны 6 и 10 соответственно, поэтому ответ равен 8.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Сумма медиан</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В одном небезызвестном алгоритме нахождения <span class="tex-span"><i>k</i></span>-порядковой статистики нужно разбить все элементы на пятерки подряд идущих элементов и найти медиану каждой пятерки. Медианой называют средний элемент отсортированного массива (для пятерки — это третий по величине элемент). Для оценки скорости работы этого алгоритма на современной видеокарте требуется уметь находить сумму медиан в каждой пятерке упорядоченного множества. </p><p><span class="tex-font-style-it">Суммой медиан</span> отсортированного <span class="tex-span"><i>k</i></span>-элементного множества <span class="tex-span"><i>S</i> = {<i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>k</i></sub>}</span>, где <span class="tex-span"><i>a</i><sub class="lower-index">1</sub> &lt; <i>a</i><sub class="lower-index">2</sub> &lt; <i>a</i><sub class="lower-index">3</sub> &lt; ... &lt; <i>a</i><sub class="lower-index"><i>k</i></sub></span>, будем называть <center class="tex-equation"><img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/4bff736b8675515382173f09055bd89086f02279.png" /></center></p><p>Оператор <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/e91a39ad64cd7a33e8f1b67cd60e5b40257de950.png" /> обозначает взятие остатка, то есть <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/1d533a6df05afe2c303e325bb11b740c58acf6da.png" /> обозначает остаток при делении <span class="tex-span"><i>x</i></span> на <span class="tex-span"><i>y</i></span>.</p><p>Для проведения нагрузочного тестирования потребовалось быстро вычислять <span class="tex-font-style-it">сумму медиан</span> для изменяющегося множества.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество операций, производимых с множеством.</p><p>Далее в каждой из <span class="tex-span"><i>n</i></span> строк описана одна из трех операций: <ul> <li> <span class="tex-font-style-tt">add <span class="tex-span"><i>x</i></span></span> — добавить в множество элемент <span class="tex-span"><i>x</i></span>; </li><li> <span class="tex-font-style-tt">del <span class="tex-span"><i>x</i></span></span> — удалить из множества элемент <span class="tex-span"><i>x</i></span>; </li><li> <span class="tex-font-style-tt">sum</span> — найти <span class="tex-font-style-it">сумму медиан</span> множества. </li></ul></p><p>Для любой операции <span class="tex-font-style-tt">add <span class="tex-span"><i>x</i></span></span> верно, что элемент <span class="tex-span"><i>x</i></span> непосредственно перед операцией не входит в множество.</p><p>Для любой операции <span class="tex-font-style-tt">del <span class="tex-span"><i>x</i></span></span> верно, что элемент <span class="tex-span"><i>x</i></span> непосредственно перед операцией входит в множество.</p><p>Все числа во входных данных — положительные целые числа, не превосходящие <span class="tex-span">10<sup class="upper-index">9</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждой операции <span class="tex-font-style-tt">sum</span> выведите на отдельной строке <span class="tex-font-style-it">сумму медиан</span> текущего множества. Если множество пусто, то выведите 0.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6<br />add 4<br />add 5<br />add 1<br />add 2<br />add 3<br />sum<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>14<br />add 1<br />add 7<br />add 2<br />add 5<br />sum<br />add 6<br />add 8<br />add 9<br />add 3<br />add 4<br />add 10<br />sum<br />del 1<br />sum<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br />11<br />13<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Сторожевые башни</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1.5 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В одном далеком-предалеком королевстве живет жадный-прежадный король. Для защиты своих владений он построил <span class="tex-span"><i>n</i></span> сторожевых башен. Помимо башен, в королевстве есть две армии, во главе каждой из которых стоит властный и самодовольный генерал. Генералы терпеть не могут друг друга, в частности, они никогда не допустят, чтобы в одной из башен находились солдаты обеих армий.</p><p>Во время оборонительных действий для управления сторожевой башней генералу необходимо направить часть своей армии в эту башню. Каждый генерал требует у короля гонорар за управление башнями. Поскольку они живут в действительно очень далеком королевстве, каждый генерал оценивает свой гонорар следующим странным образом: он находит две самые удаленные башни, в которых находятся солдаты его армии и требует гонорар, равный этому расстоянию. Каждую башню можно считать точкой на плоскости с координатами <span class="tex-span">(<i>x</i>, <i>y</i>)</span>, а расстояние между двумя точками с координатами <span class="tex-span">(<i>x</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">1</sub>)</span> и <span class="tex-span">(<i>x</i><sub class="lower-index">2</sub>, <i>y</i><sub class="lower-index">2</sub>)</span> определяется в этом королевстве как <span class="tex-span">|<i>x</i><sub class="lower-index">1</sub> - <i>x</i><sub class="lower-index">2</sub>| + |<i>y</i><sub class="lower-index">1</sub> - <i>y</i><sub class="lower-index">2</sub>|</span>.</p><p>Жадного короля не совсем устроило такое требование генералов, поэтому он лишь согласился выплатить один гонорар на двоих генералов, равный максимальному из запрашиваемых двух гонораров. Однако, жадность все еще не дает покоя королю, поэтому из всех таких распределений башен между армиями, он хочет отыскать наиболее дешевое. Каждая башня должна быть занята солдатами ровно одной армии.</p><p>Для этих целей он нанял Вас. Вам необходимо найти минимальное количество денег, которое хватит для оплаты гонорара. А так как король еще крайне щепетилен, вы должны посчитать количество распределений, которые стоят такой же суммы денег. Поскольку их число может быть крайне велико, королю достаточно знать его значение в виде остатка от деления на <span class="tex-span">10<sup class="upper-index">9</sup> + 7</span>. </p><p>Два распределения называются различными, если различаются множества башен, занятых солдатами первого генерала. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 5000</span>), <span class="tex-span"><i>n</i></span> — количество сторожевых башен. Далее следует <span class="tex-span"><i>n</i></span> строк, в каждой из которой содержится два целых числа <span class="tex-span"><i>x</i>, <i>y</i></span> — координаты <span class="tex-span"><i>i</i></span>-й башни <span class="tex-span">(0 ≤ <i>x</i>, <i>y</i> ≤ 5000)</span>. Никакие две башни не находятся в одной точке.</p><p>Претест 6 является одним из максимальных тестов в этой задаче.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первую строку выведите минимальное количество денег, которого хватит для выплаты гонорара генералам. </p><p>Во вторую строку выведите количество распределений, которые можно реализовать, используя минимальный гонорар. Это число необходимо вычислить по модулю <span class="tex-span">1000000007</span> (<span class="tex-span">10<sup class="upper-index">9</sup> + 7</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />0 0<br />1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br />2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />0 0<br />0 1<br />1 0<br />1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />0 0<br />1000 1000<br />5000 5000<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2000<br />2<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере всего две башни, растояние между которыми равно 2. Если мы отдадим одному генералу все две башни, то генералам необходимо будет заплатить 2 условные единицы. В случае когда каждый генерал получит в командование по башне, величина гонорара будет равно 0. Это и есть минимальный гонорар, как не трудно заметить, его мы можем получить двумя способами.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

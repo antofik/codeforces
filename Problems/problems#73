@@ -1,0 +1,381 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="5h3351bg9gh7cf2fb5ch3chb1h83dehh"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="9q3jglep7v96"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='5h3351bg9gh7cf2fb5ch3chb1h83dehh'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #66</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. The Elder Trolls IV: Oblivon</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася играет в The Elder Trolls IV: Oblivon. Ох уж эти создатели компьютерных игр! Чего только они не придумают! В The Elder Trolls IV: Oblivon появились совершенно уникальные монстры. Одним из них является Неубивамемый Слизень. Почему &quot;неубиваемый&quot;? Во-первых, потому, что убить его можно только режущим оружием, так что любителям двуручных янтарных молотов необходимо подыскивать себе подходящий ножичек. Во-вторых, необходимо нанести Неубиваемому Слизню очень много режущих ударов. Крайне много. Слишком много! </p><p>Вася уже успел прокачать своего персонажа до 80 уровня и для получения 81-ого ему было поручено убить Неубиваемого Слизня. Монстр имеет очень интересную форму. Он представляет собой прямоугольный параллелепипед размером <span class="tex-span"><i>x</i> × <i>y</i> × <i>z</i></span>, состоящий из неразрушаемых клеток, размером <span class="tex-span">1 × 1 × 1</span>. За один удар персонаж Васи может разрубить Слизня целиком вдоль линии воображаемой сетки, т.е. плоскостью параллельной одной из граней параллелепипеда. Монстр погибает только тогда, когда количество частей, на которые его разрубил Вася, достигает некоторого критического числа.</p><p>После каждого удара все части монстра не распадаются, а остаются на своем месте. То есть Вася может разрубать сразу несколько частей одним ударом.</p><p>Вася хочет узнать на какое максимальное количество частей он может разрубить Неубиваемого Слизня, нанеся ему не более чем <span class="tex-span"><i>k</i></span> ударов.</p><p>Персонаж Васи пользуется абсолютно тонким мечом бесконечной длины.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке заданы 4 целых числа <span class="tex-span"><i>x</i>, <i>y</i>, <i>z</i>, <i>k</i></span> (<span class="tex-span">1 ≤ <i>x</i>, <i>y</i>, <i>z</i> ≤ 10<sup class="upper-index">6</sup>, 0 ≤ <i>k</i> ≤ 10<sup class="upper-index">9</sup></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Вывести единственное число — ответ на задачу.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 2 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>8</pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере Вася проводит 3 попарно перпендикулярных разреза. Первым разрезом он разрубает монстра на две части, затем каждую часть разрубает еще на две вторым разрезом, потом каждую из 4 частей он снова разрубает на две последним разрезом.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Need For Brake</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася играет в Need For Brake. Играет потому, что ему подарили на день рождения новенький компьютерный руль! Теперь то он уж точно займет первое место в чемпионате в его любимой компьютерной игре в жанре авто-симуляторов! </p><p>В чемпионате, состоящем из некоторого количества заездов, принимают участие <span class="tex-span"><i>n</i></span> гонщиков. По результатам каждого заезда гонщики занимают места с 1 по <span class="tex-span"><i>n</i></span>-ое (никакие два гонщика не разделяют одно место) и первые <span class="tex-span"><i>m</i></span> мест являются призовыми. За <span class="tex-span"><i>i</i></span>-ое призовое место гонщик получает <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> очков, которые прибавляются к его очкам, заработанным за все предыдущие заезды. Известно, что к данному моменту гонщик <span class="tex-span"><i>i</i></span> набрал <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> очков. По итогам чемпионата гонщики сортируются в порядке убывания суммы очков. При равном количестве очков сортировка производится по возрастанию имени гонщика в лексикографическом порядке. </p><p>К сожалению, чемпионат уже подошел к концу и остался всего лишь один заезд. Вася решил узнать какое самое высокое и самое низкое место он может занять по итогам чемпионата.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке задано число <span class="tex-span"><i>n</i></span> — количество гонщиков (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>). В каждой из следующих <span class="tex-span"><i>n</i></span> строк через пробел записаны <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — псевдоним, под которым выступает гонщик (непустая строка, состоящая из не более чем 20 маленьких латинских букв), и количество очков этого гонщика (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup></span>). Гонщики заданы в произвольном порядке.</p><p>В следующей строке находится число <span class="tex-span"><i>m</i></span> (<span class="tex-span">0 ≤ <i>m</i> ≤ <i>n</i></span>). Далее идет <span class="tex-span"><i>m</i></span> неотрицательных целых чисел <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>. <span class="tex-span"><i>i</i></span>-ое число в этой строке равно числу бонусных очков за <span class="tex-span"><i>i</i></span>-ое призовое место (<span class="tex-span">0 ≤ <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup></span>).</p><p>В последней строчке задан псевдоним, под которым выступает Вася.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Вывести два числа — самое высокое и самое низкое места, которые может занять Вася по итогам чемпионата.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />teama 10<br />teamb 20<br />teamc 40<br />2<br />10 20<br />teama<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 3</pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />teama 10<br />teamb 10<br />2<br />10 10<br />teamb<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 2</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. LionAge II</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася играет в LionAge II. Ему надоело играть с глупым компьютером, поэтому он поставил себе эту популярнейшую MMORPG, чтобы сражаться со своими друзьями. Вася придумал имя своему персонажу — непустую строку <span class="tex-span"><i>s</i></span>, состоящую из маленьких латинских букв. Однако, чтобы не ударить в грязь лицом перед друзьями, Вася решил изменить не более <span class="tex-span"><i>k</i></span> букв имени персонажа таким образом, чтобы новое имя звучало как можно лучше. Благозвучие строки определяется следующим образом: для каждой пары соседних символов <span class="tex-span"><i>x</i></span> и <span class="tex-span"><i>y</i></span> (<span class="tex-span"><i>x</i></span> находится в строке непосредственно перед <span class="tex-span"><i>y</i></span>) к результату добавляется бонус <span class="tex-span"><i>c</i>(<i>x</i>, <i>y</i>)</span>. Ваша задача определить, какое наибольшее благозвучие можно получить, изменив не более <span class="tex-span"><i>k</i></span> букв в имени персонажа Васи.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится имя персонажа <span class="tex-span"><i>s</i></span> и целое число <span class="tex-span"><i>k</i></span> (<span class="tex-span">0 ≤ <i>k</i> ≤ 100</span>). Длина непустой строки <span class="tex-span"><i>s</i></span> не превосходит <span class="tex-span">100</span>. Во второй строке находится число <span class="tex-span"><i>n</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 676</span>) — количество пар символов, сочетание которых дает бонус к благозвучию. Далее следует <span class="tex-span"><i>n</i></span> строк с описанием этих пар в формате «<span class="tex-span"><i>x</i></span> <span class="tex-span"><i>y</i></span> <span class="tex-span"><i>c</i></span>», которое означает, что сочетание <span class="tex-span"><i>xy</i></span> дает бонус <span class="tex-span"><i>c</i></span> (<span class="tex-span"><i>x</i>, <i>y</i></span> — маленькие латинские буквы, <span class="tex-span"> - 1000 ≤ <i>c</i> ≤ 1000)</span>. Гарантируется, что никакая пара <span class="tex-span"><i>x</i></span> <span class="tex-span"><i>y</i></span> не встречается во входных данных дважды.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Вывести единственное число — максимально возможное благозвучие нового имени персонажа.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>winner 4<br />4<br />s e 7<br />o s 8<br />l o 13<br />o o 8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>36</pre></div><div class="input"><div class="title">Входные данные</div><pre>abcdef 1<br />5<br />a b -10<br />b c 5<br />c d 5<br />d e 5<br />e f 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>20</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере самым благозвучным именем будет <span class="tex-span"><i>looser</i></span>. Не трудно посчитать, что его благозвучие составит 36.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. FreeDiv</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>5 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася играет во FreeDiv. В этой игре он управляет огромным государством, в котором имеется <span class="tex-span"><i>n</i></span> городов и <span class="tex-span"><i>m</i></span> двусторонних дорог между ними. К сожалению, не из каждого города можно добраться до любого другого по этим дорогам. Поэтому Вася решил разделить государство на провинции так, что в каждой провинции из каждого города можно добраться до всех городов этой провинции, но между провинциями дорог нет. </p><p>В отличие от других пошаговых стратегий, во FreeDiv у игрока имеется возможность строить туннели между городами - двусторонние дороги, по которым можно перемещать войска незаметно для противника. Однако, в каждый город может вести не более одного туннеля. Сам Вася хочет построить сеть туннелей так, чтобы между любой парой городов его государства был путь по дорогам или туннелям, но при этом в каждую провинцию шло не более <span class="tex-span"><i>k</i></span> туннелей (иначе, эту провинцию будет сложно удержать в случае захвата остальных провинций вражескими войсками).</p><p>Вася обнаружил, что, возможно, ему не удастся построить такую сеть при текущем состоянии государства. Возможно, ему придется предварительно построить несколько дорог между городами различных провинций для объединения этих провинций. Ваша задача определить, какое наименьшее количество дорог нужно построить Васе, чтобы в полученном государстве можно было построить требуемую сеть туннелей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>k</i> ≤ 10<sup class="upper-index">6</sup>, 0 ≤ <i>m</i> ≤ 10<sup class="upper-index">6</sup></span>). В каждой из следующих <span class="tex-span"><i>m</i></span> строк содержатся два целых числа — номера городов, соединенных соответствующей дорогой. Никакая дорога не соединяет город с самим собой, между каждой парой городов есть не более одной дороги.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Необходимо вывести единственное число — наименьшее количество дополнительных дорог.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3 2<br />1 2<br />2 3<br />3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0</pre></div><div class="input"><div class="title">Входные данные</div><pre>4 2 2<br />1 2<br />3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0</pre></div><div class="input"><div class="title">Входные данные</div><pre>4 0 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере в государстве всего одна провинция, поэтому туннелей и дополнительных дорог не требуется.</p><p>Во втором примере в государстве две провинции. Их можно соединить, например, туннелем между городами 1 и 3.</p><p>В третьем примере необходимо построить минимум одну дополнительную дорогу. Например, можно построить дорогу между городами 1 и 2, после чего соединить город 1 с городом 3, а город 2 с городом 4 туннелями.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Morrowindows</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася играет в The Elder Trolls III: Morrowindows. У него есть огромный список предметов в инвентаре, благо, ограничения на размер вещей нету. Сколько же всего предметов Вася не знает, но уверен, что их не больше чем <span class="tex-span"><i>x</i></span> и не меньше, чем <span class="tex-span">2</span>. В новом патче к игре появилась возможность просматривать инвентарь в <span class="tex-span"><i>n</i></span> различных режимах. Отображение в режиме <span class="tex-span"><i>i</i></span> представляет собой разбиение списка всех предметов инвентаря на страницы, на каждой из которых (кроме, может быть, последней) отображается ровно <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> предметов. Кроме того, в каждом режиме показывается, сколько страниц <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> занимает полный список. Прекрасно! Возможно, этой информации будет достаточно для Васи, чтобы найти заветное число. Более того, очень интересно, в каком наименьшем количестве режимов Васе придется просмотреть инвентарь, чтобы определить количество предметов в нем?</p><p><span class="tex-font-style-bf">Вася не может использовать информацию, полученную при просмотре одного режима, для выбора других режимов. Сначала Вася выбирает множество режимов, а затем просматривает инвентарь в этих режимах.</span></p><p>Зная числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>x</i></span> и предполагая, что Вася очень умный, установите, сможет ли он однозначно определить количество предметов в его инвентаре и за какое число просмотров он сможет это сделать, если он знает числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>x</i></span> и может узнать число <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>, посмотрев список в режиме <span class="tex-span"><i>i</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы 2 числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>x</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>, 2 ≤ <i>x</i> ≤ 10<sup class="upper-index">9</sup></span>). Во второй строке заданы целые числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>). Все числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> не обязательно различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если Вася сможет однозначно определить количество предметов в инвентаре, то нужно вывести наименьшее возможное количество режимов, необходимых для этого. В противном случае следует вывести <span class="tex-span"> - 1</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 4<br />2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1 4<br />2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Во втором примере Вася не сможет определить количество предметов однозначно, поскольку как 3 предмета, так и 4 предмета будут отображаться на 2 страницах.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F. Plane of Tanks</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>8 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася играет в Plane of Tanks. Танки в этой игре так и норовят друг друга переубивать. Но Ваш танк «Педальный» не такой... Ему всего лишь надо проехать по прямой из точки <span class="tex-span"><i>А</i></span> в точку <span class="tex-span"><i>B</i></span> на плоскости. К сожалению, на этой же плоскости находятся <span class="tex-span"><i>n</i></span> вражеских танков. Будем считать, что все танки являются точками. В начальный момент времени Педальный находится в точке <span class="tex-span"><i>A</i></span>. Вражеские танки рады бы его сразу уничтожить, но изначально их башни повернуты не в ту сторону. А именно, у каждого танка известны начальный поворот башни <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (угол в радианах относительно оси <span class="tex-span"><i>OX</i></span> при повороте против часовой стрелки) и максимальная скорость поворота башни <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span> (рад/с). Если в какой-то момент времени башня танка будет повернута ровно на танк Педальный, то враг производит выстрел, и при этом всегда попадает. Педальный выдерживает не более <span class="tex-span"><i>k</i></span> выстрелов. Перезарядка орудий занимает очень много времени, поэтому можно считать, что каждый враг произведет не более одного выстрела. Ваша задача определить, какой минимальной скоростью <span class="tex-span"><i>v</i></span> должен обладать педальный, чтобы доехать до точки <span class="tex-span"><i>B</i></span>. Считается, что педальный способен мгновенно развить скорость <span class="tex-span"><i>v</i></span>, а первые <span class="tex-span"><i>k</i></span> выстрелов по нему не снижают скорости и не меняют координаты танка.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы 4 числа — координаты точек <span class="tex-span"><i>A</i></span> и <span class="tex-span"><i>B</i></span> (в метрах), точки не совпадают. Во второй строке задано число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">4</sup></span>) — количество вражеских танков. В каждой из следующих <span class="tex-span"><i>n</i></span> строк заданы координаты соответствующего танка <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub></span> и его параметры <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 2π</span>, <span class="tex-span">0 ≤ <i>w</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>). Числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span> содержат не более 5 знаков после десятичной точки. Все координаты — целые числа, по модулю не превосходящие <span class="tex-span">10<sup class="upper-index">5</sup></span>. Вражеские танки могут поворачивать башню как по часовой стрелке, так и против нее с угловой скоростью не более <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span>. Гарантируется, что каждому из вражеских танков необходимо минимум <span class="tex-span">0.1</span> секунды для наведения на какую-либо точку отрезка <span class="tex-span"><i>AB</i></span> и что каждый из вражеских танков находится на расстоянии как минимум <span class="tex-span">0.1</span> метра от прямой <span class="tex-span"><i>AB</i></span>. В последней строчке дано число <span class="tex-span"><i>k</i></span> (<span class="tex-span">0 ≤ <i>k</i> ≤ <i>n</i></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Вывести единственное число — минимальную необходимую скорость Педального в метрах в секунду с абсолютной или относительной погрешностью не более чем <span class="tex-span">10<sup class="upper-index"> - 4</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>0 0 10 0<br />1<br />5 -5 4.71238 1<br />0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4.2441<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>0 0 10 0<br />1<br />5 -5 4.71238 1<br />1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.0000<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

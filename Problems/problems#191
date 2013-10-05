@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="79fgad85276dg0f6h95b94b334d563ac"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="80di6y9hyfm3"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='79fgad85276dg0f6h95b94b334d563ac'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #121 (Div. 1)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Династические головоломки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Древние берляндцы считали, что чем длиннее имя, тем важнее человек, его носящий. Берляндские цари славились своими длинными именами. Но длинные имена — это несколько неудобно, поэтому берляндцы стали сокращать имена своих царей. Каждого царя они называли по первым буквам всех его имен. Например, царя, которого звали Великий Василий Пупкин, берляндцы всегда зовут ВВП.</p><p>В Берляндии за её долгую историю сменилось немало династий царей, но все они были объединены общими традициями. Так, согласно одной из берляндских традиций, для поддержания стабильности в государстве, первое имя наследника должно совпадать с последним именем предшественника (следовательно, первая буква сокращенного имени наследника совпадает с последней буквой сокращенного имени предшественника). Берляндцы очень ценят стабильность, поэтому эта традиция никогда не нарушалась. Еще берляндцы любят завершенность, поэтому еще одна традиция требует того, чтобы первое имя первого царя в династии совпадало с последним именем последнего царя в этой династии (следовательно первая буква сокращенного имени первого царя совпадает с последней буквой сокращенного имени последнего царя). Эта традиция, естественно, тоже всегда соблюдалась.</p><p>Название династии образуется по очень простым правилам: берутся все сокращенные имена царей в том порядке, в котором они правили, и выписываются в одну строчку. К примеру, династия из царей «аb» и «ba» называется «abba», а династия, в которой был только царь «abca», называется «abca».</p><p>Историк Вася недавно нашел список сокращенных имен всех берляндских царей и их родственников. Помогите Васе найти максимально длинное название династии, которая могла существовать в Берляндии.</p><p>Заметим, что в списке все имена упорядочены по времени, то есть если имя <span class="tex-span"><i>A</i></span> идет в списке раньше, чем имя <span class="tex-span"><i>B</i></span>, то если <span class="tex-span"><i>A</i></span> и <span class="tex-span"><i>B</i></span> были царями, то царь <span class="tex-span"><i>A</i></span> правил раньше, чем царь <span class="tex-span"><i>B</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 5·10<sup class="upper-index">5</sup></span>) — количество имен в списке Васи. В следующих <span class="tex-span"><i>n</i></span> сроках записано <span class="tex-span"><i>n</i></span> кратких имен по одному в строке. Краткое имя — это непустая последовательность маленьких латинских букв. Его длина не превосходит <span class="tex-span">10</span> символов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — длину названия искомой династии в буквах.</p><p>Если список Васи оказался неправильным и ни одной династии в нем найти нельзя, выведите единственное число <span class="tex-span">0</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />abc<br />ca<br />cba<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />vvp<br />vvp<br />dam<br />vvp<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />ab<br />c<br />def<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере может существовать две династии: с названием «abcca» (в нее входят первый и второй цари) и с названием «abccba» (в нее входят первый и третий). </p><p>Во втором примере допустимых династий нет.</p><p>Единственная династия в третьем примере состоит из одного царя с именем «c».</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Митинг</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В столице Берляндии городе Берляндске проходят митинги против недавно прошедших выборов Царя Берляндии. Берляндская оппозиция под предводительством мистера Овального считает, что выборы были недостаточно честными и хочет организовать митинг на одной из площадей.</p><p>В Берляндске есть <span class="tex-span"><i>n</i></span> площадей, пронумерованных от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, причем площади пронумерованы в порядке их удаления от центра города, то есть площадь номер <span class="tex-span">1</span> является центральной, а площадь номер <span class="tex-span"><i>n</i></span> наиболее удалена от центра. Естественно, оппозиция хочет провести митинг как можно ближе к центру города (то есть на площади с минимальным номером).</p><p>До митинга осталось ровно <span class="tex-span"><i>k</i></span> <span class="tex-span">(<i>k</i> &lt; <i>n</i>)</span> дней. Сейчас все площади свободны. Но мэрия Берляндска не дремлет, и согласование заявки на митинг грозит стать очень сложным процессом. Процесс согласования длится несколько дней, а каждый день происходит следующая процедура:</p><p><ul> <li> Оппозиция подает заявку на проведение митинга на одной из еще не занятых мэрией площадей. </li><li> Мэрия пытается перенести митинг на худшую площадь из еще не занятых. Для этого мэрия оплачивает проведение долгосрочного мероприятия на той площади, которая указана в заявке оппозиции, то есть занимает эту площадь, и предлагает оппозиции перенести митинг на худшую из незанятых площадей. Если оппозиция подала заявку на худшую площадь из незанятых, то <span class="tex-font-style-bf">мэрия не организует там свое мероприятие</span> и заявка оппозиции принимается. Если у мэрии не хватает денег на проведение мероприятия на соответствующей площади, то все деньги мэрии тратятся, а мероприятие не проводится. В таком случае заявка считается принятой. </li><li> Если заявка не принята, то оппозиция может согласиться на предложение мэрии (то есть на худшую из незанятых площадей) или отозвать текущую заявку и попробовать подать другую на следующий день. Если дней до митинга не осталось, оппозиции ничего не остается, как согласиться на предложение мэрии. Если заявка принята, оппозиция также может отозвать текущую заявку и попробовать подать другую на следующий день. <span class="tex-font-style-bf">В этом случае площадь остается свободной</span>. </li></ul></p><p>Для того, чтобы организовать свое мероприятие на площади <span class="tex-span"><i>i</i></span>, мэрии нужно потратить <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> бурлей. Из-за кризиса у мэрии есть всего лишь <span class="tex-span"><i>b</i></span> бурлей, чтобы противостоять оппозиции. Какую лучшую площадь может занять оппозиция, если мэрия каждый раз будет пытаться занимать площадь, на которую оппозиция подала заявку? Обратите внимание, действия мэрии всегда зависят только от действий оппозиции.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> — количество площадей и дней до митинга соответственно (<span class="tex-span">1 ≤ <i>k</i> &lt; <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>).</p><p>Во второй строке записано целое число <span class="tex-span"><i>b</i></span> — количество бурлей у мэрии (<span class="tex-span">1 ≤ <i>b</i> ≤ 10<sup class="upper-index">18</sup></span>).</p><p>В третьей строке записано <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, разделенных пробелами, — количество денег, необходимых для проведения мероприятия на площади <span class="tex-span"><i>i</i></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>).</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++, вместо него рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span>, а также спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — минимальный номер площади, на которой сможет провести митинг оппозиция.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 2<br />8<br />2 4 5 3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 2<br />8<br />3 2 4 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5 4<br />1000000000000000<br />5 4 3 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере оппозиция может действовать следующим образом. В первый день она займет площадь номер 3. Мэрия будет вынуждена организовать там мероприятие, после чего у нее останется 3 бурля. Если на второй день оппозиция подаст заявку на вторую площадь, то у мэрии не хватит денег, чтобы ее туда не пустить.</p><p>Во втором примере у оппозиции есть шансы только на последнюю площадь. Если первым ходом она занимают одну из первых четырех площадей, то у мэрии остается как минимум 4 бурля, и следующим ходом у нее хватит денег, чтобы перенести заявку с любой площади на последнюю.</p><p>В третьем примере у мэрии очень много денег, так что оппозиция может занять только последнюю площадь. </p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Дураки и дороги</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Как известно, в Берляндии ровно две проблемы — дураки и дороги. Кроме того, в Берляндии есть <span class="tex-span"><i>n</i></span> городов, в которых эти дураки живут, а дороги, соответственно, эти города соединяют. Все берляндские дороги двунаправленные. Так как в Берляндии дураков много, то для каждой пары городов есть путь между ними (иначе дураки расстроятся), а также между каждой парой городов есть не более одного простого пути (иначе дураки заблудятся). </p><p>Но это еще не все особенности Берляндии. В этой стране дураки иногда ходят друг к другу в гости, и от этого дороги портятся. Дураки не очень умны, поэтому всегда ходят только по простым путям. </p><p><span class="tex-font-style-it">Простой путь</span> — это путь, который проходит через каждый город Берляндии не более одного раза.</p><p>Правительству Берляндии известны пути, по которым ходят дураки. Помогите правительству для каждой дороги посчитать, сколько различных дураков может по ней проходить. </p><p>Обратите внимание на то, как заданы пути дураков во входных данных.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество городов. </p><p>В следующих <span class="tex-span"><i>n</i> - 1</span> строках записаны по два целых числа через пробел <span class="tex-span"><i>u</i><sub class="lower-index"><i>i</i></sub>, <i>v</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>u</i><sub class="lower-index"><i>i</i></sub>, <i>v</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span"><i>u</i><sub class="lower-index"><i>i</i></sub> ≠ <i>v</i><sub class="lower-index"><i>i</i></sub></span>), означающих, что есть дорога, соединяющая города <span class="tex-span"><i>u</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span>. </p><p>В следующей строке записано целое число <span class="tex-span"><i>k</i></span> (<span class="tex-span">0 ≤ <i>k</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество пар дураков, которые ходят друг к другу в гости. </p><p>В следующих <span class="tex-span"><i>k</i></span> строках заданы по два целых числа через пробел. В <span class="tex-span"><i>i</i></span>-й строке <span class="tex-span">(<i>i</i> &gt; 0)</span> записаны числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>). Это означает, что дурак под номером <span class="tex-span">2<i>i</i> - 1</span> живет в городе <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> и ходит в гости к дураку под номером <span class="tex-span">2<i>i</i></span>, который живет в городе <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>. Заданные пары городов описывают простые пути, так как между любой парой городов существует ровно один простой путь.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i> - 1</span> целое число. Числа должны быть разделены пробелами. <span class="tex-span"><i>i</i></span>-e число должно быть равно количеству дураков, которые могут проходить по <span class="tex-span"><i>i</i></span>-той дороге. Дороги нумеруются с единицы в порядке их следования во входных данных.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2<br />1 3<br />2 4<br />2 5<br />2<br />1 4<br />3 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 1 1 1 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />3 4<br />4 5<br />1 4<br />2 4<br />3<br />2 3<br />1 3<br />3 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 1 1 1 <br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере дурак номер 1 пройдет через первую и третью дорогу, а дурак номер 3 — через вторую, первую и четвертую.</p><p>Во втором примере через первую дорогу пройдут дураки под номерами 1, 3 и 5, через вторую — дурак номер 5, через третью — дурак номер 3, через четвертую — дурак номер 1.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Схема метро</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Берляндии очень беспокоятся о секретности, поэтому почти все планы и схемы всего и вся засекречены. Несмотря на это, шпиону соседнего государства удалось украсть схему метрополитена Берляндска.</p><p>В метро Берляндска есть <span class="tex-span"><i>n</i></span> станций, пронумерованных от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, и <span class="tex-span"><i>m</i></span> двусторонних тоннелей, их соединяющие. Все берляндское метро состоит из линий. Если быть более точным, есть два типа линий: кольцевые и радиальные. </p><p><span class="tex-font-style-it">Радиальная линия</span> — это последовательность станций <span class="tex-span"><i>v</i><sub class="lower-index">1</sub>, ..., <i>v</i><sub class="lower-index"><i>k</i></sub></span> <span class="tex-span">(<i>k</i> &gt; 1)</span>, где станции <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i> + 1</sub></span> <span class="tex-span">(<i>i</i> &lt; <i>k</i>)</span> соединены тоннелем, причем никакая станция не входит в состав линии более одного раза (<span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub> ≠ <i>v</i><sub class="lower-index"><i>j</i></sub></span> при <span class="tex-span"><i>i</i> ≠ <i>j</i></span>). </p><p><span class="tex-font-style-it">Кольцевая линия</span> — это последовательность станций <span class="tex-span"><i>v</i><sub class="lower-index">1</sub>, ..., <i>v</i><sub class="lower-index"><i>k</i></sub></span> <span class="tex-span">(<i>k</i> &gt; 2)</span>, где станции <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>i</i> + 1</sub></span> соединены тоннелем. Кроме того, станции <span class="tex-span"><i>v</i><sub class="lower-index">1</sub></span> и <span class="tex-span"><i>v</i><sub class="lower-index"><i>k</i></sub></span> тоже соединены тоннелем. Никакая станция не входит в кольцевую линию более одного раза. </p><p>Заметим, что через одну станцию может проходить любое количество линий.</p><p>Согласно берляндским нормативам между двумя станциями не может быть более одного тоннеля и каждый тоннель принадлежит ровно одной линии. Естественно, на каждой линии есть хоть один тоннель. Между любыми двумя станциями есть путь по тоннелям метро. Кроме того, с точки зрения теории графов, метрополитен является вершинным кактусом: если рассмотреть метро как граф, в котором станции являются вершинами, а тоннели — ребрами, то каждая вершина лежит не более чем на одном простом цикле.</p><p>К сожалению, на схеме, украденной шпионом, были изображены только станции и тоннели. По ней было невозможно определить, к какой линии относится каждый тоннель. Но для совершения диверсии шпиону необходимо знать, какое минимальное и максимальное количество линий может быть в метро Берляндска.</p><p>Помогите ему!</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>На первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>, <span class="tex-span">0 ≤ <i>m</i> ≤ 3·10<sup class="upper-index">5</sup></span>) — количество станций и тоннелей, соответственно.</p><p>На следующих <span class="tex-span"><i>m</i></span> строках содержатся по два целых числа — номера станций, которые соединяет соответствующий тоннель. Станции нумеруются целыми числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>.</p><p>Гарантируется, что в графе, который соответствует метро, нет кратных ребер и петель, что он связен и что он является вершинным кактусом.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите два числа — минимальное и максимальное количество линий, соответственно.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 2<br />2 3<br />3 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8 8<br />1 2<br />2 3<br />3 4<br />4 5<br />6 4<br />4 7<br />7 2<br />2 8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 8<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 6<br />1 2<br />2 3<br />2 5<br />5 6<br />3 4<br />3 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 6<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Схема метро с минимально возможным количеством линий для второго примера: <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/fee27810ffd11c63c9a9bd0c83c5ca4437188ee8.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Разгон митингов</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>6 секунд</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>512 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Берляндии неспокойные времена. Берляндская оппозиция, финансируемая из соседнего государства, организовала митинги в столице Берляндии городе Берляндске. Благодаря работе разведки известно, что митинги продлятся <span class="tex-span"><i>k</i></span> дней. </p><p>К счастью, в Берляндии есть специальный полицейский отряд, который может спасти страну. В нем ровно <span class="tex-span"><i>n</i></span> солдат, пронумерованных от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. Берляндский генерал, командующий отрядом, должен составить расписание работы отряда в эти непростые <span class="tex-span"><i>k</i></span> дней. В каждый из этих дней генерал должен отправить некоторое количество полицейских для разгона беспорядков. Так как отряд большой, а генерал не очень умный, то он может выбрать только набор из всех солдат с номерами от <span class="tex-span"><i>l</i></span> до <span class="tex-span"><i>r</i></span>, включительно, где <span class="tex-span"><i>l</i></span> и <span class="tex-span"><i>r</i></span> он выбирает произвольно.</p><p>Сейчас у генерала есть ровно две проблемы. Во-первых, нельзя два раза отправлять один и тот же отряд — тогда солдатам станет скучно и они взбунтуются. Во-вторых, не все солдаты одинаково надежны. У каждого солдата есть некоторая надежность <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>. Надежность отряда считается как сумма надежностей солдат в нем. Надежность одного солдата может быть отрицательной, тогда при включении в отряд он будет только помехой. Генерал отличается большой жадностью и столь же большой недальновидностью, поэтому каждый день он отправляет на разгон самый надежный отряд солдат из возможных (то есть из всех отрядов, которые еще не были отправлены). </p><p>Правительство Берляндии решило узнать, какова будет минимальная надежность отряда, отправляемого на разгон митингов в течение этих <span class="tex-span"><i>k</i></span> дней. Сам генерал не может справиться со столь сложной задачей. Помогите ему не опозориться перед начальством!</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>На первой строке записаны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/35fc76b4b94691643af90cb2d51781d51a7b2e04.png" /> — количество солдат в отряде и количество дежурств.</p><p>На второй строке задано <span class="tex-span"><i>n</i></span> целых чисел через пробел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, не превосходящих по модулю <span class="tex-span">10<sup class="upper-index">9</sup></span> — надежности солдат.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++, вместо него рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span>, а также спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — искомую минимальную надежность отряда в течение этих <span class="tex-span"><i>k</i></span> дней.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 4<br />1 4 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 6<br />2 -1 2 -1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8 10<br />1 -2 3 -4 5 -6 7 -8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

@@ -1,0 +1,353 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="80ad0ec293geh5g31b3935cgc16346a8"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1856iuqcyuuq8"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='80ad0ec293geh5g31b3935cgc16346a8'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+            <div style="padding:1em 0 0 2px;color:#00a651;">
+<a href="/croc2013"><img src="/images/custom/croc-ru.png"/></a>
+<span style="padding:1.5em;">Всероссийский Чемпионат по программированию КРОК-2013</span>
+</div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">&#1063;&#1077;&#1084;&#1087;&#1080;&#1086;&#1085;&#1072;&#1090; &#1050;&#1056;&#1054;&#1050; 2013 - &#1060;&#1080;&#1085;&#1072;&#1083; (&#1086;&#1085;&#1083;&#1072;&#1081;&#1085;-&#1090;&#1088;&#1072;&#1085;&#1089;&#1083;&#1103;&#1094;&#1080;&#1103;, &#1076;&#1083;&#1103; Div. 1)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Утренний бег</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Люди любят быть в форме. Ради этого многие готовы подниматься с первыми лучами солнца, выходить на стадион и бегать. В данной задаче Вам предстоит помочь компании в проектировании нового стадиона.</p><p>В городе Эн есть старенький стадион, его любят многие жители города, и каждое утро тысячи людей приходят на этот стадион побегать. Стадион представляет из себя круг длины ровно <span class="tex-span"><i>l</i></span> метров, на котором отмечена линия старта. Однако утром не может идти речи ни о каком синхронном старте у стартовой линии, поэтому ровно в 7 утра, каждый из бегунов подходит к своей любимой точке на стадионе и начинает утренний бег. Отметим, что не все бегают одинаково — некоторые бегут по часовой стрелке, а некоторые против (это зависит исключительно от утреннего настроения бегуна, поэтому можно считать, что каждое направление бега равновероятно для каждого жителя в любое фиксированное утро). </p><p>Стадион старенький и нуждается в капитальном ремонте, ведь на данный момент доступна всего одна беговая дорожка! На одной беговой дорожке слишком сильно не развернешься, именно поэтому все бегущие поддерживают одинаковый темп бега — ровно 1 метр в единицу времени. Тем не менее, бегуны, бегущие в разных направлениях, встречаются друг с другом. </p><p>Строительная компания хочет спроектировать новый стадион, однако им необходимо знать насколько плохой старый стадион. Для этого требуется узнать математическое ожидание количества встреч бегунов через <span class="tex-span"><i>t</i></span> единиц времени после начала бега. Помогите компании посчитать требуемое математическое ожидание. Обратите внимание, что каждый бегун равновероятно выбирает себе направление, независимо от других, после чего все бегуны ровно в 7 утра начинают одновременно бежать. Считайте, что каждый бегун бежит все <span class="tex-span"><i>t</i></span> единиц времени, не останавливаясь. Считайте, что бегуны встретились в определенный момент времени, если в этот момент времени они оказались в одной точке стадиона. Пара бегунов может встретиться более одного раза.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записаны три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>l</i></span>, <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">6</sup>, 1 ≤ <i>l</i> ≤ 10<sup class="upper-index">9</sup>, 1 ≤ <i>t</i> ≤ 10<sup class="upper-index">9</sup></span>). В следующей строке записано <span class="tex-span"><i>n</i></span> различных целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> <span class="tex-span">(0 ≤ <i>a</i><sub class="lower-index">1</sub> &lt; <i>a</i><sub class="lower-index">2</sub> &lt; ... &lt; <i>a</i><sub class="lower-index"><i>n</i></sub> &lt; <i>l</i>)</span>, здесь <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — расстояние по часовой стрелке от стартовой линии, где начинает бег <span class="tex-span"><i>i</i></span>-ый бегун.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное вещественное число — ответ на задачу, с относительной или абсолютной погрешностью не более, чем <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 5 1<br />0 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.2500000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 7 3<br />0 1 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.5000000000<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере есть два бегуна. Если первый бегун побежит по часовой стрелке, то через 1 единицу времени он будет на расстоянии 1 от стартовой линии. Если же второй бегун побежит против часовой стрелки, то через одну единицу времени он тоже будет на расстоянии 1 от стартовой линии. И это единственный возможный вариант встречи. Так как направление бега выбирается равновероятно, то ответом на пример является <span class="tex-span">0.5·0.5 = 0.25</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Контекстная реклама</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>4 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В современном мире реклама стала частью повседневной жизни, но сейчас, в век прогрессивных технологий, необходимы Ваши идеи, как сделать рекламу лучше!</p><p>В данной задаче мы рассмотрим упрощенную схему контекстной рекламы. Вам дан текст, состоящий ровно из <span class="tex-span"><i>n</i></span> слов. Стандартный рекламный баннер имеет ровно <span class="tex-span"><i>r</i></span> строк, в каждую из которых может быть записано не более, чем <span class="tex-span"><i>c</i></span> символов. Потенциальным покупателям всегда нравится, когда они могут увидеть много рекламы, поэтому Вам нужно определить, какое максимальное число подряд идущих слов из текста можно записать на баннер. Отдельные слова в одной строке баннера должны быть разделены между собой пробелами. Допускается ставить больше, чем один пробел подряд. Обратите внимание, что запрещено разрывать слова, то есть каждое отображаемое слово должно быть отображено ровно в одной строке баннера. Помимо этого, запрещено менять порядок слов, то есть, если читать текст баннера последовательно от верхних строк к нижним и в каждой строке слева направо, должен получаться некоторый последовательный отрывок из текста рекламы.</p><p>Более формально условие можно описать следующим образом. Пусть все слова пронумерованы от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span> в том порядке, в котором они встречаются в тексте рекламы. Тогда Вам требуется выбрать все слова, начиная с некоторого <span class="tex-span"><i>i</i></span>-го и заканчивая некоторым <span class="tex-span"><i>j</i></span>-ым <span class="tex-span">(1 ≤ <i>i</i> ≤ <i>j</i> ≤ <i>n</i>)</span> так, чтобы их все можно было отобразить на баннере, при этом количество слов было максимально возможным. Для лучшего понимания условия смотрите примеры.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано три целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>r</i></span>, <span class="tex-span"><i>c</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>r</i>, <i>c</i> ≤ 10<sup class="upper-index">6</sup>; <i>r</i> × <i>c</i> ≤ 10<sup class="upper-index">6</sup></span>). В следующей строке записан текст — <span class="tex-span"><i>n</i></span> слов. Слова состоят только из строчных латинских букв и не являются пустыми. Слова в строке разделяются единичными пробелами. Суммарное количество символов во всех словах не превосходит <span class="tex-span">5·10<sup class="upper-index">6</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите не более <span class="tex-span"><i>r</i></span> строк, в каждой из которых выведите не более, чем <span class="tex-span"><i>c</i></span> символов — оптимальный рекламный баннер. Если существует несколько оптимальных баннеров, выведите любой. </p><p>Обратите внимание, что некоторые строки баннера <span class="tex-font-style-bf">могут быть пустыми</span>. Такие строки разрешается не выводить.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>9 4 12<br />this is a sample text for croc final round<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>this is a<br />sample text<br />for croc<br />final round<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>9 1 9<br />this is a sample text for croc final round<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>this is a<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 2 3<br />croc a a a croc a<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>a a<br />a<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2 5<br />first second<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>first<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Память для массивов</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вы приходите на работу. Включаете компьютер. Начинаете программировать. И даже не задумываетесь о том, насколько важную роль играет оперативная память. В этой задаче Вам предстоит решить одну из задач, которая возникает при повседневной работе с компьютером.</p><p>Будем считать, что оперативная память представляет из себя последовательность ячеек, в которые могут быть записаны данные. Некоторые ячейки уже заняты какими-то данными, некоторые являются свободными. Свободные ячейки образуют так называемые <span class="tex-font-style-it">участки памяти</span>. Таким образом, участок памяти — это последовательность из нескольких подряд идущих свободных ячеек памяти. </p><p>Вам даны ровно <span class="tex-span"><i>n</i></span> участков памяти, <span class="tex-span"><i>i</i></span>-ый участок состоит из <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> ячеек. Вы должны в своей программе выделить память под <span class="tex-span"><i>m</i></span> массивов, <span class="tex-span"><i>j</i></span>-ый массив занимает <span class="tex-span">2<sup class="upper-index"><i>b</i><sub class="lower-index"><i>j</i></sub></sup></span> последовательных ячеек памяти. Возможно, на все <span class="tex-span"><i>m</i></span> массивов памяти не хватит, поэтому требуется определить, какое максимальное количество массивов можно разместить в доступных участках памяти. Разумеется, массивы нельзя делить между участками памяти, а также никакая ячейка памяти не должна принадлежать двум массивам.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 10<sup class="upper-index">6</sup></span>). В следующей строке записаны <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>). В следующей строке записаны <span class="tex-span"><i>m</i></span> целых чисел <span class="tex-span"><i>b</i><sub class="lower-index">1</sub>, <i>b</i><sub class="lower-index">2</sub>, ..., <i>b</i><sub class="lower-index"><i>m</i></sub></span> (<span class="tex-span">1 ≤ 2<sup class="upper-index"><i>b</i><sub class="lower-index"><i>i</i></sub></sup> ≤ 10<sup class="upper-index">9</sup></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — ответ на задачу.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5 3<br />8 4 3 2 2<br />3 2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>10 6<br />1 1 1 1 1 1 1 1 1 1<br />0 0 0 0 0 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере даны участки памяти размерами 8, 4, 3, 2 и 2 и массивы размерами 8, 4, 4. Существует несколько способов получить ответ 2: можно разместить массив размера 8 на участке памяти размера 8, а один из массивов размера 4 на участке памяти размера 4, другой вариант — разместить два массива размера 4 на одном участке памяти размера 8.</p><p>Во втором примере у нас дано 10 участков памяти размера 1 и 6 массивов размера 1. Мы можем выбрать любые 6 участков памяти и разместить в них все имеющиеся массивы.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Теннисные ракетки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Профессиональный спорт — это не только тяжелый труд, но и оборудование, разработанное лучшими инженерами. В качестве примера рассмотрим большой теннис. Вам не только нужно быть хорошо подготовленным физически, но и иметь отличную ракетку! В данной задаче Вам предстоит помочь развитию профессионального большого тенниса и внести свой вклад в разработку кардинально новой идеи для ракеток.</p><p>Идея состоит в том, чтобы сделать ракетку треугольной формы. Причем не просто треугольной, а сделать ее равносторонним треугольником. После того, как форма выбрана, нужно натянуть сетку. До Вашего прихода на каждой из трех сторон ракетки просверлили по <span class="tex-span"><i>n</i></span> отверстий, которые делят каждую из сторон на <span class="tex-span"><i>n</i> + 1</span> равную часть. При этом ближайшие <span class="tex-span"><i>m</i></span> отверстий к каждой из вершин на каждой стороне сделаны исключительно для вентиляции и натягивать сетку на них нельзя. </p><p>Следующая инновационная идея состоит в том, чтобы натягивать сетку в виде тупоугольных треугольников на отверстиях, причем, чтобы для каждого треугольника все его вершины лежали на различных сторонах ракетки. Более того, необходимо чтобы сетка была натянута по каждому возможному тупоугольному треугольнику. И тут необходима Ваша помощь — помогите посчитать, из скольки треугольников будет состоять сетка.</p><p>Два треугольника считаются различными, если на зафиксированной в некотором положении ракетке их рисунки различаются.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой и единственной строке входных данных записаны два целых числа <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/ff6fdb9ee4f2a6a34549a4bd3b66a1bef3cedcf6.png" />.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — ответ на задачу.</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для чтения или записи 64-х битовых чисел на С++. Рекомендуется использовать потоки <span class="tex-font-style-tt">cin</span>, <span class="tex-font-style-tt">cout</span> или спецификатор <span class="tex-font-style-tt">%I64d</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>24<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>10 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>210<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>8 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>На данной картинке <span class="tex-span"><i>n</i> = 8</span>, <span class="tex-span"><i>m</i> = 2</span>. Белые круги — это отверстия для вентиляции, красные круги — отверстия, на которые можно натягивать треугольники. Красным цветом выделен один из допустимых треугольников. <center> <img class="tex-graphics" src="http://codeforces.ru/renderer/f5e039d37b72cd12312511ae4ad382255b5f50c8.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Овечки</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>С каждым днем информационные технологии развиваются и все сильнее проникают во все сферы деятельности людей. Трудно представить, но наиболее современные технологии попадают и в фермерскую деятельность!</p><p>На большой ферме есть луг, на котором пасутся овечки. Овечек всего <span class="tex-span"><i>n</i></span> и на каждой из них написан уникальный номер от 1 до <span class="tex-span"><i>n</i></span> — ведь овечек нужно различать и помнить информацию о каждой, а они все так сильно похожи! Луг представляет из себя бесконечную последовательность участков, пронумерованных от 1 до бесконечности. Про овечку с номером <span class="tex-span"><i>i</i></span> известно, что она любит пастись на участках с номерами от <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> до <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span>, включительно. </p><p>За овечками следят два сотрудника: Первый и Второй. Первый просыпается рано утром, выводит овечек на лужайку и уходит. Вечером приходит Второй и собирает всех овечек.</p><p>Однажды утром, Первый проснулся чуть позже, чем обычно и, не успевая отвести овечек на лужайку решил связать некоторые пары овечек веревками. Для того, чтобы овечки не разбрелись кто куда, он связал те и только те пары, у которых есть хотя бы один общий любимый участок. Первый подумал, что так будет лучше — вечером у Второго будет меньше работы, ведь овечки не будут сильно разбегаться, они же связаны друг с другом!</p><p>Вечером на лужайку пришел Второй, собрал всех овечек и попытался выстроить в шеренгу. Но не тут-то было! Овечки-то были связаны, поэтому они совсем не собирались выстраиваться так, как хотел Второй! Развязать овечек у Второго не было ни сил, ни возможности, поэтому он решил оставить все как есть, с одним условием: он захотел выстроить овечек в шеренгу так, чтобы максимальное расстояние между двумя связанными овечками было как можно меньше. Расстояние между овечками — это количество овечек в шеренге, находящихся между двумя данными.</p><p>Помогите Второму найти нужную расстановку.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 2000</span>). В каждой из следующих <span class="tex-span"><i>n</i></span> строк записано по два целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub>, <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>, <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub> ≤ <i>r</i><sub class="lower-index"><i>i</i></sub></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В единственную строку выходных данных выведите <span class="tex-span"><i>n</i></span> чисел через пробел — искомую расстановку овечек. Число номер <span class="tex-span"><i>i</i></span> в строке должно обозначать номер овечки, которая стоит на <span class="tex-span"><i>i</i></span>-ом слева месте в шеренге в оптимальной расстановке. </p><p>Если возможных оптимальных расстановок несколько, выведите любую.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />1 3<br />5 7<br />2 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 3 2</pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />1 5<br />2 4<br />3 6<br />1 7<br />2 6<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 1 3 5 4</pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />1 3<br />4 6<br />5 7<br />2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 4 2 3</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

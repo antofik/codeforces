@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="7gh7b5chb895g378f42hb5b9a2e44df5"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="khdfcke2le34"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='7gh7b5chb895g378f42hb5b9a2e44df5'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Testing Round #2</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Измерение длин в Бадене</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В Бадене используют дюймы и футы. Для перевода длины из сантиметров достаточно знать, что в Бадене один дюйм равен трем сантиметрам, а один фут содержит 12 дюймов.</p><p>Задана длина равная <span class="tex-span"><i>n</i></span> сантиметрам. Ваша задача перевести ее в футы и дюймы так, чтобы количество футов было максимально. Ответ должен быть целочисленным, округленным к ближайшему значению, содержащему целое число дюймов.</p><p>Пояснение к правилам округления: 1 см округляется к 0 дюймам, в то время как 2 см округляются до 1 дюйма.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В единственной строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10000</span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите два целых неотрицательных числа <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span> через пробел, где <span class="tex-span"><i>a</i></span> — количество футов, а <span class="tex-span"><i>b</i></span> — количество дюймов.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>42<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0 2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Простой XML</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Назовем открывающим тегом строку <span class="tex-font-style-tt">&lt;x&gt;</span>, где <span class="tex-span"><i>x</i></span> — любая строчная буква латинского алфивита. Каждому открывающему тегу соответствует закрывающий тег вида <span class="tex-font-style-tt">&lt;/x&gt;</span>, где <span class="tex-span"><i>x</i></span> — та же самая буква.</p><p>Теги могут вкладываться друг в друга: в этому случае одна пара из открывающего и закрывающего тега находится внутри другой пары.</p><p>Определим понятие <span class="tex-font-style-it">XML-текста</span>: <ul> <li> пустая строка — это <span class="tex-font-style-it">XML-текст</span> </li><li> если <span class="tex-span"><i>s</i></span> — это <span class="tex-font-style-it">XML-текст</span>, то <span class="tex-span"><i>s</i>'</span><span class="tex-font-style-tt">=&lt;a&gt;+</span><span class="tex-span"><i>s</i></span><span class="tex-font-style-tt">+&lt;/a&gt;</span> — тоже <span class="tex-font-style-it">XML-текст</span>, где <span class="tex-span"><i>a</i></span> — любая строчная буква латинского алфавита </li><li> если <span class="tex-span"><i>s</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>s</i><sub class="lower-index">2</sub></span> — это <span class="tex-font-style-it">XML-тексты</span>, то <span class="tex-span"><i>s</i><sub class="lower-index">1</sub></span>+<span class="tex-span"><i>s</i><sub class="lower-index">2</sub></span> — тоже <span class="tex-font-style-it">XML-текст</span> </li></ul></p><p>Вам дан XML-текст (гарантируется, что он корректен), ваша задача — вывести его в формате: <ul> <li> каждый тег (как открывающий, так и закрывающий) находится на отдельной строке </li><li> перед тегом выводится <span class="tex-span">2 * <i>h</i></span> пробелов, где <span class="tex-span"><i>h</i></span> — уровень вложенности тега. </li></ul></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные состоят из единственной непустой строки — XML-текста, его длина не превосходит 1000 символов. Гарантируется корректность этого текста. Текст не содержит пробелов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите данный XML-текст в соответствии с описанными выше правилами.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>&lt;a&gt;&lt;b&gt;&lt;c&gt;&lt;/c&gt;&lt;/b&gt;&lt;/a&gt;<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>&lt;a&gt;<br />  &lt;b&gt;<br />    &lt;c&gt;<br />    &lt;/c&gt;<br />  &lt;/b&gt;<br />&lt;/a&gt;<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>&lt;a&gt;&lt;b&gt;&lt;/b&gt;&lt;d&gt;&lt;c&gt;&lt;/c&gt;&lt;/d&gt;&lt;/a&gt;<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>&lt;a&gt;<br />  &lt;b&gt;<br />  &lt;/b&gt;<br />  &lt;d&gt;<br />    &lt;c&gt;<br />    &lt;/c&gt;<br />  &lt;/d&gt;<br />&lt;/a&gt;<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Вечеринка хоббитов</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Все знают, что хоббиты любят устраивать различные вечеринки и празднества. В Шире живет <span class="tex-span"><i>n</i></span> хоббитов. Они решили провести Грандиозный Праздник (ГП), длящийся несколько дней. На каждый день был составлен список приглашенных — некоторое непустое подмножество из всех жителей Шира. Для того чтобы всем было весело, и никто не скучал, необходимо чтобы для любых двух разных дней (скажем, А и В) ГП существовал бы хотя бы один хоббит, приглашенный как в день А, так и в день В. Однако, чтобы никто не поссорился, для любых трех разных дней А, В, С не должно существовать хоббита, приглашенного в день А, В и С. Жители Шира заинтересованы в наибольшей продолжительности ГП. Ваша задача для данного числа <span class="tex-span"><i>n</i></span> указать наибольшую продолжительность ГП и списки приглашенных на каждый день.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">3 ≤ <i>n</i> ≤ 10000</span>) — количество хоббитов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>В первой строке выходного файла выведите число <span class="tex-span"><i>k</i></span> — наибольшую продолжительность ГП в днях. Далее в <span class="tex-span"><i>k</i></span> строках выведите списки приглашенных (через пробел). Каждый список выводите на отдельной строке. Каждый список может содержать произвольное положительное количество хоббитов. Хоббиты нумеруются целыми числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br />1 2 <br />1 3 <br />2 3 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br />1 2 <br />1 3 <br />2 3 <br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Две прогрессии</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 second</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Арифметическая прогрессия — это такая <span class="tex-font-style-bf">непустая</span> последовательность чисел, в которой разница между любыми двумя последовательными членами равна константе, называемой разностью прогрессии. Например, последовательность 3, 7, 11, 15 — арифметическая прогрессия. Из определения следует, что любые последовательности длины 1 или 2 — арифметические, а длины 0 — не арифметические.</p><p>Задана последовательность <span class="tex-font-style-bf">различных</span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span>. Требуется разбить ее на две арифметические прогрессии или определить, что это невозможно сделать. При разбиении каждый член заданной последовательности должен быть отнесен в одну из двух прогрессий, при этом относительный порядок чисел остается неизменным. Разбиение — это обратная операция к <span class="tex-font-style-it">слиянию</span> последовательностей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое положительное число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 30000</span>), <span class="tex-span"><i>n</i></span> — длина заданной последовательности. Вторая строка содержит элементы заданной последовательности <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span"> - 10<sup class="upper-index">8</sup> ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">8</sup></span>). Элементы последовательности — различные целые числа.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите искомые арифметические прогрессии, по одной на строке. Прогрессии можно располагать в любом порядке. Каждая прогрессия должна содержать хотя бы одно число. Если решения не существует, то выведите «No solution» (без кавычек) в единственную строку выходного файла. Если решений несколько, выведите любое из них.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6<br />4 1 2 7 3 10<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 2 3 <br />4 7 10 <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2 3 -2 -7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 2 3 <br />-2 -7 <br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Во втором примере возможен другой вариант ответа (число 3 может быть отнесено во вторую прогрессию): 1, 2 и 3, -2, -7.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Компания MST</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>8 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Компания MST (Meaningless State Team) выиграла очередной тендер на проведение важной государственной реформы в Берляндии.</p><p>В Берляндии <span class="tex-span"><i>n</i></span> городов, некоторые пары из которых соединены дорогами. У каждой дороги есть ее стоимость. По любой дороге можно двигаться в любом направлении. Компания MST должна провести ремонтные работы на некотором таком наборе дорог, что из любого города можно добраться до любого другого, двигаясь только по отремонтированным дорогам. Кроме того, этот набор должен содержать ровно <span class="tex-span"><i>k</i></span> столичных дорог (то есть таких, что одним из ее концов является столица). Столица имеет номер 1.</p><p>Так как бюджет работ уже утвержден, то компании MST выгодно найти такой набор, что сумма длин входящих в него дорог наименьшая.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входного файла содержит три целых числа <span class="tex-span"><i>n</i>, <i>m</i>, <i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 5000;0 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup>;0 ≤ <i>k</i> &lt; 5000</span>), где <span class="tex-span"><i>n</i></span> — это количество городов в стране, <span class="tex-span"><i>m</i></span> — количество дорог в стране, <span class="tex-span"><i>k</i></span> — количество столичных дорог в искомом наборе. Далее в <span class="tex-span"><i>m</i></span> строках перечислены сами дороги. Каждая дорога задана тройкой чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub>, <i>w</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>; <span class="tex-span">1 ≤ <i>w</i> ≤ 10<sup class="upper-index">5</sup></span>), где <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub></span> — это номера городов, соединяемых дорогой, а <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span> — это ее длина. </p><p>Между каждой парой городов существует не более одной дороги. Нет дорог, ведущих из себя в себя же. Столица имеет номер 1.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите количество дорог в искомом наборе в первую строку. Вторая строка должна содержать номера дорог, включенных в искомое множество. Если искомого набора не существует, то выведите -1.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4 5 2<br />1 2 1<br />2 3 1<br />3 4 1<br />1 3 3<br />1 4 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br />1 5 2 </pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

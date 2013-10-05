@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="2f3c7a266b4ac637118g33e21bd680dd"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="j64z4jlbvn4y"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='2f3c7a266b4ac637118g33e21bd680dd'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #165 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Завидный забор</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Эмускальду надо построить забор вокруг фермы, но вот самому это делать ему лень. Так что юноша приобрел робота-заборостройщика.</p><p>Эмускальду хочется, чтобы забор представлял собой правильный многоугольник. К сожалению, его робот строит забор, двигаясь по единственному пути. При этом робот может соединять стороны забора только под заданным углом <span class="tex-span"><i>a</i></span>.</p><p>Сможет ли робот построить забор, который хочет Эмускальд? Иными словами, существует ли правильный многоугольник с углами, равными <span class="tex-span"><i>a</i></span>?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>t</i></span> (<span class="tex-span">0 &lt; <i>t</i> &lt; 180</span>) — количество тестов. Каждая из последующих <span class="tex-span"><i>t</i></span> строк содержит единственное целое число <span class="tex-span"><i>a</i></span> (<span class="tex-span">0 &lt; <i>a</i> &lt; 180</span>) — угол, под которым робот может соединять стороны, в градусах.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого теста выведите в единственной строке «<span class="tex-font-style-tt">YES</span>» (без кавычек), если робот может построить тот забор, который хочет Эмускальд. Если это невозможно, выведите «<span class="tex-font-style-tt">NO</span>» (без кавычек).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />30<br />60<br />90<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br />YES<br />YES<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте невозможно построить забор, так как не существует правильного многоугольника с углами <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/df5f4b07dd5316fde165b43657b2696e2919e791.png" />.</p><p>Во втором тесте забор представляет собой правильный треугольник, а в последнем тесте — квадрат.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Обсуждения</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Эмускальд подсел на Codeforces — теперь он постоянно обновляет главную страницу, чтобы не пропустить никаких изменений в списке прямого эфира. Ему нравится читать обсуждения (треды), каждое обсуждение состоит из нескольких сообщений.</p><p>Прямой эфир отображает список <span class="tex-span"><i>n</i></span> различных обсуждений, упорядоченных по времени последнего сообщения в обсуждении. Когда в обсуждении публикуется очередное сообщение, оно перемещается на вершину списка. Никакие два сообщения в различных обсуждениях никогда не публикуются одновременно.</p><p>Эмускальд дочитал все свои открытые обсуждения. Теперь он обновляет главную страницу, надеясь найти еще немного новых сообщений. Обновив станицу, Эмускальд заметил, что новые обсуждения не появились в списке, а на <span class="tex-span"><i>i</i></span>-м месте в списке стоит обсуждение, которое занимало <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>-ое место до обновления. Эмускальд не хочет терять времени на перечитывание старых сообщений, поэтому он хочет открыть только обсуждения с новыми сообщениями.</p><p>Помогите Эмускальду узнать количество обсуждений, которые <span class="tex-font-style-bf">наверняка</span> содержат новые сообщения. Обсуждение <span class="tex-span"><i>x</i></span> наверняка содержит новое сообщение, если не существует такой последовательности публикаций новых сообщений, для которой выполняются оба следующих условия: <ol> <li> обсуждение <span class="tex-span"><i>x</i></span> не обновлено (в нем не опубликовано новое сообщение); </li><li> порядок 1, 2, ..., <span class="tex-span"><i>n</i></span> обсуждений в списке меняется на <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">2</sub></span>, ..., <span class="tex-span"><i>a</i><sub class="lower-index"><i>n</i></sub></span>. </li></ol></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span>, количество обсуждений (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>). В следующей строке записан список из <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">2</sub></span>, ..., <span class="tex-span"><i>a</i><sub class="lower-index"><i>n</i></sub></span> через пробел, где <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>) — это старое положение <span class="tex-span"><i>i</i></span>-ого обсуждения в новом списке. Гарантируется, что все <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — количество обсуждений, которые наверняка содержат новое сообщение.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />5 2 1 3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />4 3 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте обсуждения 2 и 5 поставлены перед обсуждением 1, значит, в этих обсуждениях должны быть новые сообщения. Обсуждения 1, 3 и 4 могут не содержать новых сообщений, если новые сообщения есть только в обсуждениях 2 и 5.</p><p>Во втором тесте может вообще не быть новых сообщений, потому что порядок обсуждений не изменился.</p><p>В третьем тесте только в обсуждении <span class="tex-span"><i>a</i><sub class="lower-index">4</sub></span> может не быть новых сообщений.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Волшебные ларцы</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Эмускальд — известный иллюзионист. Для своего коронного номера он использует набор волшебных ларцов. Суть фокуса — в том, чтобы поместить ларцы внутрь других ларцов.</p><p>Сверху каждый волшебный ларец выглядит как квадрат со стороной равной <span class="tex-span">2<sup class="upper-index"><i>k</i></sup></span> (<span class="tex-span"><i>k</i></span> — целое, <span class="tex-span"><i>k</i> ≥ 0</span>) единиц. Ларец <span class="tex-span"><i>v</i></span> можно положить в ларец <span class="tex-span"><i>u</i></span>, если длина стороны ларца <span class="tex-span"><i>v</i></span> строго меньше, чем длина стороны ларца <span class="tex-span"><i>u</i></span>. В частности, Эмускальд может положить 4 ларца со сторонами <span class="tex-span">2<sup class="upper-index"><i>k</i> - 1</sup></span> в один ларец со стороной <span class="tex-span">2<sup class="upper-index"><i>k</i></sup></span>. Вид вложенных друг в друга ларцов показан на следующем рисунке:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/358c80356b9bc14fd41ba3beba8de2765097c7a1.png" /> </center></p><p>Эмускальд собирается в мировое турне. Ему надо упаковать свои волшебные ларцы для путешествия. Он решил, что лучше всего будет уложить их все в другой ларец, но мастерить волшебные ларцы достаточно дорого. Помогите ему найти наименьший волшебный ларец, в который можно поместить все его ларцы.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>), количество различных размеров ларцов в распоряжении Эмускальда. В следующих <span class="tex-span"><i>n</i></span> строках записано по два целых числа <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>k</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>, <span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>), что означает, что у Эмускальда есть <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> ларцов со стороной <span class="tex-span">2<sup class="upper-index"><i>k</i><sub class="lower-index"><i>i</i></sub></sup></span>. Гарантируется, что все <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число <span class="tex-span"><i>p</i></span>, такое что длина стороны наименьшего ларца, который может вместить в себя все ларцы Эмускальда, равна <span class="tex-span">2<sup class="upper-index"><i>p</i></sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />0 3<br />1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1<br />0 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />1 10<br />2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p><span class="tex-font-style-bf">Пояснение рисунка</span>. Если у нас есть 3 ларца со стороной 2 и 5 ларцов со стороной 1, то мы можем уместить их все в ларце со стороной 4, например, так, как показано на рисунке.</p><p>Во втором примере мы можем уложить все четыре маленьких ларца в ларец со стороной 2.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Теплица</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Эмускальд — страстный садовод. В его владении находится самая длинная теплица в мире — ее длина практически бесконечна.</p><p>За многие годы Эмускальд вырастил <span class="tex-span"><i>n</i></span> растений в своей теплице, каждое растение принадлежит одному из <span class="tex-span"><i>m</i></span> различных видов, пронумерованных от 1 до <span class="tex-span"><i>m</i></span>. Теплица Эмускальда очень узкая и ее можно рассматривать как бесконечную прямую, где каждое растение занимает одну точку на этой прямой.</p><p>Эмускальд обнаружил, что для каждого вида растений есть своя оптимальная температура. Теперь юноша хочет расставить <span class="tex-span"><i>m</i> - 1</span> заслонок, которые разделили бы теплицу на <span class="tex-span"><i>m</i></span> отделений, пронумерованных от 1 до <span class="tex-span"><i>m</i></span> слева направо, так чтобы в каждом отделении росли все растения одного конкретного вида. Он может ставить заслонки так, как хочет, но в итоге каждое растение <span class="tex-span"><i>i</i></span>-го вида должно произрастать в <span class="tex-span"><i>i</i></span>-ом слева отделении теплицы.</p><p>Конечно, не всегда возможно расставить заслонки именно так, и Эмускальду придется пересадить некоторые свои растения. Он может пересадить каждое растение с изначального места в любое место в теплице (в <span class="tex-font-style-bf">любой</span> вещественной координате), если там еще нет другого растения. Так как пересадка неблагоприятно сказывается на растениях, помогите Эмускальду найти минимальное количество растений, которое он должен пересадить, чтобы расставить заслонки требуемым образом.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записаны через пробел два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 5000</span>, <span class="tex-span"><i>n</i> ≥ <i>m</i></span>) — количество растений и количество различных видов. Каждая из последующих <span class="tex-span"><i>n</i></span> строк содержит по два числа через пробел: одно целое число <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>s</i><sub class="lower-index"><i>i</i></sub> ≤ <i>m</i></span>) и одно вещественное число <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">9</sup></span>), вид и положение <span class="tex-span"><i>i</i></span>-го растения. Каждое <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> будет задано с не более 6 цифрами после десятичной точки.</p><p>Гарантируется, что все <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> различны; в теплице есть как минимум по одному растению каждого вида; растения заданы во входных данных в порядке «слева-направо», то есть в порядке возрастания их координат <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i></sub> &lt; <i>x</i><sub class="lower-index"><i>i</i> + 1</sub>, 1 ≤ <i>i</i> &lt; <i>n</i>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — минимальное количество растений, которые надо пересадить.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 2<br />2 1<br />1 2.0<br />1 3.100<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 3<br />1 5.0<br />2 5.5<br />3 6.0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 3<br />1 14.284235<br />2 17.921382<br />1 20.328172<br />3 20.842331<br />1 25.790145<br />1 27.204125<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте Эмускальд может пересадить первое растение справа от последнего растения, так что ответ равен 1.</p><p>Во втором тесте все виды уже растут в правильном порядке, так что ничего пересаживать не надо.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Неисправный Поток</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Эмускальд считает себя мастером алгоритмов по нахождению потока. Он только что завершил самую искусную из всех своих программ: она вычисляет максимальный поток в неориентированном графе. Граф состоит из <span class="tex-span"><i>n</i></span> вершин и <span class="tex-span"><i>m</i></span> ребер. Вершины пронумерованы от 1 до <span class="tex-span"><i>n</i></span>. Вершины <span class="tex-span">1</span> и <span class="tex-span"><i>n</i></span> — исток и сток, соответственно.</p><p>Однако, его алгоритм максимального потока, похоже, немного неисправен: для каждого ребра он находит только величину потока, протекающего по этому ребру, но не направление, в котором течет поток. Помогите ему для каждого ребра найти направление, в котором должен протекать поток по этому ребру, чтобы в итоге получился корректный максимальный поток.</p><p>Более формально: дан неориентированный граф, в котором для каждого неориентированного ребра (<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>) задана величина <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span>. Вы должны ориентировать все ребра так, чтобы выполнялись следующие условия:</p><p><ol> <li> для каждой вершины <span class="tex-span"><i>v</i></span> <span class="tex-span">(1 &lt; <i>v</i> &lt; <i>n</i>)</span>, сумма <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> входящих ребер равняется сумме <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> исходящих ребер; </li><li> вершина номер <span class="tex-span">1</span> не имеет входящих ребер; </li><li> полученный ориентированный граф <span class="tex-font-style-bf">не имеет циклов</span>. </li></ol></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит два целых числа через пробел <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 2·10<sup class="upper-index">5</sup></span>, <span class="tex-span"><i>n</i> - 1 ≤ <i>m</i> ≤ 2·10<sup class="upper-index">5</sup></span>), количество вершин и ребер в графе. Каждая из следующих <span class="tex-span"><i>m</i></span> строк содержит три целых числа <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>, <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> ≠ <i>b</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span">1 ≤ <i>c</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">4</sup></span>) через пробел, которые обозначают неориентированное ребро от <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> до <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>, по которому протекает в некотором направлении <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> единиц потока.</p><p>Гарантируется, что не существует двух ребер, соединяющих одни и те же вершины; данный граф связный; решение всегда существует.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>m</i></span> строк, в каждой строке должно быть по целому числу <span class="tex-span"><i>d</i><sub class="lower-index"><i>i</i></sub></span>, равному 0, если направление <span class="tex-span"><i>i</i></span>-го ребра равняется <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> → <i>b</i><sub class="lower-index"><i>i</i></sub></span> (поток протекает от вершины <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> к вершине <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span>), и равному 1 в противном случае. Считайте, что ребра пронумерованы от 1 до <span class="tex-span"><i>m</i></span> в том порядке, в котором они заданы во входных данных.</p><p>Если существует несколько решений, выведите любое из них.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 3<br />3 2 10<br />1 2 10<br />3 1 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />0<br />1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 5<br />1 2 10<br />1 3 10<br />2 3 5<br />4 2 15<br />3 4 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br />0<br />1<br />1<br />0<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере 10 единиц потока проходят по пути <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/609340f155794c4e9eebcd9cdfa23c73cf982f28.png" />, а 5 единиц потока проходят прямо от истока к стоку: <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/04481aced8a9d501ae5d785ab654c542ff5497a1.png" />.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

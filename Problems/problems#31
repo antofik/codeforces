@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="995bb685175bhf204ag03gbah481b04e"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="vpzt898791gq"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='995bb685175bhf204ag03gbah481b04e'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #31 (&#1044;&#1080;&#1074;. 2, Codeforces format)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Эволюция червей</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Профессор Васечкин изучает эволюцию земляных червей. Недавно он выдвинул гипотезу о том, что все черви эволюционируют делением. Всего в Берляндии <span class="tex-span"><i>n</i></span> видов червей. Черви этих видов имеют длины <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">2</sub></span>, ..., <span class="tex-span"><i>a</i><sub class="lower-index"><i>n</i></sub></span>. Чтобы обосновать свою теорию, профессору нужно найти 3 различных вида, что длина червей одного вида равна сумме длин червей двух других видов. Помогите ему справиться с этой задачей.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">3 ≤ <i>n</i> ≤ 100</span>) — количество видов червей. На следующей строке через пробел записано <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>) — длины червей всех видов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите 3 различных целых числа <span class="tex-span"><i>i</i></span> <span class="tex-span"><i>j</i></span> <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>i</i>, <i>j</i>, <i>k</i> ≤ <i>n</i></span>) — номера видов червей, для которых выполняется <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> = <i>a</i><sub class="lower-index"><i>j</i></sub> + <i>a</i><sub class="lower-index"><i>k</i></sub></span>. Если таких не существует, выведите <span class="tex-font-style-tt">-1</span>. Если решений несколько, выведите любое. Допустимо, что <span class="tex-span"><i>a</i><sub class="lower-index"><i>j</i></sub> = <i>a</i><sub class="lower-index"><i>k</i></sub></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 2 3 5 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3 2 1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>5<br />1 8 1 5 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Сисадмин Вася</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Адрес электронной почты в Берляндии — это строка вида <span class="tex-span"><i>A</i></span>@<span class="tex-span"><i>B</i></span>, где <span class="tex-span"><i>A</i></span> и <span class="tex-span"><i>B</i></span> — любые непустые строки из маленьких латинских букв.</p><p>Вася работает сисадмином в компании «Берсофт». Он хранит список адресов электронной почты всех сотрудников компании в виде одной большой строки, где все адреса записаны через запятую в произвольном порядке. Один и тот же адрес может быть записан более одного раза. </p><p>Однажды по непонятной причине все запятые в Васином списке исчезли, и все адреса «склеились». У Васи осталась одна большая строка, в которой адреса электронной почты записаны подряд без каких-либо разделителей, и невозможно определить, где заканчивается один адрес и начинается другой. К несчастью, именно в этот же день Васино начальство потребовало от Васи исходный список всех адресов. Теперь Вася хочет расцепить адреса произвольным образов (вряд ли начальство будет разбираться). Помогите ему это сделать.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится список всех адресов электронной почты без разделителей. Длина строки не меньше <span class="tex-span">1</span> и не превосходит <span class="tex-span">200</span>. Гарантируется, что строка состоит только из маленьких латинских букв и символов «@».</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если не существует такого списка корректных (по берляндским правилам) адресов электронной почты, что после удаления запятых список совпадает с заданной строкой, выведите <span class="tex-font-style-tt">No solution</span>. Иначе выведите сам список. Один и тот же адрес может быть записан в этом списке более одного раза. Если решений несколько, выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>a@aa@a<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>a@a,a@a<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>a@a@a<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>No solution<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>@aa@a<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>No solution<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Расписание</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>С началом нового учебного года в Берляндском Государственном Университете было составлено новое расписание занятий. Согласно этому расписанию, в аудитории 31 проходят занятия у <span class="tex-span"><i>n</i></span> групп. Для каждой группы известно время начала и конца занятий в этой аудитории. Оказалось, что провести занятия во всех <span class="tex-span"><i>n</i></span> группах одновременно невозможно — занятия некоторых групп пересекаются по времени. Если в некоторый момент времени у одной группы занятия заканчиваются, а у другой — начинаются, считается, что они не пересекаются.</p><p>Деканат хочет отменить занятия ровно в одной группе так, чтобы занятия всех остальных групп не пересекались по времени. Ваша задача — найти все способы сделать это.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 5000</span>) — количество групп, у которых есть занятия в аудитории 31. Далее следует <span class="tex-span"><i>n</i></span> строк по два целых числа <span class="tex-span"><i>l</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>l</i><sub class="lower-index"><i>i</i></sub> &lt; <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup></span>) — время начала и окончания занятий <span class="tex-span"><i>i</i></span>-ой группы. Могло оказаться, что изначально все занятия не пересекаются (см. пример 1).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно целое число <span class="tex-span"><i>k</i></span> — число способов отменить занятия ровно в одной группе, так чтобы занятия у всех остальных групп не пересекались. На следующей строке выведите <span class="tex-span"><i>k</i></span> чисел — номера групп, в которых можно отменить занятия. Группы нумеруются начиная с <span class="tex-span">1</span> в том порядке, в котором они заданы во входных данных. Выводите номера в порядке возрастания.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />3 10<br />20 30<br />1 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br />1 2 3 </pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />3 10<br />20 30<br />1 3<br />1 39<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br />4 </pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />1 5<br />2 6<br />3 7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Шоколадка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>У Васи есть прямоугольная плитка шоколада <span class="tex-span"><i>W</i> × <i>H</i></span> долек. Он определил декартову систему координат так, что точка <span class="tex-span">(0, 0)</span> соответствует левому нижнему углу шоколадки, а точка <span class="tex-span">(<i>W</i>, <i>H</i>)</span> — правому верхнему. Одна долька шоколадки соответствует квадрату <span class="tex-span">1 × 1</span> с целочисленными координатами. Вася решил разделить шоколадку на куски разломами. Каждый разлом представляет собой параллельный одной из осей координат отрезок, проходящий от одной стороны куска до другой. То есть каждый разлом проходит вдоль линии <span class="tex-span"><i>x</i> = <i>x</i><sub class="lower-index"><i>c</i></sub></span> или <span class="tex-span"><i>y</i> = <i>y</i><sub class="lower-index"><i>c</i></sub></span>, где <span class="tex-span"><i>x</i><sub class="lower-index"><i>c</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>c</i></sub></span> — некоторые целые числа. Каждый разлом делит один кусок шоколадки на два непустых куска. После того как Вася разломил один кусок на два, получившиеся куски он разламывает <span class="tex-font-style-bf">отдельно и независимо друг от друга</span>. При этом он не перемещает куски шоколадки. Вася сделал <span class="tex-span"><i>n</i></span> разломов и записал их в блокнот в произвольном порядке. В результате у него получилось <span class="tex-span"><i>n</i> + 1</span> кусков. Теперь он хочет посчитать их площади. Вася человек ленивый, и поэтому он просит вас сделать это за него. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано три целых числа <span class="tex-span"><i>W</i></span>, <span class="tex-span"><i>H</i></span> и <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>W</i>, <i>H</i>, <i>n</i> ≤ 100</span>) — ширина шоколадки, высота шоколадки и число разломов соответственно. Далее следует <span class="tex-span"><i>n</i></span> строк по 4 целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i>, 1</sub>, <i>y</i><sub class="lower-index"><i>i</i>, 1</sub>, <i>x</i><sub class="lower-index"><i>i</i>, 2</sub>, <i>y</i><sub class="lower-index"><i>i</i>, 2</sub></span> — координаты концов отрезка <span class="tex-span"><i>i</i></span>-ого разлома (<span class="tex-span">0 ≤ <i>x</i><sub class="lower-index"><i>i</i>, 1</sub> ≤ <i>x</i><sub class="lower-index"><i>i</i>, 2</sub> ≤ <i>W</i>, 0 ≤ <i>y</i><sub class="lower-index"><i>i</i>, 1</sub> ≤ <i>y</i><sub class="lower-index"><i>i</i>, 2</sub> ≤ <i>H</i></span>, либо <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i>, 1</sub> = <i>x</i><sub class="lower-index"><i>i</i>, 2</sub></span>, либо <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i>, 1</sub> = <i>y</i><sub class="lower-index"><i>i</i>, 2</sub></span>). Разломы записаны в произвольном порядке.</p><p>Гарантируется, что множество разломов корректно, то есть существует такой порядок проведения заданных разломов, что очередной разлом разделяет ровно один кусок ровно на две части.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i> + 1</span> чисел — площади получившихся кусков в порядке возрастания.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 2 2<br />1 0 1 2<br />0 1 1 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 1 2 </pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2 3<br />1 0 1 2<br />0 1 1 1<br />1 1 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 1 1 1 </pre></div><div class="input"><div class="title">Входные данные</div><pre>2 4 2<br />0 1 2 1<br />0 3 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 2 4 </pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Телеигра</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Недавно на БерТВ начали показывать новую телеигру. В этой игре двум игрокам дается число <span class="tex-span"><i>A</i></span> из <span class="tex-span">2<i>n</i></span> цифр. Игроки в начале и после очередного хода сами договариваются, кто из них будет ходить следующим. Единственное ограничение — каждый игрок должен сделать ровно <span class="tex-span"><i>n</i></span> ходов. На своем ходе <span class="tex-span"><i>i</i></span>-ый игрок берет самую левую цифру числа <span class="tex-span"><i>A</i></span> и дописывает ее в конец своего числа <span class="tex-span"><i>S</i><sub class="lower-index"><i>i</i></sub></span>, при этом из числа <span class="tex-span"><i>A</i></span> эта цифра стирается. Изначально числа обоих игроков (<span class="tex-span"><i>S</i><sub class="lower-index">1</sub></span> и <span class="tex-span"><i>S</i><sub class="lower-index">2</sub></span>) «пусты». Лидирующие нули в числах <span class="tex-span"><i>A</i>, <i>S</i><sub class="lower-index">1</sub>, <i>S</i><sub class="lower-index">2</sub></span> допускаются. В конце игры первый игрок получает <span class="tex-span"><i>S</i><sub class="lower-index">1</sub></span> бурлей, а второй — <span class="tex-span"><i>S</i><sub class="lower-index">2</sub></span> бурлей.</p><p>Однажды на телеигру попали Гомер и Мардж. Им удалось заранее узнать число <span class="tex-span"><i>A</i></span>, и теперь они хотят договориться делать ходы оптимально. Помогите им — составьте такую последовательность ходов Гомера и Мардж, чтобы каждый из них сделал ровно <span class="tex-span"><i>n</i></span> ходов, и при этом их суммарный выигрыш был как можно больше.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 18</span>). Во второй строке записано целое число ровно из <span class="tex-span">2<i>n</i></span> цифр — число <span class="tex-span"><i>A</i></span>. Допускаются лидирующие нули.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите строку из <span class="tex-span">2<i>n</i></span> символов <span class="tex-font-style-tt">«H»</span> и <span class="tex-font-style-tt">«M»</span> — последовательность ходов Гомера и Мардж, приводящую к максимальному суммарному выигрышу. Каждый игрок должен сделать ровно <span class="tex-span"><i>n</i></span> ходов. Если решений несколько, выведите любое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />1234<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>HHMM</pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />9911<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>HMHM</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

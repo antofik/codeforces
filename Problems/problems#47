@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="62hc78010ef0he931gd28h43f8c3e99e"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="m5wnd7r92l8p"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='62hc78010ef0he931gd28h43f8c3e99e'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #44 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Треугольные числа</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Треугольное число — это число кружков, которые могут быть расставлены в форме равностороннего треугольника. Например, три кружка можно расставить в форме треугольника, значит три — треугольное число. <span class="tex-span"><i>n</i></span>-ое треугольное число — это количество кружков в треугольнике, на стороне которого <span class="tex-span"><i>n</i></span> кружков. <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/d3b79c3a1beb823c96a128431cc056ce870b2780.png" />. Вы можете прочитать подробно про эти числа в Википедии (http://en.wikipedia.org/wiki/Triangular_number или http://ru.wikipedia.org/wiki/Треугольное_число).</p><p>Ваша задача — определить, является ли заданное целое число треугольным.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка содержит одно число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 500</span>) — заданное целое число.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если заданное целое число является треугольным, выведите <span class="tex-font-style-tt">YES</span>, иначе выведите <span class="tex-font-style-tt">NO</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>NO<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>YES<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Монеты</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды к Васе попали три берляндские монеты. На них не было никаких чисел, поэтому Вася не смог понять, как они соотносятся по достоинству. Он предположил, что если одна монета весит больше другой, то она ценнее. Вася взвесил все три пары монет на чашечных весах и сказал вам результаты. Выясните, как монеты соотносятся по достоинству, или что у Васи ошибка во взвешиваниях. Среди заданных монет нет одинаковых.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Во входных данных содержатся результаты всех трех взвешиваний, по одному результату в каждой строке. Гарантируется, что каждая пара монет взвешивалась ровно один раз. Вася обозначил монеты буквами «<span class="tex-font-style-tt">A</span>», «<span class="tex-font-style-tt">B</span>» и «<span class="tex-font-style-tt">C</span>». Каждый результат — строка вида (буква)(знак &lt; или &gt;)(буква). Например, если монета «<span class="tex-font-style-tt">A</span>» оказалась легче монеты «<span class="tex-font-style-tt">B</span>», результатом взвешивания будет <span class="tex-font-style-tt">A&lt;B</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если в результатах есть противоречие, выведите <span class="tex-font-style-tt">Impossible</span>. Иначе выведите без пробелов перестановку букв «<span class="tex-font-style-tt">A</span>», «<span class="tex-font-style-tt">B</span>» и «<span class="tex-font-style-tt">C</span>» — монеты в порядке возрастания их весов.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>A&gt;B<br />C&lt;B<br />A&gt;C<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>CBA</pre></div><div class="input"><div class="title">Входные данные</div><pre>A&lt;B<br />B&gt;C<br />C&gt;A<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>ACB</pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Кроссворд</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася тренируется составлять кроссворды. Пока он умеет составлять кроссворды только очень простого вида. Все они состоят ровно из шести слов, слова можно читать только сверху вниз по вертикали и слева направо по горизонтали. Слова расположены в виде прямоугольной восьмерки, не обязательно симметричной. Восьмерка упирается одной половиной в левый верхний угол, а другой — в правый нижний угол некоторого прямоугольника. Кроссворд не может вырождаться, т. е. в нем всегда содержится ровно четыре пустые области, две из которых окружены буквами. В качестве примеров посмотрите ответы на тесты из условия.</p><p>Помогите Васе — составьте кроссворд описанного вида из заданных шести слов. Разрешается использовать слова в любом порядке.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В шести строках записаны заданные слова. Каждое слово состоит не более чем из 30 и не менее чем из 3 больших латинских букв.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если решения не существует, выведите <span class="tex-font-style-tt">Impossible</span>. Иначе выведите искомый кроссворд. <span class="tex-font-style-bf">Все</span> пустые клетки обозначайте точками. </p><p>Если решений несколько, выведите лексикографически наименьшее. Т. е. то решение, первая строчка которого меньше первой строчки других. При равенстве первых строк, сравнивайте вторые и т. д. Лексикографическое сравнение строк реализует оператор &lt; в современных языках программирования.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>NOD<br />BAA<br />YARD<br />AIRWAY<br />NEWTON<br />BURN<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>BAA...<br />U.I...<br />R.R...<br />NEWTON<br />..A..O<br />..YARD<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>AAA<br />AAA<br />AAAAA<br />AAA<br />AAA<br />AAAAA<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>AAA..<br />A.A..<br />AAAAA<br />..A.A<br />..AAA<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>PTC<br />JYNYFDSGI<br />ZGPPC<br />IXEJNDOP<br />JJFS<br />SSXXQOFGJUZ<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>JJFS....<br />Y..S....<br />N..X....<br />Y..X....<br />F..Q....<br />D..O....<br />S..F....<br />G..G....<br />IXEJNDOP<br />...U...T<br />...ZGPPC<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Сейф</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>5 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вася пытается взломать сейф. Он знает, что код состоит из <span class="tex-span"><i>n</i></span> цифр, причем каждая цифра — 0 или 1. Вася сделал <span class="tex-span"><i>m</i></span> попыток ввести код. После каждой попытки система сообщала ему, в скольких позициях стоят правильные цифры. В каких именно позициях стоят неправильные цифры не сообщается. Вася был настолько неудачлив, что ни разу не ввел код, в котором было бы правильно более 5 цифр. Сейчас Вася совсем запутался — ему кажется, что в системе ошибка, и она противоречит самой себе. Помогите Васе — посчитайте, сколько осталось возможных вариантов кода, которые не противоречат предыдущим ответам системы.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">6 ≤ <i>n</i> ≤ 35, 1 ≤ <i>m</i> ≤ 10</span>) — количество цифр в коде и количество попыток, сделанных Васей. Далее следует <span class="tex-span"><i>m</i></span> строк, в каждой из которых через пробел записаны <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>c</i><sub class="lower-index"><i>i</i></sub></span> — соответственно Васина попытка (строка из <span class="tex-span"><i>n</i></span> цифр 0 или 1) и ответ системы (целое число от 0 до 5 включительно). </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — сколько осталось вариантов кода, которые не противоречат <span class="tex-span"><i>m</i></span> ответам системы.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6 2<br />000000 2<br />010100 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 3<br />000000 2<br />010100 4<br />111100 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>6 3<br />000000 2<br />010100 4<br />111100 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Пушка</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Бертаун в осаде! Осаждающие заблокировали все выходы и стреляют по городу из пушки. К счастью, берляндской разведке удалось перехватить план стрельбы врагов. Введем декартовую систему координат, начало которой совпадает с позицией пушки, ось <span class="tex-span"><i>Ox</i></span> направлена вправо в сторону города, ось <span class="tex-span"><i>Oy</i></span> направлена вверх (в небо). Пушка сделает <span class="tex-span"><i>n</i></span> выстрелов. Начальные скорости ядер при всех выстрелах совпадают и равны <span class="tex-span"><i>V</i></span>, так что каждый выстрел характеризуется только одним числом <span class="tex-span"><i>alpha</i><sub class="lower-index"><i>i</i></sub></span> — углом, под которым пушка выстреливает ядро. В силу технических особенностей пушки этот угол не превосходит <span class="tex-span">45</span> градусов (<span class="tex-span">π / 4</span>). Мы пренебрегаем размерами пушки и считаем, что вся стрельба ведется из точки <span class="tex-span">(0, 0)</span>.</p><p>Снаряды летят по известным физическим законам тела, брошенного под углом к горизонту: <center class="tex-equation"><span class="tex-span"><i>v</i><sub class="lower-index"><i>x</i></sub>(<i>t</i>) = <i>V</i>·<i>cos</i>(<i>alpha</i>)</span></center> <center class="tex-equation"><span class="tex-span"><i>v</i><sub class="lower-index"><i>y</i></sub>(<i>t</i>) = <i>V</i>·<i>sin</i>(<i>alpha</i>)  –  <i>g</i>·<i>t</i></span></center> <center class="tex-equation"><span class="tex-span"><i>x</i>(<i>t</i>) = <i>V</i>·<i>cos</i>(<i>alpha</i>)·<i>t</i></span></center> <center class="tex-equation"><span class="tex-span"><i>y</i>(<i>t</i>) = <i>V</i>·<i>sin</i>(<i>alpha</i>)·<i>t</i>  –  <i>g</i>·<i>t</i><sup class="upper-index">2</sup> / 2</span></center></p><p>Ускорение свободного падения <span class="tex-span"><i>g</i></span> считайте равным <span class="tex-span">9.8</span>.</p><p>Бертаун защищает <span class="tex-span"><i>m</i></span> стен. <span class="tex-span"><i>i</i></span>-ая стена представляет собой вертикальный отрезок <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i></sub>, 0) - (<i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>)</span>. Когда ядро попадает в стену, оно застревает в ней и не летит дальше. Если ядро не встретила на своем пути ни одной стены, оно падает на землю (<span class="tex-span"><i>y</i> = 0</span>) и останавливается. Если ядро попадает точно в точку <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>)</span>, считается что оно застревает.</p><p>Ваша задача — для каждого ядра найти координаты точки, в которой оно окажется в итоге.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны целые числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>V</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">4</sup>, 1 ≤ <i>V</i> ≤ 1000</span>) — число выстрелов и начальная скорость каждого снаряда. Во второй строке через пробел записано <span class="tex-span"><i>n</i></span> вещественных чисел <span class="tex-span"><i>alpha</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">0 &lt; <i>alpha</i><sub class="lower-index"><i>i</i></sub> &lt; π / 4</span>) — углы, под которыми будет стрелять пушка, в радианах. В третьей строке записано целое число <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>) — количество стен. Далее следует <span class="tex-span"><i>m</i></span> строк по два вещественных числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> и <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub> ≤ 1000, 0 ≤ <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>) — координаты стен. Все вещественные числа имеют не более 4 знаков после точки. Cтены могут частично пересекаться и даже совпадать.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i></span> строк по два вещественных числа — для каждого снаряда выведите координаты точки, куда он попадет. Ваш ответ должен иметь относительную или абсолютную погрешность меньше чем <span class="tex-span">10<sup class="upper-index"> - 4</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 10<br />0.7853<br />0.3<br />3<br />5.0 5.0<br />4.0 2.4<br />6.0 1.9<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>5.000000000 2.549499369<br />4.000000000 0.378324889<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 10<br />0.7853<br />0.3<br />2<br />4.0 2.4<br />6.0 1.9<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>10.204081436 0.000000000<br />4.000000000 0.378324889<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

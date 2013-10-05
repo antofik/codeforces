@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="g30af30bff5adededb504b81g4689f1d"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="3vq191kpsjbr"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='g30af30bff5adededb504b81g4689f1d'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #69 (Div. 1 Only)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Герои</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Грядёт 2012-ый год...</p><p>Согласно древней хорадрической легенде, именно в этом, 2012-м году, Диабло со своими братьями Мефисто и Баалом вырвется из ада, и неисчислимые орды демонов поработят человеческий мир. Но семеро отважных героев уже собрались на вершине горы Арреат, чтобы защитить нас, простых смертных, от влияния этого ужасного зла.</p><p>Семеро великих, вот они: амазонка <span class="tex-font-style-tt">Anka</span>, варвар <span class="tex-font-style-tt">Chapay</span>, волшебница <span class="tex-font-style-tt">Cleo</span>, друид <span class="tex-font-style-tt">Troll</span>, некромант <span class="tex-font-style-tt">Dracul</span>, паладин <span class="tex-font-style-tt">Snowy</span> и профессиональная девушка-киллер <span class="tex-font-style-tt">Hexadecimal</span>. Герои уже знают, сколько опыта дадут за каждого из трёх мегабоссов: <span class="tex-span"><i>a</i></span> — за Мефисто, <span class="tex-span"><i>b</i></span> — за Диабло и <span class="tex-span"><i>c</i></span> — за Баала.</p><p>Вот беда: героев аж целых семь, а мегабоссов всего трое! Тогда наши герои решили разделиться на три группы, где каждая группа пойдёт уничтожать своего мегабосса. Каждый член группы получит <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/d9049b74dfcebaef5774f475b1e3ef4ed39cfc63.png" /> опыта, округлённое вниз, где <span class="tex-span"><i>x</i></span> — количество опыта за убитого мегабосса, а <span class="tex-span"><i>y</i></span> — количество людей в группе.</p><p>Герои не хотят обижать друг друга, поэтому хотят разделиться на группы так, чтобы разница между персонажем, получившим максимальное число опыта и персонажем, получившим минимальное число опыта, была минимальна. Поскольку разделений на группы может быть несколько, то нужно найти такое, при котором <span class="tex-font-style-it">суммарное количество симпатий в группах</span> максимально.</p><p>Известно, что одни герои вызывают симпатию у других. Но если персонажу <span class="tex-span"><i>p</i></span> нравится персонаж <span class="tex-span"><i>q</i></span>, то это вовсе не значит, что персонажу <span class="tex-span"><i>q</i></span> нравится персонаж <span class="tex-span"><i>p</i></span>. Никакой герой не нравится сам себе.</p><p>Суммарное количество симпатий в группах — это количество таких упорядоченных пар <span class="tex-span">(<i>p</i>, <i>q</i>)</span>, что герои <span class="tex-span"><i>p</i></span> и <span class="tex-span"><i>q</i></span> состоят в одной группе, и при этом герою <span class="tex-span"><i>p</i></span> нравится герой <span class="tex-span"><i>q</i></span> (но неважно, нравится ли герою <span class="tex-span"><i>q</i></span> герой <span class="tex-span"><i>p</i></span>). В случае, если герои <span class="tex-span"><i>p</i></span> и <span class="tex-span"><i>q</i></span> нравятся друг другу и состоят в одной группе, эта пара должна быть учтена дважды, как <span class="tex-span">(<i>p</i>, <i>q</i>)</span> и как <span class="tex-span">(<i>q</i>, <i>p</i>)</span>.</p><p>Группа может состоять даже из одного персонажа, но важно, чтобы каждый мегабосс был уничтожен. Все герои должны быть задействованы в походе против зла. Ни один герой не может находиться более, чем в одной группе.</p><p>Гарантируется, что каждый герой в состоянии уничтожить любого мегабосса в одиночку.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано единственное неотрицательное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 42</span>) — количество симпатий между героями. В последующих <span class="tex-span"><i>n</i></span> строках дано описание симпатий в формате «<span class="tex-font-style-tt">p likes q</span>», означающих, что герою <span class="tex-font-style-tt">p</span> нравится герой <span class="tex-font-style-tt">q</span> (<span class="tex-font-style-tt">p</span> <span class="tex-span"> ≠ </span> <span class="tex-font-style-tt">q</span>). Каждая симпатия описана во входных данных ровно один раз, никакому герою не нравится он сам.</p><p>В последней строке даны три целых числа <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> и <span class="tex-span"><i>c</i></span> (<span class="tex-span">1 ≤ <i>a</i>, <i>b</i>, <i>c</i> ≤ 2·10<sup class="upper-index">9</sup></span>), разделённые пробелом: опыт за Мефисто, опыт за Диабло и опыт за Баала.</p><p>Во всех претестах, за исключением примеров из условия, выполняется: <span class="tex-span"><i>a</i> = <i>b</i> = <i>c</i></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите два целых числа — минимальную разницу в опыте между персонажами, которые получат максимальное и минимальное количество очков опыта, и максимальное суммарное количество симпатий в группах (количество дружб между персонажами, оказавшимися в одной группе).</p><p><span class="tex-font-style-bf">В этой задаче в первую очередь надо минимизировать разницу опыта, и среди всех таких разделений на группы выбрать такое, что суммарное количество симпатий максимально.</span></p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3<br />Troll likes Dracul<br />Dracul likes Anka<br />Snowy likes Hexadecimal<br />210 200 180<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>30 3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />Anka likes Chapay<br />Chapay likes Anka<br />10000 50 50<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1950 2<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p><span class="tex-font-style-bf">Пояснение к первому примеру:</span> первую группу могут сформировать <span class="tex-font-style-tt">Dracul</span>, <span class="tex-font-style-tt">Troll</span> и <span class="tex-font-style-tt">Anka</span>, вторую группу — <span class="tex-font-style-tt">Hexadecimal</span> и <span class="tex-font-style-tt">Snowy</span>, а третью — <span class="tex-font-style-tt">Cleo</span> и <span class="tex-font-style-tt">Chapay</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Сброс наковальни</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Во многих американских мультфильмах главным героям почему-то время от времени падают на головы наковальни. Иногда, конечно, падают сейфы, шкафы, крейсеры, самолёты... Но чаще всего всё-таки наковальни.</p><p>Наковальни бывают очень разных размеров и габаритов. Частенько они втаптывают героя глубоко в землю. Но вы задумывались над тем, кто же сбрасывает с неба наковальни? С какой высоты? Уверен, что подобные вопросы никогда не приходили вам в голову!</p><p>Оказывается, мастерски сбросить наковальню на цель совсем непросто. Опишем одну из популярных моделей наковальнемёта.</p><p>Пусть рост <span class="tex-span"><i>p</i></span> потенциальной жертвы варьируется в диапазоне <span class="tex-span">[0;<i>a</i>]</span>, а направление ветра <span class="tex-span"><i>q</i></span> — в диапазоне <span class="tex-span">[ - <i>b</i>;<i>b</i>]</span>. <span class="tex-span"><i>p</i></span> <span class="tex-font-style-bf">и</span> <span class="tex-span"><i>q</i></span> <span class="tex-font-style-bf">могут быть любыми действительными (вещественными) числами.</span> Тогда утверждается, что наковальня будет в точности совмещена с головой мультяшки только в том случае, когда следующее уравнение будет иметь хотя бы один действительный корень: <center> <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/9434a010522e7b78f7a8cd60aee1eb14db5ba441.png" /> </center> </p><p>Определите, с какой вероятностью удастся сбить цель наковальней.</p><p>Можете считать, что коэффициенты <span class="tex-span"><i>p</i></span> и <span class="tex-span"><i>q</i></span> выбираются равновероятно и независимо в своих диапазонах.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано целое число <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>t</i> ≤ 10000</span>) — количество тестов.</p><p>В последующих <span class="tex-span"><i>t</i></span> строках находятся по два целых числа <span class="tex-span"><i>a</i></span> и <span class="tex-span"><i>b</i></span>, разделённые пробелом (<span class="tex-span">0 ≤ <i>a</i>, <i>b</i> ≤ 10<sup class="upper-index">6</sup></span>).</p><p>В претестах содержатся все тесты, в которых <span class="tex-span">0 &lt; <i>a</i> &lt; 10, 0 ≤ <i>b</i> &lt; 10</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>t</i></span> строк — вероятность успешного сброса наковальни для каждого теста. Абсолютная или относительная погрешность ответа не должна превосходить <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />4 2<br />1 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.6250000000<br />0.5312500000<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Боброжуй-0xFF</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p><span class="tex-font-style-it">«Съел бобра — спас дерево!» — именно под таким девизом пройдёт срочный слёт экологов в городе Бобруйске.</span></p><p><span class="tex-font-style-it">А всё дело в том, что популяция бобров на земном шаре достигла невероятных размеров! Каждый день их количество увеличивается в разы, а они даже и не догадываются, какой ущерб приносит природе и человечеству их нездоровая любовь к древесине. Количество кислорода в атмосфере упало до 17 процентов, и, как считают лучшие умы мира, это далеко не предел.</span></p><p><span class="tex-font-style-it">В середине 50-х годов прошлого века группа советских учёных смогла спрогнозировать ситуацию с бобрами и разработала секретную технологию по очистке территории под таинственным названием «Боброжуй-0xFF». Теперь судьба планеты лежит на хрупких плечах всего нескольких людей, отдавших свою жизнь науке.</span></p><p><span class="tex-font-style-it">Прототип уже готов, теперь нужно срочно проводить его испытания в полевых условиях.</span></p><p>Вам дано дерево, сплошь усеянное бобрами. Дерево состоит из <span class="tex-span"><i>n</i></span> вершин, в <span class="tex-span"><i>i</i></span>-ой вершине расположилось <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> бобров. Напомним, дерево — это связный неориентированный граф без циклов.</p><p>«Боброжуй-0xFF» работает по следующему принципу: находясь в некоторой вершине <span class="tex-span"><i>u</i></span>, он может перейти к вершине <span class="tex-span"><i>v</i></span>, если они соединены ребром, и съесть <span class="tex-font-style-bf">ровно одного</span> бобра из тех, что находятся в вершине <span class="tex-span"><i>v</i></span>. Переместиться в вершину <span class="tex-span"><i>v</i></span> невозможно, если в ней не осталось бобров. «Боброжуй-0xFF» <span class="tex-font-style-bf">не может</span> просто так стоять в какой-то вершине и есть там бобров. Он должен двигаться без остановок.</p><p>Почему «Боброжуй-0xFF» работает именно так? Потому что разработчики не предусмотрели место в нём для аккумулятора, а поедание бобров необходимо для перегона их массы в чистую энергию.</p><p>Гарантируется, что бобры будут находиться в шоке от происходящего, поэтому не смогут перемещаться по дереву. В свою очередь, «Боброжуй-0xFF» может перемещаться по каждой ветке в обоих направлениях сколько угодно раз, пока условия, описанные выше, выполняются.</p><p>Корень дерева находится в вершине <span class="tex-span"><i>s</i></span>. Это значит, что «Боброжуй-0xFF» начинает свою миссию в вершине <span class="tex-span"><i>s</i></span> и обязательно должен в неё же вернуться в конце испытания, потому что снимать его с большой высоты никто не намерен.</p><p>Определите максимальное количество бобров, которое сможет съесть «Боброжуй-0xFF», вернувшись при этом в стартовую вершину.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится целое число <span class="tex-span"><i>n</i></span> — число вершин в дереве (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>). Во второй строке содержится <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>k</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>k</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">5</sup></span>) — количество бобров на каждой вершине. В следующих <span class="tex-span"><i>n</i> - 1</span> строках находятся пары целых чисел — номера вершин, соединенных ребром. Вершины нумеруются от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. В последней строке находится целое число <span class="tex-span"><i>s</i></span> — номер стартовой вершины (<span class="tex-span">1 ≤ <i>s</i> ≤ <i>n</i></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Нужно вывести единственное число — максимальное возможное число бобров, съеденных «Боброжуем-0xFF».</p><p>Пожалуйста, не используйте спецификатор <span class="tex-font-style-tt">%lld</span> для записи 64-х битовых чисел на С++. Рекомендуется использовать поток <span class="tex-font-style-tt">cout</span> (также вы можете использовать спецификатор <span class="tex-font-style-tt">%I64d</span>).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />1 3 1 3 2<br />2 5<br />3 4<br />4 5<br />1 5<br />4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />2 1 1<br />3 2<br />1 2<br />3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Ковёр-из-домино</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p><span class="tex-font-style-it">...И с вами снова... Теле-Майк!</span></p><p><span class="tex-font-style-it">Устали от однообразного интерьера? Надоела серая обыденность? Мечтаете о головокружительных изменениях вашей скромной обители? У нас есть, что предложить вам!</span></p><p><span class="tex-font-style-it">Этот Ковёр-из-домино всего за $99.99 изменит вашу жизнь! Вы можете постелить им пол, повесить его на стену или даже на потолок! Кроме всего прочего...</span></p><p>Вирус Хексадесимал, насмотревшись рекламы, захотела заполучить такой Ковёр-из-домино и обязательно сфотографироваться на его фоне. Но ясное дело — вирус никогда не согласится покупать лицензионный Ковёр! Поэтому она заказала грузовик домино и решила смастерить такой Ковёр сама.</p><p>Оригинальный Ковёр-из-домино представляет собой поле из квадратиков размера <span class="tex-span"><i>n</i> × <i>m</i></span>. Каждый квадратик является половиной кости домино и может быть ориентирован либо вертикально, либо горизонтально, независимо от соседей. Вертикально ориентированные половинки домино выглядят так:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/cbcbc38304dc63316ade763c6995a06be60c03f8.png" /> </center></p><p>А горизонтально ориентированные вот так:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/ef334c25109a16b9f80b3612631debda03844734.png" /> </center></p><p>Отсюда можно заметить, что некоторые половинки выглядят одинаково в обоих положениях, а некоторые — по-разному.</p><p>Кости домино, которые купила Хексадесимал, представляют собой неразрезаемые фишки размера <span class="tex-span">1 × 2</span>, которые можно класть либо вертикально, либо горизонтально. Если кость расположить вертикально, то обе её половинки должны быть вертикально ориентированными; если горизонтально, то обе половинки должны быть ориентированы горизонтально.</p><p>Ниже приведены правильные и неправильные примеры вертикально и горизонтально расположенных костей домино:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/908eef442688ec7c2b432ca7b23b970dcc1e5f0c.png" /> </center></p><p>Вирус Хексадесимал собирает свой собственный Ковёр-из-домино так, что выполняются следующие условия:</p><p><ul> <li> каждая клетка ковра покрыта костью домино, т.е. нет пустых клеток; </li><li> все кости домино лежат строго внутри ковра и не накладываются друг на друга; </li><li> если есть горизонтальная кость домино, у которой левая половина лежит в столбце <span class="tex-span"><i>j</i></span>, то нет горизонтальных костей домино, у которых левая половина лежит в столбце <span class="tex-span"><i>j</i> - 1</span> или <span class="tex-span"><i>j</i> + 1</span>. </li></ul></p><p>Прежде чем начать собирать свой собственный Ковёр-из-домино, вирус хочет узнать количество способов достичь намеченной цели по модулю <span class="tex-span">10<sup class="upper-index">9</sup> + 7</span>.</p><p>Можете предполагать, что количество костей домино каждого вида у вируса бесконечно велико.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке даны два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span>, разделённые пробелом — размер Ковра-из-домино (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i> ≤ 250</span>). В последующих <span class="tex-span">4<i>n</i> + 1</span> строках содержится <span class="tex-span">4<i>m</i> + 1</span> символов.</p><p>Каждый квадратик Ковра-из-домино — половина кости домино — описывается квадратом <span class="tex-span">3 × 3</span>. Символ <span class="tex-font-style-tt">'O'</span> в этом квадрате обозначает наличие точки, символ <span class="tex-font-style-tt">'.'</span> — её отсутствие.</p><p>Каждый квадрат <span class="tex-span">3 × 3</span> очерчен от соседних квадратов символами <span class="tex-font-style-tt">'#'</span> так, как показано в примерах.</p><p>Гарантируется, что каждый квадратик описывает корректную половину кости домино.</p><p>Во всех претестах Ковры-из-домино имеют размер <span class="tex-span">2 × 2</span> и <span class="tex-span">4 × 4</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите одно число — количество способов собрать Ковёр-из-домино по модулю <span class="tex-span">10<sup class="upper-index">9</sup> + 7</span>, пользуясь только стандартными костями домино размера <span class="tex-span">1 × 2</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 4<br />#################<br />#O..#...#O.O#...#<br />#.O.#.O.#.O.#...#<br />#..O#...#O.O#...#<br />#################<br />#O.O#OOO#O.O#...#<br />#.O.#...#...#.O.#<br />#O.O#OOO#O.O#...#<br />#################<br />#O.O#...#O.O#...#<br />#...#...#...#.O.#<br />#O.O#...#O.O#...#<br />#################<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3</pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br />#########<br />#O.O#O.O#<br />#.O.#...#<br />#O.O#O.O#<br />#########<br />#...#O.O#<br />#...#...#<br />#...#O.O#<br />#########<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2</pre></div><div class="input"><div class="title">Входные данные</div><pre>2 2<br />#########<br />#..O#O..#<br />#...#...#<br />#O..#..O#<br />#########<br />#O..#..O#<br />#...#...#<br />#..O#O..#<br />#########<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p><span class="tex-font-style-bf">Пояснение к первому примеру:</span> корректные способы собрать Ковёр-из-домино изображены ниже:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/6c2572d8830b5ccd081df55f3dd3d3a2cb683658.png" /> </center></p><p>В свою очередь, следующий способ является некорректным:</p><p><center> <img class="tex-graphics" src="http://codeforces.ru/renderer/d13f55e68aafdf258455398b802179c954100841.png" /> </center></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Марсианская кухня</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вы когда-нибудь пробовали марсианскую пищу? А зря.</p><p>Их фирменное блюдо подаётся на абсолютно чёрной тарелке радиуса <span class="tex-span"><i>R</i></span>, плоской как блин.</p><p>Сперва на тарелку накладывается идеально круглой формы порция Золотого Гондураса. Она имеет радиус <span class="tex-span"><i>r</i></span> и располагается максимально близко к краю тарелки, не выходя за её пределы. То есть Золотой Гондурас касается края тарелки изнутри. Считается, что близость порции Золотого Гондураса к краю тарелки демонстрирует аккуратность и точность марсиан.</p><p>Далее, на тарелку накладывается идеально круглой формы порция Розовой Гваделупы. Гваделупа не должна накладываться на Гондурас, не должна вылезать за пределы тарелки, но должна быть максимально большого радиуса. То есть Розовая Гваделупа должна касаться края тарелки изнутри, и касаться Золотого Гондураса снаружи. Ибо именно размер Розовой Гваделупы показывает щедрость и радушие марсиан.</p><p>Далее, на тарелку накладывается первая порция (всё такой же идеально круглой формы) Зелёного Бультерьера. Она должна соприкасаться с Гондурасом и Гваделупой, не вылезать за пределы тарелки и быть максимально большого радиуса.</p><p>Каждая следующая порция Зелёного Бультерьера должна обязательно соприкасаться с Золотым Гондурасом, предыдущей порцией Зелёного Бультерьера и касаться края тарелки, но не вылезать за её пределы.</p><p>Чтобы определить, достоин ли чужеземец дотронуться до пищи, марсиане просят его найти радиус <span class="tex-span"><i>k</i></span>-ой порции Зелёного Бультерьера по известным радиусам тарелки и порции Золотого Гондураса. А достойны ли Вы?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано целое число <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>t</i> ≤ 10<sup class="upper-index">4</sup></span>) — количество тестов.</p><p>В последующих <span class="tex-span"><i>t</i></span> строках содержатся по три положительных целых числа: радиусы окружностей <span class="tex-span"><i>R</i></span> и <span class="tex-span"><i>r</i></span> (<span class="tex-span">1 ≤ <i>r</i> &lt; <i>R</i> ≤ 10<sup class="upper-index">4</sup></span>) и число <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ 10<sup class="upper-index">4</sup></span>).</p><p>В претестах <span class="tex-span">1 ≤ <i>k</i> ≤ 2</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>t</i></span> строк — радиус <span class="tex-span"><i>k</i></span>-ой порции Зелёного Бультерьера для каждого теста. Абсолютная или относительная погрешность ответа не должна превосходить <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />4 3 1<br />4 2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.9230769231<br />0.6666666667<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Блюдо из первого примера:</p><p><img class="tex-graphics" src="http://codeforces.ru/renderer/54abbcf91aa117a747b9594510c35e56d24a4919.png" /></p><p>Блюдо из второго примера:</p><p><img class="tex-graphics" src="http://codeforces.ru/renderer/157a674fa95e6af1767e8ae9c3ceb0360ebf6953.png" /></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

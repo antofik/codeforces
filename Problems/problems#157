@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="0d6ae7a8634b2gh2h94adb5596dgh09e"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="d0jk6yd97dr5"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='0d6ae7a8634b2gh2h94adb5596dgh09e'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Round #110 (Div. 2)</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Результат игры</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Шерлок Холмс и доктор Ватсон сыграли в некоторую игру на клетчатой доске размером <span class="tex-span"><i>n</i> × <i>n</i></span>. В течение этой игры они ставили в клетки доски числа по неизвестным для нас хитрым правилам. Но вот игра закончена, и на каждой клетке доски стоит ровно одно число. Чтобы понять, кто из них выиграл, надо подсчитать количество <span class="tex-font-style-it">выигрышных</span> клеток. Клетка считается <span class="tex-font-style-it">выигрышной</span>, если сумма чисел в клетках, стоящих с ней на одной вертикали (включая ее) <span class="tex-font-style-bf">строго</span> больше, чем сумма чисел в клетках, стоящих с ней на одной горизонтали (включая ее).</p><p><center><img class="tex-graphics" src="http://codeforces.ru/renderer/40005f22a9265a37d3d928cfe0ee2266de14129a.png" /></center></p><p>Например, пусть игра завершилась таким образом. Тогда фиолетовая клетка выигрышная, потому что сумма чисел в ее вертикали равна <span class="tex-span">8 + 3 + 6 + 7 = 24</span>, а сумма чисел в ее горизонтали равна <span class="tex-span">9 + 5 + 3 + 2 = 19</span>, и <span class="tex-span">24 &gt; 19</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 30</span>). В каждой из следующих <span class="tex-span"><i>n</i></span> строк через пробел даны <span class="tex-span"><i>n</i></span> целых чисел. В <span class="tex-span"><i>i</i></span>-ой строке <span class="tex-span"><i>j</i></span>-ое число означает число, стоящее на доске на <span class="tex-span"><i>j</i></span>-той вертикали, <span class="tex-span"><i>i</i></span>-той горизонтали. Все числа в таблице целые и находятся в пределах от <span class="tex-span">1</span> до <span class="tex-span">100</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — количество выигрышных клеток.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br />1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />1 2<br />3 4<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />5 7 8 4<br />9 5 3 2<br />1 6 6 4<br />9 5 7 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>6<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Во втором примере выигрышные клетки — верхние две.</p><p>В третьем примере выигрышные три левые клетки в двух средних рядах — всего <span class="tex-span">6</span> штук:<pre>5 7 8 4<br /><span class="tex-font-style-bf"><span class="tex-font-style-it"><span class="tex-span">9</span> <span class="tex-span">5</span> <span class="tex-span">3</span></span></span> 2<br /><span class="tex-font-style-bf"><span class="tex-font-style-it"><span class="tex-span">1</span> <span class="tex-span">6</span> <span class="tex-span">6</span></span></span> 4<br />9 5 7 3<br /></pre></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. След</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Однажды, выслеживая одного очень опасного преступника, Шерлок Холмс наткнулся на удивительный рисунок на стене. На рисунке изображено несколько концентрических окружностей, разбивающих плоскость стены на несколько областей. Некоторые области покрашены в красный цвет, а остальные — в синий. Причем любые две соседние области покрашены в разные цвета, то есть красный и синий цвета чередуются. Внешняя область стены (лежащая вне всех окружностей) покрашена в синий цвет. Помогите Шерлоку Холмсу определить, какая площадь стены покрашена в красный цвет.</p><p><span class="tex-font-style-it">Напоминаем, что две окружности называются концентрическими, если их центры совпадают. Несколько окружностей называются концентрическими, если любые две из них концентрические.</span></p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дано единственное целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>). Во второй строке через пробел даны <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>r</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>r</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>) — радиусы окружностей. Гарантируется, что все окружности различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное вещественное число — площадь покрашенной в красный цвет части стены. Ответ принимается, если абсолютная либо относительная погрешность не превышает <span class="tex-span">10<sup class="upper-index"> - 4</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br />1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3.1415926536<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />1 4 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>40.8407044967<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте рисунок представляет собой просто окружность радиуса один, внутренняя область которой закрашена в красный цвет. Площадь красной области будет равна <span class="tex-span">π × 1<sup class="upper-index">2</sup> = π</span>.</p><p>Во втором тесте есть три окружности радиусов <span class="tex-span">1</span>, <span class="tex-span">4</span> и <span class="tex-span">2</span>. Снаружи от второй окружности покрашено в синий цвет, между второй и третьей окружностью — в красный, между первой и третьей — снова в синий и внутри первой — снова в красный. Итого, есть две красные области: кольцо между второй и третьей окружностями и круг внутри первой окружности. Общая площадь красных областей будет равна <span class="tex-span">(π × 4<sup class="upper-index">2</sup> - π × 2<sup class="upper-index">2</sup>) + π × 1<sup class="upper-index">2</sup> = π × 12 + π = 13π</span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Сообщение</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Доктор Мориарти посылает сообщение Шерлоку Холмсу. В его распоряжении имеется строка <span class="tex-span"><i>s</i></span>. </p><p>Строка <span class="tex-span"><i>p</i></span> называется <span class="tex-font-style-it">подстрокой</span> строки <span class="tex-span"><i>s</i></span>, если ее можно прочитать, начиная с некоторой позиции в строке <span class="tex-span"><i>s</i></span>. Например, у строки «<span class="tex-font-style-tt">aba</span>» есть шесть подстрок: «<span class="tex-font-style-tt">a</span>», «<span class="tex-font-style-tt">b</span>», «<span class="tex-font-style-tt">a</span>», «<span class="tex-font-style-tt">ab</span>», «<span class="tex-font-style-tt">ba</span>», «<span class="tex-font-style-tt">aba</span>».</p><p>Доктор Мориарти планирует вырезать из строки <span class="tex-span"><i>s</i></span> некоторую подстроку, назовем ее <span class="tex-span"><i>t</i></span>. Потом он должен ноль или более раз <span class="tex-font-style-it">изменить</span> вырезанную подстроку <span class="tex-span"><i>t</i></span>. В результате должна получиться фиксированная строка <span class="tex-span"><i>u</i></span> (именно ее нужно отправить Шерлоку Холмсу). За одно изменение считается одно из следующих действий: <ul> <li> Вставить одну букву с любого конца строки. </li><li> Удалить одну букву с любого конца строки. </li><li> Заменить одну любую букву на любую другую. </li></ul></p><p>Мориарти очень умен, поэтому после выбора какой-то подстроки <span class="tex-span"><i>t</i></span> он всегда делает минимальное количество изменений, чтобы получить <span class="tex-span"><i>u</i></span>. </p><p>Помогите Мориарти выбрать среди всех подстрок строки <span class="tex-span"><i>s</i></span> наилучшую подстроку <span class="tex-span"><i>t</i></span> такую, что количество сделанных им изменений для получения из нее строки <span class="tex-span"><i>u</i></span> будет минимально.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке дана непустая строка <span class="tex-span"><i>s</i></span>, состоящая из строчных букв латинского алфавита. Во второй строке дана непустая строка <span class="tex-span"><i>u</i></span>, состоящая из строчных букв латинского алфавита. Длины обоих строк находятся в пределах от <span class="tex-span">1</span> до <span class="tex-span">2000</span> включительно.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное число — минимальное количество изменений, которые придется выполнить доктору Мориарти с подстрокой, которую Вы выберете.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>aaaaa<br />aaa<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>abcabc<br />bcd<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>abcdef<br />klmnopq<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>7<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере Мориарти может взять любую подстроку длины <span class="tex-span">3</span>, и она будет равна требуемому сообщению <span class="tex-span"><i>u</i></span>, так что никаких изменений Мориарти делать не придется.</p><p>Во втором примере надо взять подстроку, состоящую из символов со второго по четвертый («<span class="tex-font-style-tt">bca</span>») или с пятого по шестой («<span class="tex-font-style-tt">bc</span>»). Тогда придется сделать всего одно изменение: заменить или добавить последний символ.</p><p>В третьем примере исходная строка <span class="tex-span"><i>s</i></span> не содержит ни одного символа, который должен быть в сообщении, так что, какую подстроку не возьми, придется сделать как минимум <span class="tex-span">7</span> изменений, чтобы получить требуемое сообщение.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Подозреваемые</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Расследуя очередное убийство, Шерлок Холмс определил <span class="tex-span"><i>n</i></span> подозреваемых. Он точно знает, что убийство совершил ровно один из них. Чтобы определить, кто именно это сделал, детектив выстроил подозреваемых в ряд и пронумеровал их числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>. После этого он спросил каждого: «Кто из вас совершил убийство?». Подозреваемый номер <span class="tex-span"><i>i</i></span> ответил либо «Убийство совершил подозреваемый номер <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>», либо «Подозреваемый номер <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> не совершал убийства». В том числе, подозреваемый мог сказать это про себя (<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> = <i>i</i></span>).</p><p>Шерлок Холмс безошибочно определил, что ровно <span class="tex-span"><i>m</i></span> ответов были правдой, а все остальные — ложью. Помогите ему теперь понять, кто из подозреваемых соврал, а кто сказал правду?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке заданы два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>m</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>, 0 ≤ <i>m</i> ≤ <i>n</i></span>) — общее количество подозреваемых и количество подозреваемых, сказавших правду. В следующих <span class="tex-span"><i>n</i></span> строках заданы ответы подозреваемых. В <span class="tex-span"><i>i</i></span>-ой строке написано «+<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>» (без кавычек), если подозреваемый номер <span class="tex-span"><i>i</i></span> говорит, что убийство совершил подозреваемый номер <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, или «-<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>» (без кавычек), если подозреваемый номер <span class="tex-span"><i>i</i></span> говорит, что подозреваемый номер <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> не совершал убийства (<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> — целое число, <span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i></span>).</p><p>Гарантируется, что существует хотя бы один подозреваемый, такой, что если он совершил убийство, то правду сказали ровно <span class="tex-span"><i>m</i></span> человек.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i></span> строк. В строке номер <span class="tex-span"><i>i</i></span> должно быть написано «<span class="tex-font-style-tt">Truth</span>», если подозреваемый номер <span class="tex-span"><i>i</i></span> точно сказал правду, «<span class="tex-font-style-tt">Lie</span>», если подозреваемый номер <span class="tex-span"><i>i</i></span> точно соврал, и «<span class="tex-font-style-tt">Not defined</span>», если он мог соврать, а мог и сказать правду, в зависимости от того, кто совершил убийство.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 1<br />+1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Truth<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3 2<br />-1<br />-2<br />-3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Not defined<br />Not defined<br />Not defined<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4 1<br />+2<br />-3<br />+4<br />-1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>Lie<br />Not defined<br />Lie<br />Not defined<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере есть единственный человек, и он признается в убийстве, и Шерлок Холмс знает, что один человек сказал правду. Значит, этот человек говорит правду.</p><p>Во втором примере трое подозреваемых и все трое отрицают свою вину. Шерлок Холмс знает, что только двое из них говорят правду. Любой из них может быть убийцей, и поэтому ни про кого из них неизвестно, говорит ли он правду.</p><p>В третьем примере второй и четвертый защищают первого и третьего. Но правду сказал только один, значит, первый или третий совершил убийство. Оба они могли совершить убийство, значит, второй и четвертый могут как врать, так и говорить правду. Первый и третий же точно врут, поскольку сваливают вину на второго и четвертого.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Шифр</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Шерлок Холмс обнаружил тайную переписку двух неких очень важных личностей и твердо вознамерился ее прочитать. Но не тут-то было! Оказалось, что переписка зашифрована. Он долго бился над этим шифром, но ничего не мог понять.</p><p>Наконец, после некоторых раздумий, он осознал следующий факт. Пусть имеется слово <span class="tex-span"><i>s</i></span>, состоящее из <span class="tex-span">|<i>s</i>|</span> строчных букв латинского алфавита. Тогда одной <span class="tex-font-style-it">операцией</span> можно выбрать некоторую позицию <span class="tex-span"><i>p</i></span> (<span class="tex-span">1 ≤ <i>p</i> &lt; |<i>s</i>|</span>) и сделать одно из двух: <ul> <li> либо букву <span class="tex-span"><i>s</i><sub class="lower-index"><i>p</i></sub></span> заменить на <span class="tex-font-style-bf">следующую</span> за ней в алфавитном порядке, и букву <span class="tex-span"><i>s</i><sub class="lower-index"><i>p</i> + 1</sub></span> заменить на <span class="tex-font-style-bf">предшествующую</span> ей в алфавитном порядке; </li><li> либо букву <span class="tex-span"><i>s</i><sub class="lower-index"><i>p</i></sub></span> заменить на <span class="tex-font-style-bf">предшествующую</span> ей в алфавитном порядке, и букву <span class="tex-span"><i>s</i><sub class="lower-index"><i>p</i> + 1</sub></span> заменить на <span class="tex-font-style-bf">следующую</span> за ней в алфавитном порядке. </li></ul></p><p>Заметим, что для буквы «<span class="tex-font-style-tt">z</span>» не определена следующая буква, а для буквы «<span class="tex-font-style-tt">a</span>» не определена предыдущая буква. Поэтому соответствующие замены не допустимы. Если операция требует выполнения хотя бы одной недопустимой замены, то такую операцию нельзя выполнить.</p><p>Два слова <span class="tex-font-style-it">совпадают по смыслу</span> тогда и только тогда, когда одно можно получить из другого посредством выполнения нуля или более операций. </p><p>Шерлоку Холмсу требуется научиться быстро определять, сколько всего может существовать слов, совпадающих по смыслу с данным словом, но отличающихся от него хотя бы одним символом. Посчитайте для него это количество по модулю <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Во входных данных содержится несколько тестов. В первой строке записано единственное целое число <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>t</i> ≤ 10<sup class="upper-index">4</sup></span>) — количество тестов.</p><p>В следующих <span class="tex-span"><i>t</i></span> строках расположены сами слова, по одному слову в строке. Каждое слово состоит из строчных букв латинского алфавита и имеет длину от <span class="tex-span">1</span> до <span class="tex-span">100</span> включительно. Длины слов могут быть разными.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого слова надо вывести количество различных <span class="tex-font-style-bf">других</span> слов, которые совпадают с ним по смыслу — не среди слов, указанных во входных данных, а среди всех возможных слов. Поскольку искомое количество может быть очень большим, выведите его значение по модулю <span class="tex-span">1000000007</span> <span class="tex-span">(10<sup class="upper-index">9</sup> + 7)</span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1<br />ab<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>1<br />aaaaaaaaaaa<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2<br />ya<br />klmbfxzb<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>24<br />320092793<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>Некоторые пояснения касательно <span class="tex-font-style-it">операции</span>: <ul> <li> Обратите внимание, что для каждой буквы следующая за ней определена однозначно. Буква «<span class="tex-font-style-tt">b</span>» является следующей в алфавитном порядке за буквой «<span class="tex-font-style-tt">a</span>», буква «<span class="tex-font-style-tt">c</span>» является следующей за «<span class="tex-font-style-tt">b</span>», ..., «<span class="tex-font-style-tt">z</span>» является следующей за буквой «<span class="tex-font-style-tt">y</span>». </li><li> Аналогичным образом определены и предшествующие буквы: буква «<span class="tex-font-style-tt">y</span>» является предшествующей букве «<span class="tex-font-style-tt">z</span>», ..., «<span class="tex-font-style-tt">a</span>» является предшествующей букве «<span class="tex-font-style-tt">b</span>». </li><li> Заметьте, что операция никогда не меняет длину слова. </li></ul></p><p>В первом примере можно получить единственную другую строку — «<span class="tex-font-style-tt">ba</span>».</p><p>Во втором примере нельзя получить такими действиями ни одной другой подстроки, поэтому правильный ответ — <span class="tex-span">0</span>.</p><p>Рассмотрим подробнее третий пример. Из слова «<span class="tex-font-style-tt">klmbfxzb</span>» за одну операцию можно получить слово «<span class="tex-font-style-tt">klmcexzb</span>»: нужно выбрать <span class="tex-span"><i>p</i> = 4</span>, и заменить четвертую букву на следующую («<span class="tex-font-style-tt">b</span>» <span class="tex-span"> → </span> «<span class="tex-font-style-tt">c</span>»), а пятую — на предшествующую («<span class="tex-font-style-tt">f</span>» <span class="tex-span"> → </span> «<span class="tex-font-style-tt">e</span>»). Также из этого слова можно получить много других слов за одну операцию. Из слова «<span class="tex-font-style-tt">ya</span>» за одну операцию можно получить только одно другое слово — «<span class="tex-font-style-tt">xb</span>». </p><p>Слово «<span class="tex-font-style-tt">ya</span>» совпадает по смыслу со словами «<span class="tex-font-style-tt">xb</span>», «<span class="tex-font-style-tt">wc</span>», «<span class="tex-font-style-tt">vd</span>», ..., «<span class="tex-font-style-tt">ay</span>» (всего <span class="tex-span">24</span> других слова). Для слова «<span class="tex-font-style-tt">klmbfxzb</span>» вариантов гораздо больше — существует <span class="tex-span">3320092814</span> других слов, совпадающих с ним по смыслу. Ответ для первого слова <span class="tex-span">24</span>, для второго <span class="tex-span">320092793</span> — это <span class="tex-span">3320092814</span> по модулю <span class="tex-span">10<sup class="upper-index">9</sup> + 7</span></p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

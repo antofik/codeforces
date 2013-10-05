@@ -1,0 +1,408 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="4eh430g3dch1gh8g86aa5350e07h1hah"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="9wjjax2l2ymr"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='4eh430g3dch1gh8g86aa5350e07h1hah'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">&#1055;&#1103;&#1090;&#1085;&#1080;&#1094;&#1072;, 13-&#1086;&#1077;, &#1044;&#1077;&#1085;&#1100; &#1055;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1084;&#1080;&#1089;&#1090;&#1072;</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. В ожидании неприятностей</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Сегодня пятница, 13-ое, и, несмотря на то, что вы — человек современный и образованный, вам немного не по себе. Вы решаете собрать свидетельства за или против этого суеверия. Для начала нужно вспомнить все пятницы 13-го в вашей жизни и подсчитать, сколько из них были хуже обычного — как тот раз, когда вы собрались поиграть в игру на ZX Spectrum и в итоге сожгли телевизор. Увы, некоторые пятницы не вспоминаются, и непонятно, почему — неужели они были настолько ужасны?</p><p>Воспоминания записаны в виде строки символов, символ «<span class="tex-font-style-tt">0</span>» соответствует нормальному дню, «<span class="tex-font-style-tt">1</span>» — плохому, а «<span class="tex-font-style-tt">?</span>» означает, что вы не помните ничего об этом дне. Вы решаете аппроксимировать неизвестные дни независимыми случайными величинами, которые принимают значение <span class="tex-span">1</span> с вероятностью <span class="tex-span"><i>p</i></span> и <span class="tex-span">0</span> — с вероятностью <span class="tex-span">(1 - <i>p</i>)</span>.</p><p>Дана строка воспоминаний и значение <span class="tex-span"><i>p</i></span>. Найдите математическое ожидание средней скверности ваших пятниц, 13-го.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит строку <span class="tex-span"><i>s</i></span> — воспоминания о пятницах; <span class="tex-span"><i>s</i></span> содержит от 1 до 50 символов. Каждый символ строки — это либо «<span class="tex-font-style-tt">0</span>», либо «<span class="tex-font-style-tt">1</span>», либо «<span class="tex-font-style-tt">?</span>».</p><p>Вторая строка содержит вещественное число <span class="tex-span"><i>p</i></span> <span class="tex-span">(0 ≤ <i>p</i> ≤ 1)</span>. Число <span class="tex-span"><i>p</i></span> задано не более чем с 2 знаками после десятичной точки.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите математическое ожидание средней скверности ваших пятниц с ровно 5 знаками после десятичной точки. Пожалуйста, используйте стандартные математические правила для округления ответа.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>?111?1??1<br />1.0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.00000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>01?10??10000<br />0.5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0.37500<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Трискаидекафобия</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Трискаидекафобия — страх числа 13. Обычные люди, страдающие этой фобией, чувствуют себя неуютно в обществе чисел 13, 130, 513 и так далее, но вы, будучи программистом, подняли ее на новые высоты. Возьмем, к примеру, число 7. В десятичной записи оно не опасно, но в записи в системе счисления с основанием 4 оно становится опасным 13!</p><p>Чем больше вы думаете об этом, тем хуже все выглядит. Для числа 100, например, существует 13 оснований, записи в которых содержат 13. А для некоторых чисел таких оснований и вовсе бесконечно много! К счастью, любые вычисления вы проводите в двоичной системе, надежно защищенной от проникновения 13. Но все равно, хотелось бы иметь возможность оценить скверность любого числа. </p><p>Дано число <span class="tex-span"><i>n</i></span>. Найдите количество различных оснований <span class="tex-span"><i>b</i></span> <span class="tex-span">(<i>b</i> ≥ 2)</span>, для которых <span class="tex-span"><i>n</i></span>, будучи записанным в системе счисления с основанием <span class="tex-span"><i>b</i></span>, содержит хотя бы одно 13. «Цифры» записи с основанием, большим 10, записываются не буквами, а числами в десятичной записи; так, 30, записанное в системе счисления с основанием 16, будет не 1E, а (1)(14) или просто 114. Обратите внимание, 13 должно присутствовать как подстрока записи, а не подпоследовательность (число 123 не содержит 13).</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Единственная строка входных данных содержит целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите целое число — количество различных оснований <span class="tex-span"><i>b</i></span> <span class="tex-span">(<i>b</i> ≥ 2)</span>, для которых <span class="tex-span"><i>n</i></span>, будучи записанным в системе счисления с основанием <span class="tex-span"><i>b</i></span>, содержит хотя бы одно 13. Если таких оснований бесконечно много, выведите -1.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>7<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>100<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>13<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>13<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Подсчет пятниц</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Судя по прошлой задаче, пятница, 13-ое — действительно не лучший день, и вы задумываетесь о том, чтобы минимизировать его влияние на вашу жизнь. Как и для многих спортивных программистов, одним из важнейших ее аспектов являются соревнования по программированию. Естественно, хотелось бы, чтобы как можно меньшее их количество было испорчено неудачной датой.</p><p>Вам удалось раздобыть список дат, в которые будут проводиться контесты, на несколько лет вперед. Проверьте, сколько из них приходится на пятницу, 13-ое любого месяца.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10)</span> — количество известных вам контестов. Следующие <span class="tex-span"><i>n</i></span> строк содержат их даты в формате «<span class="tex-font-style-tt">YYYY-MM-DD</span>», по одной на строку (1974 <span class="tex-span"> ≤ </span> <span class="tex-font-style-tt">YYYY</span> <span class="tex-span"> ≤ </span> 2030; 01 <span class="tex-span"> ≤ </span> <span class="tex-font-style-tt">MM</span> <span class="tex-span"> ≤ </span> 12; 01 <span class="tex-span"> ≤ </span> <span class="tex-font-style-tt">DD</span> <span class="tex-span"> ≤ </span> 31). Гарантируется, что все заданные даты корректны. Два контеста могут проводиться в один и тот же день.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите целое число — количество дат из списка, которые приходятся на пятницу, 13-ое.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>5<br />2012-01-13<br />2012-09-13<br />2012-11-20<br />2013-09-13<br />2013-09-20<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Письмо счастья</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Письма счастья — сообщения, которые требуют от получателя переслать их копии как можно большему количеству людей, обычно с неким мистическим объяснением. Конечно, это всего лишь суеверие, и вы игнорируете такие письма — чего нельзя сказать о ваших друзьях. Известно, что сегодня такое письмо будет циркулировать среди ваших друзей, и вы хотите знать заранее, сколько его копий вы получите — конечно, пересылать его дальше вы не собираетесь!</p><p>Связи между вами и <span class="tex-span"><i>n</i> - 1</span> вашими друзьями заданы массивом строк <span class="tex-span"><i>f</i></span> из <span class="tex-span"><i>n</i></span> элементов: <span class="tex-span"><i>j</i></span>-ый символ <span class="tex-span"><i>i</i></span>-ой строки (<span class="tex-span"><i>f</i></span>[<span class="tex-span"><i>i</i></span>][<span class="tex-span"><i>j</i></span>]) — «<span class="tex-font-style-tt">1</span>», если люди номер <span class="tex-span"><i>i</i></span> и <span class="tex-span"><i>j</i></span> будут обмениваться сообщениями (есть в контактах друг у друга), и «<span class="tex-font-style-tt">0</span>» в противном случае. Человек номер 1 начинает рассылать сообщения всем своим контактам; каждый человек, получая письмо впервые, пересылает его всем своим контактам. Вы — человек номер <span class="tex-span"><i>n</i></span>, и вы не пересылаете полученные письма.</p><p>Сколько копий этого письма вы получите?</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка входных данных содержит целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(2 ≤ <i>n</i> ≤ 50)</span> — количество задействованных людей. Следующие <span class="tex-span"><i>n</i></span> строк содержат элементы массива <span class="tex-span"><i>f</i></span> — строки длины <span class="tex-span"><i>n</i></span>, состоящие из символов «<span class="tex-font-style-tt">0</span>» и «<span class="tex-font-style-tt">1</span>». Гарантируется, что выполняются равенства: <span class="tex-span"><i>f</i></span>[<span class="tex-span"><i>i</i></span>][<span class="tex-span"><i>j</i></span>] = <span class="tex-span"><i>f</i></span>[<span class="tex-span"><i>j</i></span>][<span class="tex-span"><i>i</i></span>], <span class="tex-span"><i>f</i></span>[<span class="tex-span"><i>i</i></span>][<span class="tex-span"><i>i</i></span>] = 0, для всех <span class="tex-span"><i>i</i>, <i>j</i></span> <span class="tex-span">(1 ≤ <i>i</i>, <i>j</i> ≤ <i>n</i>)</span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите целое число — количество копий письма, которые вы получите со временем.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>4<br />0111<br />1011<br />1101<br />1110<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />0110<br />1010<br />1100<br />0000<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />0101<br />1001<br />0001<br />1110<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом случае все посылают письма друг другу, так что вы получите копии от всех троих друзей.</p><p>Во втором случае вы не знаете никого из этих людей.</p><p>В третьем случае двое друзей посылают вам письма, но третий не знает ни одного из них и не получает письмо.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Атака черных кошек</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Сегодня утром вы выходите из дому и с порога замечаете, что что-то не так. Вокруг сидит, стоит и прогуливается множество черных кошек — напряженные лапы и подрагивающие хвосты. Стоит вам сделать первый шаг, как все они срываются с места и бросаются к вам; кажется, они хотят перейти вам дорогу!</p><p>Вы идете по прямой из точки <span class="tex-span">(0, 0)</span> в точку <span class="tex-span">(<i>a</i>, 0)</span> со скоростью <span class="tex-span"><i>v</i></span>. Вокруг вас — толпа из <span class="tex-span"><i>n</i></span> черных кошек, которые задались целью перейти вам дорогу. Кошки могут двигаться в любом направлении со скоростью не более <span class="tex-span"><i>u</i></span>. Считается, что кошке удалось перейти вам дорогу, если ей удалось попасть хотя бы в одну точку отрезка вашего пути не позднее, чем вам. </p><p>Даны четыре целых числа: <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>v</i></span>, <span class="tex-span"><i>u</i></span>, <span class="tex-span"><i>n</i></span> и координаты кошек <span class="tex-span">(<i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub>)</span>. Найдите максимальное количество кошек, которые все-таки смогут перейти вам дорогу.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записаны четыре целых числа <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>v</i></span>, <span class="tex-span"><i>u</i></span>, <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>a</i> ≤ 10000; 1 ≤ <i>v</i>, <i>u</i> ≤ 100; 1 ≤ <i>n</i> ≤ 1000)</span>. В следующих <span class="tex-span"><i>n</i></span> строках записаны координаты кошек. В <span class="tex-span"><i>i</i></span>-ой строке записаны два целых числа <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub></span> <span class="tex-span">( - 100 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 100)</span> — координаты <span class="tex-span"><i>i</i></span>-ой кошки.</p><p>Гарантируется, что все кошки находятся в разных точках.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — количество кошек, которые все-таки смогут перейти вам дорогу.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 1 5 4<br />0 3<br />4 -4<br />7 0<br />-2 -2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>10 5 3 4<br />7 5<br />5 2<br />10 -7<br />15 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">F. Обзор суеверий</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вы читаете научное исследование популярности самых распространенных суеверий в различных странах, и Вы решаете провести дополнительный анализ приведенных данных. В частности, Вы хотите знать, какие суеверия распространены в максимальном количестве стран.</p><p>Данные приведены в следующем формате: название страны в отдельной строке, за которым следует список распространенных в ней суеверий по одному на строку. Каждый пункт списка начинается с символа «<span class="tex-font-style-tt">*</span>», за которым следует пробел и затем название суеверия. Суеверия уникальны в пределах каждой страны. Первая строка входных данных заведомо будет страной. Во входных данных будет хотя бы одно суеверие. </p><p>Название страны — это непустая последовательность слов, каждое слово может состоять только из символов латинского алфавита. Во входных данных слова в последовательности слов в названии страны будут разделяться одним или несколькими пробелами.</p><p>Название суеверия — это непустая последовательность слов, каждое слово может состоять только из символов латинского алфавита и цифр. Во входных данных слова в последовательности слов в названии суеверия будут разделяться одним или несколькими пробелами.</p><p>Два названия считаются одинаковыми, если они совпадают как последовательности слов. Слова сравниваются без учета регистра.</p><p>Выведите список суеверий, которые встречаются в наибольшем количестве стран. Гарантируется, что названия всех стран различны.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Входные данные содержат от 2 до 50 строк. Каждая строка содержит от 1 до 50 символов.</p><p>Никакая строка входных данных не содержит хвостовых пробелов и пробелов в начале строки.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите список суеверий, которые встречаются в наибольшем количестве стран, в алфавитном порядке. Все названия должны быть приведены к нижнему регистру (одно и то же название может встречаться в разных странах в разном регистре).</p><p>Под алфавитным порядком суеверий подразумевается лексикографический порядок последовательностей слов (название суеверия).</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>Ukraine<br />* Friday the   13th<br />* black   cat<br />* knock the   wood<br />USA<br />* wishing well<br />* friday   the   13th<br />Holland<br />France<br />* Wishing Well<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>friday the 13th <br />wishing well <br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>Spain<br />* Tuesday the 13th<br />Italy<br />* Friday the 17th<br />Russia<br />* Friday the 13th<br />England<br />* rabbit foot<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>friday the 13th <br />friday the 17th <br />rabbit foot <br />tuesday the 13th <br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">G. Суффиксный поднабор</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 секунды</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Вам задан набор <span class="tex-span"><i>s</i><sub class="lower-index">1</sub>, <i>s</i><sub class="lower-index">2</sub>, ..., <i>s</i><sub class="lower-index"><i>n</i></sub></span>, состоящий из <span class="tex-span"><i>n</i></span> строк.</p><p>Требуется найти такой поднабор этого набора <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i><sub class="lower-index">1</sub></sub>, <i>s</i><sub class="lower-index"><i>i</i><sub class="lower-index">2</sub></sub>, ..., <i>s</i><sub class="lower-index"><i>i</i><sub class="lower-index"><i>k</i></sub></sub></span> <span class="tex-span">(1 ≤ <i>i</i><sub class="lower-index">1</sub> &lt; <i>i</i><sub class="lower-index">2</sub> &lt; ... &lt; <i>i</i><sub class="lower-index"><i>k</i></sub> ≤ <i>n</i>)</span>, что выполняются два условия:</p><p><ul> <li> существует строка <span class="tex-span"><i>t</i></span>, такая, что все строки поднабора являются ее суффиксами; </li><li> количество строк в поднаборе максимально. </li></ul></p><p>Ваша задача, вывести количество строк в таком поднаборе.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке записано целое число <span class="tex-span"><i>n</i></span> <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>)</span> — количество строк в наборе. В каждой из следующих <span class="tex-span"><i>n</i></span> строк записана строка. В <span class="tex-span"><i>i</i></span>-той из них записана непустая строка <span class="tex-span"><i>s</i><sub class="lower-index"><i>i</i></sub></span>.</p><p>Все строки состоят только из строчных латинских символов. Суммарная длина заданных строк не превосходит <span class="tex-span">10<sup class="upper-index">5</sup></span>.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите единственное целое число — количество строк в описанном поднаборе.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>6<br />bb<br />bb<br />b<br />aaa<br />aa<br />z<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>3<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тестовом примере искомый поднабор состоит из трех строк: <span class="tex-span"><i>s</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>s</i><sub class="lower-index">2</sub></span>, <span class="tex-span"><i>s</i><sub class="lower-index">3</sub></span>.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       

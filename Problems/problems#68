@@ -1,0 +1,354 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="a4ba3a023af5a899757b15e2e9f6b4c9"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
+    <meta property="fb:admins" content="100001352546622" />
+    <meta property="og:image" content="http://worker.codeforces.ru/static/images/codeforces-vk-square-ru.png"/>
+    <meta property="og:title" content="Задачи - Codeforces"/>
+    <meta property="og:site_name" content="Codeforces"/>
+    
+    <meta name="cc" content="1or14elmajtrc"/>
+    
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2" />
+    <title>Задачи - Codeforces</title>
+        <meta name="description" content="Codeforces. Соревнования и олимпиады по информатике и программированию, сообщество программистов" />
+        <meta name="keywords" content="программирование информатика контест олимпиада алгоритмы c++ java графы vkcup" />
+    <meta name="robots" content="index, follow" />
+
+    <link href="http://worker.codeforces.ru/static/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--CombineResourcesFilter-->
+    
+<LINK href="http://worker.codeforces.ru/static/favicon.png" rel="shortcut icon" type="image/png">
+    
+<LINK href="http://worker.codeforces.ru/static/css/prettify.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/clear.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/style.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/ttypography.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/problem-statement.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/second-level-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/roundbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/datatable.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/topic.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/table-form.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/facebox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/codeforces.datepick.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/colorbox.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/jquery.drafts.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css">
+    
+<LINK href="http://worker.codeforces.ru/static/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css">
+
+    
+<SCRIPT charset="utf-8" src="//yandex.st/share/share.js" type="text/javascript"></SCRIPT>
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/sidebar-menu.css" rel="stylesheet" type="text/css">
+    
+<LINK charset="utf-8" href="http://worker.codeforces.ru/static/css/community.css" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <style>
+            #sidebar {
+                padding-left: 1em;
+                margin: 1em 1em 1em 0;
+            }
+        </style>
+    <![endif]-->
+    
+    
+<SCRIPT src="http://worker.codeforces.ru/static/js/prettify/prettify.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery-1.8.3.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/sockjs-0.2.1.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/vertxbus-1.2.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.easing.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.lavalamp.min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.jgrowl.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/facebox.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.wysiwyg.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.colorpicker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.table.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.image.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/controls/wysiwyg.link.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.autocomplete.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.datepick.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ie6blocker.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.colorbox-min.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.ba-bbq.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/jquery.drafts.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/js/codeforces.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/jquery.markitup.js" type="text/javascript"></SCRIPT>
+    <SCRIPT src="http://worker.codeforces.ru/static/markitup/sets/markdown/set.js" type="text/javascript"></SCRIPT>
+    <!--/CombineResourcesFilter-->
+</HEAD>
+</HTML>
+
+        <script type="text/javascript" src="http://worker.codeforces.ru/static/js/jquery.datepick-ru.js"></script>
+        <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+</head>
+<body><span style='display:none;' class='csrf-token' data-csrf='a4ba3a023af5a899757b15e2e9f6b4c9'>&nbsp;</span>
+<!-- Codeforces javascripts. -->
+<script type="text/javascript">
+    VK.init({apiId: 1961905});
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    $(".second-level-menu-list").lavaLamp({
+        fx: "backout",
+        speed: 1000
+    });
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+        });
+    </script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div id="body">
+<div style="width: 950px; margin: 0 auto;">
+    <div id="header" style="position:relative;">
+        <div style="float:left;">
+                <a href="/"><img src="http://worker.codeforces.ru/static/images/codeforces-logo-with-upper-beta.png"/></a>
+                        <div style="position:absolute;left:97px;top:40px;">
+                            <a href="http://vk.com" class="logo-href">При поддержке <img
+                                    style="position:relative;top:5px;" src="http://worker.codeforces.ru/static/images/vkontakte-tiny-ru.png"/></a>
+                        </div>
+        </div>
+        <div class="lang">
+            <div style="text-align: right;">
+                <a href="?locale=en"><img src="http://worker.codeforces.ru/static/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+                <a href="?locale=ru"><img src="http://worker.codeforces.ru/static/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            </div>
+        </div>
+        <br style="clear: both;"/>
+    </div>
+
+    <div style="text-align: center;font-size: 18px;margin-bottom: 0.5em;"
+         class="caption">Codeforces Beta Round #62</div>
+    <div style="border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">A. Иррациональная задача</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленькому Пете задали в качестве домашнего задания следующую задачу:</p><p>Дана функция <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/22d161d4a5bc6cfd41667ca591d56973abfe8655.png" /> (<img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/e91a39ad64cd7a33e8f1b67cd60e5b40257de950.png" /> обозначает операцию взятия остатка по модулю). Требуется посчитать количество целых чисел <span class="tex-span"><i>x</i></span> из промежутка <span class="tex-span">[<i>a</i>;<i>b</i>]</span> таких, что <span class="tex-span"><i>f</i>(<i>x</i>) = <i>x</i></span>. </p><p>К сожалению, Петя забыл, в каком порядке должны браться остатки, а просто записал 4 числа. С равной вероятностью может оказаться, что брать остатки для вычисления функции нужно в любом из 24 возможных порядков. К примеру, если у Пети есть числа 1, 2, 3, 4, то он может брать остатки именно в таком порядке, а может сначала брать остаток по модулю 4, затем по модулям 2, 3, 1. Также существует 22 других перестановки этих чисел, в порядке которых могут браться остатки. В этой задаче 4 числа, записанных Петей, будут попарно различны.</p><p>Теперь Петя уже не может выполнить задачу так, как от него требовал учитель, но ради развлечения он решил найти количество таких целых чисел <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/66564024af56fb327f06ed6542f6badc5c851715.png" />, что вероятность того, что для них <span class="tex-span"><i>f</i>(<i>x</i>) = <i>x</i></span>, не меньше чем <span class="tex-span">31.4159265352718281828459045%</span>. Иными словами, Пете подойдут те числа <span class="tex-span"><i>x</i></span>, для которых существует не менее <span class="tex-span">7</span> таких перестановок чисел <span class="tex-span"><i>p</i><sub class="lower-index">1</sub>, <i>p</i><sub class="lower-index">2</sub>, <i>p</i><sub class="lower-index">3</sub>, <i>p</i><sub class="lower-index">4</sub></span>, что <span class="tex-span"><i>f</i>(<i>x</i>) = <i>x</i></span>.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входного файла находятся <span class="tex-span">6</span> целых чисел, разделенных пробелами: <span class="tex-span"><i>p</i><sub class="lower-index">1</sub>, <i>p</i><sub class="lower-index">2</sub>, <i>p</i><sub class="lower-index">3</sub>, <i>p</i><sub class="lower-index">4</sub>, <i>a</i>, <i>b</i></span> (<span class="tex-span">1 ≤ <i>p</i><sub class="lower-index">1</sub>, <i>p</i><sub class="lower-index">2</sub>, <i>p</i><sub class="lower-index">3</sub>, <i>p</i><sub class="lower-index">4</sub> ≤ 1000, 0 ≤ <i>a</i> ≤ <i>b</i> ≤ 31415</span>). </p><p>Гарантируется, что числа <span class="tex-span"><i>p</i><sub class="lower-index">1</sub>, <i>p</i><sub class="lower-index">2</sub>, <i>p</i><sub class="lower-index">3</sub>, <i>p</i><sub class="lower-index">4</sub></span> будут попарно различны.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите количество целых чисел из заданного интервала, удовлетворяющих заданным условиям.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2 7 1 8 2 8<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>0<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>20 30 40 50 0 100<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>20<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>31 41 59 26 17 43<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">B. Обмен энергией</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>2 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Как известно, сейчас на планете энергетический кризис. Маленький Петя недоволен этим и собирается спасти мир. Для этого ему нужно чтобы в каждом накопителе было одинаковое число энергии. Изначально в каждом накопителе находится некое количество энергии: в <span class="tex-span"><i>i</i></span>-ом накопителе находится <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> единиц энергии. Энергию можно передавать между накопителями, причем каждый раз при передаче <span class="tex-span"><i>x</i></span> единиц энергии (<span class="tex-span"><i>x</i></span> не обязательно целое) ровно <span class="tex-span"><i>k</i></span> процентов рассеивается. То есть если с одного накопителя передавалось на другой <span class="tex-span"><i>x</i></span> единиц, то в первом стало на <span class="tex-span"><i>x</i></span> единиц меньше энергии, а в другом — на <img align="middle" class="tex-formula" src="http://codeforces.ru/renderer/5da936c833914e398476bcdcd55a9583860c2e5c.png" /> больше единиц. </p><p>Ваша задача — помочь Пете найти, какое наибольшее равное количество энергии может остаться в накопителях после обменов энергией.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входного файла находятся два целых числа <span class="tex-span"><i>n</i></span> и <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10000, 0 ≤ <i>k</i> ≤ 99</span>) — количество накопителей и процент энергии, который рассеивается при передаче.</p><p>В следующей строке находятся <span class="tex-span"><i>n</i></span> целых чисел <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ... , <i>a</i><sub class="lower-index"><i>n</i></sub></span> — запас энергии в первом, втором, ..., <span class="tex-span"><i>n</i></span>-ом накопителе соответственно (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 1000, 1 ≤ <i>i</i> ≤ <i>n</i></span>).</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите максимальное возможное количество энергии, которое может остаться в каждом из накопителей после перераспределения энергии.</p><p>Абсолютная или относительная погрешность ответа не должна превышать <span class="tex-span">10<sup class="upper-index"> - 6</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>3 50<br />4 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2.000000000<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>2 90<br />1 11<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1.909090909<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">C. Синхрофазотрон</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Для неких экспериментов маленькому Пете срочно понадобился синхрофазотрон. Сам прибор у Пети уже есть, осталось настроить подачу топлива к нему. Топливо поступает по системе узлов, пронумерованных числами от <span class="tex-span">1</span> до <span class="tex-span"><i>n</i></span>, соединённых трубами. Трубы идут из каждого узла с меньшим номером в каждый узел с большим, топливо может идти по трубе только в направлении от узла с меньшим номером к узлу с большим. В первый узел может поступить любое количество топлива, а из последнего узла топливо поступает прямо в синхрофазотрон. Известно, что каждая из труб имеет три характеристики: минимальное количество топлива, которое должно по ней течь, максимальное число топлива, которое может по ней течь, и стоимость активации трубы. Если по трубе из узла <span class="tex-span"><i>i</i></span> в узел <span class="tex-span"><i>j</i></span> течет <span class="tex-span"><i>c</i><sub class="lower-index"><i>ij</i></sub></span> единиц топлива (<span class="tex-span"><i>c</i><sub class="lower-index"><i>ij</i></sub> &gt; 0</span>), то заплатить за это надо будет <span class="tex-span"><i>a</i><sub class="lower-index"><i>ij</i></sub> + <i>c</i><sub class="lower-index"><i>ij</i></sub><sup class="upper-index">2</sup></span> тугриков (<span class="tex-span"><i>a</i><sub class="lower-index"><i>ij</i></sub></span> — стоимость активации этой трубы). Если же по трубе не течет топливо, то платить ничего нельзя. По трубам может течь только целое число единиц топлива.</p><p>Минимальное и максимальное ограничение на трубу действует <span class="tex-font-style-bf">всегда</span>, а не только тогда когда она активирована. Считается, что труба активна тогда и только тогда, когда поток через это трубу строго больше нуля.</p><p>Петя не хочет, чтобы система труб была слишком перегружена, поэтому он хочет найти минимальное количество топлива, которое, поступив в первый узел, сможет достигнуть синхрофазатрона. При этом он хочет впечатлить спонсоров, поэтому суммарная стоимость, которую нужно будет заплатить за прохождение топлива по всем трубам, должна быть максимальна.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке находится целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 6</span>) — количество узлов. В следующих <span class="tex-span"><i>n</i>(<i>n</i> - 1) / 2</span> строках находятся пятерки целых чисел, <span class="tex-span"><i>s</i>, <i>f</i>, <i>l</i>, <i>h</i>, <i>a</i></span>, описывающие трубы — начальный узел трубы, конечный узел трубы, минимальное и максимальное количество топлива, которое может течь по трубе, и стоимость активации трубы, соответственно. (<span class="tex-span">1 ≤ <i>s</i> &lt; <i>f</i> ≤ <i>n</i>, 0 ≤ <i>l</i> ≤ <i>h</i> ≤ 5, 0 ≤ <i>a</i> ≤ 6</span>). Гарантируется, что во входных данных для каждой пары узлов с различными номерами будет описана ровно одна труба между ними.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите в первую строку два числа через пробел: минимальное возможное количество топлива, которое может течь в синхрофазотрон, и максимальную возможную сумму, которую надо будет потратить на то, чтобы это количество топлива достигло синхрофазотрона. Если не существует количества топлива, которое могло бы достичь синхрофазотрона, выведите &quot;<span class="tex-font-style-tt">-1 -1</span>&quot;.</p><p>Количество топлива, которое достигнет синхрофазотрона, не обязано быть положительным — оно может равняться нулю, если минимальные ограничения на количество топлива у всех труб равны нулю.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>2<br />1 2 1 2 3<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>1 4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2 1 2 3<br />1 3 0 0 0<br />2 3 3 4 5<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>-1 -1<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>4<br />1 2 0 2 1<br />2 3 0 2 1<br />1 3 0 2 6<br />1 4 0 0 1<br />2 4 0 0 0<br />3 4 2 3 0<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 15<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>3<br />1 2 0 2 1<br />1 3 1 2 1<br />2 3 1 2 1<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>2 6<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте мы можем пустить 1 или 2 единицы топлива по трубе из 1 в 2. Минимальное возможное количество — 1, пустить его стоит <span class="tex-span"><i>a</i><sub class="lower-index">12</sub> + 1<sup class="upper-index">2</sup> = 4</span>.</p><p>Во втором тесте, мы можем пустить максимум 2 единицы из узла 1 в узел 2, и нам нужно пустить как минимум 3 единицы из узла 2 в узел 3. Это невозможно.</p><p>В третьем тесте минимальное возмножное количество равно 2. Мы можем пустить каждую единицу топлива по одному из двух путей: 1-&gt;2-&gt;3-&gt;4 или 1-&gt;3-&gt;4. Если мы дважды воспользуемся первым путем, это будет стоить <span class="tex-span"><i>a</i><sub class="lower-index">12</sub> + 2<sup class="upper-index">2</sup> + <i>a</i><sub class="lower-index">23</sub> + 2<sup class="upper-index">2</sup> + <i>a</i><sub class="lower-index">34</sub> + 2<sup class="upper-index">2</sup></span>=14. Если мы дважды воспользуемся вторым путем, это будет стоить <span class="tex-span"><i>a</i><sub class="lower-index">13</sub> + 2<sup class="upper-index">2</sup> + <i>a</i><sub class="lower-index">34</sub> + 2<sup class="upper-index">2</sup></span>=14. Однако если мы воспользуемся каждым путем (разрешив 1 единице топлива течь по трубам 1-&gt;2, 2-&gt;3, 1-&gt;3 и двум единицам по трубе 3-&gt;4), это будет стоить <span class="tex-span"><i>a</i><sub class="lower-index">12</sub> + 1<sup class="upper-index">2</sup> + <i>a</i><sub class="lower-index">23</sub> + 1<sup class="upper-index">2</sup> + <i>a</i><sub class="lower-index">13</sub> + 1<sup class="upper-index">2</sup> + <i>a</i><sub class="lower-index">34</sub> + 2<sup class="upper-index">2</sup></span>=15 и это максимальная возможная цена.</p><p>Заметим также, что по ребру 1-&gt;4 ничего не течет, по-этому стоимость его активации к ответу не прибавляется.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 4em;page-break-after: always;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">D. Дерево полураспада</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>В последнее время Петя очень увлекся физикой. Анна Викторовна, его учительница, заметив Петину тягу к знаниям дала ему увлекательную физическую головоломку — дерево полураспада.</p><p>Дерево полураспада представляет собой полное двоичное дерево высоты <span class="tex-span"><i>h</i></span>. Высота двоичного дерева — максимум среди расстояний (в ребрах) от корня дерева до его листьев. В процессе изучения, Петя добавляет в его вершины электроны, а также вызывает случайный распад дерева с помощью синхрофазотрона. Случайным распадом называется процесс при котором вдоль пути от корня к случайному листку удаляются все ребра. Вероятности выбора листьев равны между собой. Естественно, так как казенное имущество портить ученикам воспрещается, после каждого такого распада Петя возвращает все удаленные ребра на место.</p><p>Распавшись, дерево разлагается на компоненты связности. Зарядом такой компоненты называется суммарное количество электронов в вершинах, что принадлежат ей. Потенциалом разрушенного дерева называется максимальный заряд среди его компонент связности. Каждый раз вызывая случайный распад дерева, Петя предварительно хочет знать каково математическое ожидание потенциала дерева после его разрушения.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>Первая строка будет содержать два целых числа <span class="tex-span"><i>h</i></span> и <span class="tex-span"><i>q</i></span> (<span class="tex-span">1 ≤ <i>h</i> ≤ 30, 1 ≤ <i>q</i> ≤ 10<sup class="upper-index">5</sup></span>). Далее идут <span class="tex-span"><i>q</i></span> строк в каждой из которых будет запрос одного из двух типов: <ul></ul></p><p><li> <span class="tex-font-style-tt">add</span> <span class="tex-span"><i>v</i></span> <span class="tex-span"><i>e</i></span></li></p><p>В вершину с номером <span class="tex-span"><i>v</i></span> Петя добавляет <span class="tex-span"><i>e</i></span> электронов (<span class="tex-span">1 ≤ <i>v</i> ≤ 2<sup class="upper-index"><i>h</i> + 1</sup> - 1, 0 ≤ <i>e</i> ≤ 10<sup class="upper-index">4</sup></span>). <span class="tex-span"><i>v</i></span> и <span class="tex-span"><i>e</i></span> — целые числа.</p><p>Вершины в дереве нумеруются следующим образом: корень имеет номер 1, потомки вершины <span class="tex-span"><i>x</i></span> имеют номера <span class="tex-span">2<i>x</i></span> и <span class="tex-span">2<i>x</i> + 1</span>.</p><p><li> <span class="tex-font-style-tt">decay</span></li></p><p>Петя провоцирует распад дерева. </p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого запроса <span class="tex-font-style-tt">decay</span> следует вывести математическое ожидание потенциала дерева после его разрушения. Абсолютная или относительная погрешность ответа не должна превышать <span class="tex-span">10<sup class="upper-index"> - 4</sup></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>1 4<br />add 1 3<br />add 2 10<br />add 3 11<br />decay<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>13.50000000<br /></pre></div></div></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+        <div
+                    style="margin-bottom: 2em;"
+        >
+
+<div class="ttypography"><div class="problem-statement"><div class="header"><div class="title">E. Контакт</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>3 seconds</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Маленький Петя готовится к первому контакту с инопланетянами. Он знает, что корабли инопланетян имеют формы невырожденных треугольников и что их будет ровно 4. Посадочная площадка для корабля — это 3 специальных колонны, размещенных в определенных точках плоскости, таких, что эти 3 точки образуют такой же треугольник, как и корабль, с точностью до поворота, параллельного переноса и отражения (симметрий относительно сторон). После посадки корабли могут пересекаться.</p><p>Каждая колонна может быть использована чтобы посадить более чем один корабль, например, если есть два одинаковых корабля, то не обязательно строить 6 колонн чтобы посадить оба корабля, достаточно 3. Петя хочет узнать, какого минимального числа колонн будет достаточно, чтобы посадить все корабли. </p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В каждой из 4 строк находятся 6 целых чисел <span class="tex-span"><i>x</i><sub class="lower-index">1</sub></span> <span class="tex-span"><i>y</i><sub class="lower-index">1</sub></span> <span class="tex-span"><i>x</i><sub class="lower-index">2</sub></span> <span class="tex-span"><i>y</i><sub class="lower-index">2</sub></span> <span class="tex-span"><i>x</i><sub class="lower-index">3</sub></span> <span class="tex-span"><i>y</i><sub class="lower-index">3</sub></span> (<span class="tex-span">0 ≤ <i>x</i><sub class="lower-index">1</sub>, <i>y</i><sub class="lower-index">1</sub>, <i>x</i><sub class="lower-index">2</sub>, <i>y</i><sub class="lower-index">2</sub>, <i>x</i><sub class="lower-index">3</sub>, <i>y</i><sub class="lower-index">3</sub> ≤ 20</span>), задающие 3 точки, описывающие форму каждого из 4 кораблей. Гарантируется, что тройка точек в каждой строке задает невырожденный треугольник.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите минимальное число колонн, достаточное для посадки всех кораблей.</p></div><div class="sample-tests"><div class="section-title">Примеры тестов</div><div class="sample-test"><div class="input"><div class="title">Входные данные</div><pre>0 0 1 0 1 2<br />0 0 0 2 2 2<br />0 0 3 0 1 2<br />0 0 3 0 2 2<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>4<br /></pre></div><div class="input"><div class="title">Входные данные</div><pre>0 0 0 1 1 1<br />0 0 0 2 2 2<br />0 0 0 5 5 5<br />0 0 0 17 17 17<br /></pre></div><div class="output"><div class="title">Выходные данные</div><pre>9<br /></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом тесте можно поставить колонны в таких точках: <span class="tex-span">(0, 0), (1, 0), (3, 0), (1, 2)</span>. Заметьте, что второй корабль может приземлиться, используя последние 3 колонны.</p><p>Во втором тесте можно выбрать точки <span class="tex-span">(0, 0), (0, 1), (1, 0), (0, 2), (2, 0), (0, 5), (5, 0), (0, 17), (17, 0)</span>. Меньше чем 9 колонн использовать нельзя.</p></div></div></div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "стандартный ввод")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "стандартный вывод")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+    });
+</script>
+        </div>
+
+    <br style="clear:both;"/>
+
+    <div id="footer">
+        <div><a href="http://codeforces.ru/">Codeforces</a> (c) Copyright 2010-2013 Михаил Мирзаянов</div>
+        <div>Соревнования по программированию 2.0</div>
+
+    </div>
+</div>
+</div>
+</body>
+</html>                                       
