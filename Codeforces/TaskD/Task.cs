@@ -6,12 +6,6 @@ namespace Codeforces.TaskD
 {
     public class Task
     {
-        private List<Pair> Pairs;
-        private Node Root;
-        private long m;
-        private long n;
-        private List<long> p;
-
         public static void Main()
         {
             var task = new Task();
@@ -20,73 +14,6 @@ namespace Codeforces.TaskD
 
         private void Solve()
         {
-            Input.Next(out n, out m);
-            p = Input.Numbers();
-            Build();
-
-            long l, r;
-            while (Input.Next(out l, out r))
-            {
-                Console.WriteLine(Root.GetCount(l, r));
-            }
-        }
-
-        private void Build()
-        {
-            Pairs = new List<Pair>();
-            for (int i = 0; i < n; i++)
-                for (int j = 0; j <= i; j++)
-                    if (p[i]%p[j] == 0)
-                        Pairs.Add(new Pair {L = j, R = i});
-            Pairs = Pairs.OrderBy(c => c.L).ThenBy(c => c.R).ToList();
-            Root = new Node(Pairs, 0, n - 1);
-        }
-
-        public class Node
-        {
-            public long L;
-            public Node Left;
-            public List<Pair> Pairs;
-            public long R;
-            public Node Right;
-
-            public Node(IEnumerable<Pair> pairs, long l, long r)
-            {
-                Pairs = pairs.OrderBy(c => c.R).ToList();
-                if (r <= l + 1 || !Pairs.Any()) return;
-
-                var m = (r + l)/2;
-                var middle = Pairs.FirstOrDefault(c => c.L >= m);
-                if (middle == null)
-                {
-                    Left = new Node(Pairs, l, m - 1);
-                }
-                else
-                {
-                    var index = Pairs.IndexOf(middle);
-                    if (index > 0) Left = new Node(Pairs.Take(index), l, m - 1);
-                    Right = new Node(Pairs.Skip(index), m, r);
-                }
-            }
-
-            public long GetCount(long l, long r)
-            {
-                if (l <= L && r >= R)
-                {
-                    return Pairs.Count(c => c.R < r);
-                }
-                else
-                {
-                    
-                }
-
-                return 0;
-            }
-        }
-
-        public class Pair
-        {
-            public long L, R;
         }
     }
 
