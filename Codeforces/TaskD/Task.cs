@@ -113,6 +113,14 @@ namespace Codeforces.TaskD
             if (string.IsNullOrEmpty(_line)) return new List<long>();
             return _line.Split(' ').Select(long.Parse).ToList();
         }
+
+        public static bool Next(out string value)
+        {
+            value = string.Empty;
+            if (!Next()) return false;
+            value = _line;
+            return true;
+        }
     }
 
     #endregion
