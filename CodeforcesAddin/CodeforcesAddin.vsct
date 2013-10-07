@@ -49,7 +49,7 @@
         <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
         <CommandFlag>DynamicVisibility</CommandFlag>
         <Strings>
-          <ButtonText>Commit</ButtonText>
+          <ButtonText>Copy</ButtonText>
         </Strings>
       </Button>
     </Buttons>

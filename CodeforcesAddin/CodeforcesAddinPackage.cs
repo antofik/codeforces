@@ -1,11 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
+using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
+using System.Windows;
 using System.Windows.Controls;
 using EnvDTE;
 using Microsoft.VisualStudio.Shell;
+using Window = EnvDTE.Window;
 
 namespace CodeforcesAddin
 {
@@ -20,10 +24,10 @@ namespace CodeforcesAddin
         private const string TestPrefix = "TEST";
         private const string TaskPrefix = "TASK";
 
-        private readonly string[] _testItems = {None, "1", "2", "3", "4", "5"};
+        private readonly string[] _testItems = {None, "1", "2", "3", "4", "5", "ALL"};
         private string _currentTestItem = None;
 
-        private readonly string[] _taskItems = {None, "A", "B", "C", "D", "E"};
+        private readonly string[] _taskItems = {None, "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"};
         private string _currentTaskItem = None;
         private DTE _dte;
 
@@ -95,7 +99,36 @@ namespace CodeforcesAddin
 
         private void OnCommit(object sender, EventArgs e)
         {
-            SubmitWindow.Show();
+            if (_currentProject == null) return;
+
+            try
+            {
+                var doc = _dte.ActiveDocument;
+                if (doc != null)
+                {
+                    var code = File.ReadAllText(doc.FullName);
+                    var item = _currentProject.ProjectItems.Item("Library.cs");
+                    if (item == null)
+                    {
+                        _dte.StatusBar.Text = "Your project doesn't contain Library.cs file";
+                        return;
+                    }
+                    var library = File.ReadAllText(item.Document.FullName);
+                    code = code.Replace("#define Library", library);
+                    Clipboard.SetText(code);
+                    _dte.StatusBar.Text = "Code successfuly imported.";
+                }
+                else
+                {
+                    _dte.StatusBar.Text = "Opened document is not TextDocument";
+                }
+            }
+            catch (Exception ex)
+            {
+                _dte.StatusBar.Text = "Your project doesn't contain Library.cs file. " + ex.Message;
+            }
+
+            //SubmitWindow.Show();
         }
 
         private void ReadCurrentValues()
