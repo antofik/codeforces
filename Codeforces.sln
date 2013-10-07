@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippets", "Snippets\Snippets.csproj", "{05AE3D27-6024-4B39-8112-A013589E5A50}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codeforces.VSHelper", "Codeforces.VSHelper\Codeforces.VSHelper.csproj", "{68E2C7D6-2DB3-458E-8A9A-0E98EC000BFE}"
