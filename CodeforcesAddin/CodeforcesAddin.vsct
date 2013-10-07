@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-  <Extern href="stdidcmd.h"/>
-  <Extern href="vsshlids.h"/>
-  <Extern href="msobtnid.h"/>
-  <Extern href="virtkeys.h"/>
+  <Extern href="stdidcmd.h" />
+  <Extern href="vsshlids.h" />
+  <!--<Extern href="msobtnid.h" xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" />-->
+  <Extern href="virtkeys.h" />
   
   <Commands package="guidCodeforcesAddinPkg">
     <Menus>
       <Menu guid="guidCodeforcesAddinCmdSet" id="Toolbar" priority="0x0000" type="Toolbar">
-        <Parent guid="guidCodeforcesAddinCmdSet" id="0"/>
+        <Parent guid="guidCodeforcesAddinCmdSet" id="0" />
         <CommandFlag>DefaultDocked</CommandFlag>
         <CommandFlag>DynamicVisibility</CommandFlag>
         <Strings>
@@ -21,7 +21,7 @@
     
     <Groups>
       <Group guid="guidCodeforcesAddinCmdSet" id="Combos" priority="0x0040">
-        <Parent guid="guidCodeforcesAddinCmdSet" id="Toolbar"/>
+        <Parent guid="guidCodeforcesAddinCmdSet" id="Toolbar" />
       </Group>
     </Groups>
 
