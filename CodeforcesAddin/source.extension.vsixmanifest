@@ -4,7 +4,7 @@
     <Name>Codeforces Helper</Name>
     <Author>antofik@gmail.com</Author>
     <Version>1.1</Version>
-    <Description xml:space="preserve">Visual studio extension for Codeforces.ru: allows you easily operate/import with tasks/tests etc</Description>
+    <Description xml:space="preserve">Visual studio extension for Codeforces.ru: allows you easily operate/import with tasks/tests. Git support only</Description>
     <MoreInfoUrl>https://github.com/antofik/codeforces</MoreInfoUrl>
     <GettingStartedGuide>https://github.com/antofik/codeforces/wiki/Gettings-started</GettingStartedGuide>
     <Locale>1033</Locale>
