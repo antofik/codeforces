@@ -1,7 +1,7 @@
-﻿#define Library
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+#define Library
 
 namespace Codeforces.Task/*#*/
 {
