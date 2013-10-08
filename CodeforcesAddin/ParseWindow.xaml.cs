@@ -11,6 +11,7 @@ using System.Text.RegularExpressions;
 using System.Web;
 using System.Windows;
 using EnvDTE;
+using MessageBox = System.Windows.MessageBox;
 using Path = System.IO.Path;
 using Process = System.Diagnostics.Process;
 
@@ -97,6 +98,38 @@ namespace CodeforcesAddin
 
         private void ImportTasks(ContestItem item)
         {
+            string taskTemplate = @"#define Library
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Codeforces.Task/*#*/
+{
+    public class Task
+    {
+        public static void Main()
+        {
+            var task = new Task();
+            task.Solve();
+        }
+
+        void Solve()
+        {
+
+        }
+    }
+}";
+            try
+            {
+                var projectItem = _project.ProjectItems.Item("Task.cs");
+                var taskTemplatePath = projectItem.FileNames[0];
+                taskTemplate = File.ReadAllText(taskTemplatePath);
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("File Task.cs not found in your project. Default template will be used.");
+            }
+            
             using (var web = new WebClient())
             {
                 const string mask = @"<div class=""ttypography"">(?<problem>.*?)<script";
@@ -118,12 +151,8 @@ namespace CodeforcesAddin
                         Directory.CreateDirectory(dir);
                         try
                         {
-                            var projectItem = _project.ProjectItems.Item("Task.cs");
-                             var taskTemplatePath = projectItem.FileNames[0];
-                            var taskTemplate = File.ReadAllText(taskTemplatePath);
-                            taskTemplate = taskTemplate.Replace("/*#*/", taskLetter.ToString(CultureInfo.InvariantCulture));
                             var taskPath = Path.Combine(dir, "Task.cs");
-                            File.WriteAllText(taskPath, taskTemplate);
+                            File.WriteAllText(taskPath, taskTemplate.Replace("/*#*/", taskLetter.ToString(CultureInfo.InvariantCulture)));
                             _project.ProjectItems.AddFromFile(taskPath);
                         }
                         catch (Exception ex)

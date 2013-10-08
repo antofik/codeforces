@@ -13,8 +13,8 @@
         <CommandFlag>DefaultDocked</CommandFlag>
         <CommandFlag>DynamicVisibility</CommandFlag>
         <Strings>
-          <ButtonText>Codeforces C# Helper</ButtonText>
-          <CommandName>Codeforces C# Helper</CommandName>
+          <ButtonText>Codeforces Helper</ButtonText>
+          <CommandName>Codeforces Helper</CommandName>
         </Strings>
       </Menu>
     </Menus>
@@ -55,6 +55,7 @@
       
       <Button guid="guidCodeforcesAddinCmdSet" id="ButtonCommit" priority="0x0100" type="Button">
         <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
+<!--        <Icon guid="guidImages" id="Logo" /> -->g
         <CommandFlag>DynamicVisibility</CommandFlag>
         <Strings>
           <ButtonText>Copy</ButtonText>
@@ -62,8 +63,11 @@
       </Button>
     </Buttons>
 
+    <Bitmaps>
+      <Bitmap guid="guidImages" href="logo.ico" usedList="Logo, Logo2" />
+    </Bitmaps>
   </Commands>
-
+  
   <Symbols>
     <GuidSymbol name="guidCodeforcesAddinPkg" value="{4ccbba3b-b309-4c55-a326-ae9b43aa9dcf}" />
     <GuidSymbol name="guidCommand" value="{4ccbba3b-b309-4c55-a326-ae9b43aa9dce}" />
@@ -78,7 +82,11 @@
       
       <IDSymbol name="ButtonCommit" value="0x1009" />
       <IDSymbol name="ButtonParse" value="0x1010" />
-    </GuidSymbol>    
+    </GuidSymbol>
+    <GuidSymbol name="guidImages" value="{8cdcc3da-3fb0-4cf8-8ff6-bc3dcf54428d}" >
+      <IDSymbol name="Logo" value="1" />
+      <IDSymbol name="Logo2" value="2" />
+    </GuidSymbol>
     <GuidSymbol name="guidCodeforcesAddinEditorFactory" value="{55b9271f-477c-489d-813c-3e57eb83e6cb}" />    
   </Symbols>
 

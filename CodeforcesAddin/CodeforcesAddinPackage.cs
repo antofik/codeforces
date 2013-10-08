@@ -85,6 +85,11 @@ namespace CodeforcesAddin
 
         private void OnWindowActivated(Window gotfocus, Window lostfocus)
         {
+            Check();
+        }
+
+        private void Check()
+        {
             _isCorrectSolution = true;
             var projects = _dte.ActiveSolutionProjects as object[];
             _currentProject = projects != null && projects.Length > 0 ? projects[0] as Project : null;
@@ -124,7 +129,19 @@ namespace CodeforcesAddin
 
         private void OnCommit(object sender, EventArgs e)
         {
+            Check();
             if (_currentProject == null) return;
+
+            var library = "";
+            try
+            {
+                var item = _currentProject.ProjectItems.Item("Library.cs");
+                library = File.ReadAllText(item.FileNames[0]);
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Your project doesn't contain Library.cs file. Default library will be used");
+            }
 
             try
             {
@@ -132,13 +149,6 @@ namespace CodeforcesAddin
                 if (doc != null)
                 {
                     var code = File.ReadAllText(doc.FullName);
-                    var item = _currentProject.ProjectItems.Item("Library.cs");
-                    if (item == null)
-                    {
-                        _dte.StatusBar.Text = "Your project doesn't contain Library.cs file";
-                        return;
-                    }
-                    var library = File.ReadAllText(item.FileNames[0]);
                     code = code.Replace("#define Library", library);
                     Clipboard.SetText(code);
                     _dte.StatusBar.Text = "Code successfuly imported.";
@@ -158,6 +168,7 @@ namespace CodeforcesAddin
 
         private void OnParse(object sender, EventArgs e)
         {
+            Check();
             if (_currentProject == null)
             {
                 _dte.StatusBar.Text = "Select project first";
