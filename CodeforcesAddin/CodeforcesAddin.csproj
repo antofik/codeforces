@@ -155,6 +155,11 @@
     <Compile Include="SubmitWindow.xaml.cs">
       <DependentUpon>SubmitWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="TaskA\Task.cs" />
+    <Compile Include="TaskB\Task.cs" />
+    <Compile Include="TaskC\Task.cs" />
+    <Compile Include="TaskD\Task.cs" />
+    <Compile Include="TaskE\Task.cs" />
     <Resource Include="Resources\logo.ico" />
     <Resource Include="Resources\logo.png" />
     <Content Include="logo.ico">
@@ -165,6 +170,65 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="TaskA\Problem.html" />
+    <Resource Include="TaskA\Tests\test1.txt" />
+    <Resource Include="TaskA\Results\test1.txt" />
+    <Resource Include="TaskA\Tests\test2.txt" />
+    <Resource Include="TaskA\Results\test2.txt" />
+    <Resource Include="TaskA\Tests\test3.txt" />
+    <Resource Include="TaskA\Results\test3.txt" />
+    <Resource Include="TaskA\Tests\test4.txt" />
+    <Resource Include="TaskA\Results\test4.txt" />
+    <Resource Include="TaskA\Tests\test5.txt" />
+    <Resource Include="TaskA\Results\test5.txt" />
+    <Resource Include="TaskA\Tests\test6.txt" />
+    <Resource Include="TaskA\Results\test6.txt" />
+    <Content Include="TaskB\Problem.html" />
+    <Resource Include="TaskB\Tests\test1.txt" />
+    <Resource Include="TaskB\Results\test1.txt" />
+    <Resource Include="TaskB\Tests\test2.txt" />
+    <Resource Include="TaskB\Results\test2.txt" />
+    <Resource Include="TaskB\Tests\test3.txt" />
+    <Resource Include="TaskB\Results\test3.txt" />
+    <Resource Include="TaskB\Tests\test4.txt" />
+    <Resource Include="TaskB\Results\test4.txt" />
+    <Resource Include="TaskB\Tests\test5.txt" />
+    <Resource Include="TaskB\Results\test5.txt" />
+    <Content Include="TaskC\Problem.html" />
+    <Resource Include="TaskC\Tests\test1.txt" />
+    <Resource Include="TaskC\Results\test1.txt" />
+    <Resource Include="TaskC\Tests\test2.txt" />
+    <Resource Include="TaskC\Results\test2.txt" />
+    <Resource Include="TaskC\Tests\test3.txt" />
+    <Resource Include="TaskC\Results\test3.txt" />
+    <Resource Include="TaskC\Tests\test4.txt" />
+    <Resource Include="TaskC\Results\test4.txt" />
+    <Resource Include="TaskC\Tests\test5.txt" />
+    <Resource Include="TaskC\Results\test5.txt" />
+    <Content Include="TaskD\Problem.html" />
+    <Resource Include="TaskD\Tests\test1.txt" />
+    <Resource Include="TaskD\Results\test1.txt" />
+    <Resource Include="TaskD\Tests\test2.txt" />
+    <Resource Include="TaskD\Results\test2.txt" />
+    <Resource Include="TaskD\Tests\test3.txt" />
+    <Resource Include="TaskD\Results\test3.txt" />
+    <Resource Include="TaskD\Tests\test4.txt" />
+    <Resource Include="TaskD\Results\test4.txt" />
+    <Resource Include="TaskD\Tests\test5.txt" />
+    <Resource Include="TaskD\Results\test5.txt" />
+    <Resource Include="TaskD\Tests\test6.txt" />
+    <Resource Include="TaskD\Results\test6.txt" />
+    <Content Include="TaskE\Problem.html" />
+    <Resource Include="TaskE\Tests\test1.txt" />
+    <Resource Include="TaskE\Results\test1.txt" />
+    <Resource Include="TaskE\Tests\test2.txt" />
+    <Resource Include="TaskE\Results\test2.txt" />
+    <Resource Include="TaskE\Tests\test3.txt" />
+    <Resource Include="TaskE\Results\test3.txt" />
+    <Resource Include="TaskE\Tests\test4.txt" />
+    <Resource Include="TaskE\Results\test4.txt" />
+    <Resource Include="TaskE\Tests\test5.txt" />
+    <Resource Include="TaskE\Results\test5.txt" />
     <Content Include="Templates\MyExtFile.codeforcesaddin">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
