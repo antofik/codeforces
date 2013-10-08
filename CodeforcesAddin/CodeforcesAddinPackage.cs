@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.Design;
 using System.Diagnostics;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -23,11 +24,13 @@ namespace CodeforcesAddin
     {
         private const string TestPrefix = "TEST";
         private const string TaskPrefix = "TASK";
+        private const string None = "none";
+        private const string All = "ALL";
 
-        private readonly string[] _testItems = {None, "1", "2", "3", "4", "5", "ALL"};
+        private string[] _testItems = {None, All};
         private string _currentTestItem = None;
 
-        private readonly string[] _taskItems = {None, "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"};
+        private string[] _taskItems = {None};
         private string _currentTaskItem = None;
         private DTE _dte;
 
@@ -78,7 +81,6 @@ namespace CodeforcesAddin
         private List<string> _taskNames;
         private OleMenuCommand _commitCommand;
         private OleMenuCommand _parseCommand;
-        private const string None = "none";
 
         private void OnWindowActivated(Window gotfocus, Window lostfocus)
         {
@@ -88,9 +90,12 @@ namespace CodeforcesAddin
                 try
                 {
                     _currentProject = _dte.ActiveDocument.ProjectItem.ContainingProject;
+                    ReadAvailableTasks();
+                    ReadAvailableTests();
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
+                    MessageBox.Show("Error: " + ex);
                     _currentProject = null;
                 }
             }
@@ -101,6 +106,30 @@ namespace CodeforcesAddin
             _combo1Command.Visible = _combo2Command.Visible = _isActive;
 
             if (_isActive) ReadCurrentValues();
+        }
+
+        private void ReadAvailableTasks()
+        {
+            if (_currentProject == null) return;
+            var projectPath = Path.GetDirectoryName(_currentProject.FileName) ?? "";
+            var tasks = Directory.EnumerateDirectories(projectPath)
+                .Select(Path.GetFileName)
+                .Where(c => c.StartsWith("Task") && c.Length==5).Select(c=>c[4].ToString(CultureInfo.InvariantCulture)).OrderBy(c=>c).ToList();
+            tasks.Insert(0, None);
+            tasks.Add(All);
+            _taskItems = tasks.ToArray();
+        }
+
+        private void ReadAvailableTests()
+        {
+            if (_currentProject == null) return;
+            if (_currentTaskItem == None || _currentTaskItem == null) return;
+            var projectPath = Path.GetDirectoryName(_currentProject.FileName) ?? "";
+            var testsPath = Path.Combine(projectPath, "Task" + _currentTaskItem, "Tests");
+            var tests = Directory.EnumerateFiles(testsPath).Select(Path.GetFileName).Where(c => c.StartsWith("test") && c.EndsWith(".txt"))
+                .Select(c=>c.Substring(4, c.Length-8)).OrderBy(c=>c).ToList();
+            tests.Add(All);
+            _testItems = tests.ToArray();
         }
 
         private void OnCommit(object sender, EventArgs e)
@@ -168,7 +197,8 @@ namespace CodeforcesAddin
             if (project == null || project.ConfigurationManager == null) return;
             var config = project.ConfigurationManager.ActiveConfiguration;
             if (config == null) return;
-            var constants = ((string)config.Properties.Item("DefineConstants").Value).Split(';').Where(c=>!_testNames.Contains(c) && !_taskNames.Contains(c)).ToList();
+            var constants = ((string)config.Properties.Item("DefineConstants").Value).Split(';')
+                .Where(c => !(c.StartsWith(TaskPrefix) && c.Length == TaskPrefix.Length + 1) && !(c.StartsWith(TestPrefix) && c.Length == TestPrefix.Length + 1)).ToList();
             if (_currentTaskItem != None) constants.Add(TaskPrefix + _currentTaskItem);
             if (_currentTestItem != None) constants.Add(TestPrefix + _currentTestItem);
             config.Properties.Item("DefineConstants").Value = string.Join(";", constants);
@@ -193,6 +223,7 @@ namespace CodeforcesAddin
                         break;
                 }
                 WriteValues();
+                ReadAvailableTests();
             }
             else
             {

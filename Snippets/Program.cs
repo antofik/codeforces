@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -15,7 +16,7 @@ namespace Snippets
         {
             Console.WriteLine("This is a snippet program");
 
-            Parse();
+            
         }
 
         private static void Parse()
@@ -23,18 +24,27 @@ namespace Snippets
             using (var web = new WebClient())
             {
                 const string mask = @"<div class=""ttypography"">(?<problem>.*?)<script";
+                const string maskInput = @"<div class=""input"">.*?<pre>(?<data>.*?)</pre>";
+                const string maskOutput = @"<div class=""output"">.*?<pre>(?<data>.*?)</pre>";
                 var html = (web.DownloadString(new Uri(string.Format("http://codeforces.ru/contest/{0}/problems", 100))));
                 html = Encoding.UTF8.GetString(Encoding.Default.GetBytes(html));
                 var matches = Regex.Matches(html, mask, RegexOptions.Singleline);
                 for (var i = 0; i < matches.Count; i++)
                 {
                     var match = matches[i];
-                    var task = "Task" + ('A' + i);
+                    var task = "Task" + (char)('A' + i);
                     var problem = match.Groups["problem"].Value;
-                    File.WriteAllText("d:/test.html", problem);
-                   // _project.ProjectItems.Item(task + "/Problem.txt");
+
+                    var inputs = Regex.Matches(problem, maskInput, RegexOptions.Singleline).Cast<Match>().Select(c => c.Groups["data"].Value.Replace("<br/>", "\n").Replace("<br />", "\n")).ToList();
+                    var outputs = Regex.Matches(problem, maskOutput, RegexOptions.Singleline).Cast<Match>().Select(c => c.Groups["data"].Value.Replace("<br/>", "\n").Replace("<br />", "\n")).ToList();
+
+                    for (var j = 0; j < inputs.Count && j < outputs.Count; j++)
+                    {
+                        Debugger.Break();
+                    }
                 }
             }
+
         }
 
         private static void LoadContests()
