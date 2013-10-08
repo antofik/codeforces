@@ -44,6 +44,10 @@ namespace CodeforcesAddin
             _commitCommand = new OleMenuCommand(OnCommit, buttonCommit);
             service.AddCommand(_commitCommand);
 
+            var buttonParse = new CommandID(GuidList.Default, PkgCmdIDList.ButtonParse);
+            _parseCommand = new OleMenuCommand(OnParse, buttonParse);
+            service.AddCommand(_parseCommand);
+
             var combo1 = new CommandID(GuidList.Default, PkgCmdIDList.Combo1);
             _combo1Command = new OleMenuCommand(OnCombo, combo1);
             service.AddCommand(_combo1Command);
@@ -73,6 +77,7 @@ namespace CodeforcesAddin
         private List<string> _testNames;
         private List<string> _taskNames;
         private OleMenuCommand _commitCommand;
+        private OleMenuCommand _parseCommand;
         private const string None = "none";
 
         private void OnWindowActivated(Window gotfocus, Window lostfocus)
@@ -91,6 +96,7 @@ namespace CodeforcesAddin
             }
 
             _isActive = _currentProject != null && _isCorrectSolution;
+            _commitCommand.Enabled = _parseCommand.Enabled = _isActive;
             _combo1Command.Enabled = _combo2Command.Enabled = _isActive;
             _combo1Command.Visible = _combo2Command.Visible = _isActive;
 
@@ -129,6 +135,16 @@ namespace CodeforcesAddin
             }
 
             //SubmitWindow.Show();
+        }
+
+        private void OnParse(object sender, EventArgs e)
+        {
+            if (_currentProject == null)
+            {
+                _dte.StatusBar.Text = "Select project first";
+                return;
+            }
+            ParseWindow.Show(_currentProject);
         }
 
         private void ReadCurrentValues()

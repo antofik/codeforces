@@ -45,6 +45,14 @@
     </Combos>
 
     <Buttons>
+      <Button guid="guidCodeforcesAddinCmdSet" id="ButtonParse" priority="0x020" type="Button">
+        <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
+        <CommandFlag>DynamicVisibility</CommandFlag>
+        <Strings>
+          <ButtonText>Import</ButtonText>
+        </Strings>
+      </Button>
+      
       <Button guid="guidCodeforcesAddinCmdSet" id="ButtonCommit" priority="0x0100" type="Button">
         <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
         <CommandFlag>DynamicVisibility</CommandFlag>
@@ -69,6 +77,7 @@
       <IDSymbol name="Combo2Ids" value="0x2004" />
       
       <IDSymbol name="ButtonCommit" value="0x1009" />
+      <IDSymbol name="ButtonParse" value="0x1010" />
     </GuidSymbol>    
     <GuidSymbol name="guidCodeforcesAddinEditorFactory" value="{55b9271f-477c-489d-813c-3e57eb83e6cb}" />    
   </Symbols>

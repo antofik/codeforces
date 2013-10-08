@@ -6,6 +6,7 @@
         public const uint MyTool = 0x101;
 
         public const int ButtonCommit = 0x1009;
+        public const int ButtonParse = 0x1010;
 
         public const int Item1 = 0x1011;
         public const int Item2 = 0x1012;

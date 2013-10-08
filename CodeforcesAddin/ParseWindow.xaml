@@ -1,0 +1,16 @@
+﻿<Window x:Class="CodeforcesAddin.ParseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Codeforce.ru problem import"
+        SizeToContent="WidthAndHeight"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        >
+    <Grid>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Select contest number" Margin="4" />
+            <ComboBox x:Name="combo" Width="250" Margin="4" />
+            <Button x:Name="cmdImport" Content="Import" Margin="4" Padding="6,4" />
+        </StackPanel>
+    </Grid>
+</Window>
