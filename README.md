@@ -1,7 +1,4 @@
-Codeforces
+Visual Studio 2012 Codeforces Helper
 ==========
 
-Solutions of codeforces.ru
-
-'Master' contains dummy solution. 
-Each round gets individual branch.
+Tutorial - https://github.com/antofik/codeforces/wiki/Gettings-started
