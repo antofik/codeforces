@@ -43,12 +43,56 @@ namespace CodeforcesAddin
                 MessageBox.Show("Select contest");
                 return;
             }
-            var process = Process.Start("cmd.exe", "git checkout -b @" + item.Id);
-            process.Exited += delegate
+            var result = MessageBox.Show("Create Git branch?\nAll your files will be overwritten otherwise.", "Git", MessageBoxButton.YesNoCancel);
+            if (result == MessageBoxResult.Yes)
+            {
+                var workingPath = Path.GetDirectoryName(_project.FileName);
+                string error;
+                Git("checkout master", workingPath, out error);
+                var output = Git("rev-parse --abbrev-ref HEAD", workingPath, out error);
+                if (output != "master")
+                {
+                    MessageBox.Show("Could not checkout master. Output: " + output + " " + error + "\nCheck if you have git installed and project is under git control");
+                    return;
+                }
+
+                Git("branch @" + item.Id, workingPath, out error);
+                Git("checkout @" + item.Id, workingPath, out error);
+
+                output = Git("rev-parse --abbrev-ref HEAD", workingPath, out error);
+                if (output != "@" + item.Id)
+                {
+                    MessageBox.Show("Could not checkout to branch: " + output + " " + error);
+                    return;
+                }
+                ImportTasks(item);
+                Close();
+            }
+            else if (result == MessageBoxResult.No)
             {
                 ImportTasks(item);
                 Close();
-            };
+            }
+        }
+
+        private static string Git(string command, string workingDirectory, out string error)
+        {
+            using (var process = new Process())
+            {
+                process.StartInfo = new ProcessStartInfo("cmd.exe", "/C git " + command)
+                {
+                    RedirectStandardOutput = true,
+                    RedirectStandardError = true,
+                    UseShellExecute = false,
+                    WorkingDirectory = workingDirectory,
+                    CreateNoWindow = true,
+                    WindowStyle = ProcessWindowStyle.Hidden,
+                };
+                process.Start();
+                process.WaitForExit();
+                error = process.StandardError.ReadToEnd().Trim(' ', '\n', '\r', '\t');
+                return process.StandardOutput.ReadToEnd().Trim(' ', '\n', '\r', '\t');
+            }
         }
 
         private void ImportTasks(ContestItem item)
@@ -74,7 +118,8 @@ namespace CodeforcesAddin
                         Directory.CreateDirectory(dir);
                         try
                         {
-                            var taskTemplatePath = _project.ProjectItems.Item("Task.cs").Document.FullName;
+                            var projectItem = _project.ProjectItems.Item("Task.cs");
+                             var taskTemplatePath = projectItem.FileNames[0];
                             var taskTemplate = File.ReadAllText(taskTemplatePath);
                             taskTemplate = taskTemplate.Replace("/*#*/", taskLetter.ToString(CultureInfo.InvariantCulture));
                             var taskPath = Path.Combine(dir, "Task.cs");
@@ -130,19 +175,22 @@ namespace CodeforcesAddin
             var list = new List<ContestItem>();
             using (var web = new WebClient())
             {
-                const string mask = @"<tr\s*?data-contestId=""(?<id>\d+)""\s*?>\s*?<td>\s*?(?<name>[^<]+?)<br/>";
-                for (var i = 1; i <= 5; i++)
+                const string mask = @"<tr\s*?data-contestId=""(?<id>\d+)""\s*?>\s*?<td>\s*?(?<name>[^<]+?)<br";
+                for (var i = 1; i <= 10; i++)
                 {
                     var html = web.DownloadString(new Uri(string.Format("http://codeforces.ru/contests/page/{0}", i))).Replace("\t", " ").Replace("\r", " ").Replace("\n", " ");
                     var matches = Regex.Matches(html, mask, RegexOptions.Singleline);
+                    var added = false;
                     foreach (Match match in matches)
                     {
                         var id = int.Parse(match.Groups["id"].Value);
                         var name = HttpUtility.HtmlDecode(match.Groups["name"].Value.Replace("<br/>", " ").Replace("<br />", " ").Trim().Trim('\n', '\t', '\r'));
                         var item = list.FirstOrDefault(c => c.Id == id);
                         if (item != null) continue;
+                        added = true;
                         list.Add(new ContestItem{Id = id, Name = name});
                     }
+                    if (!added) break;
                 }
             }
             list = list.OrderByDescending(c => c.Id).ToList();

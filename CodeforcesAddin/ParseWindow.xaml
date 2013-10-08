@@ -21,6 +21,7 @@
             </Grid>
             <TextBlock Margin="8" Foreground="#FF666666">
                 <Run Text="Import steps:" FontWeight="Bold" /><LineBreak />
+                <Run Text="    - create new git branch with name `@[contest id]`" /><LineBreak />
                 <Run Text="    - fetch latest contest information from codeforces.ru" /><LineBreak />
                 <Run Text="    - for each problem create directory TaskXXX, where XXX will be replaced with letter (A, B, C...)" /><LineBreak />
                 <Run Text="    - in this directory create file Problem.html with description of the problem" /><LineBreak />

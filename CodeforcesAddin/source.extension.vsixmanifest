@@ -1,15 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Vsix Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
   <Identifier Id="4ccbba3b-b309-4c55-a326-ae9b43aa9dcf">
-    <Name>CodeforcesAddin</Name>
-    <Author>antofik</Author>
-    <Version>1.0</Version>
-    <Description xml:space="preserve">Visual studio addin for Codeforces.ru</Description>
+    <Name>Codeforces Helper</Name>
+    <Author>antofik@gmail.com</Author>
+    <Version>1.1</Version>
+    <Description xml:space="preserve">Visual studio extension for Codeforces.ru: allows you easily operate/import with tasks/tests etc</Description>
+    <MoreInfoUrl>https://github.com/antofik/codeforces</MoreInfoUrl>
+    <GettingStartedGuide>https://github.com/antofik/codeforces/wiki/Gettings-started</GettingStartedGuide>
     <Locale>1033</Locale>
     <InstalledByMsi>false</InstalledByMsi>
     <SupportedProducts>
       <VisualStudio Version="10.0">
         <Edition>Pro</Edition>
+        <Edition>Express_All</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Ultimate</Edition>
+        <Edition>IntegratedShell</Edition>
       </VisualStudio>
     </SupportedProducts>
     <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />

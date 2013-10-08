@@ -9,6 +9,7 @@ using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Controls;
 using EnvDTE;
+using EnvDTE80;
 using Microsoft.VisualStudio.Shell;
 using Window = EnvDTE.Window;
 
@@ -84,21 +85,11 @@ namespace CodeforcesAddin
 
         private void OnWindowActivated(Window gotfocus, Window lostfocus)
         {
-            _isCorrectSolution = _dte.Solution.FullName.ToLower().Contains("codeforce");
-            if (_isCorrectSolution)
-            {
-                try
-                {
-                    _currentProject = _dte.ActiveDocument.ProjectItem.ContainingProject;
-                    ReadAvailableTasks();
-                    ReadAvailableTests();
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Error: " + ex);
-                    _currentProject = null;
-                }
-            }
+            _isCorrectSolution = true;
+            var projects = _dte.ActiveSolutionProjects as object[];
+            _currentProject = projects != null && projects.Length > 0 ? projects[0] as Project : null;
+            ReadAvailableTasks();
+            ReadAvailableTests();
 
             _isActive = _currentProject != null && _isCorrectSolution;
             _commitCommand.Enabled = _parseCommand.Enabled = _isActive;
@@ -116,7 +107,6 @@ namespace CodeforcesAddin
                 .Select(Path.GetFileName)
                 .Where(c => c.StartsWith("Task") && c.Length==5).Select(c=>c[4].ToString(CultureInfo.InvariantCulture)).OrderBy(c=>c).ToList();
             tasks.Insert(0, None);
-            tasks.Add(All);
             _taskItems = tasks.ToArray();
         }
 
@@ -148,7 +138,7 @@ namespace CodeforcesAddin
                         _dte.StatusBar.Text = "Your project doesn't contain Library.cs file";
                         return;
                     }
-                    var library = File.ReadAllText(item.Document.FullName);
+                    var library = File.ReadAllText(item.FileNames[0]);
                     code = code.Replace("#define Library", library);
                     Clipboard.SetText(code);
                     _dte.StatusBar.Text = "Code successfuly imported.";

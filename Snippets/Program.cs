@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Threading;
 using System.Web;
 
 namespace Snippets
@@ -14,9 +15,32 @@ namespace Snippets
     {
         public static void Main()
         {
-            Console.WriteLine("This is a snippet program");
+            //Console.WriteLine("This is a snippet program");
 
+            var error = "";
+            var available = Git("git rev-parse --abbrev-ref HEAD", "x:", out error);
             
+
+            Console.ReadKey();
+        }
+
+        private static string Git(string command, string workingDirectory, out string error)
+        {
+            using (var process = new Process())
+            {
+                process.StartInfo = new ProcessStartInfo("cmd.exe", "/C git " + command)
+                {
+                    RedirectStandardOutput = true,
+                    RedirectStandardError = true,
+                    UseShellExecute = false,
+                    WorkingDirectory = workingDirectory,
+                    WindowStyle = ProcessWindowStyle.Hidden,
+                };
+                process.Start();
+                process.WaitForExit();
+                error = process.StandardError.ReadToEnd();
+                return process.StandardOutput.ReadToEnd();
+            }
         }
 
         private static void Parse()

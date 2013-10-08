@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Codeforces.TaskD
+namespace Codeforces.Task/*#*/
 {
     public class Task
     {
@@ -13,8 +13,9 @@ namespace Codeforces.TaskD
             task.Solve();
         }
 
-        private void Solve()
+        void Solve()
         {
+
         }
     }
 }
