@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="375b1a18-32a4-491e-a5af-097613938d81" Version="1.3" Language="en-US" Publisher="antofik@gmail.com" />
+    <Identity Id="375b1a18-32a4-491e-a5af-097613938d81" Version="1.3.1" Language="en-US" Publisher="antofik@gmail.com" />
     <DisplayName>Codeforces Helper</DisplayName>
     <Description xml:space="preserve">Codeforces Helper. Allows you easily switch/import tasks and tests. Git support only</Description>
     <MoreInfo>https://github.com/antofik/codeforces</MoreInfo>
-    <GettingStartedGuide>https://github.com/antofik/codeforces/wiki/Gettings-started</GettingStartedGuide>
+    <GettingStartedGuide>https://github.com/antofik/codeforces/wiki/Getting-started</GettingStartedGuide>
     <ReleaseNotes>https://github.com/antofik/codeforces/releases</ReleaseNotes>
     <Icon>logo.ico</Icon>
     <PreviewImage>Resources\screenshot.png</PreviewImage>

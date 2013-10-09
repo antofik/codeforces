@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -35,9 +36,11 @@ namespace Codeforces
             const char problem = 'K';
 #elif TASKL
             const char problem = 'L';
+#else
+            const char problem = 'A';
 #endif
 
-            var tests = new int []{
+            var tests = new []{
 #if TEST1
             1,
 #elif TEST2
@@ -48,22 +51,36 @@ namespace Codeforces
             4,
 #elif TEST5
             5,
+#elif TEST5
+            6,
+#elif TEST5
+            7,
+#elif TEST5
+            8,
+#elif TEST5
+            9,
+#elif TEST5
+            10,
 #else
-            1,2,3,4,5
+            1,2,3,4,5,6,7,8,9,10,
 #endif
             };
-            var tournament = MethodBase.GetCurrentMethod().DeclaringType.Namespace ?? "";
 
             var type = Type.GetType(string.Format("Codeforces.Task{0}.Task", problem));
             if (type == null)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Task not found: {0}", problem);
+                Console.ForegroundColor = ConsoleColor.White;
             }
             else
             {
                 var results = new List<bool>();
                 foreach (var test in tests)
                 {
+                    var path = string.Format("Task{0}/Tests/test{1}.txt", problem, test);
+                    if (!File.Exists(path)) continue;
+
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.BackgroundColor = ConsoleColor.DarkGray;
                     Console.WriteLine("*******************************************************************************");
@@ -80,11 +97,14 @@ namespace Codeforces
                     var message = string.Format("Test {0} failed", test);
                     try
                     {
-                        Console.SetIn(new StreamReader(string.Format("Task{0}/Tests/test{1}.txt", problem, test)));
+                        Console.SetIn(new StreamReader(path));
                         var defaultOut = Console.Out;
                         var writer = new StreamWriter(stream);
                         Console.SetOut(writer);
+                        var watch = new Stopwatch();
+                        watch.Start();
                         type.InvokeMember("Main", BindingFlags.Static | BindingFlags.InvokeMethod | BindingFlags.Public, null, null, null);
+                        watch.Stop();
                         writer.Flush();
                         writer.Close();
                         stream.Flush();
@@ -102,7 +122,7 @@ namespace Codeforces
                         }
                         else
                         {
-                            message = string.Format("Test {0} passed", test);
+                            message = string.Format("Test {0} passed in {1}ms", test, watch.ElapsedMilliseconds);
                             Console.ForegroundColor = ConsoleColor.Gray;
                             Console.WriteLine(output);
                         }

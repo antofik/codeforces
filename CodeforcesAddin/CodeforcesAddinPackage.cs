@@ -39,6 +39,20 @@ namespace CodeforcesAddin
 
         protected override void Initialize()
         {
+            System.Diagnostics.Debugger.Break();
+            try
+            {
+                var cf = Codeforces.Instance;
+                cf.Login();
+                var html = cf.SubmitProgram(351, 'B', 7, "print 'test'");
+                MessageBox.Show("Logged: " + cf.IsLogged);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex);
+            }
+            System.Diagnostics.Debugger.Break();
+
             base.Initialize();
 
             var service = GetService(typeof (IMenuCommandService)) as OleMenuCommandService;
@@ -90,9 +104,10 @@ namespace CodeforcesAddin
 
         private void Check()
         {
-            _isCorrectSolution = true;
             var projects = _dte.ActiveSolutionProjects as object[];
             _currentProject = projects != null && projects.Length > 0 ? projects[0] as Project : null;
+
+            _isCorrectSolution = _currentProject != null && _currentProject.CodeModel.Language == CodeModelLanguageConstants.vsCMLanguageCSharp;
             ReadAvailableTasks();
             ReadAvailableTests();
 
@@ -149,7 +164,7 @@ namespace CodeforcesAddin
                 if (doc != null)
                 {
                     var code = File.ReadAllText(doc.FullName);
-                    code = code.Replace("#define Library", library);
+                    code = code.Replace("/*Library*/", library);
                     Clipboard.SetText(code);
                     _dte.StatusBar.Text = "Code successfuly imported.";
                 }
@@ -183,13 +198,23 @@ namespace CodeforcesAddin
             if (project == null || project.ConfigurationManager == null) return;
             var config = project.ConfigurationManager.ActiveConfiguration;
             if (config == null) return;
-            var constants = ((string)config.Properties.Item("DefineConstants").Value).Split(';').ToList();
-
+            
+            var constants = new List<string>();
+            switch (project.CodeModel.Language)
+            {
+                case CodeModelLanguageConstants.vsCMLanguageCSharp:
+                    constants = ((string)config.Properties.Item("DefineConstants").Value).Split(';').ToList();
+                    break;
+                case CodeModelLanguageConstants.vsCMLanguageVC:
+                    constants = new List<string>();
+                    break;
+            }
             var task = constants.FirstOrDefault(c => _taskNames.Contains(c));
             _currentTaskItem = task == null ? None : task.Substring(TaskPrefix.Length);
 
             var test = constants.FirstOrDefault(c => _testNames.Contains(c));
             _currentTestItem = test == null ? None : test.Substring(TestPrefix.Length);
+
         }
 
         private void WriteValues()

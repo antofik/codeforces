@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-#define Library
+/*Library*/
 
 namespace Codeforces.Task/*#*/
 {
