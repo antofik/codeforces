@@ -198,4 +198,33 @@ namespace Codeforces
             return string.Join(",", _parent.Take(50));
         }
     }
+
+    public class ImprovedSieveOfEratosthenes
+    {
+        public static void Generate(int n, out int[] lp, out List<int> pr)
+        {
+            lp = new int[n];
+            pr = new List<int>();
+            for (var i = 2; i < n; i++)
+            {
+                if (lp[i] == 0)
+                {
+                    lp[i] = i;
+                    pr.Add(i);
+                }
+                foreach (var prJ in pr)
+                {
+                    var prIj = i * prJ;
+                    if (prJ <= lp[i] && prIj <= n - 1)
+                    {
+                        lp[prIj] = prJ;
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+            }
+        }
+    }
 }
