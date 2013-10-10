@@ -94,8 +94,7 @@ namespace Codeforces
 
         public static List<long> Numbers()
         {
-            Next();
-            return _line.Split(' ').Select(long.Parse).ToList();
+            return !Next() ? new List<long>() : _line.Split(' ').Select(long.Parse).ToList();
         }
 
         public static bool Next(out string value)
