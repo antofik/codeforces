@@ -39,13 +39,14 @@ namespace CodeforcesAddin
 
         protected override void Initialize()
         {
-            System.Diagnostics.Debugger.Break();
+           // System.Diagnostics.Debugger.Break();
             try
             {
                 var cf = Codeforces.Instance;
                 cf.Login();
-                var html = cf.SubmitProgram(351, 'B', 7, "print 'test'");
-                MessageBox.Show("Logged: " + cf.IsLogged);
+                var id = cf.SubmitProgram(351, 'B', 7, "print 'test'" + Guid.NewGuid());
+                var html = cf.Post("/data/submitSource", "submissionId=" + id, string.Format("/contest/{0}/my", 351));
+                MessageBox.Show("Submition id: " + id);
             }
             catch (Exception ex)
             {
