@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 
 namespace Codeforces
@@ -196,6 +197,150 @@ namespace Codeforces
         public override string ToString()
         {
             return string.Join(",", _parent.Take(50));
+        }
+    }
+
+    public class Matrix
+    {
+        public static Matrix Create(int i, int j)
+        {
+            var m = new Matrix(i, j);
+            return m;
+        }
+
+        public static Matrix Create(int i)
+        {
+            var m = new Matrix(i, i);
+            return m;
+        }
+
+        public long Modulo { get; set; }
+
+        private readonly int _width;
+        private readonly int _height;
+        private readonly long[,] _data;
+        public int Width{get { return _width; }}
+        public int Height{get { return _height; }}
+
+        private Matrix(int i, int j)
+        {
+            Modulo = 1000000000000000000L;
+            _width = j;
+            _height = i;
+            _data = new long[_height, _width];
+        }
+
+        public static Matrix operator *(Matrix m1, Matrix m2)
+        {
+            if (m1.Width != m2.Height) throw new InvalidDataException("m1.Width != m2.Height");
+            var m = Create(m2.Width, m1.Height);
+            m.Modulo = m1.Modulo;
+            for (var i=0;i<m2.Width;i++)
+                for (var j = 0; j < m1.Height; j++)
+                {
+                    for (var k = 0; k < m1.Width; k++)
+                        m[j, i] += (m1[j, k]*m2[k, i]) % m1.Modulo;
+                    m[j, i] %= m1.Modulo;
+                }
+            return m;
+        }
+
+        public static Matrix operator +(Matrix m1, Matrix m2)
+        {
+            var m = m1.Clone();
+            for (var i=0;i<m2.Width;i++)
+                for (var j = 0; j < m1.Height; j++)
+                    m[j, i] = (m[j, i] + m2[j, i]) % m1.Modulo;
+            return m;
+        }
+
+        public static Matrix operator -(Matrix m1, Matrix m2)
+        {
+            var m = m1.Clone();
+            for (var i=0;i<m2.Width;i++)
+                for (var j = 0; j < m1.Height; j++)
+                    m[j, i] = (m[j, i] - m2[j, i]) % m1.Modulo;
+            return m;
+        }
+
+        public static Matrix operator *(Matrix m1, long l)
+        {
+            var m = m1.Clone();
+            for (var i=0;i<m1.Width;i++)
+                for (var j=0;j<m1.Height;j++)
+                        m[j, i] = (m[j, i] * l) % m.Modulo;
+            return m;
+        }
+
+        public static Matrix operator *(long l, Matrix m1)
+        {
+            return m1*l;
+        }
+
+        public static Matrix operator +(Matrix m1, long l)
+        {
+            var m = m1.Clone();
+            for (var i = 0; i < m1.Width; i++)
+                    m[i, i] = (m[i, i] + l) % m.Modulo;
+            return m;
+        }
+
+        public static Matrix operator +(long l, Matrix m1)
+        {
+            return m1 + l;
+        }
+
+        public static Matrix operator -(Matrix m1, long l)
+        {
+            return m1 + (-l);
+        }
+
+        public static Matrix operator -(long l, Matrix m1)
+        {
+            var m = m1.Clone() * -1;
+            return m + l;
+        }
+
+        public Matrix BinPower(long l)
+        {
+            var n = 1;
+            var m = Clone();
+            var result = new Matrix(m.Height, m.Width) + 1;
+            result.Modulo = m.Modulo;
+            while (l != 0)
+            {
+                var i = l & ~(l - 1);
+                l -= i;
+                while (n < i)
+                {
+                    m = m*m;
+                    n <<= 1;
+                }
+                result *= m;
+            }
+            return result;
+        }
+
+        public void Fill(long l)
+        {
+            l %= Modulo;
+            for (var i = 0; i < _height; i++)
+                for (var j = 0; j < _width; j++)
+                    _data[i, j] = l;
+        }
+
+        public Matrix Clone()
+        {
+            var m = new Matrix(_width, _height);
+            Array.Copy(_data, m._data, _data.Length);
+            m.Modulo = Modulo;
+            return m;
+        }
+
+        public long this[int i, int j]
+        {
+            get { return _data[i, j]; }
+            set { _data[i, j] = value % Modulo; }
         }
     }
 }
