@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Globalization;
 using System.IO;
-using System.Linq;
 using System.Net;
+using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Web.UI.WebControls;
+using System.Web;
 using CodeforcesAddin.Annotations;
 
 namespace CodeforcesAddin
@@ -22,11 +22,31 @@ namespace CodeforcesAddin
 
         #endregion
 
+        #region Private properties
+
         private string _login = "helper";
+
         [PasswordPropertyText(true)]
         private string _password = "helper";
 
+        private readonly CookieCollection _cookies = new CookieCollection();
+
+        private static long _lastSubmission;
+
         private const string BaseUrl = "http://codeforces.ru";
+
+        #endregion
+
+        #region Methods
+
+        /// <summary>
+        /// Assign login and password
+        /// </summary>
+        public void SetAuthenticationData(string login, string password)
+        {
+            _login = login;
+            _password = password;
+        }
 
         /// <summary>
         /// Returns CRLF token for given page
@@ -60,7 +80,15 @@ namespace CodeforcesAddin
             return html;
         }
 
-        public string SubmitProgram(int contest, char problem, int language, string code)
+        /// <summary>
+        /// Submits program
+        /// Return submission code if successs
+        /// if error:
+        ///     -2 - the same program was already sent before
+        ///     -1 - submission failed
+        ///      0 - submission was successful, but code is unknown
+        /// </summary>
+        public long SubmitProgram(int contest, char problem, int language, string code)
         {
             var csrf = GetCrlf(string.Format("/contest/{0}/submit", contest));
 
@@ -118,16 +146,12 @@ namespace CodeforcesAddin
             request.UserAgent = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36 OPR/16.0.1196.80";
             request.AllowWriteStreamBuffering = true;
             request.ProtocolVersion = HttpVersion.Version11;
-            request.AllowAutoRedirect = true;
+            request.AllowAutoRedirect = false;
 
-           // request.Connection = "keep-alive";
-            //request.Headers.Add("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8");
-            request.Headers.Add("origin", "http://codeforces.ru");
+            request.Headers.Add("origin", BaseUrl);
 
             request.Headers.Add("DNT", "1");
-            request.Referer = "http://codeforces.ru/enter";
-            //request.Headers.Add("Accept-Encoding", "gzip,deflate,sdch");
-            //request.Headers.Add("Accept-Language", "en-US,en;q=0.8");
+            request.Referer = BaseUrl + "/enter";
             request.ContentLength = data.Length;
             using (var stream = request.GetRequestStream())
             {
@@ -146,10 +170,86 @@ namespace CodeforcesAddin
             }
             _cookies.Add(response.Cookies);
 
-            var match = Regex.Match(html, @"submissionId=""(?<id>\d+)""");
+            if (html.Contains("Ранее вы отсылали абсолютно такой же код")) return -2;
 
-            if (match.Success && match.Groups.Count > 1) return match.Groups["id"].Value;
-            return "";            
+            var contestUrl = string.Format("/contest/{0}/my", contest);
+            if (response.StatusCode == HttpStatusCode.Found)
+            {
+                for (var i = 0; i < 5; i++)
+                {
+                    var match = Regex.Match(GetHtml(contestUrl), @"submissionId=""(?<id>\d+)""");
+                    if (match.Success && match.Groups.Count > 1)
+                    {
+                        var submissionId = long.Parse(match.Groups["id"].Value);
+                        if (submissionId > _lastSubmission)
+                        {
+                            _lastSubmission = submissionId;
+                            return submissionId;
+                        }
+                    }
+                    System.Threading.Thread.Sleep(1000);
+                }
+                return 0;
+            }
+            return -1;
+        }
+
+        /// <summary>
+        /// Reads status of the given submission
+        /// </summary>
+        public SubmissionStatus GetSubmissionStatus(long contest, long submissionId)
+        {
+            SubmissionStatus status;
+            var html = Post("/data/submitSource", "submissionId=" + submissionId, string.Format("/contest/{0}/my", contest));
+            var serializer = new DataContractJsonSerializer(typeof(SubmissionStatus));
+            using (var stream = new MemoryStream(Encoding.UTF8.GetBytes(html)))
+            {
+                status = serializer.ReadObject(stream) as SubmissionStatus;
+            }
+            if (status != null && !string.IsNullOrEmpty(status.verdict))
+                status.verdict = Regex.Replace(status.verdict, "<.*?>", string.Empty);
+
+            const string mask = @"""{0}#{1}"":""(?<value>[^""]+?)""";
+
+            Func<string, string> ClearOfUnicodeValues = value =>
+            {
+                foreach (Match match in Regex.Matches(value, @"\\u(?<n>\d\d\d\d)"))
+                {
+                    var n = Convert.ToInt32(match.Groups["n"].Value, 16);
+                    value = value.Replace(match.Groups[0].Value, char.ConvertFromUtf32(n));
+                }
+                return value;
+            };
+            Func<string, int, string> get = (key, i) =>
+            {
+                var match = Regex.Match(html, string.Format(mask, key, i));
+                return !match.Success ? null : ClearOfUnicodeValues(HttpUtility.HtmlDecode(match.Groups["value"].Value).Replace(@"\r\n", "\r\n").Trim(' ', '\r', '\n'));
+            };
+
+            if (status != null)
+            {
+                status.Tests = new List<SubmissionTestStatus>();
+                for (var i = 1; i <= status.testCount; i++)
+                {
+                    var verdict = get("verdict", i);
+                    if (verdict == null) break;
+                    var item = new SubmissionTestStatus
+                    {
+                        Number = i,
+                        Verdict = verdict,
+                        Answer = get("answer", i),
+                        Memory = get("memoryConsumed", i),
+                        Time = get("timeConsumed", i),
+                        Input = get("input", i),
+                        Output = get("output", i),
+                        ExitCode = get("exitCode", i),
+                        CheckerExitCode = get("checkerExitCode", i),
+                        checkerStdoutAndStderr = get("checkerStdoutAndStderr", i),
+                    };
+                    status.Tests.Insert(0, item);
+                }
+            }
+            return status;
         }
 
         /// <summary>
@@ -168,8 +268,8 @@ namespace CodeforcesAddin
             request.AllowWriteStreamBuffering = true;
             request.ProtocolVersion = HttpVersion.Version11;
             request.AllowAutoRedirect = true;
-            request.Referer = "http://codeforces.ru/enter";
-            request.Headers.Add("origin", "http://codeforces.ru");
+            request.Referer = BaseUrl + "/enter";
+            request.Headers.Add("origin", BaseUrl);
             using (var stream = request.GetRequestStream())
             {
                 var bytes = Encoding.UTF8.GetBytes(data);
@@ -194,16 +294,18 @@ namespace CodeforcesAddin
         /// </summary>
         public bool Login()
         {
+            if (string.IsNullOrEmpty(_login) || string.IsNullOrEmpty(_password)) return false;
             var html = Post("/enter", string.Format("action=enter&handle={0}&password={1}&_tta=740&remember=on", _login, _password));
             return (IsLogged = html.Contains("/data/update-online"));
         }
+
+        #endregion
 
         #region Public properties
 
         #region IsLogged
 
         private bool _isLogged;
-        private CookieCollection _cookies = new CookieCollection();
 
         public bool IsLogged
         {
@@ -213,6 +315,7 @@ namespace CodeforcesAddin
                 if (value == _isLogged) return;
                 _isLogged = value;
                 OnPropertyChanged("IsLogged");
+                if (OnLogged != null) OnLogged();
             }
         }
 
@@ -228,5 +331,7 @@ namespace CodeforcesAddin
         }
 
         #endregion
+
+        public event Action OnLogged;
     }
 }

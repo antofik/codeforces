@@ -30,7 +30,13 @@ namespace CodeforcesAddin
             _project = project;
             InitializeComponent();
 
-            Loaded += delegate { LoadContests(); };
+            Loaded += delegate
+            {
+                var list = LoadContests();
+                _contests.Clear();
+                foreach (var item in list) _contests.Add(item);
+                combo.SelectedItem = _contests.FirstOrDefault();
+            };
 
             combo.ItemsSource = _contests;
             cmdImport.Click += delegate { DoImport(); };
@@ -76,7 +82,7 @@ namespace CodeforcesAddin
             }
         }
 
-        private static string Git(string command, string workingDirectory, out string error)
+        internal static string Git(string command, string workingDirectory, out string error)
         {
             using (var process = new Process())
             {
@@ -199,7 +205,7 @@ namespace Codeforces.Task/*#*/
         private readonly ObservableCollection<ContestItem> _contests = new ObservableCollection<ContestItem>();
         private readonly Project _project;
 
-        private void LoadContests()
+        internal static List<ContestItem> LoadContests()
         {
             var list = new List<ContestItem>();
             using (var web = new WebClient())
@@ -222,12 +228,7 @@ namespace Codeforces.Task/*#*/
                     if (!added) break;
                 }
             }
-            list = list.OrderByDescending(c => c.Id).ToList();
-
-            _contests.Clear();
-            foreach (var item in list) _contests.Add(item);
-
-            combo.SelectedItem = _contests.FirstOrDefault();
+            return list.OrderByDescending(c => c.Id).ToList();
         }
     }
 

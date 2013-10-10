@@ -53,12 +53,21 @@
         </Strings>
       </Button>
       
-      <Button guid="guidCodeforcesAddinCmdSet" id="ButtonCommit" priority="0x0100" type="Button">
+      <Button guid="guidCodeforcesAddinCmdSet" id="ButtonCopy" priority="0x0021" type="Button">
         <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
-<!--        <Icon guid="guidImages" id="Logo" /> -->g
         <CommandFlag>DynamicVisibility</CommandFlag>
         <Strings>
           <ButtonText>Copy</ButtonText>
+        </Strings>
+      </Button>
+    
+      <Button guid="guidCodeforcesAddinCmdSet" id="ButtonCommit" priority="0x0022" type="Button">
+        <Parent guid="guidCodeforcesAddinCmdSet" id="Combos" />
+        <CommandFlag>DynamicVisibility</CommandFlag>
+        <CommandFlag>TextChanges</CommandFlag>
+        <CommandFlag>TextChangesButton</CommandFlag>
+        <Strings>
+          <ButtonText>Submit</ButtonText>
         </Strings>
       </Button>
     </Buttons>
@@ -82,6 +91,7 @@
       
       <IDSymbol name="ButtonCommit" value="0x1009" />
       <IDSymbol name="ButtonParse" value="0x1010" />
+      <IDSymbol name="ButtonCopy" value="0x1011" />
     </GuidSymbol>
     <GuidSymbol name="guidImages" value="{8cdcc3da-3fb0-4cf8-8ff6-bc3dcf54428d}" >
       <IDSymbol name="Logo" value="1" />

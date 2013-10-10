@@ -6,6 +6,7 @@
         WindowStartupLocation="CenterScreen"
         ResizeMode="NoResize"
         Foreground="#FF333333"
+        Icon="Resources/logo.png"
         >
     <Grid>
         <StackPanel>

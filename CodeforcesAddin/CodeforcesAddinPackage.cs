@@ -34,26 +34,44 @@ namespace CodeforcesAddin
         private string[] _taskItems = {None};
         private string _currentTaskItem = None;
         private DTE _dte;
+        private readonly Codeforces _cf = Codeforces.Instance;
 
         #region Package Members
 
         protected override void Initialize()
         {
-           // System.Diagnostics.Debugger.Break();
+/*
             try
             {
+                var contest = 351;
+                var problem = 'B';
+                var language = 7;
+                var code = "print '" + Guid.NewGuid() + "'";
+
                 var cf = Codeforces.Instance;
                 cf.Login();
-                var id = cf.SubmitProgram(351, 'B', 7, "print 'test'" + Guid.NewGuid());
-                var html = cf.Post("/data/submitSource", "submissionId=" + id, string.Format("/contest/{0}/my", 351));
-                MessageBox.Show("Submition id: " + id);
+                var submissionId = cf.SubmitProgram(contest, problem, language, code);
+                if (submissionId > 0)
+                {
+                    var status = cf.GetSubmissionStatus(contest, submissionId);
+                    
+                    MessageBox.Show("Submition: " + status);
+                }
+                else if (submissionId == -2)
+                {
+                    MessageBox.Show("Ранее вы уже отсылали абсолютно такой же код");
+                }
+                else
+                {
+                    MessageBox.Show("Submission failed");
+                }
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Error: " + ex);
             }
             System.Diagnostics.Debugger.Break();
-
+*/
             base.Initialize();
 
             var service = GetService(typeof (IMenuCommandService)) as OleMenuCommandService;
@@ -62,6 +80,10 @@ namespace CodeforcesAddin
             var buttonCommit = new CommandID(GuidList.Default, PkgCmdIDList.ButtonCommit);
             _commitCommand = new OleMenuCommand(OnCommit, buttonCommit);
             service.AddCommand(_commitCommand);
+
+            var buttonCopy = new CommandID(GuidList.Default, PkgCmdIDList.ButtonCopy);
+            _copyCommand = new OleMenuCommand(OnCopy, buttonCopy);
+            service.AddCommand(_copyCommand);
 
             var buttonParse = new CommandID(GuidList.Default, PkgCmdIDList.ButtonParse);
             _parseCommand = new OleMenuCommand(OnParse, buttonParse);
@@ -83,9 +105,14 @@ namespace CodeforcesAddin
 
             _dte = (DTE)GetService(typeof (DTE));
             _dte.Events.WindowEvents.WindowActivated += OnWindowActivated;
-            
-            _testNames = _testItems.Select(c => TestPrefix + c).ToList();
-            _taskNames = _taskItems.Select(c => TaskPrefix + c).ToList();
+
+
+            /*_cf.OnLogged += () =>
+            {
+                _commitCommand.ParametersDescription = "test";
+                _commitCommand.Enabled = _cf.IsLogged;
+            };
+            _cf.Login();*/
         }
 
         private bool _isCorrectSolution;
@@ -93,8 +120,7 @@ namespace CodeforcesAddin
         private OleMenuCommand _combo1Command;
         private OleMenuCommand _combo2Command;
         private Project _currentProject;
-        private List<string> _testNames;
-        private List<string> _taskNames;
+        private OleMenuCommand _copyCommand;
         private OleMenuCommand _commitCommand;
         private OleMenuCommand _parseCommand;
 
@@ -113,7 +139,7 @@ namespace CodeforcesAddin
             ReadAvailableTests();
 
             _isActive = _currentProject != null && _isCorrectSolution;
-            _commitCommand.Enabled = _parseCommand.Enabled = _isActive;
+            _commitCommand.Enabled = _copyCommand.Enabled =  _parseCommand.Enabled = _isActive;
             _combo1Command.Enabled = _combo2Command.Enabled = _isActive;
             _combo1Command.Visible = _combo2Command.Visible = _isActive;
 
@@ -139,19 +165,28 @@ namespace CodeforcesAddin
             var testsPath = Path.Combine(projectPath, "Task" + _currentTaskItem, "Tests");
             var tests = Directory.EnumerateFiles(testsPath).Select(Path.GetFileName).Where(c => c.StartsWith("test") && c.EndsWith(".txt"))
                 .Select(c=>c.Substring(4, c.Length-8)).OrderBy(c=>c).ToList();
+            tests.Insert(0, None);
             tests.Add(All);
             _testItems = tests.ToArray();
         }
 
-        private void OnCommit(object sender, EventArgs e)
+        private void OnCopy(object sender, EventArgs e)
+        {
+            var code = PrepareCode();
+            Clipboard.SetText(code);
+        }
+
+        private string PrepareCode()
         {
             Check();
-            if (_currentProject == null) return;
+            if (_currentProject == null) return "";
+            if (_currentTaskItem == None) return "";
 
             var library = "";
             try
             {
                 var item = _currentProject.ProjectItems.Item("Library.cs");
+                if (!item.Saved) item.Save();
                 library = File.ReadAllText(item.FileNames[0]);
             }
             catch (Exception)
@@ -159,14 +194,24 @@ namespace CodeforcesAddin
                 MessageBox.Show("Your project doesn't contain Library.cs file. Default library will be used");
             }
 
+            var code = "";
             try
             {
-                var doc = _dte.ActiveDocument;
+                ProjectItem doc;
+                try
+                {
+                    var folder = _currentProject.ProjectItems.Item("Task" + _currentTaskItem);
+                    doc = folder.ProjectItems.Item("Task.cs");
+                }
+                catch (Exception)
+                {
+                    doc = _dte.ActiveDocument.ProjectItem;
+                }
                 if (doc != null)
                 {
-                    var code = File.ReadAllText(doc.FullName);
+                    if (!doc.Saved) doc.Save();
+                    code = File.ReadAllText(doc.FileNames[0]);
                     code = code.Replace("/*Library*/", library);
-                    Clipboard.SetText(code);
                     _dte.StatusBar.Text = "Code successfuly imported.";
                 }
                 else
@@ -176,10 +221,101 @@ namespace CodeforcesAddin
             }
             catch (Exception ex)
             {
+                code = "";
                 _dte.StatusBar.Text = "Your project doesn't contain Library.cs file. " + ex.Message;
             }
+            return code;
+        }
 
-            //SubmitWindow.Show();
+        private void OnCommit(object sender, EventArgs e)
+        {
+            Check();
+            if (_currentProject == null) return;
+
+            if (_currentTaskItem == None)
+            {
+                MessageBox.Show("Select task to submit");
+                return;
+            }
+
+            if (!_cf.IsLogged)
+            {
+                LoginWindow.Show(() =>
+                {
+                    if (!_cf.IsLogged) return;
+                    Commit();
+                });
+            }
+            else
+            {
+                Commit();
+            }
+        }
+
+        private int _lastContestId;
+        private Project _lastContestProject;
+
+        private void Commit()
+        {
+            if (_currentTaskItem == None)
+            {
+                MessageBox.Show("Select task to submit");
+                return;
+            }
+
+            var code = PrepareCode();
+            var problem = _currentTaskItem[0];
+            const int language = 29; //MS C#
+
+            var workingPath = Path.GetDirectoryName(_currentProject.FileName);
+            string error;
+            var branch = ParseWindow.Git("rev-parse --abbrev-ref HEAD", workingPath, out error);
+            Action<int> submit = contest =>
+            {
+                var submissionId = _cf.SubmitProgram(contest, problem, language, code);
+                if (!CheckSubmissionCode(submissionId)) return;
+                CommitWindow.Show(contest, submissionId);
+            };
+
+            if (!branch.StartsWith("@"))
+            {
+                if (_lastContestId > 0 && _lastContestProject == _currentProject)
+                {
+                    submit(_lastContestId);
+                }
+                else
+                {
+                    var result = MessageBox.Show("Unable to determine current contest id. Whould you like to enter it manually?", "Question", MessageBoxButton.YesNo);
+                    if (result != MessageBoxResult.Yes) return;
+                    SelectContestWindow.Show(contest =>
+                    {
+                        _lastContestId = contest;
+                        _lastContestProject = _currentProject;
+                        submit(contest);
+                    });
+                }
+            }
+            else
+            {
+                var contest = int.Parse(branch.Substring(1));
+                submit(contest);
+            }
+        }
+
+        private bool CheckSubmissionCode(long submissionId)
+        {
+            if (submissionId > 0) return true;
+            var error = "";
+            if (submissionId == -1)
+            {
+                error = "Submission failed";
+            }
+            else if (submissionId == -2)
+            {
+                error = "You've sent the same code before";
+            }
+            MessageBox.Show(error);
+            return false;
         }
 
         private void OnParse(object sender, EventArgs e)
@@ -210,10 +346,14 @@ namespace CodeforcesAddin
                     constants = new List<string>();
                     break;
             }
-            var task = constants.FirstOrDefault(c => _taskNames.Contains(c));
+
+            var _testNames = _testItems.Select(c => TestPrefix + c).ToList();
+            var _taskNames = _taskItems.Select(c => TaskPrefix + c).ToList();
+
+            var task = constants.FirstOrDefault(_taskNames.Contains);
             _currentTaskItem = task == null ? None : task.Substring(TaskPrefix.Length);
 
-            var test = constants.FirstOrDefault(c => _testNames.Contains(c));
+            var test = constants.FirstOrDefault(_testNames.Contains);
             _currentTestItem = test == null ? None : test.Substring(TestPrefix.Length);
 
         }
@@ -225,7 +365,7 @@ namespace CodeforcesAddin
             var config = project.ConfigurationManager.ActiveConfiguration;
             if (config == null) return;
             var constants = ((string)config.Properties.Item("DefineConstants").Value).Split(';')
-                .Where(c => !(c.StartsWith(TaskPrefix) && c.Length == TaskPrefix.Length + 1) && !(c.StartsWith(TestPrefix) && c.Length == TestPrefix.Length + 1)).ToList();
+                .Where(c => !(c.StartsWith(TaskPrefix) && c.Length == TaskPrefix.Length + 1) && !c.StartsWith(TestPrefix)).ToList();
             if (_currentTaskItem != None) constants.Add(TaskPrefix + _currentTaskItem);
             if (_currentTestItem != None) constants.Add(TestPrefix + _currentTestItem);
             config.Properties.Item("DefineConstants").Value = string.Join(";", constants);
