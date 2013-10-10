@@ -40,7 +40,7 @@ namespace Codeforces
             const char problem = 'A';
 #endif
 
-            var tests = new []{
+            var tests = new[]{
 #if TEST1
             1,
 #elif TEST2
@@ -78,8 +78,10 @@ namespace Codeforces
                 var results = new List<bool>();
                 foreach (var test in tests)
                 {
-                    var path = string.Format("Task{0}/Tests/test{1}.txt", problem, test);
+                    var path = string.Format("../../Task{0}/Tests/test{1}.txt", problem, test);
+
                     if (!File.Exists(path)) continue;
+                    if (!File.ReadLines(path).Any()) continue;
 
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.BackgroundColor = ConsoleColor.DarkGray;
@@ -89,7 +91,6 @@ namespace Codeforces
                     Console.WriteLine("*                            TASK {0}  TEST {1}                                   *", problem, test);
                     Console.WriteLine("*                                                                             *");
                     Console.WriteLine("*******************************************************************************");
-                    Console.WriteLine("\n");
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.BackgroundColor = ConsoleColor.Black;
                     var stream = new MemoryStream();
@@ -103,16 +104,26 @@ namespace Codeforces
                         Console.SetOut(writer);
                         var watch = new Stopwatch();
                         watch.Start();
-                        type.InvokeMember("Main", BindingFlags.Static | BindingFlags.InvokeMethod | BindingFlags.Public, null, null, null);
+                        try
+                        {
+                            type.InvokeMember("Main", BindingFlags.Static | BindingFlags.InvokeMethod | BindingFlags.Public, null, null, null);
+                            Console.SetOut(defaultOut);
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.SetOut(defaultOut);
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine("\n Error: {0}", ex);
+                        }
                         watch.Stop();
                         writer.Flush();
                         writer.Close();
                         stream.Flush();
-                        var output = Encoding.UTF8.GetString(stream.ToArray()).Replace("\r","");
-                        var correctOutput = File.ReadAllText(string.Format("Task{0}/Results/test{1}.txt", problem, test));
+                        var output = Encoding.UTF8.GetString(stream.ToArray()).Replace("\r", "");
+                        var input = File.ReadAllText(string.Format("../../Task{0}/Tests/test{1}.txt", problem, test));
+                        var correctOutput = File.ReadAllText(string.Format("../../Task{0}/Results/test{1}.txt", problem, test));
                         if (output.EndsWith("\n")) output = output.Substring(0, output.Length - 1);
                         ok = output == correctOutput;
-                        Console.SetOut(defaultOut);
                         if (!ok)
                         {
                             Console.ForegroundColor = ConsoleColor.White;
@@ -122,7 +133,9 @@ namespace Codeforces
                         }
                         else
                         {
-                            message = string.Format("Test {0} passed in {1}ms", test, watch.ElapsedMilliseconds);
+                            message = string.Format("\nTest {0} passed in {1}ms", test, watch.ElapsedMilliseconds);
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(input);
                             Console.ForegroundColor = ConsoleColor.Gray;
                             Console.WriteLine(output);
                         }
@@ -154,7 +167,6 @@ namespace Codeforces
                 if (tests.Count() > 1)
                 {
                     Console.WriteLine("\n");
-                    Console.WriteLine("*******************************************************************************");
                     if (results.All(c => c))
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -168,9 +180,8 @@ namespace Codeforces
                 }
             }
 
-            Console.WriteLine("\n");
-            //Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("\n\nPress any key to continue...");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
 
         }
