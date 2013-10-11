@@ -126,9 +126,13 @@ namespace Codeforces
                         ok = output == correctOutput;
                         if (!ok)
                         {
+                            Console.ForegroundColor = ConsoleColor.Gray;
+                            Console.WriteLine(" -- your output --");
                             Console.ForegroundColor = ConsoleColor.White;
                             Console.WriteLine(output);
-                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.ForegroundColor = ConsoleColor.Gray;
+                            Console.WriteLine(" -- correct output --");
+                            Console.ForegroundColor = ConsoleColor.Magenta;
                             Console.WriteLine(correctOutput);
                         }
                         else
