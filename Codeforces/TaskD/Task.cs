@@ -18,99 +18,169 @@ namespace Codeforces.TaskD
         {
             long n;
             Input.Next(out n);
-            var shoes = new Shoes[n];
+            var shoes = new List<Shoes>();
             for (var i = 0; i < n; i++)
             {
-                shoes[i].Index = i;
-                Input.Next(out shoes[i].Cost, out shoes[i].Size);
+                var shoe = new Shoes{Index = i};
+                shoes.Add(shoe);
+                Input.Next(out shoe.Cost, out shoe.Size);
             }
-            shoes = shoes.OrderBy(c => c.Size).ToArray();
-            var maxSize = shoes[n - 1].Size;
+            shoes = shoes.OrderBy(c => c.Size).ToList();
 
             long m;
             Input.Next(out m);
-            var customers = new Customer[m];
+            var customers = new List<Customer>();
             for (var i = 0; i < m; i++)
             {
-                customers[i].Index = i;
-                Input.Next(out customers[i].Money, out customers[i].Size);
+                var customer = new Customer{Index = i};
+                Input.Next(out customer.Money, out customer.Size);
             }
-            var groups = customers.OrderBy(c=>c.Money).GroupBy(c=>c.Size).OrderBy(c => c.Key).ToList();
-
-            var dp = new long[n + 1];
-            var dp1 = new long[n + 1];
-            bool b = true, b2 = true;  //shoes-before were bought
-            bool a = false, a2 = false; //allowed to buy shoews-before
-            var boughtBefore = -1;
+            var groups = customers.OrderBy(c => c.Money).GroupBy(c => c.Size).OrderBy(c => c.Key).ToList();
 
             var g = 0;
-            for (var i = 0; i < n; i++)
+            Shoes previousShoe = null;
+            foreach (var shoe in shoes)
             {
-                while (g < groups.Count && groups[g].Key < shoes[i].Size) g++;
-                var bought = false;
-                if (groups[g].Key == shoes[i].Size)
-                {
-                    if (groups[g].Any(c => c.Money >= shoes[i].Cost))
-                    {
-                        foreach (var customer in groups[g])
-                        {
-                            if (customer.Money < shoes[i].Cost) continue;
+                if (previousShoe != null && shoe.Size == previousShoe.Size + 1 && !shoe.Bought) shoe.Previous = previousShoe;
 
-                            if (customer.Index != boughtBefore)
+                while (g < groups.Count && groups[g].Key < shoe.Size) g++;
+                if (g >= groups.Count)
+                {
+                    if (shoe.Previous != null)
+                    {
+                        var p = shoe.Previous;
+                        while (p != null && p.InQuestion)
+                        {
+                            p.Bought = true;
+                            p.BoughtBy = p.Candidate;
+                            var a = p.Previous;
+                            p.Previous = null;
+                            p = a;
+                        }
+                    }
+                    shoe.Previous = null;
+                    break;
+                }
+                if (groups[g].Key == shoe.Size) //found customers with the same size
+                {
+                    var group = groups[g];
+                    Customer candidate = null;
+                    foreach (var customer in group)
+                    {
+                        if (customer.Money < shoe.Cost) continue;
+                        if (candidate == null)
+                        {
+                            candidate = customer;
+                            if (shoe.Previous != null)
                             {
-                                dp[i] = dp1[i - 1] + shoes[i].Cost;
-                                bought = true;
+                                shoe.Bought = true;
+                                shoe.BoughtBy = customer;
+                                candidate = null;
                                 break;
                             }
-                            dp[i] = Math.Max(dp1[i - 1], dp[i - 1] + shoes[i].Cost);
                         }
-                    }
-                    else
-                    {
-                        dp[i] = dp1[i];
-                    }
-                }
-                else
-                {
-                    dp[i] = dp1[i];
-                }
-
-                if (g == groups.Count - 1) break;
-                g++;
-                if (groups[g].Key == shoes[i].Size - 1)
-                {
-                    var money = 0;
-                    foreach (var customer in groups[g])
-                    {
-                        if (customer.Money < shoes[i].Cost) break;
-
-                        if (customer.Index != boughtBefore)
+                        else //this is second candidate with >= money
                         {
-                            dp[i] = Math.Max(dp[i], dp1[i - 1] + shoes[i].Cost);
+                            shoe.Bought = true;
+                            shoe.BoughtBy = customer;
+                            candidate = null;
+                            break;
                         }
-                        else
+                    }
+
+                    var canBuyPreviousShoe = false;
+
+                    if (shoe.Previous != null)
+                    {
+                        var cost = shoe.Previous.Cost;
+                        foreach (var customer in group)
                         {
-                            dp[i] = dp[i - 1] + shoes[i].Cost;
+                            if (customer == shoe.BoughtBy) continue;
+                            if (customer.Money < cost) continue;
+                            if (customer == candidate)
+                            {
+                                canBuyPreviousShoe = true;
+                                continue;
+                            }
+
+                            shoe.Previous.BoughtBy = customer;
+                            shoe.Previous.Bought = true;
+                            var p = shoe.Previous;
+                            while (p.Previous != null)
+                            {
+                                p.Previous.Bought = true;
+                                p.Previous.BoughtBy = p.Candidate;
+                                var a = p.Previous;
+                                p.Previous = null;
+                                p = a;
+                            }
+                            shoe.Previous = null;
+                            canBuyPreviousShoe = false;
+                            break;
                         }
-                        break;
+
+                        if (shoe.Previous != null && canBuyPreviousShoe)
+                        {
+                            if (shoe.Previous.Cost >= shoe.Cost)
+                            {
+                                shoe.Previous.BoughtBy = candidate;
+                                shoe.Previous.Bought = true;
+                                shoe.Previous = null;
+                            }
+                            else
+                            {
+                                shoe.InQuestion = true;
+                                shoe.Candidate = candidate;
+                            }
+                        }
+
+                        if (!shoe.InQuestion) shoe.Previous = null;
                     }
                 }
-                
+                else //no customers with such size
+                {
+                    if (shoe.Previous != null)
+                    {
+                        var p = shoe.Previous;
+                        while (p != null && p.InQuestion)
+                        {
+                            p.Bought = true;
+                            p.BoughtBy = p.Candidate;
+                            var a = p.Previous;
+                            p.Previous = null;
+                            p = a;
+                        }
+                    }
+                    shoe.Previous = null;
+                }
+                previousShoe = shoe;
+            }
+
+            var sum = shoes.Where(c => c.Bought).Sum(c => c.Cost);
+            Console.WriteLine(sum);
+            foreach (var shoe in shoes.Where(c => c.Bought))
+            {
+                Console.WriteLine("{0} {1}", shoe.Index, shoe.BoughtBy.Index);
             }
         }
     }
 
-    struct Customer
+    class Customer
     {
         public long Size;
         public long Money;
         public int Index;
     }
 
-    struct Shoes
+    class Shoes
     {
         public long Size;
         public long Cost;
         public int Index;
+        public bool Bought;
+        public bool InQuestion;
+        public Customer BoughtBy;
+        public Customer Candidate;
+        public Shoes Previous;
     }
 }
