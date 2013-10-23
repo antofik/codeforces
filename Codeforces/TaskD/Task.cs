@@ -11,7 +11,15 @@ namespace Codeforces.TaskD
         public static void Main()
         {
             var task = new Task();
-            task.Solve();
+            try
+            {
+                task.Solve();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+                throw;
+            }
         }
 
         void Solve()
@@ -34,6 +42,7 @@ namespace Codeforces.TaskD
             {
                 var customer = new Customer{Index = i};
                 Input.Next(out customer.Money, out customer.Size);
+                customers.Add(customer);
             }
             var groups = customers.OrderBy(c => c.Money).GroupBy(c => c.Size).OrderBy(c => c.Key).ToList();
 
@@ -41,126 +50,37 @@ namespace Codeforces.TaskD
             Shoes previousShoe = null;
             foreach (var shoe in shoes)
             {
-                if (previousShoe != null && shoe.Size == previousShoe.Size + 1 && !shoe.Bought) shoe.Previous = previousShoe;
-
                 while (g < groups.Count && groups[g].Key < shoe.Size) g++;
-                if (g >= groups.Count)
+                if (g < groups.Count && groups[g].Key == shoe.Size)
                 {
-                    if (shoe.Previous != null)
-                    {
-                        var p = shoe.Previous;
-                        while (p != null && p.InQuestion)
-                        {
-                            p.Bought = true;
-                            p.BoughtBy = p.Candidate;
-                            var a = p.Previous;
-                            p.Previous = null;
-                            p = a;
-                        }
-                    }
-                    shoe.Previous = null;
-                    break;
+                    shoe.Customers = groups[g].Where(c => c.Money >= shoe.Cost).ToList();
                 }
-                if (groups[g].Key == shoe.Size) //found customers with the same size
+
+                var previousG = g - 1;
+                if (previousG >= 0 && previousG < groups.Count && groups[previousG].Key == shoe.Size - 1)
                 {
-                    var group = groups[g];
-                    Customer candidate = null;
-                    foreach (var customer in group)
-                    {
-                        if (customer.Money < shoe.Cost) continue;
-                        if (candidate == null)
-                        {
-                            candidate = customer;
-                            if (shoe.Previous != null)
-                            {
-                                shoe.Bought = true;
-                                shoe.BoughtBy = customer;
-                                candidate = null;
-                                break;
-                            }
-                        }
-                        else //this is second candidate with >= money
-                        {
-                            shoe.Bought = true;
-                            shoe.BoughtBy = customer;
-                            candidate = null;
-                            break;
-                        }
-                    }
-
-                    var canBuyPreviousShoe = false;
-
-                    if (shoe.Previous != null)
-                    {
-                        var cost = shoe.Previous.Cost;
-                        foreach (var customer in group)
-                        {
-                            if (customer == shoe.BoughtBy) continue;
-                            if (customer.Money < cost) continue;
-                            if (customer == candidate)
-                            {
-                                canBuyPreviousShoe = true;
-                                continue;
-                            }
-
-                            shoe.Previous.BoughtBy = customer;
-                            shoe.Previous.Bought = true;
-                            var p = shoe.Previous;
-                            while (p.Previous != null)
-                            {
-                                p.Previous.Bought = true;
-                                p.Previous.BoughtBy = p.Candidate;
-                                var a = p.Previous;
-                                p.Previous = null;
-                                p = a;
-                            }
-                            shoe.Previous = null;
-                            canBuyPreviousShoe = false;
-                            break;
-                        }
-
-                        if (shoe.Previous != null && canBuyPreviousShoe)
-                        {
-                            if (shoe.Previous.Cost >= shoe.Cost)
-                            {
-                                shoe.Previous.BoughtBy = candidate;
-                                shoe.Previous.Bought = true;
-                                shoe.Previous = null;
-                            }
-                            else
-                            {
-                                shoe.InQuestion = true;
-                                shoe.Candidate = candidate;
-                            }
-                        }
-
-                        if (!shoe.InQuestion) shoe.Previous = null;
-                    }
+                    shoe.PreviousCustomers = groups[previousG].Where(c => c.Money >= shoe.Cost).ToList();
                 }
-                else //no customers with such size
+                if (previousShoe != null && previousShoe.Size + 1 == shoe.Size)
                 {
-                    if (shoe.Previous != null)
-                    {
-                        var p = shoe.Previous;
-                        while (p != null && p.InQuestion)
-                        {
-                            p.Bought = true;
-                            p.BoughtBy = p.Candidate;
-                            var a = p.Previous;
-                            p.Previous = null;
-                            p = a;
-                        }
-                    }
-                    shoe.Previous = null;
+                    previousShoe.Next = shoe;
+                    shoe.Previous = previousShoe;
                 }
                 previousShoe = shoe;
             }
 
+            for (var i=0;i<shoes.Count;i++)
+            {
+                shoes[i].Buy();
+                while (i < shoes.Count && shoes[i].Next != null) i++;
+            }
+
             var sum = shoes.Where(c => c.Bought).Sum(c => c.Cost);
             Console.WriteLine(sum);
-            foreach (var shoe in shoes.Where(c => c.Bought))
+            Console.WriteLine(shoes.Count(c => c.Bought));
+            foreach (var shoe in shoes.Where(c => c.Bought).OrderByDescending(c=>c.Index))
             {
-                Console.WriteLine("{0} {1}", shoe.Index, shoe.BoughtBy.Index);
+                Console.WriteLine("{0} {1}", shoe.BoughtBy.Index + 1, shoe.Index + 1);
             }
         }
     }
@@ -181,6 +101,82 @@ namespace Codeforces.TaskD
         public bool InQuestion;
         public Customer BoughtBy;
         public Customer Candidate;
-        public Shoes Previous;
+
+        public long BuyThisSum;
+        public long BuyNextSum;
+
+        public Shoes Next, Previous;
+        public List<Customer> Customers = new List<Customer>();
+        public List<Customer> PreviousCustomers = new List<Customer>();
+
+        public override string ToString()
+        {
+            return
+                string.Format("Size:{0} Cost:{1} Index:{2} Bought:{3} InQuestion:{4} BoughtBy:{5} Candidate:{6} BuyThisSum:{7} BuyNextSum:{8}",
+                    Size, Cost, Index, Bought, InQuestion, BoughtBy, Candidate, BuyThisSum, BuyNextSum);
+        }
+
+        public void Buy()
+        {
+            if (PreviousCustomers.Any())
+            {
+                Bought = true;
+                BoughtBy = PreviousCustomers.First();
+            }
+            else if (Customers.Count>1)
+            {
+                Bought = true;
+                BoughtBy = Customers.First();
+                if (Next != null) Next.PreviousCustomers.Remove(BoughtBy);
+            }
+            else if (Customers.Count==1)
+            {
+                if (Next == null || !Next.PreviousCustomers.Contains(Customers[0]) || Next.PreviousCustomers.Count>1
+                    || ((Previous == null || !Previous.InQuestion) && Next.Cost <= Cost))
+                {
+                    Bought = true;
+                    BoughtBy = Customers[0];
+                    if (Next != null) Next.PreviousCustomers.Remove(BoughtBy);
+                }
+                else
+                {
+                    Candidate = Customers[0];
+                    InQuestion = true;
+                    Next.PreviousCustomers.Remove(Candidate);
+                    BuyThisSum = Cost;
+                    BuyNextSum = Next.Cost;
+                    if (Previous != null && Previous.InQuestion)
+                    {
+                        BuyThisSum += Previous.BuyThisSum;
+                        BuyNextSum += Math.Max(Previous.BuyThisSum, Previous.BuyNextSum);
+                    }
+                }
+            }
+            if (!InQuestion && Previous != null && Previous.InQuestion) Previous.Resolve();
+            if (Next != null) Next.Buy();
+        }
+
+        private void Resolve()
+        {
+            if (Next.Bought)
+            {
+                Bought = true;
+                BoughtBy = Candidate;
+            }
+            else
+            {
+                if (BuyThisSum >= BuyNextSum)
+                {
+                    Bought = true;
+                    BoughtBy = Candidate;
+                }
+                else
+                {
+                    Next.Bought = true;
+                    Next.BoughtBy = Candidate;
+                }
+            }
+            if (Previous != null && Previous.InQuestion) Previous.Resolve();
+        }
     }
 }
