@@ -15,28 +15,47 @@ namespace Codeforces.TaskB
         {
             long n, m;
             Input.Next(out n);
-            var a = new Point[n+1];
-            for (var i = 0; i < n; i++) Input.Next(out a[i].X, out a[i].Y);
-            a[n] = a[0];
+            var A = new Point[n];
+            for (var i = 0; i < n; i++) Input.Next(out A[i].X, out A[i].Y);
 
             Input.Next(out m);
             var B = new Point[m];
             for (var i = 0; i < m; i++) Input.Next(out B[i].X, out B[i].Y);
 
-            Point v1, v2;
+            var C = A[0];
+
+            for (var i = 0; i < n; i++)
+            {
+                A[i].X -= C.X;
+                A[i].Y -= C.Y;
+            }
+            for (var i = 0; i < m; i++)
+            {
+                B[i].X -= C.X;
+                B[i].Y -= C.Y;
+            }
+
             foreach (var b in B)
             {
-                for (var i = 0; i < n; i++)
+                var l = 1L;
+                var r = n - 1;
+
+                if (!(A[l] < b) || !(A[r] > b))
                 {
-                    v1.X = a[i + 1].X - a[i].X;
-                    v1.Y = a[i + 1].Y - a[i].Y;
-                    v2.X = b.X - a[i].X;
-                    v2.Y = b.Y - a[i].Y;
-                    var r = v1.X*v2.Y - v1.Y*v2.X;
-                    if (r < 0) continue;
                     Console.WriteLine("NO");
                     return;
                 }
+
+                while (r > l + 1)
+                {
+                    var i = (l + r)/2;
+                    if (A[i] > b) r = i;
+                    else l = i;
+                }
+
+                if (A[l + 1] - A[l] < b - A[l]) continue;
+                Console.WriteLine("NO");
+                return;
             }
             Console.WriteLine("YES");
         }
@@ -45,6 +64,29 @@ namespace Codeforces.TaskB
         {
             public long X;
             public long Y;
+
+            public static Point operator -(Point p1, Point p2)
+            {
+                Point p;
+                p.X = p1.X - p2.X;
+                p.Y = p1.Y - p2.Y;
+                return p;
+            }
+
+            public static bool operator >(Point p1, Point p2)
+            {
+                return p1.X*p2.Y - p1.Y*p2.X > 0;
+            }
+
+            public static bool operator <(Point p1, Point p2)
+            {
+                return p1.X*p2.Y - p1.Y*p2.X < 0;
+            }
+
+            public override string ToString()
+            {
+                return string.Format("({0},{1})", X, Y);
+            }
         }
     }
 
