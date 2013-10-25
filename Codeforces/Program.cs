@@ -126,17 +126,29 @@ namespace Codeforces
                         ok = output == correctOutput;
                         if (!ok)
                         {
+                            Console.ForegroundColor = ConsoleColor.Gray;
+                            Console.WriteLine(" -- input --");
                             Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(input);
+                            Console.ForegroundColor = ConsoleColor.Gray;
+                            Console.WriteLine(" -- your output --");
+                            Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine(output);
-                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.ForegroundColor = ConsoleColor.Gray;
+                            Console.WriteLine(" -- correct output --");
+                            Console.ForegroundColor = ConsoleColor.Green;
                             Console.WriteLine(correctOutput);
+
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.WriteLine("\nPress any key to continue...");
+                            Console.ReadKey();
                         }
                         else
                         {
                             message = string.Format("\nTest {0} passed in {1}ms", test, watch.ElapsedMilliseconds);
                             Console.ForegroundColor = ConsoleColor.White;
                             Console.WriteLine(input);
-                            Console.ForegroundColor = ConsoleColor.Gray;
+                            Console.ForegroundColor = ConsoleColor.Green;
                             Console.WriteLine(output);
                         }
                     }
