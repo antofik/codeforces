@@ -343,4 +343,43 @@ namespace Codeforces
             set { _data[i, j] = value % Modulo; }
         }
     }
+
+    public static class ListExtensions
+    {
+        /// <summary>
+        /// Assumes items are sorted (asc)
+        /// Returns index of the last item, which is less or equal to given
+        /// </summary>
+        public static int FindLeftItem(this IList<long> items, long item, int l = 0)
+        {
+            var r = items.Count - 1;
+            if (r < 0) return -1;
+            if (items[l] > item) return -1;
+            while (r > l)
+            {
+                var m = (l + r + 1)/2;
+                if (items[m] <= item) l = m;
+                else r = m - 1;
+            }
+            return l;
+        }
+        /// <summary>
+        /// Assumes items are sorted (asc)
+        /// Returns index of the first item, which is greater or equal to given
+        /// </summary>
+        public static int FindRightItem(this IList<long> items, long item)
+        {
+            var l = 0;
+            var r = items.Count - 1;
+            if (r < 0) return -1;
+            if (items[r] < item) return -1;
+            while (r > l)
+            {
+                var m = (l + r)/2;
+                if (items[m] >= item) r = m;
+                else l = m + 1;
+            }
+            return r;
+        }
+    }
 }
