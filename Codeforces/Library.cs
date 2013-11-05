@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 
@@ -341,6 +342,132 @@ namespace Codeforces
         {
             get { return _data[i, j]; }
             set { _data[i, j] = value % Modulo; }
+        }
+    }
+
+    public sealed class Graph<V, E>
+    {
+        /// <summary>
+        /// Size of graph
+        /// </summary>
+        public readonly long N;
+
+        private readonly SortedSet<long>[] _edges;
+        private readonly Dictionary<Tuple<long, long>, E> _edgeInfo = new Dictionary<Tuple<long, long>, E>();
+        private readonly Dictionary<long, V> _vertexInfo = new Dictionary<long, V>();
+
+        public Graph(long n)
+        {
+            N = n;
+            _edges = new SortedSet<long>[N];
+            for (var i = 0; i < N; i++)
+            {
+                _edges[i] = new SortedSet<long>();
+            }
+        }
+
+        /// <summary>
+        /// Add edge between vertixes
+        /// a,b - [0..N)
+        /// </summary>
+        public void Add(long a, long b)
+        {
+            _edges[a].Add(b);
+            _edges[b].Add(a);
+        }
+
+        /// <summary>
+        /// TRUE is exists edge from a to b
+        /// </summary>
+        public bool AreConnected(long a, long b)
+        {
+            return _edges[a].Contains(b);
+        }
+
+        /// <summary>
+        /// Removes edge between a and b
+        /// </summary>
+        public void Remove(long a, long b)
+        {
+            _edges[a].Remove(b);
+            _edges[b].Remove(a);
+        }
+
+        /// <summary>
+        /// Removes all edges from vertex a
+        /// </summary>
+        public void ClearVertex(long a)
+        {
+            foreach (var b in _edges[a])
+            {
+                _edges[b].Remove(a);
+            }
+            _edges[a].Clear();
+        }
+
+        /// <summary>
+        /// Returns count of edges for given vertex
+        /// </summary>
+        public long GetEdgeCount(long a)
+        {
+            return _edges[a].Count;
+        }
+
+        /// <summary>
+        /// Returns vertexes, linked to given
+        /// </summary>
+        public SortedSet<long> GetLinkedVertexes(long a)
+        {
+            return _edges[a];
+        }
+
+        /// <summary>
+        /// Returns vertex information 
+        /// </summary>
+        public V this[long v]
+        {
+            get
+            {
+                V info;
+                if (!_vertexInfo.TryGetValue(v, out info))
+                {
+                    info = default(V);
+                    _vertexInfo[v] = info;
+                }
+                return info;
+            }
+            set
+            {
+                _vertexInfo[v] = value;
+            }
+        }
+
+        /// <summary>
+        /// Returns edge information 
+        /// </summary>
+        public E this[long a, long b]
+        {
+            get
+            {
+                var key = a > b
+                    ? new Tuple<long, long>(b, a)
+                    : new Tuple<long, long>(a, b);
+
+                E info;
+                if (!_edgeInfo.TryGetValue(key, out info))
+                {
+                    info = default(E);
+                    _edgeInfo[key] = info;
+                }
+                return info;
+            }
+            set
+            {
+                var key = a > b
+                    ? new Tuple<long, long>(b, a)
+                    : new Tuple<long, long>(a, b);
+                _edgeInfo[key] = value;
+            }
         }
     }
 }
