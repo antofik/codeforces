@@ -1,0 +1,8 @@
+#   include &lt;cstdio&gt;
+
+using namespace std;
+
+int main     (   ){
+puts(&quot;Hello # World&quot;); #
+#
+}
