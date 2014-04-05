@@ -19,12 +19,14 @@ namespace Codeforces.TaskA
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(ex);
                 throw;
-            }
+            }   
         }
 
         void Solve()
         {
-
+            long n, x, y;
+            Input.Next(out n, out x, out y);
+            Console.WriteLine(Math.Max(0, Math.Ceiling(n*y/100.0) - x));
         }
     }
 }

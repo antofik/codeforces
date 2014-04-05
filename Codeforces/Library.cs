@@ -12,7 +12,7 @@ namespace Codeforces
         public static bool Next()
         {
             _line = Console.ReadLine();
-            return !string.IsNullOrEmpty(_line);
+            return _line != null;
         }
 
         public static bool Next(out long a)

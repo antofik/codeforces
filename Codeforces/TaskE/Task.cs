@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+
 /*Library*/
 
 namespace Codeforces.TaskE
@@ -24,10 +26,8 @@ namespace Codeforces.TaskE
         {
             if (a == 0) return false;
             if (!Check(a, b%a)) return true;
-            return (b/a)%(a + 1)%2 == 0;
-            var c = b/a - 1;
-            if (a%2 == 1) return c%2 == 1;
-            return c%(a+1)==1;
+            var c = b/a;
+            return c%(a+1)%2==0;
         }
 
         void Solve()
@@ -35,6 +35,7 @@ namespace Codeforces.TaskE
             long t;
             Input.Next(out t);
 
+            var l = new List<string>();
             for (var i = 0; i < t; i++)
             {
                 long a, b;
@@ -45,8 +46,9 @@ namespace Codeforces.TaskE
                     b = a;
                     a = c;
                 }
-                Console.WriteLine(Check(a,b) ? "First" : "Second");
+                l.Add(Check(a,b) ? "First" : "Second");
             }
+            Console.WriteLine(string.Join(Environment.NewLine, l));
         }
     }
 }
