@@ -1,30 +1,36 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 /*Library*/
+using System.Collections.Generic;
 
-namespace Codeforces.Task/*#*/
+namespace Codeforces.Task
 {
     public class Task
     {
         public static void Main()
         {
             var task = new Task();
-            try
-            {
-                task.Solve();
-            }
-            catch (Exception ex)
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(ex);
-                throw;
-            }
+            task.Solve();
         }
 
         void Solve()
         {
+            var tree = new RedBlackTree<int, Guid>();
+            var rand = new Random();
 
+            var l = new List<int>();
+            for (var i = 0; i < 10000; i++)
+            {
+                var key = rand.Next(0, 10000);
+                tree[key] = Guid.NewGuid();
+                if (rand.Next(4)==1) l.Add(key);
+            }
+
+            foreach (var key in l)
+            {
+                tree.Remove(key);
+            }
+
+           // tree.Print();
         }
     }
 }
