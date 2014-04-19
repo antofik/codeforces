@@ -95,9 +95,92 @@ namespace Codeforces
             return ok;
         }
 
+        public static bool Next(out int a)
+        {
+            var ok = Next();
+            a = ok ? int.Parse(_line) : 0;
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+            }
+            else
+            {
+                a = b = 0;
+            }
+
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b, out int c)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+            }
+            else
+            {
+                a = b = c = 0;
+            }
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b, out int c, out int d)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+            }
+            else
+            {
+                a = b = c = d = 0;
+            }
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b, out int c, out int d, out int e)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+                e = array[4];
+            }
+            else
+            {
+                a = b = c = d = e = 0;
+            }
+            return ok;
+        }
+
         public static List<long> Numbers()
         {
             return !Next() ? new List<long>() : _line.Split(' ').Select(long.Parse).ToList();
+        }
+
+        public static List<int> NumbersInt()
+        {
+            return !Next() ? new List<int>() : _line.Split(' ').Select(int.Parse).ToList();
         }
 
         public static bool Next(out string value)
