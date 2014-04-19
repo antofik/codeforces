@@ -119,10 +119,9 @@ namespace Codeforces
                         writer.Flush();
                         writer.Close();
                         stream.Flush();
-                        var output = Encoding.UTF8.GetString(stream.ToArray()).Replace("\r", "");
+                        var output = Encoding.UTF8.GetString(stream.ToArray()).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
                         var input = File.ReadAllText(string.Format("../../Task{0}/Tests/test{1}.txt", problem, test));
-                        var correctOutput = File.ReadAllText(string.Format("../../Task{0}/Results/test{1}.txt", problem, test));
-                        if (output.EndsWith("\n")) output = output.Substring(0, output.Length - 1);
+                        var correctOutput = File.ReadAllText(string.Format("../../Task{0}/Results/test{1}.txt", problem, test)).Trim(new[] { ' ', '\t', '\n' });
                         ok = output == correctOutput;
                         if (!ok)
                         {
