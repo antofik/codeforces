@@ -1,8 +1,9 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 using System.Linq;
 /*Library*/
 
-namespace Codeforces.Task/*#*/
+namespace Codeforces.TaskC
 {
     public class Task
     {
@@ -23,6 +24,7 @@ namespace Codeforces.Task/*#*/
 
         void Solve()
         {
+
         }
     }
 }
