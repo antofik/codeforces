@@ -95,9 +95,92 @@ namespace Codeforces
             return ok;
         }
 
-        public static List<long> Numbers()
+        public static bool Next(out int a)
         {
-            return !Next() ? new List<long>() : _line.Split(' ').Select(long.Parse).ToList();
+            var ok = Next();
+            a = ok ? int.Parse(_line) : 0;
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+            }
+            else
+            {
+                a = b = 0;
+            }
+
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b, out int c)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+            }
+            else
+            {
+                a = b = c = 0;
+            }
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b, out int c, out int d)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+            }
+            else
+            {
+                a = b = c = d = 0;
+            }
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b, out int c, out int d, out int e)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+                e = array[4];
+            }
+            else
+            {
+                a = b = c = d = e = 0;
+            }
+            return ok;
+        }
+
+        public static IEnumerable<long> ArrayLong()
+        {
+            return !Next() ? new List<long>() : _line.Split().Select(long.Parse);
+        }
+
+        public static IEnumerable<int> ArrayInt()
+        {
+            return !Next() ? new List<int>() : _line.Split().Select(int.Parse);
         }
 
         public static bool Next(out string value)
@@ -221,8 +304,8 @@ namespace Codeforces
         private readonly int _width;
         private readonly int _height;
         private readonly long[,] _data;
-        public int Width{get { return _width; }}
-        public int Height{get { return _height; }}
+        public int Width { get { return _width; } }
+        public int Height { get { return _height; } }
 
         private Matrix(int i, int j)
         {
@@ -237,11 +320,11 @@ namespace Codeforces
             if (m1.Width != m2.Height) throw new InvalidDataException("m1.Width != m2.Height");
             var m = Create(m2.Width, m1.Height);
             m.Modulo = m1.Modulo;
-            for (var i=0;i<m2.Width;i++)
+            for (var i = 0; i < m2.Width; i++)
                 for (var j = 0; j < m1.Height; j++)
                 {
                     for (var k = 0; k < m1.Width; k++)
-                        m[j, i] += (m1[j, k]*m2[k, i]) % m1.Modulo;
+                        m[j, i] += (m1[j, k] * m2[k, i]) % m1.Modulo;
                     m[j, i] %= m1.Modulo;
                 }
             return m;
@@ -250,7 +333,7 @@ namespace Codeforces
         public static Matrix operator +(Matrix m1, Matrix m2)
         {
             var m = m1.Clone();
-            for (var i=0;i<m2.Width;i++)
+            for (var i = 0; i < m2.Width; i++)
                 for (var j = 0; j < m1.Height; j++)
                     m[j, i] = (m[j, i] + m2[j, i]) % m1.Modulo;
             return m;
@@ -259,7 +342,7 @@ namespace Codeforces
         public static Matrix operator -(Matrix m1, Matrix m2)
         {
             var m = m1.Clone();
-            for (var i=0;i<m2.Width;i++)
+            for (var i = 0; i < m2.Width; i++)
                 for (var j = 0; j < m1.Height; j++)
                     m[j, i] = (m[j, i] - m2[j, i]) % m1.Modulo;
             return m;
@@ -268,22 +351,22 @@ namespace Codeforces
         public static Matrix operator *(Matrix m1, long l)
         {
             var m = m1.Clone();
-            for (var i=0;i<m1.Width;i++)
-                for (var j=0;j<m1.Height;j++)
-                        m[j, i] = (m[j, i] * l) % m.Modulo;
+            for (var i = 0; i < m1.Width; i++)
+                for (var j = 0; j < m1.Height; j++)
+                    m[j, i] = (m[j, i] * l) % m.Modulo;
             return m;
         }
 
         public static Matrix operator *(long l, Matrix m1)
         {
-            return m1*l;
+            return m1 * l;
         }
 
         public static Matrix operator +(Matrix m1, long l)
         {
             var m = m1.Clone();
             for (var i = 0; i < m1.Width; i++)
-                    m[i, i] = (m[i, i] + l) % m.Modulo;
+                m[i, i] = (m[i, i] + l) % m.Modulo;
             return m;
         }
 
@@ -315,7 +398,7 @@ namespace Codeforces
                 l -= i;
                 while (n < i)
                 {
-                    m = m*m;
+                    m = m * m;
                     n <<= 1;
                 }
                 result *= m;
