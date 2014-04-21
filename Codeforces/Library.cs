@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 
@@ -771,5 +772,38 @@ namespace Codeforces
         }
 
         #endregion
+    }
+
+    public class Sorting
+    {
+        public static T[] MergeSort<T>(int l, int r, IList<T> array, Comparer<T> comparer = null)
+        {
+            if (l >= r) return array.Skip(l).Take(r - l + 1).ToArray();
+            var m = (l + r)/2;
+            var left = MergeSort(l, m, array, comparer);
+            var right = MergeSort(m + 1, r, array, comparer);
+
+            var result = new T[r - l + 1];
+
+            var i = 0;
+            var j = 0;
+            for(var k=0;k<result.Length;k++)
+            {
+                if (i >= left.Length)
+                {
+                    result[k] = right[j++];
+                }
+                else if (j >= right.Length)
+                {
+                    result[k] = left[i++];
+                }
+                else
+                {
+                    var cmp = (comparer ?? Comparer<T>.Default).Compare(left[i], right[j]);
+                    result[k] = cmp > 0 ? right[j++] : left[i++];
+                }
+            }
+            return result;
+        }
     }
 }
