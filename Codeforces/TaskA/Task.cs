@@ -1,6 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 /*Library*/
 
@@ -25,7 +23,20 @@ namespace Codeforces.TaskA
 
         void Solve()
         {
+            int k, a, b, v;
+            Input.Next(out k, out a, out b, out v);
 
+            var count = 0;
+            while (a > 0)
+            {
+                var d = Math.Min(b, k - 1);
+                b -= d;
+                var volume = (d + 1)*v;
+                a -= volume;
+                count++;
+            }
+
+            Console.WriteLine(count);
         }
     }
 }
