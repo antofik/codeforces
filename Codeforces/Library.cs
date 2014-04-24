@@ -173,6 +173,84 @@ namespace Codeforces
             return ok;
         }
 
+        public static bool Next(out double a)
+        {
+            var ok = Next();
+            a = ok ? double.Parse(_line) : 0;
+            return ok;
+        }
+
+        public static bool Next(out double a, out double b)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(double.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+            }
+            else
+            {
+                a = b = 0;
+            }
+
+            return ok;
+        }
+
+        public static bool Next(out double a, out double b, out double c)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(double.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+            }
+            else
+            {
+                a = b = c = 0;
+            }
+            return ok;
+        }
+
+        public static bool Next(out double a, out double b, out double c, out double d)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(double.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+            }
+            else
+            {
+                a = b = c = d = 0;
+            }
+            return ok;
+        }
+
+        public static bool Next(out double a, out double b, out double c, out double d, out double e)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(double.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+                e = array[4];
+            }
+            else
+            {
+                a = b = c = d = e = 0;
+            }
+            return ok;
+        }
+
         public static IEnumerable<long> ArrayLong()
         {
             return !Next() ? new List<long>() : _line.Split().Select(long.Parse);
