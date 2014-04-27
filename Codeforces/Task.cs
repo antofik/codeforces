@@ -11,16 +11,7 @@ namespace Codeforces.Task/*#*/
         public static void Main()
         {
             var task = new Task();
-            try
-            {
-                task.Solve();
-            }
-            catch (Exception ex)
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(ex);
-                throw;
-            }
+            task.Solve();
         }
 
         void Solve()
