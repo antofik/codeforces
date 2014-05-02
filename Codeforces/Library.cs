@@ -175,6 +175,26 @@ namespace Codeforces
             return ok;
         }
 
+        public static bool Next(out int a, out int b, out int c, out int d, out int e, out int f)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+                e = array[4];
+                f = array[5];
+            }
+            else
+            {
+                a = b = c = d = e = f = 0;
+            }
+            return ok;
+        }
+
         public static IEnumerable<long> ArrayLong()
         {
             return !Next() ? new List<long>() : _line.Split().Select(long.Parse);
