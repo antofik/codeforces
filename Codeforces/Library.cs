@@ -852,6 +852,31 @@ namespace Codeforces
     public class Primes
     {
         /// <summary>
+        /// Primity test
+        /// </summary>
+        public static bool IsPrime(long n)
+        {
+            if (n%2 == 0) return false;
+            for (var i = 3; i <= Math.Sqrt(n) + 1; i += 2)
+                if (n%i == 0)
+                    return false;
+            return true;
+        }
+
+        /// <summary>
+        /// Primity test
+        /// </summary>
+        public static bool IsPrime(long n, IEnumerable<int> pr)
+        {
+            foreach(var p in pr)
+                if (p*p > n)
+                    break;
+                else if (n%p == 0)
+                    return false;
+            return true;
+        }
+
+        /// <summary>
         /// Returns prime numbers in O(n)
         /// Returns lowet divisors as well
         /// Memory O(n)
@@ -885,7 +910,7 @@ namespace Codeforces
         /// <summary>
         /// Returns prime numbers in O(n*n)
         /// </summary>
-        public static void SieveOfEratosthenes(int n, out List<int> pr)
+        public static void SieveOfEratosthenes(long n, out List<int> pr)
         {
             var m = 50000;//(int)(3l*n/(long)Math.Log(n)/2);
             pr = new List<int>();
@@ -969,5 +994,4 @@ namespace Codeforces
             if (n != 1) yield return n;
         }
     }
-
 }
