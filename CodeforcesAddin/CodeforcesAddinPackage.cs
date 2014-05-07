@@ -182,12 +182,21 @@ namespace CodeforcesAddin
             if (_currentProject == null) return "";
             if (_currentTaskItem == None) return "";
 
-            var library = "";
+            var libraryUsings = "";
+            var libraryCode = "";
             try
             {
                 var item = _currentProject.ProjectItems.Item("Library.cs");
                 if (!item.Saved) item.Save();
-                library = File.ReadAllText(item.FileNames[0]);
+                var lines = File.ReadAllLines(item.FileNames[0]);
+                int i;
+                for (i = 0; i < lines.Count(); i++)
+                {
+                    var line = lines[i];
+                    if (!line.StartsWith("using ")) break;
+                    libraryUsings += line + Environment.NewLine;
+                }
+                libraryCode = string.Join(Environment.NewLine, lines.Skip(i));
             }
             catch (Exception)
             {
@@ -211,7 +220,7 @@ namespace CodeforcesAddin
                 {
                     if (!doc.Saved) doc.Save();
                     code = File.ReadAllText(doc.FileNames[0]);
-                    code = code.Replace("/*Library*/", library);
+                    code = string.Format("{0}{1}{2}", libraryUsings, code, libraryCode);
                     _dte.StatusBar.Text = "Code successfuly imported.";
                 }
                 else

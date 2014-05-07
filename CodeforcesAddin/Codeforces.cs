@@ -54,6 +54,8 @@ namespace CodeforcesAddin
         public string GetCrlf(string url)
         {
             var html = GetHtml(url);
+            if (html.Contains("href=\"/enter\""))
+                IsLogged = false;
             return Regex.Match(html, @"name='csrf_token' value='(?<csrf>[^']+)?'").Groups["csrf"].Value;
         }
 
@@ -200,7 +202,7 @@ namespace CodeforcesAddin
         public SubmissionStatus GetSubmissionStatus(long contest, long submissionId)
         {
             SubmissionStatus status;
-            var html = Post("/data/submitSource", "submissionId=" + submissionId, string.Format("/contest/{0}/my", contest));
+            var html = Post("/data/submitSource", "submissionId=" + submissionId, string.Format("/contest/{0}/my", contest), true);
             var serializer = new DataContractJsonSerializer(typeof(SubmissionStatus));
             using (var stream = new MemoryStream(Encoding.UTF8.GetBytes(html)))
             {
@@ -233,12 +235,18 @@ namespace CodeforcesAddin
                 {
                     var verdict = get("verdict", i);
                     if (verdict == null) break;
+                    int memory;
+                    if (int.TryParse(get("memoryConsumed", i), out memory))
+                        memory /= 1024;
+                    else
+                        memory = -1;
+
                     var item = new SubmissionTestStatus
                     {
                         Number = i,
                         Verdict = verdict,
                         Answer = get("answer", i),
-                        Memory = get("memoryConsumed", i),
+                        Memory = memory != -1 ? memory.ToString(CultureInfo.InvariantCulture) : get("memoryConsumed", i),
                         Time = get("timeConsumed", i),
                         Input = get("input", i),
                         Output = get("output", i),
@@ -255,9 +263,14 @@ namespace CodeforcesAddin
         /// <summary>
         /// Performs POST request
         /// </summary>
-        public string Post(string url, string data, string csrfUrl = null)
+        public string Post(string url, string data, string csrfUrl = null, bool loginCheck = false)
         {
             var csrf = GetCrlf(csrfUrl ?? url);
+            if (!IsLogged && loginCheck)
+            {
+                Login();
+                csrf = GetCrlf(csrfUrl ?? url);
+            }
             data = string.Format("csrf_token={0}&{1}", csrf, data);
             var request = (HttpWebRequest)WebRequest.Create(BaseUrl + url);
             request.Method = WebRequestMethods.Http.Post;
@@ -295,7 +308,7 @@ namespace CodeforcesAddin
         public bool Login()
         {
             if (string.IsNullOrEmpty(_login) || string.IsNullOrEmpty(_password)) return false;
-            var html = Post("/enter", string.Format("action=enter&handle={0}&password={1}&_tta=740&remember=on", _login, _password));
+            var html = Post("/enter", string.Format("action=enter&handle={0}&password={1}&_tta=999999&remember=on", _login, _password));
             return (IsLogged = html.Contains("/data/update-online"));
         }
 
