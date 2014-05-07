@@ -2,8 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Numerics;
 
 namespace Codeforces
 {
@@ -169,6 +171,26 @@ namespace Codeforces
             else
             {
                 a = b = c = d = e = 0;
+            }
+            return ok;
+        }
+
+        public static bool Next(out int a, out int b, out int c, out int d, out int e, out int f)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(int.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+                e = array[4];
+                f = array[5];
+            }
+            else
+            {
+                a = b = c = d = e = f = 0;
             }
             return ok;
         }
@@ -829,6 +851,11 @@ namespace Codeforces
     /// </summary>
     public class Primes
     {
+        /// <summary>
+        /// Returns prime numbers in O(n)
+        /// Returns lowet divisors as well
+        /// Memory O(n)
+        /// </summary>
         public static void ImprovedSieveOfEratosthenes(int n, out int[] lp, out List<int> pr)
         {
             lp = new int[n];
@@ -853,6 +880,93 @@ namespace Codeforces
                     }
                 }
             }
+        }
+
+        /// <summary>
+        /// Returns prime numbers in O(n*n)
+        /// </summary>
+        public static void SieveOfEratosthenes(int n, out List<int> pr)
+        {
+            var m = 50000;//(int)(3l*n/(long)Math.Log(n)/2);
+            pr = new List<int>();
+            var f = new bool[m];
+            for (var i = 2; i * i <= n; i++)
+                if (!f[i])
+                    for (var j = (long)i * i; j < m && j * j < n; j += i)
+                        f[j] = true;
+            pr.Add(2);
+            for (var i = 3; i * i <= n; i += 2)
+                if (!f[i])
+                    pr.Add(i);
+        }
+
+        /// <summary>
+        /// Greatest common divisor 
+        /// </summary>
+        public static int Gcd(int x, int y)
+        {
+            while (y != 0)
+            {
+                var c = y;
+                y = x % y;
+                x = c;
+            }
+            return x;
+        }
+
+        /// <summary>
+        /// Greatest common divisor
+        /// </summary>
+        public static long Gcd(long x, long y)
+        {
+            while (y != 0)
+            {
+                var c = y;
+                y = x % y;
+                x = c;
+            }
+            return x;
+        }
+
+        /// <summary>
+        /// Greatest common divisor
+        /// </summary>
+        public static BigInteger Gcd(BigInteger x, BigInteger y)
+        {
+            while (y != 0)
+            {
+                var c = y;
+                y = x % y;
+                x = c;
+            }
+            return x;
+        }
+
+        /// <summary>
+        /// Returns all divisors of n in O(√n)
+        /// </summary>
+        public static IEnumerable<long> GetDivisors(long n)
+        {
+            long r;
+            while (true)
+            {
+                var x = Math.DivRem(n, 2, out r);
+                if (r != 0) break;
+                n = x;
+                yield return 2;
+            }
+            var i = 3;
+            while (i <= Math.Sqrt(n))
+            {
+                var x = Math.DivRem(n, i, out r);
+                if (r == 0)
+                {
+                    n = x;
+                    yield return i;
+                }
+                else i += 2;
+            }
+            if (n != 1) yield return n;
         }
     }
 

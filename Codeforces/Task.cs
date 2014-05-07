@@ -11,7 +11,6 @@ namespace Codeforces.Task/*#*/
 
         }
 
-
         public static void Main()
         {
             var task = new Task();
