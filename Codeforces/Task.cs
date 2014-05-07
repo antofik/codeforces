@@ -2,15 +2,22 @@
 using System.Collections.Generic;
 using System.Linq;
 
-/*Library*/
-
 namespace Codeforces.Task/*#*/
 {
     public class Task
     {
+        void Solve()
+        {
+
+        }
+
+
         public static void Main()
         {
             var task = new Task();
+            #if DEBUG
+            task.Solve();
+            #else
             try
             {
                 task.Solve();
@@ -19,13 +26,8 @@ namespace Codeforces.Task/*#*/
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(ex);
-                throw;
             }
-        }
-
-        void Solve()
-        {
-
+            #endif
         }
     }
 }
