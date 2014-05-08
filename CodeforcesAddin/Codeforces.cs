@@ -158,12 +158,15 @@ namespace CodeforcesAddin
 
             request.Headers.Add("DNT", "1");
             request.Referer = BaseUrl + "/enter";
-            request.ContentLength = data.Length;
-            using (var stream = request.GetRequestStream())
+            var bytes = Encoding.UTF8.GetBytes(data);
+            request.ContentLength = bytes.Length;
             {
-                var bytes = Encoding.UTF8.GetBytes(data);
+                var stream = request.GetRequestStream();
                 stream.Write(bytes, 0, bytes.Length);
+                stream.Flush();
+                stream.Close();
             }
+
             var response = (HttpWebResponse)request.GetResponse();
             Log.Info("\tResponse received {0} {1}", response.StatusCode, response.StatusDescription);
             string html;
@@ -172,6 +175,7 @@ namespace CodeforcesAddin
                 using (var output = new MemoryStream())
                 {
                     stream.CopyTo(output);
+                    stream.Flush();
                     html = Encoding.UTF8.GetString(output.ToArray());
                 }
             }
