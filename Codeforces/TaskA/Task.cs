@@ -1,9 +1,11 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Codeforces.Task/*#*/
+/*Library*/
+
+namespace Codeforces.TaskA
 {
     public class Task
     {
@@ -18,7 +20,15 @@ namespace Codeforces.Task/*#*/
 
         void Solve()
         {
-
+            int n;
+            Input.Next(out n);
+            var a = Input.ArrayInt().ToArray();
+            var gcd = a[0];
+            for (var i = 1; i < a.Length; i++)
+            {
+                gcd = Primes.Gcd(gcd, a[i]);
+            }
+            output.Append(gcd * n);
         }
     }
 }

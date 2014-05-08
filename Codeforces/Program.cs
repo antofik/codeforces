@@ -51,15 +51,15 @@ namespace Codeforces
             4,
 #elif TEST5
             5,
-#elif TEST5
+#elif TEST6
             6,
-#elif TEST5
+#elif TEST7
             7,
-#elif TEST5
+#elif TEST8
             8,
-#elif TEST5
+#elif TEST9
             9,
-#elif TEST5
+#elif TEST10
             10,
 #else
             1,2,3,4,5,6,7,8,9,10,
