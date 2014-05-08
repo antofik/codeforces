@@ -92,7 +92,9 @@ namespace CodeforcesAddin
         /// </summary>
         public long SubmitProgram(int contest, char problem, int language, string code)
         {
+            Log.Info("\tReceiving csrf");
             var csrf = GetCrlf(string.Format("/contest/{0}/submit", contest));
+            Log.Info("\tCSRF={0}", csrf);
 
             var boundary = "----" + Guid.NewGuid().ToString().Replace("-", "");
             var header = string.Format("--{0}", boundary);
@@ -140,6 +142,8 @@ namespace CodeforcesAddin
 
             var data = contents.ToString();
 
+            Log.Info("\tSending request");
+
             var request = (HttpWebRequest)WebRequest.Create(BaseUrl + string.Format("/contest/{0}/submit?csrf_token={1}", contest, csrf));
             request.Method = WebRequestMethods.Http.Post;
             request.ContentType = "multipart/form-data; boundary=" + boundary; ;
@@ -161,6 +165,7 @@ namespace CodeforcesAddin
                 stream.Write(bytes, 0, bytes.Length);
             }
             var response = (HttpWebResponse)request.GetResponse();
+            Log.Info("\tResponse received {0} {1}", response.StatusCode, response.StatusDescription);
             string html;
             using (var stream = response.GetResponseStream())
             {
@@ -172,11 +177,13 @@ namespace CodeforcesAddin
             }
             _cookies.Add(response.Cookies);
 
-            if (html.Contains("Ранее вы отсылали абсолютно такой же код")) return -2;
+            if (html.Contains("Ранее вы отсылали абсолютно такой же код") || html.Contains("You have submitted exactly the same code before")) return -2;
+            if (html.Contains("class=\"error for")) return -3;
 
             var contestUrl = string.Format("/contest/{0}/my", contest);
             if (response.StatusCode == HttpStatusCode.Found)
             {
+                Log.Info("\tWaiting for submission id...");
                 for (var i = 0; i < 5; i++)
                 {
                     var match = Regex.Match(GetHtml(contestUrl), @"submissionId=""(?<id>\d+)""");
@@ -186,11 +193,13 @@ namespace CodeforcesAddin
                         if (submissionId > _lastSubmission)
                         {
                             _lastSubmission = submissionId;
+                            Log.Info("\tSubmissionId = {0}", submissionId);
                             return submissionId;
                         }
                     }
                     System.Threading.Thread.Sleep(1000);
                 }
+                Log.Info("\tFailed to receive submission id. Please, goto http://codeforces.ru manually and check status");
                 return 0;
             }
             return -1;
