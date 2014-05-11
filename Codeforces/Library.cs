@@ -970,4 +970,53 @@ namespace Codeforces
         }
     }
 
+    /// <summary>
+    /// Graph matching algorithms
+    /// </summary>
+    public class GraphMatching
+    {
+        #region Kuhn algorithm
+
+        /// <summary>
+        /// Kuhn algorithm for finding maximal matching
+        /// in bipartite graph
+        /// Vertexes are numerated from zero: 0, 1, 2, ... n-1
+        /// Return array of matchings
+        /// </summary>
+        public static int[] Kuhn(List<int>[] g, int leftSize, int rightSize)
+        {
+            Debug.Assert(g.Count() == leftSize);
+
+            var matching = new int[leftSize];
+            for (var i = 0; i < rightSize; i++)
+                matching[i] = -1;
+            var used = new bool[leftSize];
+
+            for (var v = 0; v < leftSize; v++)
+            {
+                Array.Clear(used, 0, leftSize);
+                _kuhn_dfs(v, g, matching, used);
+            }
+
+            return matching;
+        }
+
+        private static bool _kuhn_dfs(int v, List<int>[] g, int[] matching, bool[] used)
+        {
+            if (used[v]) return false;
+            used[v] = true;
+            for (var i = 0; i < g[v].Count; i++)
+            {
+                var to = g[v][i];
+                if (matching[to] == -1 || _kuhn_dfs(matching[to], g, matching, used))
+                {
+                    matching[to] = v;
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        #endregion
+    }
 }
