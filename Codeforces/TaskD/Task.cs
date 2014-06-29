@@ -10,91 +10,57 @@ namespace Codeforces.TaskD
         {
             int n, m;
             Input.Next(out n, out m);
-            var vin = new List<int>[n + 1];
-            var vout = new List<int>[n + 1];
-            for (var i = 1; i <= n; i++)
-            {
-                vin[i] = new List<int>();
-                vout[i] = new List<int>();
-            }
+            var edges = new Tuple<int,int>[m];
 
             while (m-->0)
             {
                 int from, to;
                 Input.Next(out from, out to);
-                vin[to].Add(from);
-                vout[from].Add(to);
+                edges[m] = new Tuple<int,int>(from-1, to-1);
             }
 
-            var center = -1;
-            var centerCount = 0;
-            for (var i = 1; i <= n; i++)
+            var result = int.MaxValue;
+            for (var i = 0; i < n; i++)
             {
-                var count = vin[i].Count + vout[i].Count;
-                if (vin[i].Contains(i)) count--;
-                if (count > centerCount)
+                var g = new List<int>[n];
+                for(var j=0;j<n;j++)
+                    g[j] = new List<int>();
+                var centerEdges = 0;
+                var otherEdges = 0;
+                foreach(var edge in edges)
                 {
-                    center = i;
-                    centerCount = count;
+                    if (edge.Item1 == i || edge.Item2 == i)
+                    {
+                        centerEdges++;
+                    }
+                    else
+                    {                        
+                        g[edge.Item1].Add(edge.Item2);
+                        otherEdges++;
+                    }
                 }
+
+                var pairsCount = 0;
+                var matching = GraphMatching.Kuhn(g, n, n);
+                for (var j = 0; j < n; j++)
+                    if (matching[j] != -1)
+                        pairsCount++;
+
+                var currentResult = 2 * (n - 1) + 1 - centerEdges + otherEdges - pairsCount + (n - 1) - pairsCount;
+
+                if (currentResult < result)
+                    result = currentResult;
             }
 
-            if (center == -1)
-            {
-                Console.WriteLine("Could not find center");
-                center = 1;
-            }
-
-            var result = 0;
-
-            for (var i = 1; i <= n; i++)
-            {
-                if (!vin[center].Contains(i))
-                {
-                    vin[center].Add(i);
-                    vout[i].Add(center);
-                    result++;
-                }
-                if (!vout[center].Contains(i))
-                {
-                    vout[center].Add(i);
-                    vin[i].Add(center);
-                    result++;
-                }
-            }
-
-            for (var i = 1; i <= n; i++)
-                if (i != center)
-                {
-                    while (vin[i].Count > 2)
-                    {
-                        var k = vin[i].Where(c => c != center).OrderByDescending(c => vout[c].Count).First();
-                        vin[i].Remove(k);
-                        vout[k].Remove(i);
-                        result++;
-                    }
-                    while (vout[i].Count > 2)
-                    {
-                        var k = vout[i].Where(c => c != center).OrderByDescending(c => vin[c].Count).First();
-                        vout[i].Remove(k);
-                        vin[k].Remove(i);
-                        result++;
-                    }
-                    if (vin[i].Count == 1 && vout[i].Count == 1)
-                    {
-                        vin[i].Add(i);
-                        vout[i].Add(i);
-                        result++;
-                    }
-                    if (vin[i].Count == 1)
-                        result++;
-                }
             Console.WriteLine(result);
         }
 
         public static void Main()
         {
             var task = new Task();
+#if DEBUG
+            task.Solve();
+#else
             try
             {
                 task.Solve();
@@ -103,6 +69,7 @@ namespace Codeforces.TaskD
             {
                 Console.WriteLine(ex);
             }
+#endif
         }
     }
 }

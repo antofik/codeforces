@@ -453,12 +453,13 @@ namespace Codeforces
 
     public class RedBlackTree<TKey, TValue> : IEnumerable<KeyValuePair<TKey, TValue>>
     {
-        private readonly List<Node> _items = new List<Node>();
+        private readonly List<Node> _items;
         private Node _root;
         private readonly IComparer<TKey> _comparer;
 
-        public RedBlackTree()
+        public RedBlackTree(int capacity = 10)
         {
+            _items = new List<Node>(capacity);
             _comparer = Comparer<TKey>.Default;
         }
 
@@ -472,6 +473,76 @@ namespace Codeforces
                 node = i > 0 ? node.Right : node.Left;
             }
             return null;
+        }
+
+        /// <summary>
+        /// Returns lower or equal key
+        /// </summary>
+        public TKey Lower(TKey key, TKey notFound = default(TKey))
+        {
+            var node = _root;
+            Node good = null;
+            while (node != null)
+            {
+                var i = _comparer.Compare(key, node.Key);
+                if (i == 0) return key;
+                if (i > 0)
+                {
+                    good = node;
+                    node = node.Right;
+                }
+                else
+                    node = node.Left;
+            }
+            return good == null ? notFound : good.Key;
+        }
+
+        /// <summary>
+        /// Returns higher or equal key
+        /// </summary>
+        public TKey Higher(TKey key, TKey notFound = default(TKey))
+        {
+            var node = _root;
+            Node good = null;
+            while (node != null)
+            {
+                var i = _comparer.Compare(key, node.Key);
+                if (i == 0) return key;
+                if (i < 0)
+                {
+                    good = node;
+                    node = node.Left;
+                }
+                else
+                    node = node.Right;
+            }
+            return good == null ? notFound : good.Key;
+        }
+
+        /// <summary>
+        /// Returns minimum region, which encloses given key
+        /// </summary>
+        public Tuple<TKey, TKey> Bounds(TKey key, TKey notFound = default(TKey))
+        {
+            var node = _root;
+            Node lower = null;
+            Node higher = null;
+            while (node != null)
+            {
+                var i = _comparer.Compare(key, node.Key);
+                if (i == 0) return new Tuple<TKey, TKey>(key, key);
+                if (i < 0)
+                {
+                    higher = node;
+                    node = node.Left;
+                }
+                else
+                {
+                    lower = node;
+                    node = node.Right;
+                }
+            }
+            return new Tuple<TKey, TKey>(lower == null ? notFound : lower.Key, higher == null ? notFound : higher.Key);
         }
 
         public void Add(TKey key, TValue value)
@@ -846,6 +917,459 @@ namespace Codeforces
         #endregion
     }
 
+    public class RedBlackTreeSimple<TKey>
+    {
+        private readonly List<Node> _items;
+        private Node _root;
+        private readonly IComparer<TKey> _comparer;
+
+        public RedBlackTreeSimple(int capacity = 10)
+        {
+            _items = new List<Node>(capacity);
+            _comparer = Comparer<TKey>.Default;
+        }
+
+        private Node _search(TKey key)
+        {
+            var node = _root;
+            while (node != null)
+            {
+                var i = _comparer.Compare(key, node.Key);
+                if (i == 0) return node;
+                node = i > 0 ? node.Right : node.Left;
+            }
+            return null;
+        }
+
+        /// <summary>
+        /// Returns lower or equal key
+        /// </summary>
+        public TKey Lower(TKey key, TKey notFound = default(TKey))
+        {
+            var node = _root;
+            Node good = null;
+            while (node != null)
+            {
+                var i = _comparer.Compare(key, node.Key);
+                if (i == 0) return key;
+                if (i > 0)
+                {
+                    good = node;
+                    node = node.Right;
+                }
+                else
+                    node = node.Left;
+            }
+            return good == null ? notFound : good.Key;
+        }
+
+        /// <summary>
+        /// Returns higher or equal key
+        /// </summary>
+        public TKey Higher(TKey key, TKey notFound = default(TKey))
+        {
+            var node = _root;
+            Node good = null;
+            while (node != null)
+            {
+                var i = _comparer.Compare(key, node.Key);
+                if (i == 0) return key;
+                if (i < 0)
+                {
+                    good = node;
+                    node = node.Left;
+                }
+                else
+                    node = node.Right;
+            }
+            return good == null ? notFound : good.Key;
+        }
+
+        /// <summary>
+        /// Returns minimum region, which encloses given key
+        /// </summary>
+        public Tuple<TKey, TKey> Bounds(TKey key, TKey notFound = default(TKey))
+        {
+            var node = _root;
+            Node lower = null;
+            Node higher = null;
+            while (node != null)
+            {
+                var i = _comparer.Compare(key, node.Key);
+                if (i == 0) return new Tuple<TKey, TKey>(key, key);
+                if (i < 0)
+                {
+                    higher = node;
+                    node = node.Left;
+                }
+                else
+                {
+                    lower = node;
+                    node = node.Right;
+                }
+            }
+            return new Tuple<TKey, TKey>(lower == null ? notFound : lower.Key, higher == null ? notFound : higher.Key);
+        }
+
+        public void Add(TKey key)
+        {
+            var node = new Node(key);
+            _items.Add(node);
+            if (_root == null)
+            {
+                _root = node;
+                _root.Red = false;
+                return;
+            }
+            var x = _root;
+            Node y = null;
+            while (x != null)
+            {
+                y = x;
+                x = _comparer.Compare(key, x.Key) > 0 ? x.Right : x.Left;
+            }
+            node.Parent = y;
+            if (y == null) _root = node;
+            else if (_comparer.Compare(key, y.Key) > 0) y.Right = node;
+            else y.Left = node;
+            InsertFixup(node);
+        }
+
+        private void InsertFixup(Node node)
+        {
+            while (true)
+            {
+                var parent = node.Parent;
+                if (parent == null || !parent.Red || parent.Parent == null) break;
+                var grand = parent.Parent;
+
+                if (parent == grand.Left)
+                {
+                    var uncle = grand.Right;
+                    if (uncle != null && uncle.Red) /* parent and uncle both red: we could swap colors of them with grand */
+                    {
+                        parent.Red = false;
+                        uncle.Red = false;
+                        grand.Red = true;
+                        node = grand; /* and continue fixing tree for grand */
+                    }
+                    else if (node == parent.Right) /* we rotate around the parent */
+                    {
+                        node = parent;
+                        RotateLeft(node);
+                    }
+                    else /* rotate around grand and switch colors of grand and parent */
+                    {
+                        parent.Red = false;
+                        grand.Red = true;
+                        RotateRight(grand);
+                        if (grand == _root) _root = parent;
+                        break; /* and finish since tree is fixed */
+                    }
+                }
+                else
+                {
+                    if (_root.Parent != null) Debugger.Break();
+
+                    var uncle = grand.Left;
+                    if (uncle != null && uncle.Red) /* parent and uncle both red: we could swap colors of them with grand */
+                    {
+                        parent.Red = false;
+                        uncle.Red = false;
+                        grand.Red = true;
+                        node = grand; /* and continue fixing tree for grand */
+                    }
+                    else if (node == parent.Left) /* we rotate around the parent */
+                    {
+                        node = parent;
+                        RotateRight(node);
+                    }
+                    else /* rotate around grand and switch colors of grand and parent */
+                    {
+                        parent.Red = false;
+                        grand.Red = true;
+                        RotateLeft(grand);
+                        if (grand == _root) _root = parent;
+                        break; /* and finish since tree is fixed */
+                    }
+                }
+            }
+            _root.Red = false;
+        }
+
+        private void RotateLeft(Node node)
+        {
+            if (node.Right == null)
+                throw new NotSupportedException("Cannot rotate left: right node is missing");
+            var parent = node.Parent;
+            var right = node.Right;
+            right.Parent = parent;
+            if (parent != null)
+            {
+                if (parent.Left == node) parent.Left = right;
+                else parent.Right = right;
+            }
+            node.Right = right.Left;
+            if (node.Right != null)
+                node.Right.Parent = node;
+            right.Left = node;
+            node.Parent = right;
+        }
+
+        private void RotateRight(Node node)
+        {
+            if (node.Left == null)
+                throw new NotSupportedException("Cannot rotate right: left node is missing");
+            var parent = node.Parent;
+            var left = node.Left;
+            left.Parent = parent;
+            if (parent != null)
+            {
+                if (parent.Left == node) parent.Left = left;
+                else parent.Right = left;
+            }
+            node.Left = left.Right;
+            if (node.Left != null)
+                node.Left.Parent = node;
+            left.Right = node;
+            node.Parent = left;
+        }
+
+        public void Remove(TKey key)
+        {
+            var node = _search(key);
+            if (node == null) return;
+
+            var deleted = node.Left == null || node.Right == null ? node : Next(node);
+            var child = deleted.Left ?? deleted.Right;
+            if (child != null)
+                child.Parent = deleted.Parent;
+            if (deleted.Parent == null) /* root */
+                _root = child;
+            else if (deleted == deleted.Parent.Left)
+                deleted.Parent.Left = child;
+            else
+                deleted.Parent.Right = child;
+            if (node != deleted)
+            {
+                node.Key = deleted.Key;
+            }
+
+            if (!deleted.Red)
+            {
+                DeleteFixup(child, deleted.Parent);
+            }
+        }
+
+        private void DeleteFixup(Node node, Node parent)
+        {
+            while (parent != null && (node == null || !node.Red))
+            {
+                if (node == parent.Left)
+                {
+                    var brother = parent.Right;
+                    if (brother.Red)
+                    {
+                        brother.Red = false;
+                        parent.Red = true;
+                        RotateLeft(parent);
+                        brother = parent.Right;
+                    }
+                    if ((brother.Left == null || !brother.Left.Red) && (brother.Right == null || !brother.Right.Red))
+                    {
+                        node = parent.Red ? _root : parent;
+                        brother.Red = true;
+                        parent.Red = false;
+                    }
+                    else
+                    {
+                        if (brother.Right == null || !brother.Right.Red)
+                        {
+                            if (brother.Left != null)
+                                brother.Left.Red = false;
+                            brother.Red = true;
+                            RotateRight(brother);
+                            brother = parent.Right;
+                        }
+                        if (!brother.Right.Red) Debugger.Break();
+                        brother.Red = parent.Red;
+                        parent.Red = false;
+                        if (brother.Right != null)
+                            brother.Right.Red = false;
+                        RotateLeft(parent);
+                        node = _root;
+                    }
+                }
+                else
+                {
+                    var brother = parent.Left;
+                    if (brother.Red)
+                    {
+                        brother.Red = false;
+                        parent.Red = true;
+                        RotateRight(parent);
+                        brother = parent.Left;
+                    }
+                    if ((brother.Right == null || !brother.Right.Red) && (brother.Left == null || !brother.Left.Red))
+                    {
+                        node = parent.Red ? _root : parent;
+                        brother.Red = true;
+                        parent.Red = false;
+                    }
+                    else
+                    {
+                        if (brother.Left == null || !brother.Left.Red)
+                        {
+                            if (brother.Right != null)
+                                brother.Right.Red = false;
+                            brother.Red = true;
+                            RotateLeft(brother);
+                            brother = parent.Left;
+                        }
+                        brother.Red = parent.Red;
+                        parent.Red = false;
+                        if (brother.Left != null)
+                            brother.Left.Red = false;
+                        RotateRight(parent);
+                        node = _root;
+                    }
+                }
+                parent = node.Parent;
+            }
+
+            node.Red = false;
+        }
+
+        private Node Minimum(Node node)
+        {
+            var result = node;
+            while (result.Left != null) result = result.Left;
+            return result;
+        }
+
+        private Node Maximum(Node node)
+        {
+            var result = node;
+            while (result.Right != null) result = result.Right;
+            return result;
+        }
+
+        private Node Next(Node node)
+        {
+            Node result;
+            if (node.Right != null)
+            {
+                result = Minimum(node.Right);
+            }
+            else
+            {
+                while (node.Parent != null && node.Parent.Right == node)
+                    node = node.Parent;
+                result = node.Parent;
+            }
+            return result;
+        }
+
+        private Node Previous(Node node)
+        {
+            Node result;
+            if (node.Left != null)
+            {
+                result = Maximum(node.Left);
+            }
+            else
+            {
+                while (node.Parent != null && node.Parent.Left == node)
+                    node = node.Parent;
+                result = node.Parent;
+            }
+            return result;
+        }
+
+        public void Print()
+        {
+            var node = Minimum(_root);
+            while (node != null)
+            {
+                Console.Write(node.Red ? '*' : ' ');
+                Console.Write(node.Key);
+                Console.Write('\t');
+                node = Next(node);
+            }
+        }
+
+        #region Nested classes
+
+        private sealed class Node
+        {
+            public Node(TKey key)
+            {
+                Key = key;
+            }
+
+            public TKey Key;
+            public bool Red = true;
+
+            public Node Parent;
+            public Node Left;
+            public Node Right;
+        }
+
+        #endregion
+    }
+
+    /// <summary>
+    /// Fenwick tree for summary on the array
+    /// </summary>
+    public class FenwickSum
+    {
+        public readonly int Size;
+        private readonly int[] _items;
+        public FenwickSum(int size)
+        {
+            Size = size;
+            _items = new int[Size];
+        }
+
+        public FenwickSum(IList<int> items)
+            : this(items.Count)
+        {
+            for (var i = 0; i < Size; i++)
+                Increase(i, items[i]);
+        }
+
+        private int Sum(int r)
+        {
+            if (r < 0) return 0;
+            if (r >= Size) r = Size - 1;
+            var result = 0;
+            for (; r >= 0; r = (r & (r + 1)) - 1)
+                result += _items[r];
+            return result;
+        }
+
+        private int Sum(int l, int r)
+        {
+            return Sum(r) - Sum(l - 1);
+        }
+
+        public int this[int r]
+        {
+            get { return Sum(r); }
+        }
+
+        public int this[int l, int r]
+        {
+            get { return Sum(l, r); }
+        }
+
+        public void Increase(int i, int delta)
+        {
+            for (; i < Size; i = i | (i + 1))
+                _items[i] += delta;
+        }
+    }
+
     /// <summary>
     /// Prime numbers
     /// </summary>
@@ -970,4 +1494,53 @@ namespace Codeforces
         }
     }
 
+    /// <summary>
+    /// Graph matching algorithms
+    /// </summary>
+    public class GraphMatching
+    {
+        #region Kuhn algorithm
+
+        /// <summary>
+        /// Kuhn algorithm for finding maximal matching
+        /// in bipartite graph
+        /// Vertexes are numerated from zero: 0, 1, 2, ... n-1
+        /// Return array of matchings
+        /// </summary>
+        public static int[] Kuhn(List<int>[] g, int leftSize, int rightSize)
+        {
+            Debug.Assert(g.Count() == leftSize);
+
+            var matching = new int[leftSize];
+            for (var i = 0; i < rightSize; i++)
+                matching[i] = -1;
+            var used = new bool[leftSize];
+
+            for (var v = 0; v < leftSize; v++)
+            {
+                Array.Clear(used, 0, leftSize);
+                _kuhn_dfs(v, g, matching, used);
+            }
+
+            return matching;
+        }
+
+        private static bool _kuhn_dfs(int v, List<int>[] g, int[] matching, bool[] used)
+        {
+            if (used[v]) return false;
+            used[v] = true;
+            for (var i = 0; i < g[v].Count; i++)
+            {
+                var to = g[v][i];
+                if (matching[to] == -1 || _kuhn_dfs(matching[to], g, matching, used))
+                {
+                    matching[to] = v;
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        #endregion
+    }
 }
