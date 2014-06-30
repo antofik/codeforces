@@ -1411,7 +1411,7 @@ namespace Codeforces
         /// </summary>
         public static void SieveOfEratosthenes(int n, out List<int> pr)
         {
-            var m = 50000;//(int)(3l*n/(long)Math.Log(n)/2);
+            var m = 5000000;//(int)(3l*n/(long)Math.Log(n)/2);
             pr = new List<int>();
             var f = new bool[m];
             for (var i = 2; i * i <= n; i++)
