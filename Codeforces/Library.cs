@@ -1408,20 +1408,35 @@ namespace Codeforces
 
         /// <summary>
         /// Returns prime numbers in O(n*n)
+        /// Up to 10^7
         /// </summary>
         public static void SieveOfEratosthenes(int n, out List<int> pr)
         {
-            var m = 5000000;//(int)(3l*n/(long)Math.Log(n)/2);
-            pr = new List<int>();
-            var f = new bool[m];
-            for (var i = 2; i * i <= n; i++)
+            var m = 5000000;
+            pr = new List<int> { 2 };
+            var f = new bool[n + 1];
+            for (var i = 3; i <= m; i += 2)
                 if (!f[i])
-                    for (var j = (long)i * i; j < m && j * j < n; j += i)
+                    for (long j = (long)i * i; j <= n && 1L * j * j < n; j += i)
                         f[j] = true;
-            pr.Add(2);
-            for (var i = 3; i * i <= n; i += 2)
+            for (var i = 3; i <= n; i += 2)
                 if (!f[i])
                     pr.Add(i);
+        }
+
+        /// <summary>
+        /// Returns array of inverted prime numbers map in O(n*n)
+        /// Up to 10^7
+        /// </summary>
+        public static void SieveOfEratosthenes(int n, out bool[] isPrime)
+        {
+            var m = 5000000;
+            var f = new bool[n + 1];
+            for (var i = 3; i <= m; i += 2)
+                if (!f[i])
+                    for (long j = (long)i * i; j <= n && 1L * j * j < n; j += i)
+                        f[j] = true;
+            isPrime = f;
         }
 
         /// <summary>

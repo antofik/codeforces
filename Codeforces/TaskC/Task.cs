@@ -1,29 +1,26 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 
 namespace Codeforces.TaskC
 {
     public class Task
     {
-        bool isPrime(int n)
-        {
-            if (n%2 == 0) return false;
-            for (var i=3;i*i<=n;i+=2)
-                if (n%i == 0) return false;
-            return true;
-        }
-
         void Solve()
         {
             int n;
             Input.Next(out n);
             var X = Input.ArrayInt().ToArray();
 
+            bool[] pr;
+            var N = 10000000;
+            Primes.SieveOfEratosthenes(N, out pr);
+
             var counts = new int[n];
             foreach (var x in X)
             {
-                if (isPrime(x))
+                if (!pr[x]) //is prime
                 {
                     
                 }
