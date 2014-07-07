@@ -309,6 +309,17 @@ namespace Codeforces
 
     public class Matrix
     {
+        public static Matrix Create(int[,] array)
+        {
+            var I = array.GetUpperBound(0) + 1;
+            var J = array.GetUpperBound(1) + 1;
+            var m = new Matrix(I, J);
+            for(var i=0;i<I;i++)
+                for (var j = 0; j < J; j++)
+                    m[i, j] = array[i, j];
+            return m;
+        }
+
         public static Matrix Create(int i, int j)
         {
             var m = new Matrix(i, j);
@@ -335,6 +346,34 @@ namespace Codeforces
             _width = j;
             _height = i;
             _data = new long[_height, _width];
+        }
+
+        public static long[] operator *(Matrix m, int[] v)
+        {
+            if (m.Width != v.Length) throw new InvalidDataException("m.Width != v.Length");
+            var r = new long[m.Height];
+            for (var i = 0; i < m.Height; i++)
+            {
+                var sum = 0L;
+                for (var j = 0; j < m.Width; j++)
+                    sum += m[i, j] * v[j];
+                r[i] = sum;
+            }
+            return r;
+        }
+
+        public static long[] operator *(int[] v, Matrix m)
+        {
+            if (m.Height != v.Length) throw new InvalidDataException("m.Height!= v.Length");
+            var r = new long[m.Width];
+            for (var i = 0; i < m.Width; i++)
+            {
+                var sum = 0L;
+                for (var j = 0; j < m.Height; j++)
+                    sum += v[j] * m[j, i];
+                r[i] = sum;
+            }
+            return r;
         }
 
         public static Matrix operator *(Matrix m1, Matrix m2)
@@ -1408,16 +1447,15 @@ namespace Codeforces
 
         /// <summary>
         /// Returns prime numbers in O(n*n)
-        /// Up to 10^7
         /// </summary>
         public static void SieveOfEratosthenes(int n, out List<int> pr)
         {
-            var m = 5000000;
+            var m = 2 * n / 5;
             pr = new List<int> { 2 };
             var f = new bool[n + 1];
             for (var i = 3; i <= m; i += 2)
                 if (!f[i])
-                    for (long j = (long)i * i; j <= n && 1L * j * j < n; j += i)
+                    for (long j = (long)i * i; j <= n; j += i)
                         f[j] = true;
             for (var i = 3; i <= n; i += 2)
                 if (!f[i])
@@ -1426,15 +1464,14 @@ namespace Codeforces
 
         /// <summary>
         /// Returns array of inverted prime numbers map in O(n*n)
-        /// Up to 10^7
         /// </summary>
         public static void SieveOfEratosthenes(int n, out bool[] isPrime)
         {
-            var m = 5000000;
+            var m = 2 * n / 5;
             var f = new bool[n + 1];
             for (var i = 3; i <= m; i += 2)
                 if (!f[i])
-                    for (long j = (long)i * i; j <= n && 1L * j * j < n; j += i)
+                    for (long j = (long)i * i; j <= n; j += i)
                         f[j] = true;
             isPrime = f;
         }
