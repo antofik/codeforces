@@ -97,6 +97,26 @@ namespace Codeforces
             return ok;
         }
 
+        public static bool Next(out long a, out long b, out long c, out long d, out long e, out long f)
+        {
+            var ok = Next();
+            if (ok)
+            {
+                var array = _line.Split(' ').Select(long.Parse).ToArray();
+                a = array[0];
+                b = array[1];
+                c = array[2];
+                d = array[3];
+                e = array[4];
+                f = array[5];
+            }
+            else
+            {
+                a = b = c = d = e = f = 0;
+            }
+            return ok;
+        }
+
         public static bool Next(out int a)
         {
             var ok = Next();
@@ -348,7 +368,7 @@ namespace Codeforces
             _data = new long[_height, _width];
         }
 
-        public static long[] operator *(Matrix m, int[] v)
+        public static long[] operator *(Matrix m, long[] v)
         {
             if (m.Width != v.Length) throw new InvalidDataException("m.Width != v.Length");
             var r = new long[m.Height];
@@ -356,13 +376,13 @@ namespace Codeforces
             {
                 var sum = 0L;
                 for (var j = 0; j < m.Width; j++)
-                    sum += m[i, j] * v[j];
+                    sum = (sum + m[i, j] * v[j]) % m.Modulo;
                 r[i] = sum;
             }
             return r;
         }
 
-        public static long[] operator *(int[] v, Matrix m)
+        public static long[] operator *(long[] v, Matrix m)
         {
             if (m.Height != v.Length) throw new InvalidDataException("m.Height!= v.Length");
             var r = new long[m.Width];
@@ -370,7 +390,7 @@ namespace Codeforces
             {
                 var sum = 0L;
                 for (var j = 0; j < m.Height; j++)
-                    sum += v[j] * m[j, i];
+                    sum = (sum + v[j] * m[j, i]) % m.Modulo;
                 r[i] = sum;
             }
             return r;
@@ -383,11 +403,8 @@ namespace Codeforces
             m.Modulo = m1.Modulo;
             for (var i = 0; i < m2.Width; i++)
                 for (var j = 0; j < m1.Height; j++)
-                {
                     for (var k = 0; k < m1.Width; k++)
-                        m[j, i] += (m1[j, k] * m2[k, i]) % m1.Modulo;
-                    m[j, i] %= m1.Modulo;
-                }
+                        m[j, i] = (m[j, i] + m1[j, k] * m2[k, i]) % m.Modulo;
             return m;
         }
 
@@ -449,13 +466,13 @@ namespace Codeforces
 
         public Matrix BinPower(long l)
         {
-            var n = 1;
+            var n = 1L;
             var m = Clone();
             var result = new Matrix(m.Height, m.Width) + 1;
             result.Modulo = m.Modulo;
             while (l != 0)
             {
-                var i = l & ~(l - 1);
+                long i = l & ~(l - 1L);
                 l -= i;
                 while (n < i)
                 {
