@@ -20,7 +20,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;TESTALL</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;TASKC;TEST1</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
@@ -51,6 +51,66 @@
     <Compile Include="Program.cs" />
     <Compile Include="Task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaskA\Task.cs" />
+    <Compile Include="TaskB\Task.cs" />
+    <Compile Include="TaskC\Task.cs" />
+    <Compile Include="TaskD\Task.cs" />
+    <Compile Include="TaskE\Task.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TaskA\Problem.html" />
+    <Content Include="TaskA\Results\test1.txt" />
+    <Content Include="TaskA\Results\test2.txt" />
+    <Content Include="TaskA\Results\test3.txt" />
+    <Content Include="TaskA\Results\test4.txt" />
+    <Content Include="TaskA\Tests\test1.txt" />
+    <Content Include="TaskA\Tests\test2.txt" />
+    <Content Include="TaskA\Tests\test3.txt" />
+    <Content Include="TaskA\Tests\test4.txt" />
+    <Content Include="TaskB\Problem.html" />
+    <Content Include="TaskB\Results\test1.txt" />
+    <Content Include="TaskB\Results\test2.txt" />
+    <Content Include="TaskB\Results\test3.txt" />
+    <Content Include="TaskB\Results\test4.txt" />
+    <Content Include="TaskB\Results\test5.txt" />
+    <Content Include="TaskB\Tests\test1.txt" />
+    <Content Include="TaskB\Tests\test2.txt" />
+    <Content Include="TaskB\Tests\test3.txt" />
+    <Content Include="TaskB\Tests\test4.txt" />
+    <Content Include="TaskB\Tests\test5.txt" />
+    <Content Include="TaskC\Problem.html" />
+    <Content Include="TaskC\Results\test1.txt" />
+    <Content Include="TaskC\Results\test2.txt" />
+    <Content Include="TaskC\Results\test3.txt" />
+    <Content Include="TaskC\Results\test4.txt" />
+    <Content Include="TaskC\Results\test5.txt" />
+    <Content Include="TaskC\Tests\test1.txt" />
+    <Content Include="TaskC\Tests\test2.txt" />
+    <Content Include="TaskC\Tests\test3.txt" />
+    <Content Include="TaskC\Tests\test4.txt" />
+    <Content Include="TaskC\Tests\test5.txt" />
+    <Content Include="TaskD\Problem.html" />
+    <Content Include="TaskD\Results\test1.txt" />
+    <Content Include="TaskD\Results\test2.txt" />
+    <Content Include="TaskD\Results\test3.txt" />
+    <Content Include="TaskD\Results\test4.txt" />
+    <Content Include="TaskD\Results\test5.txt" />
+    <Content Include="TaskD\Results\test6.txt" />
+    <Content Include="TaskD\Tests\test1.txt" />
+    <Content Include="TaskD\Tests\test2.txt" />
+    <Content Include="TaskD\Tests\test3.txt" />
+    <Content Include="TaskD\Tests\test4.txt" />
+    <Content Include="TaskD\Tests\test5.txt" />
+    <Content Include="TaskD\Tests\test6.txt" />
+    <Content Include="TaskE\Problem.html" />
+    <Content Include="TaskE\Results\test1.txt" />
+    <Content Include="TaskE\Results\test2.txt" />
+    <Content Include="TaskE\Results\test3.txt" />
+    <Content Include="TaskE\Results\test4.txt" />
+    <Content Include="TaskE\Tests\test1.txt" />
+    <Content Include="TaskE\Tests\test2.txt" />
+    <Content Include="TaskE\Tests\test3.txt" />
+    <Content Include="TaskE\Tests\test4.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
