@@ -295,7 +295,7 @@ namespace CodeforcesAddin
 
             var code = PrepareCode();
             var problem = _currentTaskItem[0];
-            const int language = 29; //MS C#
+            const int language = 9; //Mono C#
 
             Log.Info("Task {0}", problem);
 

@@ -33,7 +33,7 @@ namespace CodeforcesAddin
 
         private static long _lastSubmission;
 
-        private const string BaseUrl = "http://codeforces.ru";
+        private const string BaseUrl = "http://codeforces.com";
 
         #endregion
 
@@ -321,7 +321,7 @@ namespace CodeforcesAddin
         public bool Login()
         {
             if (string.IsNullOrEmpty(_login) || string.IsNullOrEmpty(_password)) return false;
-            var html = Post("/enter", string.Format("action=enter&handle={0}&password={1}&_tta=999999&remember=on", _login, _password));
+            var html = Post("/enter", string.Format("action=enter&handleOrEmail={0}&password={1}&_tta=999999&remember=on", _login, _password));
             return (IsLogged = html.Contains("/data/update-online"));
         }
 
