@@ -13,16 +13,18 @@ using EnvDTE80;
 using Microsoft.VisualStudio.Shell;
 using Window = EnvDTE.Window;
 using Microsoft.VisualStudio.Shell.Interop;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace CodeforcesAddin
 {
-    [PackageRegistration(UseManagedResourcesOnly = true)]
+    [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading=true)]
     [InstalledProductRegistration("#110", "#112", "1.0", IconResourceID = 400)]
     [ProvideMenuResource("Menus.ctmenu", 1)]
     [ProvideToolWindow(typeof (MyToolWindow))]
     [ProvideKeyBindingTable(GuidList.guidCodeforcesAddinEditorFactoryString, 102)]
     [Guid(GuidList.guidCodeforcesAddinPkgString)]
-    public sealed class CodeforcesAddinPackage : Package
+    public sealed class CodeforcesAddinPackage : AsyncPackage
     {
         private const string TestPrefix = "TEST";
         private const string TaskPrefix = "TASK";
@@ -39,16 +41,16 @@ namespace CodeforcesAddin
 
         #region Package Members
 
-        protected override void Initialize()
+        protected override System.Threading.Tasks.Task InitializeAsync(CancellationToken cancellationToken, IProgress<ServiceProgressData> progress)
         {
+            var task = base.InitializeAsync(cancellationToken, progress);
             try
-            {
-                base.Initialize();
+            {               
 
                 Log.Initialize(GetService(typeof(SVsOutputWindow)) as IVsOutputWindow);
 
                 var service = GetService(typeof (IMenuCommandService)) as OleMenuCommandService;
-                if (service == null) return;
+                if (service == null) return task;
 
                 var buttonCommit = new CommandID(GuidList.Default, PkgCmdIDList.ButtonCommit);
                 _commitCommand = new OleMenuCommand(OnCommit, buttonCommit);
@@ -83,6 +85,7 @@ namespace CodeforcesAddin
             {
                 Log.Error(ex);
             }
+            return task;
         }
 
         private bool _isCorrectSolution;
