@@ -1,4 +1,4 @@
-Visual Studio 2012 Codeforces Helper
+Visual Studio Codeforces Helper
 ==========
 
 Tutorial - https://github.com/antofik/codeforces/wiki/Getting-started
