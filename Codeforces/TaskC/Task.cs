@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.Text;
 
 namespace Codeforces.TaskC
 {
@@ -8,7 +10,9 @@ namespace Codeforces.TaskC
     {
         void Solve()
         {
-            int i;
+            int i = 7 << 27;
+            var min = 1;
+            var max = 9;
             Input.Next(out int n);
             var from = new int[n];
             var to = new int[n];
@@ -17,36 +21,122 @@ namespace Codeforces.TaskC
                 Input.Next(out from[i], out to[i]);
             }
 
-            var floor = 1;
-            var state = new Dictionary<P, int>();
+            var map = new Dictionary<int, int>();
             i = 0;
-            var time = from[i] - floor /*from 1st to Nth*/;
-            state[new P(to[i])] = time; // we have 1 passanger, waiting for "to[i]" floor
-            floor = from[i]; // current floor
 
-            for (i=1; i < n; i++) {
-                var newState = new Dictionary<P, int>();
-
-                foreach (var p in state.Keys)
+            // start always from getting first person 
+            var currentFloor = 1;
+            var nextFloor = from[0];
+            map[to[i]] = from[i] - currentFloor; // from 1st to Nth
+#if DEBUG
+            Console.WriteLine($"We are on {currentFloor}. Next passenger on {nextFloor}. Time={from[i]-currentFloor}s");
+#endif
+            for (i = 1; i < n; i++)
+            {
+                currentFloor = nextFloor;
+                nextFloor = from[i]; // next person
+#if DEBUG
+                Console.WriteLine($"We are on {currentFloor}. Next passenger on {nextFloor}");
+#endif
+                var newMap = new Dictionary<int, int>();
+                foreach (var pair in map)
                 {
-                    if (p.size == 0) // cabin is empty, we are ready to go to i+1 passanger
+                    var state = pair.Key;
+                    var passengers = GetPassengers(state);
+#if DEBUG
+                    Console.WriteLine($"  State={string.Join(",", passengers)}. Time={pair.Value}s");
+#endif
+                    var time = pair.Value;
+
+                    var bot = Math.Min(currentFloor, nextFloor);
+                    var top = Math.Max(currentFloor, nextFloor);
+                    var newPassengers = passengers.Where(c => c < bot || c > top).ToList();
+                    newPassengers.Add(to[i]);
+                    if (newPassengers.Count <= 4)
                     {
-                        time = from[i] - floor;
-                        var newP = p.Add(to[i]);
-                        newState[newP] = state[p] + time;
+                        var directTime = time + top - bot;
+                        var newState = GetState(newPassengers);
+                        if (!newMap.ContainsKey(newState) || newMap[newState] > directTime)
+                            newMap[newState] = directTime;
                     }
+
+                    for (var l = 0; l < passengers.Count; l++) if (passengers[l] < bot || passengers[l] > top)
+                    {
+                            for (var r = l; r < passengers.Count; r++) if (passengers[r] < bot || passengers[r] > top)
+                            {
+                                    var pr = passengers[r];
+                                    var pl = passengers[l];
+
+                                    if (pl > pr) Debugger.Break();
+
+                                    var thisTime = time + (pr - pl) + Math.Min(Math.Abs(currentFloor - pl) + Math.Abs(pr - nextFloor), Math.Abs(nextFloor - pl) + Math.Abs(pr - currentFloor));
+                                    newPassengers = passengers.Where(c => c < Math.Min(bot, pl) || c > Math.Max(top, pr)).ToList();
+#if DEBUG
+                                    Console.Write($"  {pl}=>{pr}: new state={string.Join(",", newPassengers)} in {thisTime}s");
+#endif
+                                    if (newPassengers.Count > 3)
+                                    {
+#if DEBUG
+                                        Console.WriteLine(" - overload");
+#endif
+                                        continue;
+                                    }
+                                    newPassengers.Add(to[i]);
+                                    var newState = GetState(newPassengers);
+
+                                    if (newMap.TryGetValue(newState, out int otherTime))
+                                    {
+                                        if (otherTime < thisTime)
+                                        {
+#if DEBUG
+                                            Console.WriteLine(" - too slow");
+#endif
+                                            continue;
+                                        }
+                                    }
+#if DEBUG
+                                    Console.WriteLine("");
+#endif
+                                    newMap[newState] = thisTime;
+                                }
+
+                        }
                 }
+
+                map = newMap;
             }
 
-            // result + 2*n;
+            currentFloor = nextFloor;
+
+            int minTime = int.MaxValue;
+            foreach (var pair in map)
+            {
+                var state = pair.Key;
+                var time = pair.Value;
+                var passengers = GetPassengers(state);
+                if (!passengers.Any()) continue;
+                var l = passengers.First();
+                var r = passengers.Last();
+                if (l > r) Debugger.Break();
+                time += Math.Min(Math.Abs(r - currentFloor), Math.Abs(currentFloor - l)) + r - l;
+                if (time < minTime)
+                    minTime = time;
+            }
+
+#if DEBUG
+            Console.WriteLine($"We are on {currentFloor}. Time={minTime}s");
+#endif
+
+            var result = minTime + 2 * n;
+            Console.WriteLine(result);
         }
 
         public static void Main()
         {
             var task = new Task();
-            #if DEBUG
+#if DEBUG
             task.Solve();
-            #else
+#else
             try
             {
                 task.Solve();
@@ -56,46 +146,34 @@ namespace Codeforces.TaskC
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(ex);
             }
-            #endif
+#endif
+        }
+
+        public static int GetState(List<int> passengers)
+        {
+            if (passengers.Count == 0) return 0;
+            passengers.Sort();
+            var state = passengers[0];
+            for (var i = 1; i < passengers.Count; i++)
+            {
+                state *= 10;
+                state += passengers[i];
+            }
+            return state;
+        }
+
+        public static IList<int> GetPassengers(int state)
+        {
+            var passengers = new List<int>();
+            while (state > 0)
+            {
+                var p = state % 10;
+                if (p != 0)
+                    passengers.Add(p);
+                state /= 10;
+            }
+            passengers.Sort();
+            return passengers;
         }
     }
-
-
-    struct P
-    {
-        public P(int p1) : this(p1, 0, 0)
-        {
-            size = 1;
-        }
-
-        public P(int p1, int p2) : this(p1, p2, 0)
-        {
-            size = 2;
-        }
-
-        public P(int p1, int p2, int p3)
-        {
-            this.p1 = p1;
-            this.p2 = p2;
-            this.p3 = p3;
-            size = 3;
-        }
-
-        internal int size;
-        internal int p1;
-        internal int p2;
-        internal int p3;
-
-        public P Add(int p)
-        {
-            var x = (P) MemberwiseClone();
-            x.size++;
-            if (x.size == 1) p1 = p;
-            else if (x.size == 2) p2 = p;
-            else if (x.size == 3) p3 = p;
-            else if (x.size == 4) p4 = p;
-            return x;
-        }
-    }
-
 }
