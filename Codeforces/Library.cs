@@ -1471,26 +1471,29 @@ namespace Codeforces
         /// </summary>
         public static IEnumerable<long> GetDivisors(long n)
         {
-            long r;
-            while (true)
+            if (n != 0)
             {
-                var x = Math.DivRem(n, 2, out r);
-                if (r != 0) break;
-                n = x;
-                yield return 2;
-            }
-            var i = 3;
-            while (i <= Math.Sqrt(n))
-            {
-                var x = Math.DivRem(n, i, out r);
-                if (r == 0)
+                long r;
+                while (true)
                 {
+                    var x = Math.DivRem(n, 2, out r);
+                    if (r != 0) break;
                     n = x;
-                    yield return i;
+                    yield return 2;
                 }
-                else i += 2;
+                var i = 3;
+                while (i <= Math.Sqrt(n))
+                {
+                    var x = Math.DivRem(n, i, out r);
+                    if (r == 0)
+                    {
+                        n = x;
+                        yield return i;
+                    }
+                    else i += 2;
+                }
+                if (n != 1) yield return n;
             }
-            if (n != 1) yield return n;
         }
     }
 
