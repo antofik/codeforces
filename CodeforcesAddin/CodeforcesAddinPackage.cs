@@ -15,6 +15,7 @@ using Window = EnvDTE.Window;
 using Microsoft.VisualStudio.Shell.Interop;
 using System.Threading;
 using System.Threading.Tasks;
+using Microsoft.VisualStudio.VCProjectEngine;
 
 namespace CodeforcesAddin
 {
@@ -36,7 +37,8 @@ namespace CodeforcesAddin
 
         private string[] _taskItems = {None};
         private string _currentTaskItem = None;
-        private DTE _dte;
+        private DTE2 _dte;
+        
         private readonly Codeforces _cf = Codeforces.Instance;
 
         #region Package Members
@@ -78,7 +80,7 @@ namespace CodeforcesAddin
                 var combo2GetItems = new CommandID(GuidList.Default, PkgCmdIDList.Combo2Items);
                 service.AddCommand(new OleMenuCommand(OnMenuMyDropDownComboGetList, combo2GetItems));
 
-                _dte = (DTE)GetService(typeof (DTE));
+                _dte = (DTE2)GetService(typeof (DTE));
                 _dte.Events.WindowEvents.WindowActivated += OnWindowActivated;
             }
             catch (Exception ex)
@@ -106,10 +108,12 @@ namespace CodeforcesAddin
         {
             try
             {  
-                var projects = _dte.ActiveSolutionProjects as object[];
-                _currentProject = projects != null && projects.Length > 0 ? projects[0] as Project : null;
+                var projects = _dte.Solution.Projects;
+                _currentProject = projects != null && projects.Count > 0 ? projects.Item(1) as Project : null;
 
-                _isCorrectSolution = _currentProject != null && _currentProject.CodeModel.Language == CodeModelLanguageConstants.vsCMLanguageCSharp;
+                _isCorrectSolution = _currentProject != null && (
+                    _currentProject.CodeModel.Language == CodeModelLanguageConstants.vsCMLanguageCSharp ||
+                    _currentProject.CodeModel.Language == CodeModelLanguageConstants.vsCMLanguageVC);
                 ReadAvailableTasks();
                 ReadAvailableTests();
 
@@ -167,8 +171,9 @@ namespace CodeforcesAddin
         {
             try {
                 Log.Info("OnCopy");
-            var code = PrepareCode();
-            Clipboard.SetText(code);
+                if (_currentProject == null) return;
+                var code = PrepareCode();
+                Clipboard.SetText(code);
             }
             catch (Exception ex)
             {
@@ -179,63 +184,165 @@ namespace CodeforcesAddin
 
         private string PrepareCode()
         {
-            try { 
-            Check();
-            if (_currentProject == null) return "";
-            if (_currentTaskItem == None) return "";
+            switch (_currentProject.CodeModel.Language)
+            {
+                case CodeModelLanguageConstants.vsCMLanguageCSharp:
+                    return PrepareCodeCSharp();
+                case CodeModelLanguageConstants.vsCMLanguageVC:
+                    return PrepareCodeCpp();
+            }
+            return "Unknown language";
+        }
 
-            var libraryUsings = "";
-            var libraryCode = "";
+        private string PrepareCodeCpp()
+        {
             try
             {
-                var item = _currentProject.ProjectItems.Item("Library.cs");
-                if (!item.Saved) item.Save();
-                var lines = File.ReadAllLines(item.FileNames[0]);
-                int i;
-                for (i = 0; i < lines.Count(); i++)
-                {
-                    var line = lines[i];
-                    if (!line.StartsWith("using ")) break;
-                    libraryUsings += line + Environment.NewLine;
-                }
-                libraryCode = string.Join(Environment.NewLine, lines.Skip(i));
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("Your project doesn't contain Library.cs file. Default library will be used");
-            }
+                Check();
+                if (_currentProject == null) return "";
+                if (_currentTaskItem == None) return "";
 
-            var code = "";
-            try
-            {
-                ProjectItem doc;
+                var libraryCode = "";
                 try
                 {
-                    var folder = _currentProject.ProjectItems.Item("Task" + _currentTaskItem);
-                    doc = folder.ProjectItems.Item("Task.cs");
+                    var item = _currentProject.ProjectItems.Item("Header Files").ProjectItems.Item("Library.h");
+                    if (!item.Saved)
+                    {
+                        MessageBox.Show("Please save Library.h before copying/sending task");
+                        return "";
+                    }
+
+
+                    libraryCode = "\n" + File.ReadAllText(item.FileNames[0]) + "\n";
+                    libraryCode = libraryCode.Replace("#pragma once", "");
                 }
                 catch (Exception)
                 {
-                    doc = _dte.ActiveDocument.ProjectItem;
+                    MessageBox.Show("Your project doesn't contain Library.h header file. Default library will be used");
                 }
-                if (doc != null)
+
+                var code = "";
+                try
                 {
-                    if (!doc.Saved) doc.Save();
-                    code = File.ReadAllText(doc.FileNames[0]);
-                    code = string.Format("{0}{1}{2}", libraryUsings, code, libraryCode);
-                    _dte.StatusBar.Text = "Code successfuly imported.";
+                    ProjectItem doc;
+                    try
+                    {
+                        doc = _currentProject.ProjectItems.Item("Source Files").ProjectItems.Item("Task" + _currentTaskItem + ".cpp");
+                    }
+                    catch (Exception)
+                    {
+                        doc = _dte.ActiveDocument.ProjectItem;
+                    }
+                    if (doc != null)
+                    {                        
+                        if (!doc.Saved)
+                        {
+                            MessageBox.Show("Please save code before copying/sending it");
+                            return "";
+                        }
+                        code = File.ReadAllText(doc.FileNames[0]).Trim();
+
+                        if (code.StartsWith("#ifdef TASK" + _currentTaskItem) && code.EndsWith("#endif"))
+                        {
+                            code = code.Substring(("#ifdef TASK" + _currentTaskItem).Length).Trim();
+                            code = code.Substring(0, code.Length - 6).Trim();
+                        } else
+                        {
+                            code = "#define TASK" + _currentTaskItem + "\n\n" + code;
+                        }
+
+                        code += @"
+
+int main() {
+    task();
+    return 0;
+}
+
+";
+                        code = code.Replace("#include \"Library.h\"", libraryCode).Trim();
+
+                        _dte.StatusBar.Text = "Code successfuly imported.";
+                    }
+                    else
+                    {
+                        _dte.StatusBar.Text = "Opened document is not TextDocument";
+                    }
                 }
-                else
+                catch (Exception ex)
                 {
-                    _dte.StatusBar.Text = "Opened document is not TextDocument";
+                    code = "";
+                    _dte.StatusBar.Text = "Your project doesn't contain Library.cs file. " + ex.Message;
                 }
+                return code;
             }
             catch (Exception ex)
             {
-                code = "";
-                _dte.StatusBar.Text = "Your project doesn't contain Library.cs file. " + ex.Message;
+                Log.Error(ex);
+                return "";
             }
-            return code;
+        }
+
+
+        private string PrepareCodeCSharp()
+        {
+            try
+            {
+                Check();
+                if (_currentProject == null) return "";
+                if (_currentTaskItem == None) return "";
+
+                var libraryUsings = "";
+                var libraryCode = "";
+                try
+                {
+                    var item = _currentProject.ProjectItems.Item("Library.cs");
+                    if (!item.Saved) item.Save();
+                    var lines = File.ReadAllLines(item.FileNames[0]);
+                    int i;
+                    for (i = 0; i < lines.Count(); i++)
+                    {
+                        var line = lines[i];
+                        if (!line.StartsWith("using ")) break;
+                        libraryUsings += line + Environment.NewLine;
+                    }
+                    libraryCode = string.Join(Environment.NewLine, lines.Skip(i));
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("Your project doesn't contain Library.cs file. Default library will be used");
+                }
+
+                var code = "";
+                try
+                {
+                    ProjectItem doc;
+                    try
+                    {
+                        var folder = _currentProject.ProjectItems.Item("Task" + _currentTaskItem);
+                        doc = folder.ProjectItems.Item("Task.cs");
+                    }
+                    catch (Exception)
+                    {
+                        doc = _dte.ActiveDocument.ProjectItem;
+                    }
+                    if (doc != null)
+                    {
+                        if (!doc.Saved) doc.Save();
+                        code = File.ReadAllText(doc.FileNames[0]);
+                        code = string.Format("{0}{1}{2}", libraryUsings, code, libraryCode);
+                        _dte.StatusBar.Text = "Code successfuly imported.";
+                    }
+                    else
+                    {
+                        _dte.StatusBar.Text = "Opened document is not TextDocument";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    code = "";
+                    _dte.StatusBar.Text = "Your project doesn't contain Library.cs file. " + ex.Message;
+                }
+                return code;
             }
             catch (Exception ex)
             {
@@ -393,24 +500,53 @@ namespace CodeforcesAddin
             }
         }
 
-        private void ReadCurrentValues()
+        private List<string> GetConstants()
         {
-            try { 
-            var project = _currentProject;
-            if (project == null || project.ConfigurationManager == null) return;
-            var config = project.ConfigurationManager.ActiveConfiguration;
-            if (config == null) return;
-            
             var constants = new List<string>();
+            var project = _currentProject;
+            if (project == null || project.ConfigurationManager == null) return constants;
+            var config = project.ConfigurationManager.ActiveConfiguration;
+            if (config == null) return constants;
             switch (project.CodeModel.Language)
             {
                 case CodeModelLanguageConstants.vsCMLanguageCSharp:
                     constants = ((string)config.Properties.Item("DefineConstants").Value).Split(';').ToList();
                     break;
                 case CodeModelLanguageConstants.vsCMLanguageVC:
-                    constants = new List<string>();
+                    VCProject proj = (VCProject)project.Object;
+                    VCConfiguration conf = proj.ActiveConfiguration;
+                    var obj = conf.Rules.Item("CL") as IVCRulePropertyStorage;
+                    constants = obj.GetEvaluatedPropertyValue("PreprocessorDefinitions").Split(';').ToList();
                     break;
             }
+            return constants;
+        }
+
+        private void SetConstants(List<string> constants)
+        {
+            var project = _currentProject;
+            if (project == null || project.ConfigurationManager == null) return;
+            var config = project.ConfigurationManager.ActiveConfiguration;
+            if (config == null) return;
+            var values = string.Join(";", constants);
+            switch (project.CodeModel.Language)
+            {
+                case CodeModelLanguageConstants.vsCMLanguageCSharp:
+                    config.Properties.Item("DefineConstants").Value = values;
+                    break;
+                case CodeModelLanguageConstants.vsCMLanguageVC:
+                    VCProject proj = (VCProject)project.Object;
+                    VCConfiguration conf = proj.ActiveConfiguration;
+                    var obj = conf.Rules.Item("CL") as IVCRulePropertyStorage;
+                    obj.SetPropertyValue("PreprocessorDefinitions", values);
+                    break;
+            }
+        }
+
+        private void ReadCurrentValues()
+        {
+            try {             
+            var constants = GetConstants();
 
             var _testNames = _testItems.Select(c => TestPrefix + c).ToList();
             var _taskNames = _taskItems.Select(c => TaskPrefix + c).ToList();
@@ -429,16 +565,22 @@ namespace CodeforcesAddin
 
         private void WriteValues()
         {
-            try { 
-            var project = _currentProject;
-            if (project == null || project.ConfigurationManager == null) return;
-            var config = project.ConfigurationManager.ActiveConfiguration;
-            if (config == null) return;
-            var constants = ((string)config.Properties.Item("DefineConstants").Value).Split(';')
-                .Where(c => !(c.StartsWith(TaskPrefix) && c.Length == TaskPrefix.Length + 1) && !c.StartsWith(TestPrefix)).ToList();
-            if (_currentTaskItem != None) constants.Add(TaskPrefix + _currentTaskItem);
-            if (_currentTestItem != None) constants.Add(TestPrefix + _currentTestItem);
-            config.Properties.Item("DefineConstants").Value = string.Join(";", constants);
+            try {
+               var constants = GetConstants()
+                    .Where(c=>!c.StartsWith(TaskPrefix + "=") && !c.StartsWith(TestPrefix + "="))
+                    .Where(c => !(c.StartsWith(TaskPrefix) && c.Length == TaskPrefix.Length + 1) && !c.StartsWith(TestPrefix)).ToList();
+                if (_currentTaskItem != None)
+                {
+                    constants.Add(TaskPrefix + _currentTaskItem);
+                    constants.Add(TaskPrefix + "=" + _currentTaskItem);
+                }
+                if (_currentTestItem != None)
+                {
+                    constants.Add(TestPrefix + _currentTestItem);
+                    var tests = _currentTestItem == "ALL" ? string.Join(",", _testItems.Where(c=>c!="ALL" && c!="none")) : _currentTestItem;
+                    constants.Add(TestPrefix + "=" + tests);
+                }
+                SetConstants(constants);
             }
             catch (Exception ex)
             {

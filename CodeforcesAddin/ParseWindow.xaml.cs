@@ -125,16 +125,51 @@ namespace Codeforces.Task/*#*/
         }
     }
 }";
-            try
-            {
-                var projectItem = _project.ProjectItems.Item("Task.cs");
-                var taskTemplatePath = projectItem.FileNames[0];
-                taskTemplate = File.ReadAllText(taskTemplatePath);
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("File Task.cs not found in your project. Default template will be used.");
-            }
+            const string taskCppTemplate = @"#include ""Library.h"";
+
+
+void task() {
+    int n;
+    cin >> n;
+    cout << ""YES"";
+};
+";
+            string taskFileName = "file";
+                switch (_project.CodeModel.Language)
+                {
+                    case CodeModelLanguageConstants.vsCMLanguageCSharp:
+                    {
+                        try
+                        {
+                            taskFileName = "Task.cs";
+                            var projectItem = _project.ProjectItems.Item("Task.cs");
+                            var taskTemplatePath = projectItem.FileNames[0];
+                            taskTemplate = File.ReadAllText(taskTemplatePath);
+                        }
+                        catch (Exception)
+                        {
+                            MessageBox.Show("File Task.cs not found in your project. Default template will be used.");
+
+                        }
+                    };
+                    break;
+                    case CodeModelLanguageConstants.vsCMLanguageVC:
+                    {
+                        try
+                        {
+                            taskFileName = "Task.cpp";
+                            var projectItem = _project.ProjectItems.Item("task_template.cpp");
+                            var taskTemplatePath = _project.ProjectItems.Item("Source Files").ProjectItems.Item("task_template.cpp").FileNames[0];
+                            taskTemplate = File.ReadAllText(taskTemplatePath);
+                        }
+                        catch (Exception)
+                        {
+                            MessageBox.Show("File task_template.cpp not found in your project. Default template will be used.");
+                            taskTemplate = taskCppTemplate;
+                        }
+                    }
+                    break;
+                }
             
             using (var web = new WebClient())
             {
@@ -146,6 +181,10 @@ namespace Codeforces.Task/*#*/
                 var matches = Regex.Matches(html, mask, RegexOptions.Singleline);
                 for (var i = 0; i < matches.Count; i++)
                 {
+                    ProjectItems taskProject = _project.ProjectItems;
+                    ProjectItems testProject = _project.ProjectItems;
+                    ProjectItems resultProject = _project.ProjectItems;
+
                     var match = matches[i];
                     var taskLetter = (char) ('A' + i);
                     var task = "Task" + taskLetter;
@@ -157,9 +196,27 @@ namespace Codeforces.Task/*#*/
                         Directory.CreateDirectory(dir);
                         try
                         {
-                            var taskPath = Path.Combine(dir, "Task.cs");
-                            File.WriteAllText(taskPath, taskTemplate.Replace("/*#*/", taskLetter.ToString(CultureInfo.InvariantCulture)));
-                            _project.ProjectItems.AddFromFile(taskPath);
+                            switch (_project.CodeModel.Language)
+                            {
+                                case CodeModelLanguageConstants.vsCMLanguageCSharp:
+                                    {
+                                        var taskPath = Path.Combine(dir, taskFileName);
+                                        var taskText = taskTemplate.Replace("/*#*/", taskLetter.ToString(CultureInfo.InvariantCulture));
+                                        File.WriteAllText(taskPath, taskText);
+                                        _project.ProjectItems.AddFromFile(taskPath);
+                                    }
+                                    break;
+                                case CodeModelLanguageConstants.vsCMLanguageVC:
+                                    {
+                                        taskProject = _project.ProjectItems.Item("Source Files").ProjectItems;
+                                        var taskPath = Path.Combine(dir, task + ".cpp");
+                                        var taskText = @"#ifdef TASK" + taskLetter + "\n\n" + taskTemplate + "\n\n#endif";
+                                        File.WriteAllText(taskPath, taskText);
+                                        taskProject.AddFromFile(taskPath);
+                                        //_project.ProjectItems.Item("Source Files").ProjectItems.AddFromFile(taskPath);
+                                    }
+                                    break;
+                            }
                         }
                         catch (Exception ex)
                         {
@@ -168,12 +225,16 @@ namespace Codeforces.Task/*#*/
                     }
                     dir = Path.Combine(projectPath, task, "Tests");
                     if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+                    if (_project.CodeModel.Language == CodeModelLanguageConstants.vsCMLanguageVC)
+                        testProject = _project.ProjectItems.Item("Resource Files").ProjectItems;
                     dir = Path.Combine(projectPath, task, "Results");
                     if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+                    if (_project.CodeModel.Language == CodeModelLanguageConstants.vsCMLanguageVC)
+                        resultProject = _project.ProjectItems.Item("Resource Files").ProjectItems;
 
                     var path = Path.Combine(projectPath, task, "Problem.html");
                     File.WriteAllText(path, problem);
-                    _project.ProjectItems.AddFromFile(path);
+                    resultProject.AddFromFile(path);
 
                     var inputs =
                         Regex.Matches(problem, maskInput, RegexOptions.Singleline)
@@ -195,8 +256,8 @@ namespace Codeforces.Task/*#*/
                         var resultPath = Path.Combine(projectPath, task, "Results", "test" + (j + 1) + ".txt");
                         File.WriteAllText(testPath, j < inputs.Count ? filter(inputs[j]) : "");
                         File.WriteAllText(resultPath, j < outputs.Count ? filter(outputs[j]) : "");
-                        _project.ProjectItems.AddFromFile(testPath);
-                        _project.ProjectItems.AddFromFile(resultPath);
+                        testProject.AddFromFile(testPath);
+                        resultProject.AddFromFile(resultPath);
                     }
                 }
             }
@@ -213,7 +274,7 @@ namespace Codeforces.Task/*#*/
                 const string mask = @"<tr\s*?data-contestId=""(?<id>\d+)""\s*?>\s*?<td>\s*?(?<name>[^<]+?)<br";
                 for (var i = 1; i <= 10; i++)
                 {
-                    var html = web.DownloadString(new Uri(string.Format("http://codeforces.ru/contests/page/{0}", i))).Replace("\t", " ").Replace("\r", " ").Replace("\n", " ");
+                    var html = web.DownloadString(new Uri(string.Format("http://codeforces.ru/contests/page/{0}?complete=true", i))).Replace("\t", " ").Replace("\r", " ").Replace("\n", " ");
                     var matches = Regex.Matches(html, mask, RegexOptions.Singleline);
                     var added = false;
                     foreach (Match match in matches)
