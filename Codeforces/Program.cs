@@ -43,26 +43,35 @@ namespace Codeforces
             var tests = new[]{
 #if TEST1
             1,
-#elif TEST2
+#endif
+#if TEST2
             2,
-#elif TEST3
+#endif
+#if TEST3
             3,
-#elif TEST4
+#endif
+#if TEST4
             4,
-#elif TEST5
+#endif
+#if TEST5
             5,
-#elif TEST6
+#endif
+#if TEST6
             6,
-#elif TEST7
+#endif
+#if TEST7
             7,
-#elif TEST8
+#endif
+#if TEST8
             8,
-#elif TEST9
+#endif
+#if TEST9
             9,
-#elif TEST10
+#endif
+#if TEST10
             10,
 #else
-            1,2,3,4,5,6,7,8,9,10,
+                1,2,3,4,5,6,7,8,9,10,
 #endif
             };
 
@@ -76,7 +85,7 @@ namespace Codeforces
             else
             {
                 var results = new List<bool>();
-                foreach (var test in tests)
+                foreach (var test in tests.OrderBy(c=>c).ToList())
                 {
                     var path = string.Format("../../Task{0}/Tests/test{1}.txt", problem, test);
 

@@ -51,7 +51,31 @@
     <Compile Include="Program.cs" />
     <Compile Include="Task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaskA\Task.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="TaskA\Results\test1.txt" />
+    <Content Include="TaskA\Results\test10.txt" />
+    <Content Include="TaskA\Results\test2.txt" />
+    <Content Include="TaskA\Results\test3.txt" />
+    <Content Include="TaskA\Results\test4.txt" />
+    <Content Include="TaskA\Results\test5.txt" />
+    <Content Include="TaskA\Results\test6.txt" />
+    <Content Include="TaskA\Results\test7.txt" />
+    <Content Include="TaskA\Results\test8.txt" />
+    <Content Include="TaskA\Results\test9.txt" />
+    <Content Include="TaskA\Tests\test10.txt" />
+    <Content Include="TaskA\Tests\test4.txt" />
+    <Content Include="TaskA\Tests\test3.txt" />
+    <Content Include="TaskA\Tests\test2.txt" />
+    <Content Include="TaskA\Tests\test1.txt" />
+    <Content Include="TaskA\Tests\test5.txt" />
+    <Content Include="TaskA\Tests\test6.txt" />
+    <Content Include="TaskA\Tests\test7.txt" />
+    <Content Include="TaskA\Tests\test8.txt" />
+    <Content Include="TaskA\Tests\test9.txt" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
