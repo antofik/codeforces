@@ -1,4 +1,8 @@
-﻿using System;
+﻿#define TASKC
+
+#define TESTx
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -43,32 +47,23 @@ namespace Codeforces
             var tests = new[]{
 #if TEST1
             1,
-#endif
-#if TEST2
+#elif TEST2
             2,
-#endif
-#if TEST3
+#elif TEST3
             3,
-#endif
-#if TEST4
+#elif TEST4
             4,
-#endif
-#if TEST5
+#elif TEST5
             5,
-#endif
-#if TEST6
+#elif TEST6
             6,
-#endif
-#if TEST7
+#elif TEST7
             7,
-#endif
-#if TEST8
+#elif TEST8
             8,
-#endif
-#if TEST9
+#elif TEST9
             9,
-#endif
-#if TEST10
+#elif TEST10
             10,
 #else
                 1,2,3,4,5,6,7,8,9,10,

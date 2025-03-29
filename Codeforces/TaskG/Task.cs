@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Codeforces.TaskA
+namespace Codeforces.TaskG
 {
     public class Task
     {
