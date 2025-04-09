@@ -1353,7 +1353,7 @@ namespace Codeforces
                     Increase(i, items[i]);
             }
 
-            private int Query(int r)
+            private int Sum(int r)
             {
                 if (r < 0) return 0;
                 if (r >= Size) r = Size - 1;
@@ -1363,19 +1363,19 @@ namespace Codeforces
                 return result;
             }
 
-            private int Query(int l, int r)
+            private int Sum(int l, int r)
             {
-                return Query(r) - Query(l - 1);
+                return Sum(r) - Sum(l - 1);
             }
 
             public int this[int r]
             {
-                get { return Query(r); }
+                get { return Sum(r); }
             }
 
             public int this[int l, int r]
             {
-                get { return Query(l, r); }
+                get { return Sum(l, r); }
             }
 
             public void Increase(int i, int delta)
@@ -1402,7 +1402,7 @@ namespace Codeforces
                 }
             }
 
-            public int Query(int index)
+            public int Min(int index)
             {
                 int result = _maxValue;
                 for (int i = index; i <= N; i += i & (-i))
@@ -1441,7 +1441,7 @@ namespace Codeforces
                 }
             }
 
-            public int Query(int index)
+            public int Max(int index)
             {
                 int result = _minValue;
                 for (int i = index; i > 0; i -= i & (-i))

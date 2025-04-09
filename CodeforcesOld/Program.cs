@@ -12,10 +12,10 @@ using System.Text;
 
 namespace Codeforces
 {
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
-        {            
+        static void Main(string[] args)
+        {
 #if TASKA
             const char problem = 'A';
 #elif TASKB
@@ -70,7 +70,7 @@ namespace Codeforces
 #endif
             };
 
-            var type = Type.GetType(string.Format("Codeforces.Task{0}.Task{0}", problem));
+            var type = Type.GetType(string.Format("Codeforces.Task{0}.Task", problem));
             if (type == null)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -80,10 +80,9 @@ namespace Codeforces
             else
             {
                 var results = new List<bool>();
-                var currentDir = Directory.GetCurrentDirectory();
-                foreach (var test in tests.OrderBy(c => c).ToList())
+                foreach (var test in tests.OrderBy(c=>c).ToList())
                 {
-                    var path = string.Format("../../../Task{0}/Input/input{1}.txt", problem, test);
+                    var path = string.Format("../../Task{0}/Tests/test{1}.txt", problem, test);
 
                     if (!File.Exists(path)) continue;
                     if (!File.ReadLines(path).Any()) continue;
@@ -92,6 +91,7 @@ namespace Codeforces
                     Console.BackgroundColor = ConsoleColor.DarkGray;
                     Console.WriteLine("*******************************************************************************");
                     Console.WriteLine("*                                                                             *");
+                    //Console.WriteLine("*                            TOURNAMENT {0}{1}*", tournament, string.Join("", Enumerable.Repeat(" ", 38 - tournament.Length)));
                     Console.WriteLine("*                            TASK {0}  TEST {1}                                   *", problem, test);
                     Console.WriteLine("*                                                                             *");
                     Console.WriteLine("*******************************************************************************");
@@ -124,8 +124,8 @@ namespace Codeforces
                         writer.Close();
                         stream.Flush();
                         var output = Encoding.UTF8.GetString(stream.ToArray()).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
-                        var input = File.ReadAllText(string.Format("../../../Task{0}/Input/input{1}.txt", problem, test));
-                        var correctOutput = File.ReadAllText(string.Format("../../../Task{0}/Output/output{1}.txt", problem, test)).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
+                        var input = File.ReadAllText(string.Format("../../Task{0}/Tests/test{1}.txt", problem, test));
+                        var correctOutput = File.ReadAllText(string.Format("../../Task{0}/Results/test{1}.txt", problem, test)).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
                         ok = output == correctOutput;
                         if (!ok)
                         {
@@ -143,8 +143,8 @@ namespace Codeforces
                             Console.WriteLine(correctOutput);
 
                             Console.ForegroundColor = ConsoleColor.Yellow;
-                            //                      Console.WriteLine("\nPress any key to continue...");
-                            //                      Console.ReadKey();
+      //                      Console.WriteLine("\nPress any key to continue...");
+      //                      Console.ReadKey();
                         }
                         else
                         {
@@ -196,8 +196,8 @@ namespace Codeforces
             }
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            //     Console.WriteLine("Press any key to continue...");
-            //     Console.ReadKey();
+       //     Console.WriteLine("Press any key to continue...");
+       //     Console.ReadKey();
 
         }
     }

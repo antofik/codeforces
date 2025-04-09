@@ -1,233 +1,148 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
   <PropertyGroup>
-    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProductVersion>8.0.30703</ProductVersion>
-    <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{2C05A18A-8120-4E76-8CE8-A14FA77F5558}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Codeforces</RootNamespace>
-    <AssemblyName>Codeforces</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
-    <TargetFrameworkProfile>
-    </TargetFrameworkProfile>
-    <FileAlignment>512</FileAlignment>
-    <PublishUrl>publish\</PublishUrl>
-    <Install>true</Install>
-    <InstallFrom>Disk</InstallFrom>
-    <UpdateEnabled>false</UpdateEnabled>
-    <UpdateMode>Foreground</UpdateMode>
-    <UpdateInterval>7</UpdateInterval>
-    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
-    <UpdatePeriodically>false</UpdatePeriodically>
-    <UpdateRequired>false</UpdateRequired>
-    <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>0</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
-    <UseApplicationTrust>false</UseApplicationTrust>
-    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<StartupObject>Codeforces.Program</StartupObject>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
-    <DebugSymbols>true</DebugSymbols>
-    <DebugType>full</DebugType>
-    <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;TESTALL</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-    <Prefer32Bit>false</Prefer32Bit>
-    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>$(DefineConstants);LOCAL</DefineConstants>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
-    <PlatformTarget>x86</PlatformTarget>
-    <DebugType>pdbonly</DebugType>
-    <Optimize>true</Optimize>
-    <OutputPath>bin\Release\</OutputPath>
-    <DefineConstants>TRACE;TEST2;TASKB</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-    <Prefer32Bit>false</Prefer32Bit>
-  </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>Codeforces.Program</StartupObject>
-  </PropertyGroup>
+
   <ItemGroup>
-    <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
+    <Content Include="TaskC\Input\input1.txt" />
+    <Content Include="TaskC\Input\input2.txt" />
+    <Content Include="TaskC\Input\input3.txt" />
+    <Content Include="TaskC\Input\input4.txt" />
+    <Content Include="TaskC\Input\input5.txt" />
+    <Content Include="TaskC\Input\input6.txt" />
+    <Content Include="TaskC\Input\input7.txt" />
+    <Content Include="TaskC\Input\input8.txt" />
+    <Content Include="TaskC\Input\input9.txt" />
+    <Content Include="TaskC\Output\output1.txt" />
+    <Content Include="TaskC\Output\output2.txt" />
+    <Content Include="TaskC\Output\output3.txt" />
+    <Content Include="TaskC\Output\output4.txt" />
+    <Content Include="TaskC\Output\output5.txt" />
+    <Content Include="TaskC\Output\output6.txt" />
+    <Content Include="TaskC\Output\output7.txt" />
+    <Content Include="TaskC\Output\output8.txt" />
+    <Content Include="TaskC\Output\output9.txt" />
+    <Content Include="TaskG\Input\input1.txt" />
+    <Content Include="TaskG\Input\input2.txt" />
+    <Content Include="TaskG\Input\input3.txt" />
+    <Content Include="TaskG\Input\input4.txt" />
+    <Content Include="TaskG\Input\input5.txt" />
+    <Content Include="TaskG\Input\input6.txt" />
+    <Content Include="TaskG\Input\input7.txt" />
+    <Content Include="TaskG\Input\input8.txt" />
+    <Content Include="TaskG\Input\input9.txt" />
+    <Content Include="TaskG\Output\output1.txt" />
+    <Content Include="TaskG\Output\output2.txt" />
+    <Content Include="TaskG\Output\output3.txt" />
+    <Content Include="TaskG\Output\output4.txt" />
+    <Content Include="TaskG\Output\output5.txt" />
+    <Content Include="TaskG\Output\output6.txt" />
+    <Content Include="TaskG\Output\output7.txt" />
+    <Content Include="TaskG\Output\output8.txt" />
+    <Content Include="TaskG\Output\output9.txt" />
+    <Content Include="TaskF\Input\input1.txt" />
+    <Content Include="TaskF\Input\input2.txt" />
+    <Content Include="TaskF\Input\input3.txt" />
+    <Content Include="TaskF\Input\input4.txt" />
+    <Content Include="TaskF\Input\input5.txt" />
+    <Content Include="TaskF\Input\input6.txt" />
+    <Content Include="TaskF\Input\input7.txt" />
+    <Content Include="TaskF\Input\input8.txt" />
+    <Content Include="TaskF\Input\input9.txt" />
+    <Content Include="TaskF\Output\output1.txt" />
+    <Content Include="TaskF\Output\output2.txt" />
+    <Content Include="TaskF\Output\output3.txt" />
+    <Content Include="TaskF\Output\output4.txt" />
+    <Content Include="TaskF\Output\output5.txt" />
+    <Content Include="TaskF\Output\output6.txt" />
+    <Content Include="TaskF\Output\output7.txt" />
+    <Content Include="TaskF\Output\output8.txt" />
+    <Content Include="TaskF\Output\output9.txt" />
+    <Content Include="TaskE\Input\input1.txt" />
+    <Content Include="TaskE\Input\input2.txt" />
+    <Content Include="TaskE\Input\input3.txt" />
+    <Content Include="TaskE\Input\input4.txt" />
+    <Content Include="TaskE\Input\input5.txt" />
+    <Content Include="TaskE\Input\input6.txt" />
+    <Content Include="TaskE\Input\input7.txt" />
+    <Content Include="TaskE\Input\input8.txt" />
+    <Content Include="TaskE\Input\input9.txt" />
+    <Content Include="TaskE\Output\output1.txt" />
+    <Content Include="TaskE\Output\output2.txt" />
+    <Content Include="TaskE\Output\output3.txt" />
+    <Content Include="TaskE\Output\output4.txt" />
+    <Content Include="TaskE\Output\output5.txt" />
+    <Content Include="TaskE\Output\output6.txt" />
+    <Content Include="TaskE\Output\output7.txt" />
+    <Content Include="TaskE\Output\output8.txt" />
+    <Content Include="TaskE\Output\output9.txt" />
+    <Content Include="TaskD\Input\input1.txt" />
+    <Content Include="TaskD\Input\input2.txt" />
+    <Content Include="TaskD\Input\input3.txt" />
+    <Content Include="TaskD\Input\input4.txt" />
+    <Content Include="TaskD\Input\input5.txt" />
+    <Content Include="TaskD\Input\input6.txt" />
+    <Content Include="TaskD\Input\input7.txt" />
+    <Content Include="TaskD\Input\input8.txt" />
+    <Content Include="TaskD\Input\input9.txt" />
+    <Content Include="TaskD\Output\output1.txt" />
+    <Content Include="TaskD\Output\output2.txt" />
+    <Content Include="TaskD\Output\output3.txt" />
+    <Content Include="TaskD\Output\output4.txt" />
+    <Content Include="TaskD\Output\output5.txt" />
+    <Content Include="TaskD\Output\output6.txt" />
+    <Content Include="TaskD\Output\output7.txt" />
+    <Content Include="TaskD\Output\output8.txt" />
+    <Content Include="TaskD\Output\output9.txt" />
+    <Content Include="TaskB\Input\input1.txt" />
+    <Content Include="TaskB\Input\input2.txt" />
+    <Content Include="TaskB\Input\input3.txt" />
+    <Content Include="TaskB\Input\input4.txt" />
+    <Content Include="TaskB\Input\input5.txt" />
+    <Content Include="TaskB\Input\input6.txt" />
+    <Content Include="TaskB\Input\input7.txt" />
+    <Content Include="TaskB\Input\input8.txt" />
+    <Content Include="TaskB\Input\input9.txt" />
+    <Content Include="TaskB\Output\output1.txt" />
+    <Content Include="TaskB\Output\output2.txt" />
+    <Content Include="TaskB\Output\output3.txt" />
+    <Content Include="TaskB\Output\output4.txt" />
+    <Content Include="TaskB\Output\output5.txt" />
+    <Content Include="TaskB\Output\output6.txt" />
+    <Content Include="TaskB\Output\output7.txt" />
+    <Content Include="TaskB\Output\output8.txt" />
+    <Content Include="TaskB\Output\output9.txt" />
+    <Content Include="TaskA\Output\output1.txt" />
+    <Content Include="TaskA\Output\output2.txt" />
+    <Content Include="TaskA\Output\output3.txt" />
+    <Content Include="TaskA\Output\output4.txt" />
+    <Content Include="TaskA\Output\output5.txt" />
+    <Content Include="TaskA\Output\output6.txt" />
+    <Content Include="TaskA\Output\output7.txt" />
+    <Content Include="TaskA\Output\output8.txt" />
+    <Content Include="TaskA\Output\output9.txt" />
+    <Content Include="TaskA\Input\input1.txt" />
+    <Content Include="TaskA\Input\input2.txt" />
+    <Content Include="TaskA\Input\input3.txt" />
+    <Content Include="TaskA\Input\input4.txt" />
+    <Content Include="TaskA\Input\input5.txt" />
+    <Content Include="TaskA\Input\input6.txt" />
+    <Content Include="TaskA\Input\input7.txt" />
+    <Content Include="TaskA\Input\input8.txt" />
+    <Content Include="TaskA\Input\input9.txt" />
   </ItemGroup>
+
   <ItemGroup>
-    <Compile Include="Library.cs" />
-    <Compile Include="Program.cs" />
-    <Compile Include="Task.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TaskD\Task.cs" />
-    <Compile Include="TaskE\Task.cs" />
-    <Compile Include="TaskF\Task.cs" />
-    <Compile Include="TaskG\Task.cs" />
-    <Compile Include="TaskC\Task.cs" />
-    <Compile Include="TaskB\Task.cs" />
-    <Compile Include="TaskA\Task.cs" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="TaskD\Results\test1.txt" />
-    <Content Include="TaskD\Results\test2.txt" />
-    <Content Include="TaskD\Results\test3.txt" />
-    <Content Include="TaskD\Results\test4.txt" />
-    <Content Include="TaskD\Results\test5.txt" />
-    <Content Include="TaskD\Results\test6.txt" />
-    <Content Include="TaskD\Results\test7.txt" />
-    <Content Include="TaskD\Results\test8.txt" />
-    <Content Include="TaskD\Results\test9.txt" />
-    <Content Include="TaskD\Tests\test1.txt" />
-    <Content Include="TaskD\Tests\test2.txt" />
-    <Content Include="TaskD\Tests\test3.txt" />
-    <Content Include="TaskD\Tests\test4.txt" />
-    <Content Include="TaskD\Tests\test5.txt" />
-    <Content Include="TaskD\Tests\test6.txt" />
-    <Content Include="TaskD\Tests\test7.txt" />
-    <Content Include="TaskD\Tests\test8.txt" />
-    <Content Include="TaskD\Tests\test9.txt" />
-    <Content Include="TaskE\Results\test1.txt" />
-    <Content Include="TaskE\Results\test2.txt" />
-    <Content Include="TaskE\Results\test3.txt" />
-    <Content Include="TaskE\Results\test4.txt" />
-    <Content Include="TaskE\Results\test5.txt" />
-    <Content Include="TaskE\Results\test6.txt" />
-    <Content Include="TaskE\Results\test7.txt" />
-    <Content Include="TaskE\Results\test8.txt" />
-    <Content Include="TaskE\Results\test9.txt" />
-    <Content Include="TaskE\Tests\test1.txt" />
-    <Content Include="TaskE\Tests\test2.txt" />
-    <Content Include="TaskE\Tests\test3.txt" />
-    <Content Include="TaskE\Tests\test4.txt" />
-    <Content Include="TaskE\Tests\test5.txt" />
-    <Content Include="TaskE\Tests\test6.txt" />
-    <Content Include="TaskE\Tests\test7.txt" />
-    <Content Include="TaskE\Tests\test8.txt" />
-    <Content Include="TaskE\Tests\test9.txt" />
-    <Content Include="TaskF\Results\test1.txt" />
-    <Content Include="TaskF\Results\test2.txt" />
-    <Content Include="TaskF\Results\test3.txt" />
-    <Content Include="TaskF\Results\test4.txt" />
-    <Content Include="TaskF\Results\test5.txt" />
-    <Content Include="TaskF\Results\test6.txt" />
-    <Content Include="TaskF\Results\test7.txt" />
-    <Content Include="TaskF\Results\test8.txt" />
-    <Content Include="TaskF\Results\test9.txt" />
-    <Content Include="TaskF\Tests\test1.txt" />
-    <Content Include="TaskF\Tests\test2.txt" />
-    <Content Include="TaskF\Tests\test3.txt" />
-    <Content Include="TaskF\Tests\test4.txt" />
-    <Content Include="TaskF\Tests\test5.txt" />
-    <Content Include="TaskF\Tests\test6.txt" />
-    <Content Include="TaskF\Tests\test7.txt" />
-    <Content Include="TaskF\Tests\test8.txt" />
-    <Content Include="TaskF\Tests\test9.txt" />
-    <Content Include="TaskG\Results\test1.txt" />
-    <Content Include="TaskG\Results\test2.txt" />
-    <Content Include="TaskG\Results\test3.txt" />
-    <Content Include="TaskG\Results\test4.txt" />
-    <Content Include="TaskG\Results\test5.txt" />
-    <Content Include="TaskG\Results\test6.txt" />
-    <Content Include="TaskG\Results\test7.txt" />
-    <Content Include="TaskG\Results\test8.txt" />
-    <Content Include="TaskG\Results\test9.txt" />
-    <Content Include="TaskG\Tests\test1.txt" />
-    <Content Include="TaskG\Tests\test2.txt" />
-    <Content Include="TaskG\Tests\test3.txt" />
-    <Content Include="TaskG\Tests\test4.txt" />
-    <Content Include="TaskG\Tests\test5.txt" />
-    <Content Include="TaskG\Tests\test6.txt" />
-    <Content Include="TaskG\Tests\test7.txt" />
-    <Content Include="TaskG\Tests\test8.txt" />
-    <Content Include="TaskG\Tests\test9.txt" />
-    <Content Include="TaskC\Results\test1.txt" />
-    <Content Include="TaskC\Results\test2.txt" />
-    <Content Include="TaskC\Results\test3.txt" />
-    <Content Include="TaskC\Results\test4.txt" />
-    <Content Include="TaskC\Results\test5.txt" />
-    <Content Include="TaskC\Results\test6.txt" />
-    <Content Include="TaskC\Results\test7.txt" />
-    <Content Include="TaskC\Results\test8.txt" />
-    <Content Include="TaskC\Results\test9.txt" />
-    <Content Include="TaskC\Tests\test1.txt" />
-    <Content Include="TaskC\Tests\test2.txt" />
-    <Content Include="TaskC\Tests\test3.txt" />
-    <Content Include="TaskC\Tests\test4.txt" />
-    <Content Include="TaskC\Tests\test5.txt" />
-    <Content Include="TaskC\Tests\test6.txt" />
-    <Content Include="TaskC\Tests\test7.txt" />
-    <Content Include="TaskC\Tests\test8.txt" />
-    <Content Include="TaskC\Tests\test9.txt" />
-    <Content Include="TaskB\Results\test1.txt" />
-    <Content Include="TaskB\Results\test2.txt" />
-    <Content Include="TaskB\Results\test3.txt" />
-    <Content Include="TaskB\Results\test4.txt" />
-    <Content Include="TaskB\Results\test5.txt" />
-    <Content Include="TaskB\Results\test6.txt" />
-    <Content Include="TaskB\Results\test7.txt" />
-    <Content Include="TaskB\Results\test8.txt" />
-    <Content Include="TaskB\Results\test9.txt" />
-    <Content Include="TaskB\Tests\test1.txt" />
-    <Content Include="TaskB\Tests\test2.txt" />
-    <Content Include="TaskB\Tests\test3.txt" />
-    <Content Include="TaskB\Tests\test4.txt" />
-    <Content Include="TaskB\Tests\test5.txt" />
-    <Content Include="TaskB\Tests\test6.txt" />
-    <Content Include="TaskB\Tests\test7.txt" />
-    <Content Include="TaskB\Tests\test8.txt" />
-    <Content Include="TaskB\Tests\test9.txt" />
-    <Content Include="TaskA\Results\test1.txt" />
-    <Content Include="TaskA\Results\test2.txt" />
-    <Content Include="TaskA\Results\test3.txt" />
-    <Content Include="TaskA\Results\test4.txt" />
-    <Content Include="TaskA\Results\test5.txt" />
-    <Content Include="TaskA\Results\test6.txt" />
-    <Content Include="TaskA\Results\test7.txt" />
-    <Content Include="TaskA\Results\test8.txt" />
-    <Content Include="TaskA\Results\test9.txt" />
-    <Content Include="TaskA\Tests\test4.txt" />
-    <Content Include="TaskA\Tests\test3.txt" />
-    <Content Include="TaskA\Tests\test2.txt" />
-    <Content Include="TaskA\Tests\test1.txt" />
-    <Content Include="TaskA\Tests\test5.txt" />
-    <Content Include="TaskA\Tests\test6.txt" />
-    <Content Include="TaskA\Tests\test7.txt" />
-    <Content Include="TaskA\Tests\test8.txt" />
-    <Content Include="TaskA\Tests\test9.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="app.config" />
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
-      <Visible>False</Visible>
-      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
-      <Install>true</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.5 SP1</ProductName>
-      <Install>false</Install>
-    </BootstrapperPackage>
-  </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
-       Other similar extension points exist, see Microsoft.Common.targets.
-  <Target Name="BeforeBuild">
-  </Target>
-  <Target Name="AfterBuild">
-  </Target>
-  -->
+
 </Project>
