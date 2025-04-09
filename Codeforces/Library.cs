@@ -5,13 +5,22 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Numerics;
-using System.Runtime.InteropServices;
 
 namespace Codeforces
 {
     public class Input
     {
         private static string _line;
+
+        public static int Int()
+        {
+            return int.Parse(Console.ReadLine());
+        }
+
+        public static int Long()
+        {
+            return int.Parse(Console.ReadLine());
+        }
 
         public static bool Next()
         {
@@ -195,14 +204,18 @@ namespace Codeforces
             return ok;
         }
 
-        public static IEnumerable<long> ArrayLong()
+        public static int[] ArrayInt()
         {
-            return !Next() ? new List<long>() : _line.Split().Select(long.Parse);
+            var list = Console.ReadLine().Split(' ').Select(x => int.Parse(x)).ToList();
+            list.Insert(0, 0);
+            return list.ToArray();
         }
 
-        public static IEnumerable<int> ArrayInt()
+        public static long[] ArrayLong()
         {
-            return !Next() ? new List<int>() : _line.Split().Select(int.Parse);
+            var list = Console.ReadLine().Split(' ').Select(x => long.Parse(x)).ToList();
+            list.Insert(0, 0);
+            return list.ToArray();
         }
 
         public static bool Next(out string value)
@@ -1318,133 +1331,135 @@ namespace Codeforces
         #endregion
     }
 
-    /// <summary>
-    /// Fenwick tree for summary on the array
-    /// </summary>
-    public class FenwickSum
+    public class Fenwick
     {
-        public readonly int Size;
-        private readonly int[] _items;
-        public FenwickSum(int size)
+        /// <summary>
+        /// Fenwick tree for summary on the array
+        /// </summary>
+        public class Sum
         {
-            Size = size;
-            _items = new int[Size];
-        }
-
-        public FenwickSum(IList<int> items)
-            : this(items.Count)
-        {
-            for (var i = 0; i < Size; i++)
-                Increase(i, items[i]);
-        }
-
-        private int Sum(int r)
-        {
-            if (r < 0) return 0;
-            if (r >= Size) r = Size - 1;
-            var result = 0;
-            for (; r >= 0; r = (r & (r + 1)) - 1)
-                result += _items[r];
-            return result;
-        }
-
-        private int Sum(int l, int r)
-        {
-            return Sum(r) - Sum(l - 1);
-        }
-
-        public int this[int r]
-        {
-            get { return Sum(r); }
-        }
-
-        public int this[int l, int r]
-        {
-            get { return Sum(l, r); }
-        }
-
-        public void Increase(int i, int delta)
-        {
-            for (; i < Size; i = i | (i + 1))
-                _items[i] += delta;
-        }
-    }
-
-    public class FenwickMinRight
-    {
-        private readonly int _maxValue;
-        public readonly int Size;
-        private readonly int[] _items;
-
-        public FenwickMinRight(int size, int? maxValue = null)
-        {
-            _maxValue = maxValue ?? size+1;
-            Size = size;
-            _items = new int[Size + 1];
-            for(int i=0;i<_items.Length;++i)
+            public readonly int Size;
+            private readonly int[] _items;
+            public Sum(int size)
             {
-                _items[i] = _maxValue;
+                Size = size;
+                _items = new int[Size];
+            }
+
+            public Sum(IList<int> items)
+                : this(items.Count)
+            {
+                for (var i = 0; i < Size; i++)
+                    Increase(i, items[i]);
+            }
+
+            private int Sum(int r)
+            {
+                if (r < 0) return 0;
+                if (r >= Size) r = Size - 1;
+                var result = 0;
+                for (; r >= 0; r = (r & (r + 1)) - 1)
+                    result += _items[r];
+                return result;
+            }
+
+            private int Sum(int l, int r)
+            {
+                return Sum(r) - Sum(l - 1);
+            }
+
+            public int this[int r]
+            {
+                get { return Sum(r); }
+            }
+
+            public int this[int l, int r]
+            {
+                get { return Sum(l, r); }
+            }
+
+            public void Increase(int i, int delta)
+            {
+                for (; i < Size; i = i | (i + 1))
+                    _items[i] += delta;
             }
         }
-
-        public int Min(int index)
+        
+        public class MinRight
         {
-            int result = _maxValue;
-            for (int i = index; i <= Size; i += i & (-i))
-            {
-                result = Math.Min(result, _items[i]);
-            }
-            return result;
-        }
+            private readonly int _maxValue;
+            public readonly int N;
+            private readonly int[] _items;
 
-        public void Update(int index, int value)
-        {
-            for (var i = index; i > 0; i -= i & (-i))
+            public MinRight(int n, int? maxValue = null)
             {
-                _items[i] = Math.Min(_items[i], value);
-            }
-        }
-    }
-
-    public class FenwickMaxLeft
-    {
-        private readonly int _minValue;
-        public readonly int Size;
-        private readonly int[] _items;
-
-        public FenwickMaxLeft(int size, int minValue = 0)
-        {
-            _minValue = minValue;
-            Size = size;
-            _items = new int[Size + 1];
-            if (_minValue != 0)
-            {
+                _maxValue = maxValue ?? n + 1;
+                N = n;
+                _items = new int[N + 1];
                 for (int i = 0; i < _items.Length; ++i)
                 {
-                    _items[i] = _minValue;
+                    _items[i] = _maxValue;
+                }
+            }
+
+            public int Min(int index)
+            {
+                int result = _maxValue;
+                for (int i = index; i <= N; i += i & (-i))
+                {
+                    result = Math.Min(result, _items[i]);
+                }
+                return result;
+            }
+
+            public void Update(int index, int value)
+            {
+                for (var i = index; i > 0; i -= i & (-i))
+                {
+                    _items[i] = Math.Min(_items[i], value);
                 }
             }
         }
 
-        public int Max(int index)
+        public class MaxLeft
         {
-            int result = _minValue;
-            for (int i = index; i > 0; i -= i & (-i))
-            {
-                result = Math.Max(result, _items[i]);
-            }
-            return result;
-        }
+            private readonly int _minValue;
+            public readonly int N;
+            private readonly int[] _items;
 
-        public void Update(int index, int value)
-        {
-            for (int i = index; i <= Size; i += i & (-i))
+            public MaxLeft(int n, int minValue = 0)
             {
-                _items[i] = Math.Max(_items[i], value);
+                _minValue = minValue;
+                N = n;
+                _items = new int[N + 1];
+                if (_minValue != 0)
+                {
+                    for (int i = 0; i < _items.Length; ++i)
+                    {
+                        _items[i] = _minValue;
+                    }
+                }
+            }
+
+            public int Max(int index)
+            {
+                int result = _minValue;
+                for (int i = index; i > 0; i -= i & (-i))
+                {
+                    result = Math.Max(result, _items[i]);
+                }
+                return result;
+            }
+
+            public void Update(int index, int value)
+            {
+                for (int i = index; i <= N; i += i & (-i))
+                {
+                    _items[i] = Math.Max(_items[i], value);
+                }
             }
         }
     }
-
 
     /// <summary>
     /// Prime numbers
@@ -1618,5 +1633,132 @@ namespace Codeforces
         }
 
         #endregion
+    }
+
+    public class Combinations
+    {
+        public static int[] GetFactorials(int n, long MOD)
+        {
+            int[] factorials = new int[n + 1];
+            factorials[0] = 1;
+            long value = 1;
+            for (int i = 1; i <= n; ++i)
+            {
+                value = value * i % MOD;
+                factorials[i] = (int)value;
+            }
+            return factorials;
+        }
+
+        public static int[,] GetCombinations(int n, long MOD)
+        {
+            int[,] C = new int[n + 1, n + 1];
+            C[0, 0] = 1;
+            for (int i = 1; i <= n; ++i)
+            {
+                C[i, 0] = 1;
+                C[i, i] = 1;
+                for (int j = 1; j < i; j++)
+                {
+                    long c = ((long)C[i - 1, j] + C[i - 1, j - 1]) % MOD;
+                    C[i, j] = (int)c;
+                }
+            }
+            return C;
+        }
+    }
+
+    public class BinaryHeap<T> where T : IComparable
+    {
+        private T[] nodes;
+        private int _count;
+
+        public BinaryHeap(int n)
+        {
+            nodes = new T[n + 1];
+        }
+
+        public int Count => _count;
+
+        public T Get()
+        {
+            return nodes[0];
+        }
+
+        public void Add(T value)
+        {
+            int i = _count++;
+            nodes[i] = value;
+            while (i > 0)
+            {
+                int parent = (i - 1) >> 1;
+                if (Bigger(parent, i))
+                {
+                    Swap(i, parent);
+                    i = parent;
+                }
+                else
+                {
+                    break;
+                }
+            }
+        }
+
+        private void Swap(int i, int j)
+        {
+            var temp = nodes[j];
+            nodes[j] = nodes[i];
+            nodes[i] = temp;
+        }
+
+        public void Remove()
+        {
+            if (_count > 1)
+            {
+                nodes[0] = nodes[_count - 1];
+            }
+            _count--;
+            Heapify(0);
+        }
+
+        private void Heapify(int i)
+        {
+            if (i >= _count) return;
+            int left = (i << 1) + 1;
+            int right = left + 1;
+            if (left >= _count && right >= _count) return;
+
+            int j = i;
+
+            if (left < _count && Bigger(j, left))
+            {
+                j = left;
+            }
+            if (right < _count && Bigger(j, right))
+            {
+                j = right;
+            }
+
+
+            if (i != j)
+            {
+                Swap(i, j);
+                Heapify(j);
+            }
+        }
+
+        private bool Bigger(int i, int j)
+        {
+            if (j >= _count) return true;
+            if (i >= _count) return false;
+            return nodes[i].CompareTo(nodes[j]) > 0;
+        }
+
+        class Node
+        {
+            public T value;
+            public Node left;
+            public Node right;
+        }
     }
 }

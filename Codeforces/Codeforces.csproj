@@ -80,7 +80,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="TaskD\Results\test1.txt" />
-    <Content Include="TaskD\Results\test10.txt" />
     <Content Include="TaskD\Results\test2.txt" />
     <Content Include="TaskD\Results\test3.txt" />
     <Content Include="TaskD\Results\test4.txt" />
@@ -90,7 +89,6 @@
     <Content Include="TaskD\Results\test8.txt" />
     <Content Include="TaskD\Results\test9.txt" />
     <Content Include="TaskD\Tests\test1.txt" />
-    <Content Include="TaskD\Tests\test10.txt" />
     <Content Include="TaskD\Tests\test2.txt" />
     <Content Include="TaskD\Tests\test3.txt" />
     <Content Include="TaskD\Tests\test4.txt" />
@@ -100,7 +98,6 @@
     <Content Include="TaskD\Tests\test8.txt" />
     <Content Include="TaskD\Tests\test9.txt" />
     <Content Include="TaskE\Results\test1.txt" />
-    <Content Include="TaskE\Results\test10.txt" />
     <Content Include="TaskE\Results\test2.txt" />
     <Content Include="TaskE\Results\test3.txt" />
     <Content Include="TaskE\Results\test4.txt" />
@@ -110,7 +107,6 @@
     <Content Include="TaskE\Results\test8.txt" />
     <Content Include="TaskE\Results\test9.txt" />
     <Content Include="TaskE\Tests\test1.txt" />
-    <Content Include="TaskE\Tests\test10.txt" />
     <Content Include="TaskE\Tests\test2.txt" />
     <Content Include="TaskE\Tests\test3.txt" />
     <Content Include="TaskE\Tests\test4.txt" />
@@ -120,7 +116,6 @@
     <Content Include="TaskE\Tests\test8.txt" />
     <Content Include="TaskE\Tests\test9.txt" />
     <Content Include="TaskF\Results\test1.txt" />
-    <Content Include="TaskF\Results\test10.txt" />
     <Content Include="TaskF\Results\test2.txt" />
     <Content Include="TaskF\Results\test3.txt" />
     <Content Include="TaskF\Results\test4.txt" />
@@ -130,7 +125,6 @@
     <Content Include="TaskF\Results\test8.txt" />
     <Content Include="TaskF\Results\test9.txt" />
     <Content Include="TaskF\Tests\test1.txt" />
-    <Content Include="TaskF\Tests\test10.txt" />
     <Content Include="TaskF\Tests\test2.txt" />
     <Content Include="TaskF\Tests\test3.txt" />
     <Content Include="TaskF\Tests\test4.txt" />
@@ -140,7 +134,6 @@
     <Content Include="TaskF\Tests\test8.txt" />
     <Content Include="TaskF\Tests\test9.txt" />
     <Content Include="TaskG\Results\test1.txt" />
-    <Content Include="TaskG\Results\test10.txt" />
     <Content Include="TaskG\Results\test2.txt" />
     <Content Include="TaskG\Results\test3.txt" />
     <Content Include="TaskG\Results\test4.txt" />
@@ -150,7 +143,6 @@
     <Content Include="TaskG\Results\test8.txt" />
     <Content Include="TaskG\Results\test9.txt" />
     <Content Include="TaskG\Tests\test1.txt" />
-    <Content Include="TaskG\Tests\test10.txt" />
     <Content Include="TaskG\Tests\test2.txt" />
     <Content Include="TaskG\Tests\test3.txt" />
     <Content Include="TaskG\Tests\test4.txt" />
@@ -160,7 +152,6 @@
     <Content Include="TaskG\Tests\test8.txt" />
     <Content Include="TaskG\Tests\test9.txt" />
     <Content Include="TaskC\Results\test1.txt" />
-    <Content Include="TaskC\Results\test10.txt" />
     <Content Include="TaskC\Results\test2.txt" />
     <Content Include="TaskC\Results\test3.txt" />
     <Content Include="TaskC\Results\test4.txt" />
@@ -170,7 +161,6 @@
     <Content Include="TaskC\Results\test8.txt" />
     <Content Include="TaskC\Results\test9.txt" />
     <Content Include="TaskC\Tests\test1.txt" />
-    <Content Include="TaskC\Tests\test10.txt" />
     <Content Include="TaskC\Tests\test2.txt" />
     <Content Include="TaskC\Tests\test3.txt" />
     <Content Include="TaskC\Tests\test4.txt" />
@@ -180,7 +170,6 @@
     <Content Include="TaskC\Tests\test8.txt" />
     <Content Include="TaskC\Tests\test9.txt" />
     <Content Include="TaskB\Results\test1.txt" />
-    <Content Include="TaskB\Results\test10.txt" />
     <Content Include="TaskB\Results\test2.txt" />
     <Content Include="TaskB\Results\test3.txt" />
     <Content Include="TaskB\Results\test4.txt" />
@@ -190,7 +179,6 @@
     <Content Include="TaskB\Results\test8.txt" />
     <Content Include="TaskB\Results\test9.txt" />
     <Content Include="TaskB\Tests\test1.txt" />
-    <Content Include="TaskB\Tests\test10.txt" />
     <Content Include="TaskB\Tests\test2.txt" />
     <Content Include="TaskB\Tests\test3.txt" />
     <Content Include="TaskB\Tests\test4.txt" />
@@ -200,7 +188,6 @@
     <Content Include="TaskB\Tests\test8.txt" />
     <Content Include="TaskB\Tests\test9.txt" />
     <Content Include="TaskA\Results\test1.txt" />
-    <Content Include="TaskA\Results\test10.txt" />
     <Content Include="TaskA\Results\test2.txt" />
     <Content Include="TaskA\Results\test3.txt" />
     <Content Include="TaskA\Results\test4.txt" />
@@ -209,7 +196,6 @@
     <Content Include="TaskA\Results\test7.txt" />
     <Content Include="TaskA\Results\test8.txt" />
     <Content Include="TaskA\Results\test9.txt" />
-    <Content Include="TaskA\Tests\test10.txt" />
     <Content Include="TaskA\Tests\test4.txt" />
     <Content Include="TaskA\Tests\test3.txt" />
     <Content Include="TaskA\Tests\test2.txt" />
