@@ -5,6 +5,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Numerics;
+using System.Runtime.InteropServices;
 
 namespace Codeforces
 {
@@ -1368,6 +1369,82 @@ namespace Codeforces
                 _items[i] += delta;
         }
     }
+
+    public class FenwickMinRight
+    {
+        private readonly int _maxValue;
+        public readonly int Size;
+        private readonly int[] _items;
+
+        public FenwickMinRight(int size, int? maxValue = null)
+        {
+            _maxValue = maxValue ?? size+1;
+            Size = size;
+            _items = new int[Size + 1];
+            for(int i=0;i<_items.Length;++i)
+            {
+                _items[i] = _maxValue;
+            }
+        }
+
+        public int Min(int index)
+        {
+            int result = _maxValue;
+            for (int i = index; i <= Size; i += i & (-i))
+            {
+                result = Math.Min(result, _items[i]);
+            }
+            return result;
+        }
+
+        public void Update(int index, int value)
+        {
+            for (var i = index; i > 0; i -= i & (-i))
+            {
+                _items[i] = Math.Min(_items[i], value);
+            }
+        }
+    }
+
+    public class FenwickMaxLeft
+    {
+        private readonly int _minValue;
+        public readonly int Size;
+        private readonly int[] _items;
+
+        public FenwickMaxLeft(int size, int minValue = 0)
+        {
+            _minValue = minValue;
+            Size = size;
+            _items = new int[Size + 1];
+            if (_minValue != 0)
+            {
+                for (int i = 0; i < _items.Length; ++i)
+                {
+                    _items[i] = _minValue;
+                }
+            }
+        }
+
+        public int Max(int index)
+        {
+            int result = _minValue;
+            for (int i = index; i > 0; i -= i & (-i))
+            {
+                result = Math.Max(result, _items[i]);
+            }
+            return result;
+        }
+
+        public void Update(int index, int value)
+        {
+            for (int i = index; i <= Size; i += i & (-i))
+            {
+                _items[i] = Math.Max(_items[i], value);
+            }
+        }
+    }
+
 
     /// <summary>
     /// Prime numbers

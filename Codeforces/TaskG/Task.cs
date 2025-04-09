@@ -8,7 +8,11 @@ namespace Codeforces.TaskG
     {
         void Solve()
         {
+            int t = int.Parse(Console.ReadLine());
+            while (t-- > 0)
+            {
 
+            }
         }
 
         public static void Main()

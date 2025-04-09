@@ -1,6 +1,6 @@
-﻿#define TASKA
+﻿#define TASKE
 
-#define TESTx
+#define TEST1
 
 using System;
 using System.Collections.Generic;
@@ -143,8 +143,8 @@ namespace Codeforces
                             Console.WriteLine(correctOutput);
 
                             Console.ForegroundColor = ConsoleColor.Yellow;
-                            Console.WriteLine("\nPress any key to continue...");
-                            Console.ReadKey();
+      //                      Console.WriteLine("\nPress any key to continue...");
+      //                      Console.ReadKey();
                         }
                         else
                         {
@@ -196,8 +196,8 @@ namespace Codeforces
             }
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Press any key to continue...");
-            Console.ReadKey();
+       //     Console.WriteLine("Press any key to continue...");
+       //     Console.ReadKey();
 
         }
     }
