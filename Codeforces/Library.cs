@@ -211,6 +211,11 @@ namespace Codeforces
             return list.ToArray();
         }
 
+        public static int[] ArrayInt0()
+        {
+            return Console.ReadLine().Split(' ').Select(x => int.Parse(x)).ToArray();
+        }
+
         public static long[] ArrayLong()
         {
             var list = Console.ReadLine().Split(' ').Select(x => long.Parse(x)).ToList();

@@ -1,6 +1,6 @@
-﻿#define TASKA
+﻿#define TASKB
 
-#define TEST1
+#define TESTx
 
 using System;
 using System.Collections.Generic;
@@ -106,6 +106,7 @@ namespace Codeforces
                         var defaultOut = Console.Out;
                         var writer = new StreamWriter(stream);
                         Console.SetOut(writer);
+                        Console.Out.Flush();
                         var watch = new Stopwatch();
                         watch.Start();
                         try
