@@ -8,8 +8,19 @@ namespace Codeforces.Task
     {
         private void Solve(int test)
         {
-            int n = Input.Int();
-            int[] A = Input.ArrayInt();
+            Input.Next(out int n, out int m);
+            long v = 0;
+            for (int i=0;i<m;++i)
+            {
+                long l;
+                long r;
+                long x;
+                Input.Next(out l, out r, out x);
+                v |= x;
+            }
+            int MOD = 1000_000_007;
+            long answer = Combinations.Power(2, n-1, MOD) * v % MOD;
+            Console.WriteLine(answer);
         }
 
         private void Solve()
