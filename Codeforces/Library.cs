@@ -1666,6 +1666,17 @@ namespace Codeforces
             }
             return C;
         }
+
+        public static int Power(int x, int n, int MOD)
+        {
+            // todo: binary power
+            long answer = 1;
+            for (int i = 1; i <= n; ++i)
+            {
+                answer = answer * x % MOD;
+            }
+            return (int)answer;
+        }
     }
 
     public class BinaryHeap<T> where T : IComparable
