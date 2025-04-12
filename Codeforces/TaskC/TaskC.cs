@@ -2,23 +2,27 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Codeforces.TaskA
+namespace Codeforces.TaskC
 {
     public class TaskC
     {
-        private void Solve(int test)
-        {
-            int n = Input.Int();
-            int[] A = Input.ArrayInt();
-        }
-
         private void Solve()
         {
-            int T = int.Parse(Console.ReadLine()!);
-            for (int t = 1; t <= T; ++t)
+            int n = int.Parse(Console.ReadLine()!);
+            long MOD = 1000_000_000 + 7;
+            int[] factorials = Combinations.GetFactorials(n, MOD);
+            int result =(int)((factorials[n] - Power(2, n - 1, MOD) + MOD) % MOD);
+            Console.WriteLine(result);
+        }
+
+        private long Power(long a, int n, long MOD)
+        {
+            long result = 1L;
+            for(int i=0;i<n;++i)
             {
-                Solve(t);
+                result = result * a % MOD;
             }
+            return result;
         }
 
         public static void Main()
