@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Codeforces.TaskB
+namespace Codeforces.Task
 {
     public class TaskB
     {

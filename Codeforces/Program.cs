@@ -70,7 +70,7 @@ namespace Codeforces
 #endif
             };
 
-            var type = Type.GetType(string.Format("Codeforces.Task{0}.Task{0}", problem));
+            var type = Type.GetType(string.Format("Codeforces.Task.Task{0}", problem));
             if (type == null)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
