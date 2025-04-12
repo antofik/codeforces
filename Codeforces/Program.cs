@@ -1,4 +1,4 @@
-﻿#define TASKA
+﻿#define TASKC
 
 #define TEST1
 
