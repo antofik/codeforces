@@ -1,6 +1,6 @@
-﻿#define TASKA
+﻿#define TASKC
 
-#define TEST1
+#define TEST3
 
 using System;
 using System.Collections.Generic;

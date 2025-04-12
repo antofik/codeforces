@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Codeforces.Task/*#*/
+namespace Codeforces.Task
 {
-    public class Task
+    public class Task/*#*/
     {
         void Solve()
         {
