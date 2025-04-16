@@ -118,9 +118,9 @@ namespace Codeforces
             var ok = Next();
             if (ok)
             {
-                var array = _line.Split(' ').Select(int.Parse).ToArray();
-                a = array[0];
-                b = array[1];
+                var array = _line.Split(' ');
+                a = int.Parse(array[0]);
+                b = int.Parse(array[1]);
             }
             else
             {
@@ -1770,6 +1770,16 @@ namespace Codeforces
             public T value;
             public Node left;
             public Node right;
+        }
+    }
+
+    public static class Helper
+    {
+        public static void Swap<T>(ref T a, ref T b)
+        {
+            var tmp = a;
+            a = b;
+            b = tmp;
         }
     }
 }

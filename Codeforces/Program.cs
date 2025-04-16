@@ -1,4 +1,4 @@
-﻿#define TASKA
+﻿#define TASKD
 
 #define TEST1
 
@@ -104,8 +104,18 @@ namespace Codeforces
                     {
                         Console.SetIn(new StreamReader(path));
                         var defaultOut = Console.Out;
+
+                        var input = File.ReadAllText(string.Format("../../../Task{0}/Input/input{1}.txt", problem, test));
+                        var correctOutput = File.ReadAllText(string.Format("../../../Task{0}/Output/output{1}.txt", problem, test)).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
+
+                        Console.ForegroundColor = ConsoleColor.Gray;
+                        Console.WriteLine(" -- input --");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine(input);
+
                         var writer = new StreamWriter(stream);
                         Console.SetOut(writer);
+
                         var watch = new Stopwatch();
                         watch.Start();
                         try
@@ -124,15 +134,10 @@ namespace Codeforces
                         writer.Close();
                         stream.Flush();
                         var output = Encoding.UTF8.GetString(stream.ToArray()).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
-                        var input = File.ReadAllText(string.Format("../../../Task{0}/Input/input{1}.txt", problem, test));
-                        var correctOutput = File.ReadAllText(string.Format("../../../Task{0}/Output/output{1}.txt", problem, test)).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
                         ok = output == correctOutput;
                         if (!ok)
                         {
-                            Console.ForegroundColor = ConsoleColor.Gray;
-                            Console.WriteLine(" -- input --");
-                            Console.ForegroundColor = ConsoleColor.White;
-                            Console.WriteLine(input);
+
                             Console.ForegroundColor = ConsoleColor.Gray;
                             Console.WriteLine(" -- your output --");
                             Console.ForegroundColor = ConsoleColor.Red;
@@ -149,10 +154,10 @@ namespace Codeforces
                         else
                         {
                             message = string.Format("\nTest {0} passed in {1}ms", test, watch.ElapsedMilliseconds);
-                            Console.ForegroundColor = ConsoleColor.White;
-                            Console.WriteLine(input);
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine(output);
+                            //Console.ForegroundColor = ConsoleColor.White;
+                            //Console.WriteLine(input);
+                            //Console.ForegroundColor = ConsoleColor.Green;
+                            //Console.WriteLine(output);
                         }
                     }
                     catch (FileNotFoundException)
