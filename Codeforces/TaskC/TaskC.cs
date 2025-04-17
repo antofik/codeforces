@@ -6,19 +6,36 @@ namespace Codeforces.Task
 {
     public class TaskC
     {
-        private void Solve(int test)
-        {
-            int n = Input.Int();
-            int[] A = Input.ArrayInt();
-        }
+        private readonly long MOD = 1000_000_007;
 
         private void Solve()
         {
-            int T = int.Parse(Console.ReadLine()!);
-            for (int t = 1; t <= T; ++t)
+            string s = Console.ReadLine()!;
+            long countA = 0;
+            long countB = 0;
+            bool lastA = false;
+            long ans = 1;
+            for(int i=0;i<s.Length;++i)
             {
-                Solve(t);
+                if (s[i] == 'a')
+                {
+                    countA++;
+                } 
+                else if (s[i] == 'b')
+                {
+                    if (countA > 0)
+                    {
+                        ans = (ans * (countA + 1)) % MOD;
+                    }
+                    countA = 0;
+                }
             }
+            if (countA > 0)
+            {
+                ans = (ans * (countA + 1)) % MOD;
+            }
+            ans--;
+            Console.WriteLine(ans);
         }
 
         public static void Main()
