@@ -1,4 +1,4 @@
-﻿#define TASKA
+﻿#define TASKC
 
 #define TESTx
 
@@ -86,7 +86,8 @@ namespace Codeforces
                     var path = string.Format("../../../Task{0}/Input/input{1}.txt", problem, test);
 
                     if (!File.Exists(path)) continue;
-                    if (!File.ReadLines(path).Any()) continue;
+                    var text = File.ReadAllText(path);
+                    if (string.IsNullOrWhiteSpace(text)) continue;
 
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.BackgroundColor = ConsoleColor.DarkGray;
