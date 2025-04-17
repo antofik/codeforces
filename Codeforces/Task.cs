@@ -2,21 +2,35 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Codeforces.Task/*#*/
+namespace Codeforces.Task
 {
-    public class Task
+    public class Task/*#*/
     {
-        void Solve()
-        {
+        private readonly long MOD = 1000_000_007;
 
+        private void Solve(int test)
+        {
+            int n = Input.Int();
+            int[] A = Input.ArrayInt();
+            var ok = true;
+            Output.YesNo(ok);
+        }
+
+        private void Solve()
+        {
+            int T = int.Parse(Console.ReadLine()!);
+            for (int t = 1; t <= T; ++t)
+            {
+                Solve(t);
+            }
         }
 
         public static void Main()
         {
-            var task = new Task();
-            #if DEBUG
+            var task = new Task/*#*/();
+#if DEBUG
             task.Solve();
-            #else
+#else
             try
             {
                 task.Solve();
@@ -26,7 +40,7 @@ namespace Codeforces.Task/*#*/
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(ex);
             }
-            #endif
+#endif
         }
     }
 }

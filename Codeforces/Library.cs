@@ -5,6 +5,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Numerics;
+using System.Text;
 
 namespace Codeforces
 {
@@ -224,6 +225,51 @@ namespace Codeforces
             if (!Next()) return false;
             value = _line;
             return true;
+        }
+    }
+
+    public static class Output
+    {
+        public static void Write(string value)
+        {
+            Console.WriteLine(value);
+        }
+
+        public static void Write<T>(T value) where T : struct
+        {
+            Console.WriteLine(value);
+        }
+
+        public static void YesNo(bool condition)
+        {
+            if (condition)
+            {
+                YES();
+            } else
+            {
+                NO();
+            }
+        }
+
+        public static void YES()
+        {
+            Write("YES");
+        }
+
+        public static void NO()
+        {
+            Write("NO");
+        }
+
+        public static void Write<T>(T[] array, int start = 1, char separator = ' ')
+        {
+            var str = new StringBuilder();
+            for (int i = 1; i < array.Length; ++i)
+            {
+                if (i > 0) str.Append(separator);
+                str.Append(array[i]);
+            }
+            Console.WriteLine(str.ToString());
         }
     }
 
