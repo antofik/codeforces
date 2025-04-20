@@ -2,11 +2,7 @@
 
 #define TESTx
 
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.IO;
-using System.Linq;
 using System.Reflection;
 using System.Text;
 
@@ -15,7 +11,7 @@ namespace Codeforces
     public class Program
     {
         public static void Main(string[] args)
-        {            
+        {
 #if TASKA
             const char problem = 'A';
 #elif TASKB
