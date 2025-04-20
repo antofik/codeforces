@@ -14,7 +14,7 @@ namespace Codeforces.Task
             long[] A = Input.ArrayLong();
 
             var ok = true;
-            Output.YesNo(ok);
+            Output.Write(ok);
         }
 
         private void Solve()

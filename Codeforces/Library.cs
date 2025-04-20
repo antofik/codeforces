@@ -240,7 +240,7 @@ namespace Codeforces
             Console.WriteLine(value);
         }
 
-        public static void YesNo(bool condition)
+        public static void Write(bool condition)
         {
             if (condition)
             {
@@ -268,6 +268,19 @@ namespace Codeforces
             {
                 if (i > 0) str.Append(separator);
                 str.Append(array[i]);
+            }
+            Console.WriteLine(str.ToString());
+        }
+
+        public static void Write<T>(T[] array, T[] array2, int start = 1)
+        {
+            var str = new StringBuilder();
+            for (int i = 1; i < array.Length; ++i)
+            {
+                if (i > 0) str.Append('\n');
+                str.Append(array[i]);
+                str.Append(' ');
+                str.Append(array2[i]);
             }
             Console.WriteLine(str.ToString());
         }
