@@ -1606,6 +1606,32 @@ namespace Codeforces
         /// <summary>
         /// Greatest common divisor
         /// </summary>
+        public static long GcdEx(long x, long y, out long a, out long b)
+        {
+            if (x == 0)
+            {
+                a = 0;
+                b = 1;
+                return y;
+            }
+            long g = GcdEx(y % x, x, out long a1, out long b1);
+            a = b1 - (y / x) * a1;
+            b = a1;
+            return g;
+        }
+
+        /// <summary>
+        /// Greatest common divisor
+        /// </summary>
+        public static long Reverse(long x, long MOD)
+        {
+            long g = GcdEx(x, MOD, out long a, out long b);
+            return g == 1 ? a : 0;
+        }
+
+        /// <summary>
+        /// Greatest common divisor
+        /// </summary>
         public static BigInteger Gcd(BigInteger x, BigInteger y)
         {
             while (y != 0)
