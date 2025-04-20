@@ -1696,17 +1696,35 @@ namespace Codeforces
 
     public class Combinations
     {
-        public static int[] GetFactorials(int n, long MOD)
+        public static long[] GetFactorials(int n, long MOD)
         {
-            int[] factorials = new int[n + 1];
+            long[] factorials = new long[n + 1];
             factorials[0] = 1;
             long value = 1;
             for (int i = 1; i <= n; ++i)
             {
                 value = value * i % MOD;
-                factorials[i] = (int)value;
+                factorials[i] = value;
             }
             return factorials;
+        }
+
+        /// <summary>
+        /// https://ru.wikipedia.org/wiki/Субфакториал
+        /// </summary>
+        public static long[] GetSubfactorials(int n, int[] factorials, long MOD)
+        {
+            long fn = factorials[n];
+
+            long[] subfactorials = new long[n + 1];
+            subfactorials[0] = 1;
+
+            long prev = 1;
+            for (int i = 1; i <= n; ++i)
+            {
+                subfactorials[i] = (prev * i + (i%2==0?1:-1)) % MOD;
+            }
+            return subfactorials;
         }
 
         public static int[,] GetCombinations(int n, long MOD)
