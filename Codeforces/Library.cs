@@ -18,9 +18,9 @@ namespace Codeforces
             return int.Parse(Console.ReadLine());
         }
 
-        public static int Long()
+        public static long Long()
         {
-            return int.Parse(Console.ReadLine());
+            return long.Parse(Console.ReadLine());
         }
 
         public static bool Next()
@@ -1521,11 +1521,61 @@ namespace Codeforces
         }
     }
 
+    public static class Mathex
+    {
+        public static long Pow(long x, long n, long MOD)
+        {
+            long result = 1;
+            while (n > 0)
+            {
+                if ((n & 1) == 1)
+                {
+                    result = result * x % MOD;
+                }
+                x = x * x % MOD;
+                n >>= 1;
+            }
+            return result;
+        }
+
+        /// <summary>
+        /// Via Ferma small theorem
+        /// </summary>
+        public static long Reverse(long x, long MOD)
+        {
+            return Pow(x, MOD - 2, MOD);
+        }
+
+        /// <summary>
+        /// Via extended GCD
+        /// </summary>
+        public static long Reverse2(long x, long MOD)
+        {
+            long g = Primes.GcdEx(x, MOD, out long a, out long b);
+            return g == 1 ? (a + MOD) % MOD : 0;
+        }
+
+        /// <summary>
+        /// Via extended GCD
+        /// </summary>
+        public static long[] GetAllReverse(long n, long MOD)
+        {
+            long[] r = new long[n + 1];
+            r[1] = 1;
+            for(int i=2; i<=n; ++i)
+            {
+                r[i] = (MOD - (MOD / i) * r[MOD % i] % MOD) % MOD;
+            }
+            return r;
+        }
+    }
+
     /// <summary>
     /// Prime numbers
     /// </summary>
     public class Primes
     {
+
         /// <summary>
         /// Returns prime numbers in O(n)
         /// Returns lowet divisors as well
@@ -1620,14 +1670,6 @@ namespace Codeforces
             return g;
         }
 
-        /// <summary>
-        /// Greatest common divisor
-        /// </summary>
-        public static long Reverse(long x, long MOD)
-        {
-            long g = GcdEx(x, MOD, out long a, out long b);
-            return g == 1 ? a : 0;
-        }
 
         /// <summary>
         /// Greatest common divisor
