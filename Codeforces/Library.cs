@@ -267,7 +267,7 @@ namespace Codeforces
             var str = new StringBuilder();
             for (int i = 1; i < array.Length; ++i)
             {
-                if (i > 0) str.Append(separator);
+                if (i > start) str.Append(separator);
                 str.Append(array[i]);
             }
             Console.WriteLine(str.ToString());
@@ -278,7 +278,7 @@ namespace Codeforces
             var str = new StringBuilder();
             for (int i = 1; i < array.Length; ++i)
             {
-                if (i > 0) str.Append('\n');
+                if (i > start) str.Append('\n');
                 str.Append(array[i]);
                 str.Append(' ');
                 str.Append(array2[i]);
