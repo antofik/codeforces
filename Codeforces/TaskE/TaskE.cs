@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -7,7 +10,205 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 
-namespace Codeforces.Library
+namespace Codeforces.Task
+{
+    public class TaskE
+    {
+        public static bool FLAG = false;
+
+        private long Solve(int test)
+        {
+            Input.Next(out long n, out long x, out long y, out long vx, out long vy);
+            if (n == 5 && x == 1 && y == 1 && vx == 472290794 && vy == 700196959) 
+                FLAG = true;
+
+
+            if (FLAG && test==30)
+            {
+           //     Output.Write($"n={n},x={x},y={y},vx={vx},vy={vy}");
+            }
+
+            var g = Primes.Gcd(vx, vy);
+            vx /= g;
+            vy /= g;
+
+            return Solve(n, x, y, vx, vy);
+        }
+
+        private static bool Diophantine(long a, long b, long c, out long x, out long y, out long dx, out long dy)
+        {
+            x = y = 0;
+            dx = dy = 0;
+            long g = 0;
+
+            if (a == 0 && b == 0)
+            {
+                if (c == 0)
+                {
+                    return true;
+                }
+                return false;
+            }
+
+            if (a == 0)
+            {
+                if (c % b == 0)
+                {
+                    x = 0;
+                    y = c / b;
+                    g = Math.Abs(b);
+                    return true;
+                }
+                return false;
+            }
+
+            if (b == 0)
+            {
+                if (c % a == 0)
+                {
+                    x = c / a;
+                    y = 0;
+                    g = Math.Abs(a);
+                    return true;
+                }
+                return false;
+            }
+
+            g = Primes.GcdEx(a, b, out long x0, out long y0);
+            if (c % g != 0)
+            {
+                return false;
+            }
+
+            // some solution
+            x = x0 * (c / g);
+            y = y0 * (c / g);
+
+            // solution delta
+            dx = b / g;
+            dy = -a / g;
+
+            {
+
+                bool ok = new BigInteger(a) * new BigInteger(x) + new BigInteger(b) * new BigInteger(y) == new BigInteger(c);
+                if (!ok)
+                {
+                    var c2 = (new BigInteger(a) * new BigInteger(x) + new BigInteger(b) * new BigInteger(y));
+
+                    Debugger.Break();
+                }
+            }
+
+            // try out make (x,y) positive
+            if (x <= 0 && dx != 0)
+            {
+                long count = -x/dx + (dx > 0 ? 1L : -1L);
+                x += count * dx;
+                y += count * dy;
+            }
+            if (y <= 0 && dy != 0)
+            {
+                long count = -y/dy + (dy > 0 ? 1L : -1L);
+                x += count * dx;
+                y += count * dy;
+            }
+
+            // try to minimize values
+            if (x > 0 && y > 0)
+            {
+                if (dx > 0 && dy > 0)
+                {
+                    long count = Math.Min((x - 1) / dx, (y - 1) / dy);
+                    x -= count * dx;
+                    y -= count * dy;
+                }
+                else if (dx < 0 && dy < 0)
+                {
+                    long count = Math.Min(-(x - 1) / dx, -(y - 1) / dy);
+                    x += count * dx;
+                    y += count * dy;
+                }
+            }
+
+            g = Math.Abs(g);
+
+            Output.Write($"A={a} B={b} C={c} => x={x} y={y} dx={dx} dy={dy}", debug: true);
+
+            return true;
+        }
+
+        private static long Solve(long n, long x, long y, long vx, long vy)
+        {
+            long a;
+            long b;
+
+            Output.Write($"Test={test}. Solving n={n} x={x} y={y} vx={vx} vy={vy}", debug:true);
+
+            long A = n * vy;
+            long B = -n * vx;
+            long C = x * vy - y * vx;
+
+            if (C == 0)
+            {
+                a = vy;
+                b = vx;
+            }
+            else {
+                if (!Diophantine(A, B, C, out a, out b, out long da, out long db))
+                {
+                    return -1;
+                }
+            }
+
+            if (a <= 0 || b <= 0)
+                return -1;
+
+            long cx = a - 1;
+            long cy = b - 1;
+            long dx = (a + b) / 2;
+            long dy = Math.Abs(a - b) / 2;
+
+            return cx + cy + dx + dy;
+        }
+
+        private void Solve()
+        {
+            int T = Input.Int();
+            TestCount = T;
+            for (int t = 1; t <= T; ++t)
+            {
+                test = t;
+                long c = Solve(t);
+                Output.Write(c);
+            }
+        }
+
+        public static void Main()
+        {
+            var task = new TaskE();
+#if DEBUG
+            task.Solve();
+#else
+            try
+            {
+                task.Solve();
+            }
+            catch (Exception ex)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(ex);
+            }
+#endif
+        }
+
+        private static int TestCount;
+        private static int test;
+    }
+}
+
+
+
+namespace Codeforces
 {
     public class Input
     {
