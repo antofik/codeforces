@@ -246,6 +246,42 @@ namespace Codeforces
         }
     }
 
+    public static class BitFunctions
+    {
+
+        /// <summary>
+        /// For Bit-matrix - transform it into diagonal form by Gauss algorithm
+        /// </summary>
+        public static void MatrixToDiagonalForm(List<BitArray> a)
+        {
+            if (a.Count == 0) return;
+            int m = a[0].Count;
+
+            int row = 0;
+            for (int i = 0; i < m && row < a.Count; ++i)
+            {
+                if (!a[row][i]) // if diag[i] != 1, let's find next row with 1 and perform a swap
+                {
+                    for (int j = row + 1; j < a.Count; ++j)
+                    {
+                        if (a[j][i])
+                        {
+                            Combinations.Swap(a, row, j);
+                            break;
+                        }
+                    }
+                }
+                if (a[row][i])
+                {
+                    for (int j = 0; j < a.Count; ++j)
+                        if (row != j && a[j][i])
+                            a[j].Xor(a[row]);
+                    row++;
+                }
+            }
+        }
+    }
+
     public class RedBlackTree<TKey, TValue> : IEnumerable<KeyValuePair<TKey, TValue>>
     {
         private readonly List<Node> _items;
