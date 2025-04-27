@@ -266,7 +266,9 @@ namespace Codeforces
                     {
                         if (a[j][i])
                         {
-                            Combinations.Swap(a, row, j);
+                            var tmp = a[row];
+                            a[row] = a[j];
+                            a[j] = tmp;
                             break;
                         }
                     }

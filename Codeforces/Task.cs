@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using static Codeforces.Input;
-using static Codeforces.Output;
-using static Codeforces.Primes;
-using static Codeforces.Combinations;
+using static Codeforces.Task/*#*/.Input;
+using static Codeforces.Task/*#*/.Output;
+using static Codeforces.Task/*#*/.Primes;
+using static Codeforces.Task/*#*/.Combinations;
+using static Codeforces.Task/*#*/.Utility;
 using System.Numerics;
 using System.Text;
 
@@ -54,7 +55,7 @@ namespace Codeforces.Task
     }
 }
 
-namespace Codeforces
+namespace Codeforces.Task/*#*/
 {
     public class Input
     {
@@ -608,6 +609,22 @@ namespace Codeforces
         }
     }
 
+    public static class Utility
+    {
+        public static void Swap<T>(List<T> list, int i, int j)
+        {
+            T tmp = list[i];
+            list[i] = list[j];
+            list[j] = tmp;
+        }
+
+        public static void Swap<T>(ref T a, ref T b)
+        {
+            T tmp = a;
+            a = b;
+            b = tmp;
+        }
+    }
 
     public class Pair<K, V>
     {
