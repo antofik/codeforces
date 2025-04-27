@@ -120,9 +120,13 @@ namespace Codeforces
                         writer.Close();
                         stream.Flush();
                         var output = Encoding.UTF8.GetString(stream.ToArray()).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
-                        var input = File.ReadAllText(string.Format("../../../Task{0}/Input/input{1}.txt", problem, test));
+                        var outputLines = output.Split('\n');
+                        var linesWithoutComments = outputLines.Where(c => !c.StartsWith("#")).ToList();
+                        var outputWithoutComments = string.Join('\n', linesWithoutComments);
+
+                        var input = File.ReadAllText(string.Format("../../../Task{0}/Input/input{1}.txt", problem, test)).Replace("\r", "");
                         var correctOutput = File.ReadAllText(string.Format("../../../Task{0}/Output/output{1}.txt", problem, test)).Replace("\r", "").Trim(new[] { ' ', '\t', '\n' });
-                        ok = output == correctOutput;
+                        ok = outputWithoutComments == correctOutput;
                         if (!ok)
                         {
                             Console.ForegroundColor = ConsoleColor.Gray;
@@ -132,7 +136,23 @@ namespace Codeforces
                             Console.ForegroundColor = ConsoleColor.Gray;
                             Console.WriteLine(" -- your output --");
                             Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine(output);
+                            int outI = 0;
+                            var correctOutputLines = correctOutput.Split('\n');
+                            foreach (var line in outputLines)
+                            {
+                                if (line.StartsWith("#"))
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Gray;
+                                    Console.WriteLine(line.Substring(1).Trim());
+                                }
+                                else
+                                {
+                                    var validLine = outI < correctOutputLines.Length && correctOutputLines[outI].Trim() == line.Trim();
+                                    Console.ForegroundColor = validLine ? ConsoleColor.DarkGreen : ConsoleColor.Red;
+                                    Console.WriteLine(line);
+                                    outI++;
+                                }
+                            }
                             Console.ForegroundColor = ConsoleColor.Gray;
                             Console.WriteLine(" -- correct output --");
                             Console.ForegroundColor = ConsoleColor.Green;
@@ -147,8 +167,19 @@ namespace Codeforces
                             message = string.Format("\nTest {0} passed in {1}ms", test, watch.ElapsedMilliseconds);
                             Console.ForegroundColor = ConsoleColor.White;
                             Console.WriteLine(input);
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine(output);
+                            foreach (var line in outputLines)
+                            {
+                                if (line.StartsWith("#"))
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Gray;
+                                    Console.WriteLine(line.Substring(1).Trim());
+                                }
+                                else
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Green;
+                                    Console.WriteLine(line);
+                                }
+                            }
                         }
                     }
                     catch (FileNotFoundException)
