@@ -9,6 +9,11 @@ using System.IO;
 using System.Linq;
 using System.Numerics;
 using System.Text;
+using static System.Math;
+using static Codeforces.Input;
+using static Codeforces.Output;
+using static Codeforces.Primes;
+using static Codeforces.Combinations;
 
 namespace Codeforces.Task
 {

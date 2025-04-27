@@ -1,6 +1,6 @@
-﻿#define TASKE
+﻿#define TASKF
 
-#define TEST4
+#define TESTx
 
 using System.Diagnostics;
 using System.Reflection;

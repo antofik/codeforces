@@ -132,6 +132,23 @@ namespace Codeforces
             _data = new long[_height, _width];
         }
 
+        public static bool operator ==(Matrix m1, Matrix m2)
+        {
+            if (m1.Width != m2.Width) throw new InvalidDataException("m1.Width != m2.Width");
+            if (m1.Height != m2.Height) throw new InvalidDataException("m1.Height != m2.Height");
+
+            for (var i = 0; i < m2.Width; i++)
+                for (var j = 0; j < m1.Height; j++)
+                    if (m1[i, j] != m2[i, j])
+                        return false;
+            return true;
+        }
+
+        public static bool operator !=(Matrix m1, Matrix m2)
+        {
+            return !(m1 == m2);
+        }
+
         public static Matrix operator *(Matrix m1, Matrix m2)
         {
             if (m1.Width != m2.Height) throw new InvalidDataException("m1.Width != m2.Height");
