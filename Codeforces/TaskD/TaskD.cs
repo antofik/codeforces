@@ -1,33 +1,57 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using static Codeforces.Task/*#*/.Input;
-using static Codeforces.Task/*#*/.Output;
-using static Codeforces.Task/*#*/.Primes;
-using static Codeforces.Task/*#*/.Combinations;
-using static Codeforces.Task/*#*/.Utility;
+using static Codeforces.TaskD.Input;
+using static Codeforces.TaskD.Output;
+using static Codeforces.TaskD.Combinations;
+using static Codeforces.TaskD.Utility;
 using System.Numerics;
 using System.Text;
+using Codeforces.TaskD;
 
 namespace Codeforces.Task
 {
-    public class Task/*#*/
+    public class TaskD
     {
         public static int TestCount;
         public static int Test;
-
-        private readonly long MOD = 1000_000_007;
+        private long[] prSum;
+        public List<int> pr;
 
         private long Solve()
         {
             Read(out int n);
             long[] A = ArrayLong();
+            var nums = A.Skip(1).OrderBy(c => c).ToList();
+            nums.Insert(0, 0);
 
-            return -1;
+            var Sums = new long[n + 1];
+            for (int i = 1; i <= n; ++i)
+            {
+                Sums[i] = Sums[i - 1] + nums[i];
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                long sum = Sums[n] - Sums[i];
+                bool beauty = sum >= prSum[n - i];
+                if (beauty)
+                    return i;
+            }
+
+            return n - 1;
         }
 
         private void SolveAll()
         {
+            Primes.ImprovedSieveOfEratosthenes(20_000_000, out var lp, out pr);
+
+            prSum = new long[20_000_000 + 1];
+            for (int i = 0; i < pr.Count; ++i)
+            {
+                prSum[i + 1] = prSum[i] + pr[i];
+            }
+
             TestCount = Int();
             for (int Test = 1; Test <= TestCount; ++Test)
             {
@@ -37,7 +61,7 @@ namespace Codeforces.Task
 
         public static void Main()
         {
-            var task = new Task/*#*/();
+            var task = new TaskD();
 #if DEBUG
             task.SolveAll();
 #else
@@ -55,7 +79,7 @@ namespace Codeforces.Task
     }
 }
 
-namespace Codeforces.Task/*#*/
+namespace Codeforces.TaskD
 {
     public class Input
     {
@@ -280,7 +304,7 @@ namespace Codeforces.Task/*#*/
     {
         public static void Write(string value)
         {
-            Console.WriteLine(value);         
+            Console.WriteLine(value);
         }
 
         public static void DEBUG(string value)
@@ -429,7 +453,7 @@ namespace Codeforces.Task/*#*/
         /// </summary>
         public static void SieveOfEratosthenes(int n, out List<int> pr)
         {
-            var m = n;//(int)(3l*n/(long)Math.Log(n)/2);
+            var m = 50000;//(int)(3l*n/(long)Math.Log(n)/2);
             pr = new List<int>();
             var f = new bool[m];
             for (var i = 2; i * i <= n; i++)
@@ -512,7 +536,7 @@ namespace Codeforces.Task/*#*/
         }
 
         /// <summary>
-        /// Returns all divisors of n in O(√n)
+        /// Returns all divisors of n in O(?n)
         /// </summary>
         public static IEnumerable<long> GetDivisors(long n)
         {
@@ -555,7 +579,7 @@ namespace Codeforces.Task/*#*/
         }
 
         /// <summary>
-        /// https://ru.wikipedia.org/wiki/Субфакториал
+        /// https://ru.wikipedia.org/wiki/????????????
         /// </summary>
         public static long[] GetSubfactorials(int n, long MOD)
         {
@@ -629,7 +653,7 @@ namespace Codeforces.Task/*#*/
     public class Pair<K, V>
     {
 #pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.
-        public Pair() {}
+        public Pair() { }
 #pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.
 
         public Pair(K key, V value)

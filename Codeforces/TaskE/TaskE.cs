@@ -1,17 +1,17 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using static Codeforces.Task/*#*/.Input;
-using static Codeforces.Task/*#*/.Output;
-using static Codeforces.Task/*#*/.Primes;
-using static Codeforces.Task/*#*/.Combinations;
-using static Codeforces.Task/*#*/.Utility;
+using static Codeforces.TaskE.Input;
+using static Codeforces.TaskE.Output;
+using static Codeforces.TaskE.Primes;
+using static Codeforces.TaskE.Combinations;
+using static Codeforces.TaskE.Utility;
 using System.Numerics;
 using System.Text;
 
 namespace Codeforces.Task
 {
-    public class Task/*#*/
+    public class TaskE
     {
         public static int TestCount;
         public static int Test;
@@ -37,7 +37,7 @@ namespace Codeforces.Task
 
         public static void Main()
         {
-            var task = new Task/*#*/();
+            var task = new TaskE();
 #if DEBUG
             task.SolveAll();
 #else
@@ -55,7 +55,7 @@ namespace Codeforces.Task
     }
 }
 
-namespace Codeforces.Task/*#*/
+namespace Codeforces.TaskE
 {
     public class Input
     {
@@ -512,7 +512,7 @@ namespace Codeforces.Task/*#*/
         }
 
         /// <summary>
-        /// Returns all divisors of n in O(√n)
+        /// Returns all divisors of n in O(?n)
         /// </summary>
         public static IEnumerable<long> GetDivisors(long n)
         {
@@ -555,7 +555,7 @@ namespace Codeforces.Task/*#*/
         }
 
         /// <summary>
-        /// https://ru.wikipedia.org/wiki/Субфакториал
+        /// https://ru.wikipedia.org/wiki/????????????
         /// </summary>
         public static long[] GetSubfactorials(int n, long MOD)
         {
