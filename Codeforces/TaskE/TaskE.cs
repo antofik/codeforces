@@ -8,6 +8,8 @@ using static Codeforces.TaskE.Combinations;
 using static Codeforces.TaskE.Utility;
 using System.Numerics;
 using System.Text;
+using System.Diagnostics;
+using Codeforces.TaskE;
 
 namespace Codeforces.Task
 {
@@ -21,132 +23,41 @@ namespace Codeforces.Task
             Read(out long n, out long d);
             long[] A = ArrayLong();
 
-            var tree = new SegmentTree((int)10);
-            tree.Add(1, 3, 5);
-            tree.Add(2, 7, 1);
-            tree.Add(5, 6, 2);
-            long s1 = tree.Sum(1, 10);
-            long s2 = tree.Sum(1, 3);
-            long s3 = tree.Sum(2, 7);
-            long s4 = tree.Sum(2, 5);
-
             long[] M = new long[n + 1];
-            SortedList<long, bool> active = new();
-            for(int i=1;i<=n;++i)
-            {
-                var x = A[i];
-
-                if (i > d)
-                    active.Remove(M[i-d]);
-                long max = active.Count > 0 ? active.Keys[active.Count - 1] : 0;
-                if (max >= x) 
-                    continue;
-                active.Add(x, true);
-                if (i < n - d + 1)
-                    M[i] = x;
-                else
-                    M[n - d + 1] = Math.Max(M[n - d + 1], x);
-      //          Add(max, x);
-            }
-
-            Map<long, int> costs = new();
-            for (int i = 1; i <= n; ++i)
-                if (M[i] > 0)
-                    costs[M[i]]++;
 
             Map<long, int> counts = new();
             for (int i = 1; i <= n; ++i)
                 counts[A[i]]++;
-            var xSorted = counts.Keys.OrderByDescending(c => c).ToList();
+            var values = counts.Keys.OrderBy(c => c).ToList();
 
-            Map<long, int> upCosts = new();
-            int prev = 0;
-            foreach(int x in xSorted)
-            {
-                prev += costs[x];
-                upCosts[x] = prev;                
-            }
-
+            int[] order = Enumerable.Range(1, (int) n).ToArray();
+            Array.Sort(order, (i, j) => A[j]==A[i] ? 0 : A[j] > A[i] ? 1 : -1);
+            
             long ans = 0;
-            for(int i=0;i<xSorted.Count;++i)
+            var tree = new SumLinkCutTree((int)n+2);
+
+            for(int i=0;i<=n;++i)
             {
-                long x = xSorted[i];
-                int cost = upCosts[x];
-                long delta = x - (i < xSorted.Count - 1 ? xSorted[i + 1] : 0);
-                ans += cost * delta;
+                tree.Link(i, i+1);
             }
+
+            long prev = A[order[0]];
+            foreach(int index in order) // largest to smallest
+            {
+                long value = A[index];
+                long count = tree.Query(0, (int)n + 1);
+                ans += (prev - value) * count;
+                prev = value;
+
+                tree.Cut(index, index + 1);
+                var next = (int) Math.Min(index + d, n + 1);
+                tree.Link(index, next);
+                tree.Set(index, 1);
+            }
+
+            ans += prev * tree.Query(0, (int)n + 1);
 
             return ans;
-        }
-
-        public class SegmentTree
-        {
-            private long[] t;
-            private int n;
-
-            public SegmentTree(int n) : this(new long[n+1])
-            {
-            }
-
-            public SegmentTree(long[] a)
-            {
-                n = a.Length - 1;
-                t = new long[4 * n + 1];
-                Build(a, 1, 0, n-1);
-            }
-
-            private void Build(long[] a, int v, int tl, int tr)
-            {
-                if (tl == tr)
-                {
-                    t[v] = a[tl+1]; // 1-based
-                }
-                else
-                {
-                    int m = tl + ((tr - tl) >> 1);
-                    int child = v << 1;
-                    Build(a, child, tl, m);
-                    Build(a, child + 1, m + 1, tr);
-                }
-            }
-
-            public long Sum(int l, int r)
-            {
-                return Sum(1, 0, n-1, l-1, r-1);
-            }
-
-            private long Sum(int v, int tl, int tr, int l, int r)
-            {
-                if (l > r)
-                    return 0;
-                if (l == tl && r == tr)
-                    return t[v];
-                int m = tl + ((tr - tl) >> 1);
-                int child = v << 1;
-                return Sum(child, tl, m, l, Math.Min(r, m)) 
-                    + Sum(child + 1, m + 1, tr, Math.Max(l, m + 1), r);
-            }
-
-            public void Add(int l, int r, long value)
-            {
-                Update(1, 0, n-1, l-1, r-1, value);
-            }
-
-            private void Update(int v, int tl, int tr, int l, int r, long value)
-            {
-                if (l > r) return;
-                if (l==tl && r==tr)
-                {
-                    t[v] += value;
-                }
-                else
-                {
-                    int m = tl + ((tr - tl) >> 1);
-                    int child = v << 1;
-                    Update(child, tl, m, l, Math.Min(r, m), value);
-                    Update(child + 1, m + 1, tr, Math.Max(l, m + 1), r, value);
-                }
-            }
         }
 
         private void SolveAll()
@@ -180,6 +91,441 @@ namespace Codeforces.Task
 
 namespace Codeforces.TaskE
 {
+    public abstract class LinkCutTree<TValue>
+    {
+        protected class Node
+        {
+            public Node Left, Right, Parent;
+            public bool Reversed;
+            public TValue Value, Agg;
+
+            public Node(TValue value)
+            {
+                Value = value;
+                Agg = value;
+            }
+
+            public bool IsRoot()
+            {
+                return Parent == null || (Parent.Left != this && Parent.Right != this);
+            }
+
+            public override string? ToString()
+            {
+                return Parent == null ? $"Root[{Value}]"
+                    : IsRoot() ? $"{Value} --> {Parent.Value}"
+                    : $"{Value} => {Parent.Value}";
+            }
+        }
+
+        Node[] nodes;
+        protected virtual Node CreateNode(TValue value) => new Node(value);
+        protected abstract TValue Aggregate(TValue left, TValue right);
+        protected abstract TValue NeutralElement { get; }
+
+        public LinkCutTree(int n)
+        {
+            nodes = new Node[n];
+            var neutralValue = NeutralElement;
+            for (int i = 0; i < n; ++i)
+            {
+                nodes[i] = CreateNode(neutralValue);
+            }
+        }
+
+        private void Update(Node v)
+        {
+            var agg = v.Value;
+            if (v.Left != null)
+                agg = Aggregate(agg, v.Left.Agg);
+            if (v.Right != null)
+                agg = Aggregate(agg, v.Right.Agg);
+            v.Agg = agg;
+        }
+
+        private void Push(Node v)
+        {
+            if (v.Reversed)
+            {
+                Node tmp = v.Left;
+                v.Left = v.Right;
+                v.Right = tmp;
+                if (v.Left != null) v.Left.Reversed ^= true;
+                if (v.Right != null) v.Right.Reversed ^= true;
+                v.Reversed = false;
+            }
+        }
+
+        private void Rotate(Node v)
+        {
+            var p = v.Parent;
+            var g = p.Parent;
+            if (!p.IsRoot())
+            {
+                if (g.Left == p) g.Left = v;
+                else g.Right = v;
+            }
+            v.Parent = g;
+
+            if (p.Left == v)
+            {
+                p.Left = v.Right;
+                if (v.Right != null) v.Right.Parent = p;
+                v.Right = p;
+                p.Parent = v;
+            }
+            else
+            {
+                p.Right = v.Left;
+                if (v.Left != null) v.Left.Parent = p;
+                v.Left = p;
+                p.Parent = v;
+            }
+
+            Update(p);
+            Update(v);
+        }
+
+        private void Splay(Node v)
+        {
+            Push(v);
+            while (!v.IsRoot())
+            {
+                var p = v.Parent;
+                if (!p.IsRoot())
+                {
+                    var g = p.Parent;
+                    Push(g);
+                }
+                Push(p);
+                Push(v);
+
+                if (!p.IsRoot())
+                {
+                    if ((p.Left == v) == (p.Parent.Left == p)) Rotate(p);
+                    else Rotate(v);
+                }
+                Rotate(v);
+            }
+            Push(v);
+            Update(v);
+        }
+
+        private void Expose(Node v)
+        {
+            Node last = null;
+            for (Node y = v; y != null; y = y.Parent)
+            {
+                Splay(y);
+                y.Right = last;
+                Update(y);
+                last = y;
+            }
+            Splay(v);
+        }
+
+        private void MakeRoot(Node v)
+        {
+            Expose(v);
+            v.Reversed ^= true;
+            Push(v);
+        }
+
+        private Node FindRoot(Node v)
+        {
+            Expose(v);
+            while (v.Left != null)
+            {
+                Push(v);
+                v = v.Left;
+            }
+            Splay(v);
+            return v;
+        }
+
+        public void Set(int v, TValue value)
+        {
+            Node node = nodes[v];
+            Expose(node);
+            node.Value = value;
+            Update(node);
+        }
+
+        public void Link(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            if (FindRoot(n2) == n1)
+                return;
+            n1.Parent = n2;
+        }
+
+        public void Cut(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            Expose(n2);
+            if (n2.Left == n1)
+            {
+                n2.Left.Parent = null;
+                n2.Left = null;
+                Update(n2);
+            }
+        }
+
+        public TValue Query(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            Expose(n2);
+            return n2.Agg;
+        }
+
+        public bool IsConnected(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            return FindRoot(n1) == FindRoot(n2);
+        }
+    }
+    
+    public abstract class LinkCutTree2<TValue>
+    {
+        protected class Node
+        {
+            public Node Left, Right, Parent;
+            public bool Reversed;
+            public TValue Value, Agg;
+
+            public Node(TValue value)
+            {
+                Value = value;
+                Agg = value;
+            }
+
+            public bool IsRoot()
+            {
+                return Parent == null || (Parent.Left != this && Parent.Right != this);
+            }
+
+            public override string? ToString()
+            {
+                return Parent == null ? $"Root[{Value}]"
+                    : IsRoot() ? $"{Value} --> {Parent.Value}"
+                    : $"{Value} => {Parent.Value}";
+            }
+        }
+
+        protected Dictionary<int, Node> nodes = new();
+        //Node[] nodes;
+        protected virtual Node CreateNode(TValue value) => new Node(value);
+        protected abstract TValue Aggregate(TValue left, TValue right);
+        protected abstract TValue NeutralElement { get; }
+
+        //public LinkCutTree(int n)
+        //{
+        //    nodes = new Node[n];
+        //    var neutralValue = NeutralElement;
+        //    for(int i=0;i<n;++i)
+        //    {
+        //        nodes[i] = CreateNode(neutralValue);
+        //    }
+        //}
+
+        private void Update(Node v)
+        {
+            var agg = v.Value;
+            if (v.Left != null)
+                agg = Aggregate(agg, v.Left.Agg);
+            if (v.Right != null)
+                agg = Aggregate(agg, v.Right.Agg);
+            v.Agg = agg;
+        }
+
+        private void Push(Node v)
+        {
+            if (v.Reversed)
+            {
+                Node tmp = v.Left;
+                v.Left = v.Right;
+                v.Right = tmp;
+                if (v.Left != null) v.Left.Reversed ^= true;
+                if (v.Right != null) v.Right.Reversed ^= true;
+                v.Reversed = false;
+            }
+        }
+
+        private void Rotate(Node v)
+        {
+            var p = v.Parent;
+            var g = p.Parent;
+            if (!p.IsRoot())
+            {
+                if (g.Left == p) g.Left = v;
+                else g.Right = v;
+            }
+            v.Parent = g;
+
+            if (p.Left == v)
+            {
+                p.Left = v.Right;
+                if (v.Right != null) v.Right.Parent = p;
+                v.Right = p;
+                p.Parent = v;
+            }
+            else
+            {
+                p.Right = v.Left;
+                if (v.Left != null) v.Left.Parent = p;
+                v.Left = p;
+                p.Parent = v;
+            }
+
+            Update(p);
+            Update(v);
+        }
+
+        private void Splay(Node v)
+        {
+            Push(v);
+            while (!v.IsRoot())
+            {
+                var p = v.Parent;
+                if (!p.IsRoot())
+                {
+                    var g = p.Parent;
+                    Push(g);
+                }
+                Push(p);
+                Push(v);
+
+                if (!p.IsRoot())
+                {
+                    if ((p.Left == v) == (p.Parent.Left == p)) Rotate(p);
+                    else Rotate(v);
+                }
+                Rotate(v);
+            }
+            Push(v);
+            Update(v);
+        }
+
+        private void Expose(Node v)
+        {
+            Node last = null;
+            for (Node y = v; y != null; y = y.Parent)
+            {
+                Splay(y);
+                y.Right = last;
+                Update(y);
+                last = y;
+            }
+            Splay(v);
+        }
+
+        private void MakeRoot(Node v)
+        {
+            Expose(v);
+            v.Reversed ^= true;
+            Push(v);
+        }
+
+        private Node FindRoot(Node v)
+        {
+            Expose(v);
+            while (v.Left != null)
+            {
+                Push(v);
+                v = v.Left;
+            }
+            Splay(v);
+            return v;
+        }
+
+        public void Add(int id, TValue value)
+        {
+            nodes[id] = CreateNode(value);
+        }
+
+        public void Remove(int id)
+        {
+            Node v = nodes[id];
+            MakeRoot(v);
+            if (v.Left != null)
+            {
+                v.Left.Parent = null;
+                v.Left = null;
+            }
+            if (v.Right != null)
+            {
+                v.Right.Parent = null;
+                v.Right = null;
+            }
+            nodes.Remove(id);
+        }
+
+        public void Set(int v, TValue value)
+        {
+            Node node = nodes[v];
+            Expose(node);
+            node.Value = value;
+            Update(node);
+        }
+
+        public void Link(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            if (FindRoot(n2) == n1)
+                return;
+            n1.Parent = n2;
+        }
+
+        public void Cut(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            Expose(n2);
+            if (n2.Left == n1)
+            {
+                n2.Left.Parent = null;
+                n2.Left = null;
+                Update(n2);
+            }
+        }
+
+        public TValue Query(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            Expose(n2);
+            return n2.Agg;
+        }
+
+        public bool IsConnected(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            return FindRoot(n1) == FindRoot(n2);
+        }
+    }
+
+    public class SumLinkCutTree : LinkCutTree<long>
+    {
+        public SumLinkCutTree(int n) : base(n)
+        {
+        }
+
+        protected override long Aggregate(long left, long right) => left + right;
+        protected override long NeutralElement => 0;
+    }
+
     public class Input
     {
         private static string _line = "";
