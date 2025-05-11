@@ -1571,4 +1571,215 @@ namespace Codeforces
             public List<int> Vertexes { get; set; }
         }
     }
+
+    public abstract class LinkCutTree<TValue>
+    {
+        protected class Node
+        {
+            public Node Left, Right, Parent;
+            public bool Reversed;
+            public TValue Value, Agg;
+
+            public Node(TValue value)
+            {
+                Value = value;
+                Agg = value;
+            }
+
+            public bool IsRoot()
+            {
+                return Parent == null || (Parent.Left != this && Parent.Right != this);
+            }
+
+            public override string? ToString()
+            {
+                return Parent == null ? $"Root[{Value}]"
+                    : IsRoot() ? $"{Value} --> {Parent.Value}"
+                    : $"{Value} => {Parent.Value}";
+            }
+        }
+
+        Node[] nodes;
+        protected virtual Node CreateNode(TValue value) => new Node(value);
+        protected abstract TValue Aggregate(TValue left, TValue right);
+        protected abstract TValue NeutralElement { get; }
+
+        public LinkCutTree(int n)
+        {
+            nodes = new Node[n];
+            var neutralValue = NeutralElement;
+            for (int i = 0; i < n; ++i)
+            {
+                nodes[i] = CreateNode(neutralValue);
+            }
+        }
+
+        private void Update(Node v)
+        {
+            var agg = v.Value;
+            if (v.Left != null)
+                agg = Aggregate(agg, v.Left.Agg);
+            if (v.Right != null)
+                agg = Aggregate(agg, v.Right.Agg);
+            v.Agg = agg;
+        }
+
+        private void Push(Node v)
+        {
+            if (v.Reversed)
+            {
+                Node tmp = v.Left;
+                v.Left = v.Right;
+                v.Right = tmp;
+                if (v.Left != null) v.Left.Reversed ^= true;
+                if (v.Right != null) v.Right.Reversed ^= true;
+                v.Reversed = false;
+            }
+        }
+
+        private void Rotate(Node v)
+        {
+            var p = v.Parent;
+            var g = p.Parent;
+            if (!p.IsRoot())
+            {
+                if (g.Left == p) g.Left = v;
+                else g.Right = v;
+            }
+            v.Parent = g;
+
+            if (p.Left == v)
+            {
+                p.Left = v.Right;
+                if (v.Right != null) v.Right.Parent = p;
+                v.Right = p;
+                p.Parent = v;
+            }
+            else
+            {
+                p.Right = v.Left;
+                if (v.Left != null) v.Left.Parent = p;
+                v.Left = p;
+                p.Parent = v;
+            }
+
+            Update(p);
+            Update(v);
+        }
+
+        private void Splay(Node v)
+        {
+            Push(v);
+            while (!v.IsRoot())
+            {
+                var p = v.Parent;
+                if (!p.IsRoot())
+                {
+                    var g = p.Parent;
+                    Push(g);
+                }
+                Push(p);
+                Push(v);
+
+                if (!p.IsRoot())
+                {
+                    if ((p.Left == v) == (p.Parent.Left == p)) Rotate(p);
+                    else Rotate(v);
+                }
+                Rotate(v);
+            }
+            Push(v);
+            Update(v);
+        }
+
+        private void Expose(Node v)
+        {
+            Node last = null;
+            for (Node y = v; y != null; y = y.Parent)
+            {
+                Splay(y);
+                y.Right = last;
+                Update(y);
+                last = y;
+            }
+            Splay(v);
+        }
+
+        private void MakeRoot(Node v)
+        {
+            Expose(v);
+            v.Reversed ^= true;
+            Push(v);
+        }
+
+        private Node FindRoot(Node v)
+        {
+            Expose(v);
+            while (v.Left != null)
+            {
+                Push(v);
+                v = v.Left;
+            }
+            Splay(v);
+            return v;
+        }
+
+        public void Set(int v, TValue value)
+        {
+            Node node = nodes[v];
+            Expose(node);
+            node.Value = value;
+            Update(node);
+        }
+
+        public void Link(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            if (FindRoot(n2) == n1)
+                return;
+            n1.Parent = n2;
+        }
+
+        public void Cut(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            Expose(n2);
+            if (n2.Left == n1)
+            {
+                n2.Left.Parent = null;
+                n2.Left = null;
+                Update(n2);
+            }
+        }
+
+        public TValue Query(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            MakeRoot(n1);
+            Expose(n2);
+            return n2.Agg;
+        }
+
+        public bool IsConnected(int u, int v)
+        {
+            Node n1 = nodes[u];
+            Node n2 = nodes[v];
+            return FindRoot(n1) == FindRoot(n2);
+        }
+    }
+
+    public class SumLinkCutTree : LinkCutTree<long>
+    {
+        public SumLinkCutTree(int n) : base(n)
+        {
+        }
+
+        protected override long Aggregate(long left, long right) => left + right;
+        protected override long NeutralElement => 0;
+    }
 }
